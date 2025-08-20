@@ -55,11 +55,11 @@ Recent progress in large language models (LLMs) has opened new possibilities for
 If you find this work useful, please cite our paper:
 
 ```bibtex
-@article{feng2024reframe,
+@article{feng2025reframe,
   title={Reframe Your Life Story: Interactive Narrative Therapist and Innovative Moment Assessment with Large Language Models},
-  author={Yi Feng and Jiaqi Wang and Wenxuan Zhang and Zhuang Chen and Shen Yutong and Xiyao Xiao and Minlie Huang and Liping Jing and Jian Yu},
-  journal={arXiv preprint arXiv:[PAPER_ID]},
-  year={2024}
+  author={Feng, Yi and Wang, Jiaqi and Zhang, Wenxuan and Chen, Zhuang and Shen, Yutong and Xiao, Xiyao and Huang, Minlie and Jing, Liping and Yu, Jian},
+  journal={arXiv preprint arXiv:2507.20241},
+  year={2025}
 }
 ```
 
