@@ -1,0 +1,13 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+pydantic-settings>=2.0.0
+aiosqlite>=0.20.0
+openai>=1.40.0
+llama-index-core>=0.11.0
+llama-index-vector-stores-chroma>=0.3.0
+llama-index-embeddings-huggingface>=0.3.0
+chromadb>=0.5.0
+sentence-transformers>=3.0.0
+torch>=2.0.0
+pyyaml>=6.0
+python-dotenv>=1.0.0
