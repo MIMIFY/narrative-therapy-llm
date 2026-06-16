@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>叙事疗法 AI 咨询</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- 欢迎页 -->
+    <div id="welcome-screen" class="welcome-screen">
+        <div class="welcome-card">
+            <div class="welcome-icon">🌱</div>
+            <h1>叙事疗法 AI 咨询</h1>
+            <p class="welcome-subtitle">倾听你的故事，陪你重新书写生命</p>
+            <div class="welcome-notice">
+                <p>本系统是基于叙事疗法的 AI 辅助工具，仅作为研究用途，不能替代专业心理咨询。</p>
+            </div>
+            <input type="text" id="participant-id-input"
+                   placeholder="请输入您的参与者编号（可选）"
+                   class="participant-input">
+            <button id="start-btn" class="start-btn">开始对话</button>
+        </div>
+    </div>
+
+    <!-- 聊天页 -->
+    <div id="chat-screen" class="chat-screen hidden">
+        <header class="chat-header">
+            <div class="header-title">
+                <span class="header-icon">🌿</span>
+                <span>叙事疗法 AI 咨询</span>
+            </div>
+            <div class="header-actions">
+                <button id="export-btn" class="export-btn" title="导出对话记录">
+                    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+                        <polyline points="7 10 12 15 17 10"/>
+                        <line x1="12" y1="15" x2="12" y2="3"/>
+                    </svg>
+                    导出记录
+                </button>
+            </div>
+        </header>
+
+        <div id="messages" class="messages-container"></div>
+
+        <div class="input-area">
+            <textarea id="message-input"
+                      placeholder="说说你的故事..."
+                      rows="1"
+                      maxlength="1000"></textarea>
+            <button id="send-btn" class="send-btn" disabled>
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <line x1="22" y1="2" x2="11" y2="13"/>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
