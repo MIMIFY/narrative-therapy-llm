@@ -1,5 +1,74 @@
-const OPENING_MESSAGE = "你好，我是 INT 叙事咨询师~ 很高兴在这里遇见你。叙事疗法相信，每个人都是自己生命故事的专家。你有什么想和我聊聊的吗？";
-const API_BASE = "";  // 同源，留空
+// ===== 国际化 / i18n =====
+const I18N = {
+    zh: {
+        title: "INT 叙事咨询",
+        subtitle: "倾听你的故事，陪你重新书写生命",
+        notice: "本系统是基于叙事疗法的 AI 辅助工具，仅作为研究用途，不能替代专业心理咨询。",
+        participantPlaceholder: "请输入您的参与者编号（可选）",
+        startBtn: "开始对话",
+        headerTitle: "INT 叙事咨询",
+        exportBtn: "导出记录",
+        inputPlaceholder: "说说你的故事...",
+        openingMessage: "你好，我是 INT 叙事咨询师~ 很高兴在这里遇见你。叙事疗法相信，每个人都是自己生命故事的专家。你有什么想和我聊聊的吗？",
+        errorRetry: "抱歉，出现了一些问题，请稍后重试。",
+        errorConn: "抱歉，连接出现问题，请稍后重试。",
+        exportFail: "导出失败，请重试。",
+        langBtnLabel: "EN",
+        htmlLang: "zh-CN",
+    },
+    en: {
+        title: "INT Narrative Therapy",
+        subtitle: "Listening to your story, helping you rewrite your life",
+        notice: "This is an AI-assisted tool based on narrative therapy, for research purposes only. It cannot replace professional psychological counseling.",
+        participantPlaceholder: "Enter your participant ID (optional)",
+        startBtn: "Start",
+        headerTitle: "INT Narrative Therapy",
+        exportBtn: "Export",
+        inputPlaceholder: "Share your story...",
+        openingMessage: "Hello, I'm your INT narrative therapy counselor. It's wonderful to meet you here. Narrative therapy believes that everyone is the expert of their own life story. What would you like to share with me today?",
+        errorRetry: "Sorry, something went wrong. Please try again later.",
+        errorConn: "Sorry, connection failed. Please try again.",
+        exportFail: "Export failed. Please try again.",
+        langBtnLabel: "中",
+        htmlLang: "en",
+    },
+};
+
+let currentLang = localStorage.getItem("lang") || "zh";
+
+function t(key) {
+    return I18N[currentLang][key] || I18N.zh[key] || key;
+}
+
+function applyLang() {
+    document.documentElement.lang = t("htmlLang");
+    document.title = t("title");
+
+    // data-i18n → textContent
+    document.querySelectorAll("[data-i18n]").forEach(el => {
+        el.textContent = t(el.dataset.i18n);
+    });
+
+    // data-i18n-placeholder → placeholder attribute
+    document.querySelectorAll("[data-i18n-placeholder]").forEach(el => {
+        el.placeholder = t(el.dataset.i18nPlaceholder);
+    });
+
+    // lang toggle buttons: show the OTHER language
+    document.querySelectorAll(".lang-toggle").forEach(btn => {
+        btn.textContent = t("langBtnLabel");
+    });
+
+    localStorage.setItem("lang", currentLang);
+}
+
+function toggleLang() {
+    currentLang = currentLang === "zh" ? "en" : "zh";
+    applyLang();
+}
+
+// ===== 全局状态 =====
+const API_BASE = "";
 
 let sessionId = null;
 let participantId = "";
@@ -14,9 +83,18 @@ const sendBtn = document.getElementById("send-btn");
 const exportBtn = document.getElementById("export-btn");
 const startBtn = document.getElementById("start-btn");
 const participantInput = document.getElementById("participant-id-input");
+const langBtnWelcome = document.getElementById("lang-btn-welcome");
+const langBtnChat = document.getElementById("lang-btn-chat");
 
 // ===== 初始化 =====
 window.addEventListener("DOMContentLoaded", async () => {
+    // 应用语言
+    applyLang();
+
+    // 语言切换
+    langBtnWelcome.addEventListener("click", toggleLang);
+    langBtnChat.addEventListener("click", toggleLang);
+
     // 检查 URL 参数中的 session
     const urlParams = new URLSearchParams(window.location.search);
     const urlSession = urlParams.get("session");
@@ -27,7 +105,6 @@ window.addEventListener("DOMContentLoaded", async () => {
         await restoreSession(urlSession);
         showChatScreen();
     } else {
-        // 检查 localStorage
         const savedSession = localStorage.getItem("session_id");
         if (savedSession) {
             sessionId = savedSession;
@@ -35,10 +112,8 @@ window.addEventListener("DOMContentLoaded", async () => {
             await restoreSession(savedSession);
             showChatScreen();
         }
-        // 否则停留在欢迎页
     }
 
-    // 事件监听
     startBtn.addEventListener("click", startChat);
     sendBtn.addEventListener("click", sendMessage);
 
@@ -50,16 +125,13 @@ window.addEventListener("DOMContentLoaded", async () => {
     });
 
     messageInput.addEventListener("input", () => {
-        // 自动增高 textarea
         messageInput.style.height = "auto";
         messageInput.style.height = Math.min(messageInput.scrollHeight, 120) + "px";
-        // 根据输入内容启用/禁用发送按钮
         sendBtn.disabled = messageInput.value.trim() === "" || isWaiting;
     });
 
     exportBtn.addEventListener("click", exportSession);
 
-    // 参与者编号输入框回车键触发开始
     participantInput.addEventListener("keydown", (e) => {
         if (e.key === "Enter") {
             e.preventDefault();
@@ -86,8 +158,7 @@ async function startChat() {
         localStorage.removeItem("participant_id");
     }
     showChatScreen();
-    // 显示开场白（不经过后端，前端直接渲染）
-    addMessage("therapist", OPENING_MESSAGE);
+    addMessage("therapist", t("openingMessage"));
 }
 
 // ===== 恢复历史 session =====
@@ -95,24 +166,21 @@ async function restoreSession(sid) {
     try {
         const resp = await fetch(`${API_BASE}/api/session/${sid}`);
         if (!resp.ok) {
-            // session 不存在或已失效，重新开始
             localStorage.removeItem("session_id");
             sessionId = crypto.randomUUID();
             localStorage.setItem("session_id", sessionId);
-            addMessage("therapist", OPENING_MESSAGE);
+            addMessage("therapist", t("openingMessage"));
             return;
         }
         const session = await resp.json();
-        // 先显示开场白，再渲染历史消息
-        addMessage("therapist", OPENING_MESSAGE);
+        addMessage("therapist", t("openingMessage"));
         const turns = session.turns || [];
         for (const turn of turns) {
             if (turn.client) addMessage("user", turn.client);
             if (turn.therapist) addMessage("therapist", turn.therapist);
         }
     } catch (e) {
-        // 网络异常，直接显示开场白
-        addMessage("therapist", OPENING_MESSAGE);
+        addMessage("therapist", t("openingMessage"));
     }
 }
 
@@ -121,17 +189,13 @@ async function sendMessage() {
     const text = messageInput.value.trim();
     if (!text || isWaiting) return;
 
-    // 显示用户消息气泡
     addMessage("user", text);
     messageInput.value = "";
     messageInput.style.height = "auto";
     sendBtn.disabled = true;
     isWaiting = true;
 
-    // 显示 typing indicator
     const typingId = addTypingIndicator();
-
-    // 治疗师消息气泡引用（流式填充）
     let therapistWrapper = null;
 
     try {
@@ -147,7 +211,6 @@ async function sendMessage() {
 
         if (!resp.ok) throw new Error("HTTP " + resp.status);
 
-        // 移除 typing indicator，创建空的治疗师气泡
         removeTypingIndicator(typingId);
         therapistWrapper = addMessage("therapist", "");
 
@@ -160,10 +223,8 @@ async function sendMessage() {
             if (done) break;
 
             buffer += decoder.decode(value, { stream: true });
-
-            // 按换行拆分 SSE 事件
             const lines = buffer.split("\n");
-            buffer = lines.pop() || "";  // 保留不完整的最后一行
+            buffer = lines.pop() || "";
 
             for (const line of lines) {
                 if (line.startsWith("data: ")) {
@@ -174,32 +235,28 @@ async function sendMessage() {
                         if (data.token !== undefined && data.token !== null) {
                             appendToMessage(therapistWrapper, data.token);
                         } else if (data.done === true) {
-                            // 更新 session_id（以服务端返回的为准）
                             if (data.session_id) {
                                 sessionId = data.session_id;
                                 localStorage.setItem("session_id", sessionId);
                             }
                         } else if (data.error) {
-                            appendToMessage(therapistWrapper, "\n\n抱歉，出现了一些问题，请稍后重试。");
+                            appendToMessage(therapistWrapper, "\n\n" + t("errorRetry"));
                         }
                     } catch (parseErr) {
-                        // 忽略解析失败的 SSE 行
+                        // ignore malformed SSE lines
                     }
                 }
             }
         }
 
     } catch (e) {
-        // 移除 typing indicator（若还在）
         removeTypingIndicator(typingId);
         if (!therapistWrapper) {
-            // 完全没有收到响应时显示错误提示
-            addMessage("therapist", "抱歉，连接出现问题，请稍后重试。");
+            addMessage("therapist", t("errorConn"));
         } else {
-            // 已收到部分内容后断流
             const bubble = therapistWrapper.querySelector(".message-bubble");
             if (bubble && !bubble.textContent.trim()) {
-                bubble.textContent = "抱歉，连接出现问题，请稍后重试。";
+                bubble.textContent = t("errorConn");
             }
         }
     } finally {
@@ -288,7 +345,7 @@ async function exportSession() {
     if (!sessionId) return;
     try {
         const resp = await fetch(`${API_BASE}/api/export/${sessionId}`);
-        if (!resp.ok) throw new Error("导出失败：HTTP " + resp.status);
+        if (!resp.ok) throw new Error("HTTP " + resp.status);
         const blob = await resp.blob();
         const url = URL.createObjectURL(blob);
         const a = document.createElement("a");
@@ -299,7 +356,7 @@ async function exportSession() {
         document.body.removeChild(a);
         URL.revokeObjectURL(url);
     } catch (e) {
-        alert("导出失败，请重试。");
+        alert(t("exportFail"));
     }
 }
 

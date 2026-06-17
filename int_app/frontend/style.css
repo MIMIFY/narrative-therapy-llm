@@ -39,6 +39,38 @@ body {
     text-align: center;
     box-shadow: 0 8px 40px rgba(0, 0, 0, 0.08);
     animation: fadeInUp 0.5s ease;
+    position: relative;
+}
+
+/* ===== 语言切换按钮 ===== */
+.lang-toggle {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 12px;
+    background: #F0F4F8;
+    color: #4A6A8A;
+    border: 1px solid #D8E4F0;
+    border-radius: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background 0.15s ease, color 0.15s ease;
+    letter-spacing: 0.04em;
+    white-space: nowrap;
+}
+
+.lang-toggle:hover {
+    background: #E0EAF4;
+    color: #2A4A6A;
+}
+
+/* welcome 页的 lang 按钮固定在右上角 */
+.welcome-card > .lang-toggle {
+    position: absolute;
+    top: 18px;
+    right: 18px;
 }
 
 @keyframes fadeInUp {
@@ -411,6 +443,9 @@ body {
     line-height: 1.5;
     transition: border-color 0.2s ease, box-shadow 0.2s ease;
     vertical-align: bottom;
+    writing-mode: horizontal-tb;
+    text-orientation: mixed;
+    direction: ltr;
 }
 
 #message-input::placeholder {
