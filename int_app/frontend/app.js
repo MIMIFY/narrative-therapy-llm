@@ -1,4 +1,4 @@
-const OPENING_MESSAGE = "你好，我的朋友。我是 AI 赋能的叙事疗法咨询专家，欢迎你来到这里~ 你有什么故事想和我分享嘛？";
+const OPENING_MESSAGE = "你好，我是 INT 叙事咨询师~ 很高兴在这里遇见你。叙事疗法相信，每个人都是自己生命故事的专家。你有什么想和我聊聊的吗？";
 const API_BASE = "";  // 同源，留空
 
 let sessionId = null;
