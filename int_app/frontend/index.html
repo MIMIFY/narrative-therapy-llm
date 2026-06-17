@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title data-i18n="title">INT 叙事咨询</title>
-    <link rel="stylesheet" href="style.css?v=4">
+    <link rel="stylesheet" href="style.css?v=5">
 </head>
 <body>
 
@@ -65,11 +65,14 @@
     <div id="messages" class="messages-container"></div>
 
     <div class="input-area">
-        <textarea id="message-input"
-                  data-i18n-placeholder="inputPlaceholder"
-                  placeholder="说说你的故事..."
-                  rows="1"
-                  maxlength="1000"></textarea>
+        <div id="message-input"
+             class="message-input-div"
+             contenteditable="true"
+             data-i18n-placeholder="inputPlaceholder"
+             data-placeholder="说说你的故事..."
+             role="textbox"
+             aria-multiline="true"
+             aria-label="输入消息"></div>
         <button id="send-btn" class="send-btn" disabled>
             <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
                 <line x1="22" y1="2" x2="11" y2="13"/>
@@ -79,6 +82,6 @@
     </div>
 </div>
 
-<script src="app.js?v=4"></script>
+<script src="app.js?v=5"></script>
 </body>
 </html>

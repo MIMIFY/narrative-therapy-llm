@@ -620,9 +620,97 @@
         return d.innerHTML;
     }
 
+    // ===== Admin Auth =====
+    let adminKey = sessionStorage.getItem("admin_key") || "";
+
+    function showAuthModal() {
+        const overlay = document.createElement("div");
+        overlay.id = "auth-overlay";
+        overlay.style.cssText = `
+            position:fixed;inset:0;background:rgba(45,42,62,0.55);
+            display:flex;align-items:center;justify-content:center;z-index:999;
+            backdrop-filter:blur(6px);
+        `;
+        overlay.innerHTML = `
+            <div style="background:#fff;border-radius:24px;padding:40px 36px;max-width:380px;width:90%;
+                        box-shadow:0 12px 48px rgba(124,111,205,0.25);text-align:center;">
+                <div style="font-size:40px;margin-bottom:16px">🔑</div>
+                <h2 style="font-size:20px;color:#6358B5;margin-bottom:8px">研究者入口</h2>
+                <p style="font-size:14px;color:#8A86A0;margin-bottom:24px">请输入管理员密钥以访问后台</p>
+                <input id="key-input" type="password" placeholder="Admin Key"
+                    style="width:100%;padding:12px 16px;border:1.5px solid #E8E4F0;border-radius:12px;
+                           font-size:15px;font-family:inherit;outline:none;margin-bottom:12px;
+                           box-sizing:border-box;">
+                <div id="auth-error" style="color:#e05555;font-size:13px;min-height:20px;margin-bottom:8px"></div>
+                <button id="auth-btn"
+                    style="width:100%;padding:13px;background:linear-gradient(135deg,#7C6FCD,#6358B5);
+                           color:white;border:none;border-radius:12px;font-size:15px;font-weight:600;
+                           font-family:inherit;cursor:pointer;">进入后台</button>
+            </div>`;
+        document.body.appendChild(overlay);
+
+        const input = document.getElementById("key-input");
+        const btn = document.getElementById("auth-btn");
+        const err = document.getElementById("auth-error");
+
+        async function tryAuth() {
+            const key = input.value.trim();
+            if (!key) return;
+            btn.disabled = true;
+            btn.textContent = "验证中…";
+            try {
+                const resp = await fetch("/api/sessions?admin_key=" + encodeURIComponent(key));
+                if (resp.ok) {
+                    sessionStorage.setItem("admin_key", key);
+                    adminKey = key;
+                    overlay.remove();
+                    allSessions = await resp.json();
+                    renderStats();
+                    renderTable(allSessions);
+                    document.getElementById("loading").style.display = "none";
+                    document.getElementById("sessions-table").style.display = allSessions.length ? "table" : "none";
+                    document.getElementById("empty-state").classList.toggle("hidden", allSessions.length > 0);
+                    document.getElementById("session-count-badge").textContent =
+                        allSessions.length + (lang === "zh" ? " 个会话" : " sessions");
+                } else {
+                    err.textContent = "密钥错误，请重试";
+                    btn.disabled = false;
+                    btn.textContent = "进入后台";
+                }
+            } catch {
+                err.textContent = "连接失败，请检查服务器";
+                btn.disabled = false;
+                btn.textContent = "进入后台";
+            }
+        }
+
+        btn.addEventListener("click", tryAuth);
+        input.addEventListener("keydown", e => { if (e.key === "Enter") tryAuth(); });
+        setTimeout(() => input.focus(), 100);
+    }
+
+    async function loadSessionsWithAuth() {
+        if (!adminKey) { showAuthModal(); return; }
+        try {
+            const resp = await fetch("/api/sessions?admin_key=" + encodeURIComponent(adminKey));
+            if (resp.status === 401) { sessionStorage.removeItem("admin_key"); showAuthModal(); return; }
+            if (!resp.ok) throw new Error("HTTP " + resp.status);
+            allSessions = await resp.json();
+            renderStats();
+            renderTable(allSessions);
+            document.getElementById("loading").style.display = "none";
+            document.getElementById("sessions-table").style.display = allSessions.length ? "table" : "none";
+            document.getElementById("empty-state").classList.toggle("hidden", allSessions.length > 0);
+            document.getElementById("session-count-badge").textContent =
+                allSessions.length + (lang === "zh" ? " 个会话" : " sessions");
+        } catch (e) {
+            document.getElementById("loading").textContent = lang === "zh" ? "加载失败，请刷新重试" : "Load failed";
+        }
+    }
+
     // Init
     applyLang();
-    loadSessions();
+    loadSessionsWithAuth();
 </script>
 </body>
 </html>

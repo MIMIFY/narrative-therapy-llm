@@ -416,8 +416,10 @@ body {
     flex-shrink: 0;
 }
 
-#message-input {
-    flex: 1;
+/* contenteditable div replaces textarea — avoids macOS IME vertical-text quirk */
+.message-input-div {
+    flex: 1 1 auto;
+    min-width: 0;
     padding: 12px 18px;
     border: 1.5px solid var(--border);
     border-radius: var(--r-md);
@@ -426,32 +428,30 @@ body {
     color: var(--text-main);
     background: var(--surface);
     outline: none;
-    resize: none;
     max-height: 120px;
     min-height: 44px;
     overflow-y: auto;
     line-height: 1.6;
     transition: border-color 0.2s, box-shadow 0.2s;
-    /* Force horizontal text — overrides any inherited vertical mode */
-    writing-mode: horizontal-tb !important;
-    text-orientation: mixed !important;
-    direction: ltr !important;
-    unicode-bidi: normal !important;
-    transform: none !important;
-    -webkit-writing-mode: horizontal-tb !important;
+    word-break: break-word;
+    white-space: pre-wrap;
+    cursor: text;
 }
 
-#message-input::placeholder {
+/* Placeholder via CSS on empty contenteditable */
+.message-input-div:empty::before {
+    content: attr(data-placeholder);
     color: var(--text-light);
+    pointer-events: none;
 }
 
-#message-input:focus {
+.message-input-div:focus {
     border-color: var(--primary-light);
     box-shadow: 0 0 0 3px rgba(124, 111, 205, 0.1);
 }
 
-#message-input::-webkit-scrollbar { width: 4px; }
-#message-input::-webkit-scrollbar-thumb {
+.message-input-div::-webkit-scrollbar { width: 4px; }
+.message-input-div::-webkit-scrollbar-thumb {
     background: var(--border);
     border-radius: 2px;
 }
@@ -460,6 +460,7 @@ body {
 .send-btn {
     width: 44px;
     height: 44px;
+    min-width: 44px;
     border-radius: 50%;
     border: none;
     background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);

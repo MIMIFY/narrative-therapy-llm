@@ -69,7 +69,10 @@ function applyLang() {
         el.textContent = t(el.dataset.i18n);
     });
     document.querySelectorAll("[data-i18n-placeholder]").forEach(el => {
-        el.placeholder = t(el.dataset.i18nPlaceholder);
+        // Works for both <input> and contenteditable div (data-placeholder attr)
+        const val = t(el.dataset.i18nPlaceholder);
+        if ("placeholder" in el) el.placeholder = val;
+        if (el.dataset.placeholder !== undefined) el.dataset.placeholder = val;
     });
     document.querySelectorAll("[data-i18n-title]").forEach(el => {
         el.title = t(el.dataset.i18nTitle);
@@ -77,7 +80,6 @@ function applyLang() {
     document.querySelectorAll(".lang-toggle").forEach(btn => {
         btn.textContent = t("langBtnLabel");
     });
-    // re-render history cards (they contain translated text)
     renderSessionHistory();
 }
 
@@ -196,12 +198,11 @@ window.addEventListener("DOMContentLoaded", () => {
     document.getElementById("lang-btn-chat").addEventListener("click", toggleLang);
 
     startBtn.addEventListener("click", startChat);
-    newChatBtn.addEventListener("click", () => {
-        showWelcomeScreen();
-    });
+    newChatBtn.addEventListener("click", showWelcomeScreen);
     sendBtn.addEventListener("click", sendMessage);
     exportBtn.addEventListener("click", exportSession);
 
+    // contenteditable div: Enter sends, Shift+Enter adds newline
     messageInput.addEventListener("keydown", (e) => {
         if (e.key === "Enter" && !e.shiftKey) {
             e.preventDefault();
@@ -210,9 +211,7 @@ window.addEventListener("DOMContentLoaded", () => {
     });
 
     messageInput.addEventListener("input", () => {
-        messageInput.style.height = "auto";
-        messageInput.style.height = Math.min(messageInput.scrollHeight, 120) + "px";
-        sendBtn.disabled = !messageInput.value.trim() || isWaiting;
+        sendBtn.disabled = !getInputText() || isWaiting;
     });
 
     participantInput.addEventListener("keydown", (e) => {
@@ -282,14 +281,22 @@ async function resumeSession(sid, pid) {
     }
 }
 
+// ===== 读取 contenteditable 文本 =====
+function getInputText() {
+    return (messageInput.innerText || messageInput.textContent || "").trim();
+}
+
+function clearInput() {
+    messageInput.innerHTML = "";
+}
+
 // ===== 发送消息 =====
 async function sendMessage() {
-    const text = messageInput.value.trim();
+    const text = getInputText();
     if (!text || isWaiting) return;
 
     addMessage("user", text);
-    messageInput.value = "";
-    messageInput.style.height = "auto";
+    clearInput();
     sendBtn.disabled = true;
     isWaiting = true;
 
@@ -304,6 +311,7 @@ async function sendMessage() {
                 session_id: sessionId,
                 message: text,
                 participant_id: participantId || undefined,
+                language: currentLang,
             }),
         });
 
@@ -361,7 +369,7 @@ async function sendMessage() {
         }
     } finally {
         isWaiting = false;
-        sendBtn.disabled = !messageInput.value.trim();
+        sendBtn.disabled = !getInputText();
         scrollToBottom();
     }
 }

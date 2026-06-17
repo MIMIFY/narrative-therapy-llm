@@ -16,6 +16,7 @@ class ChatRequest(BaseModel):
     session_id: Optional[str] = None
     message: str
     participant_id: str = ""
+    language: str = "zh"
 
 
 @router.post("/chat")
@@ -48,7 +49,7 @@ async def chat(req: ChatRequest) -> StreamingResponse:
 
     async def event_stream() -> AsyncGenerator[str, None]:
         try:
-            async for event in process_turn(session_data, req.message):
+            async for event in process_turn(session_data, req.message, language=req.language):
                 if event["type"] == "token":
                     payload = json.dumps(
                         {"token": event["content"], "done": False},

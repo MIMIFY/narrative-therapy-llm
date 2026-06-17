@@ -11,6 +11,7 @@ class Settings(BaseSettings):
     embedding_model: str = "BAAI/bge-m3"
     chroma_persist_dir: str = "./chroma_db"
     database_path: str = "./sessions.db"
+    admin_key: str = "INT-research-2025"
 
     class Config:
         env_file = ".env"

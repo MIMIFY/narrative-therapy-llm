@@ -250,6 +250,7 @@ async def generate_response(
     exemplars: List[str],
     draft: str,
     history: List[Dict[str, str]],
+    language: str = "zh",
 ) -> AsyncGenerator[str, None]:
     """
     Stream the final therapist response token by token.
@@ -272,6 +273,15 @@ async def generate_response(
     else:
         exemplars_text = "\n".join(exemplars) if exemplars else "（无检索结果）"
 
+    if language == "en":
+        lang_instruction = (
+            "## Language Requirement:\n"
+            "The client is communicating in English. You MUST reply in English only. "
+            "Keep the same warm, natural, and empathetic tone — just in English."
+        )
+    else:
+        lang_instruction = "## 语言要求：\n请用自然流畅的中文回复。"
+
     vars_ = _build_prompt_vars()
     vars_.update(
         {
@@ -281,6 +291,7 @@ async def generate_response(
             "exemplars": exemplars_text,
             "draft_response": draft or "（无草稿）",
             "user_input": user_input,
+            "language_instruction": lang_instruction,
         }
     )
 
@@ -309,6 +320,7 @@ async def generate_response(
 async def process_turn(
     session_data: Dict[str, Any],
     user_input: str,
+    language: str = "zh",
 ) -> AsyncGenerator[Dict[str, Any], None]:
     """
     Orchestrate a full therapy turn.
@@ -355,7 +367,8 @@ async def process_turn(
     # ------------------------------------------------------------------
     full_response: str = ""
     async for token in generate_response(
-        session_data, user_input, reflection_level, exemplars, draft_response, history
+        session_data, user_input, reflection_level, exemplars, draft_response, history,
+        language=language,
     ):
         yield {"type": "token", "content": token}
         full_response += token
