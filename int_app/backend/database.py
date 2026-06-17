@@ -85,11 +85,20 @@ async def update_session(
 
 
 async def list_sessions() -> List[Dict[str, Any]]:
-    """Return a summary list of all sessions (id, created_at, participant_id, stage)."""
+    """Return a summary list of all sessions with turn count and last message preview."""
     async with aiosqlite.connect(settings.database_path) as db:
         db.row_factory = aiosqlite.Row
         async with db.execute(
-            "SELECT id, created_at, participant_id, stage FROM sessions ORDER BY created_at DESC"
+            """SELECT id, created_at, updated_at, participant_id, stage, stage_count, turns
+               FROM sessions ORDER BY updated_at DESC"""
         ) as cursor:
             rows = await cursor.fetchall()
-            return [dict(row) for row in rows]
+            result = []
+            for row in rows:
+                d = dict(row)
+                turns = json.loads(d.pop("turns", "[]"))
+                d["turn_count"] = len(turns)
+                last_client = turns[-1].get("client", "") if turns else ""
+                d["preview"] = (last_client[:60] + "…") if len(last_client) > 60 else last_client
+                result.append(d)
+            return result

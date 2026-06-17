@@ -422,7 +422,7 @@ body {
     border: 1.5px solid var(--border);
     border-radius: var(--r-md);
     font-size: 15px;
-    font-family: inherit;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Noto Sans SC", sans-serif;
     color: var(--text-main);
     background: var(--surface);
     outline: none;
@@ -432,9 +432,13 @@ body {
     overflow-y: auto;
     line-height: 1.6;
     transition: border-color 0.2s, box-shadow 0.2s;
-    writing-mode: horizontal-tb;
-    text-orientation: mixed;
-    direction: ltr;
+    /* Force horizontal text — overrides any inherited vertical mode */
+    writing-mode: horizontal-tb !important;
+    text-orientation: mixed !important;
+    direction: ltr !important;
+    unicode-bidi: normal !important;
+    transform: none !important;
+    -webkit-writing-mode: horizontal-tb !important;
 }
 
 #message-input::placeholder {
@@ -482,6 +486,140 @@ body {
     background: linear-gradient(135deg, #C8C4E0 0%, #B8B4CC 100%);
     box-shadow: none;
     cursor: default;
+}
+
+/* ===== Header 图标按钮（新对话） ===== */
+.header-icon-btn {
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    border: 1.5px solid var(--border);
+    background: transparent;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+}
+
+.header-icon-btn:hover {
+    background: rgba(124, 111, 205, 0.08);
+    color: var(--primary);
+    border-color: var(--primary-light);
+}
+
+/* ===== 历史对话区 ===== */
+.history-section {
+    margin-top: 24px;
+    text-align: left;
+}
+
+.history-divider {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+    color: var(--text-muted);
+    font-size: 12px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.history-divider::before,
+.history-divider::after {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: var(--border);
+}
+
+.history-list {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    max-height: 260px;
+    overflow-y: auto;
+}
+
+.history-list::-webkit-scrollbar { width: 3px; }
+.history-list::-webkit-scrollbar-thumb {
+    background: var(--border);
+    border-radius: 2px;
+}
+
+.session-card {
+    background: var(--bg-start);
+    border: 1px solid var(--border);
+    border-radius: var(--r-sm);
+    padding: 12px 14px;
+    cursor: default;
+    transition: border-color 0.15s, box-shadow 0.15s;
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+}
+
+.session-card:hover {
+    border-color: var(--primary-light);
+    box-shadow: var(--shadow-sm);
+}
+
+.session-card-meta {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.session-who {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--primary-dark);
+}
+
+.session-stage {
+    font-size: 11px;
+    color: var(--accent-dark);
+    background: rgba(82, 183, 136, 0.1);
+    border: 1px solid rgba(82, 183, 136, 0.2);
+    border-radius: 20px;
+    padding: 1px 8px;
+}
+
+.session-date {
+    font-size: 11px;
+    color: var(--text-light);
+    margin-left: auto;
+}
+
+.session-preview {
+    font-size: 13px;
+    color: var(--text-muted);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.session-resume-btn {
+    align-self: flex-end;
+    padding: 5px 14px;
+    background: var(--primary);
+    color: white;
+    border: none;
+    border-radius: 20px;
+    font-size: 12px;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: opacity 0.15s, transform 0.15s;
+    margin-top: 2px;
+}
+
+.session-resume-btn:hover {
+    opacity: 0.85;
+    transform: translateY(-1px);
 }
 
 /* ===== 移动端适配 ===== */
