@@ -1,6 +1,6 @@
 import json
 import uuid
-from typing import AsyncGenerator
+from typing import AsyncGenerator, Optional
 
 from fastapi import APIRouter, HTTPException
 from fastapi.responses import StreamingResponse
@@ -13,7 +13,7 @@ router = APIRouter(prefix="/api")
 
 
 class ChatRequest(BaseModel):
-    session_id: str = ""
+    session_id: Optional[str] = None
     message: str
     participant_id: str = ""
 
@@ -29,7 +29,7 @@ async def chat(req: ChatRequest) -> StreamingResponse:
       - ``{"error": "<message>", "done": true}`` — on failure
     """
     # Resolve or create the session
-    session_id = req.session_id.strip() or str(uuid.uuid4())
+    session_id = (req.session_id or "").strip() or str(uuid.uuid4())
     session = await get_session(session_id)
     if not session:
         await create_session(session_id, req.participant_id)
