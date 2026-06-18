@@ -1,0 +1,539 @@
+[
+    {
+        "round": 1,
+        "user": "hello",
+        "answer_final": "hi there! how are you doing?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I appreciate you listening. Lately, I've been feeling overwhelmed with everything happening. It's hard to stay positive, and I'm unsure how to move forward.",
+        "therapist": "Your feelings are valid, and navigating them is important. Let’s explore what positive steps might help you regain clarity and momentum. What strengths or experiences could you draw on to help you shift this narrative?"
+    },
+    {
+        "round": 2,
+        "user": "I feel ashamed thinking of my future career",
+        "answer_final": "Can you tell me a little about what you feel ashamed about?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's hard, as my career path feels uncertain, and I worry about failing. But I remember being resilient in the past, overcoming challenges at university, which could help.",
+        "therapist": "Your resilience is a powerful asset. How might reflecting on past challenges empower your current career journey? Tapping into your strengths can reshape uncertainty, creating possibilities for growth and change."
+    },
+    {
+        "round": 3,
+        "user": "whenever we have family gathering, my aunts and uncles would brag about how much their children make. I have higher degree but will only make half of their salary so I feel bad",
+        "answer_final": "So, you feel that your family is judging you for your earning potential?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reflecting on my past challenges definitely gives me a sense of strength, but I struggle during family gatherings. My aunts and uncles always brag about their children's salaries, which makes me feel inadequate despite having a higher degree. It's tough to measure up when I know I'll be earning less.",
+        "therapist": "You're focusing on your resilience and education, which are key strengths. Family dynamics can be tough; you're more than your salary. How might embracing these strengths redefine your self-worth beyond financial comparisons?"
+    },
+    {
+        "round": 4,
+        "user": "yes, my parents won't say it to me but they never show they're proud either",
+        "answer_final": "I am very sorry for that. They should be proud that you have such a good degree!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "My parents rarely express pride directly, and that silence can feel like doubt sometimes. It makes me question my worth even though I know my achievements matter.",
+        "therapist": "Your achievements are indeed significant and worthy of recognition. It's understandable to feel doubt in the absence of direct affirmation. How might you affirm your worth for yourself, regardless of external validation? Recognizing your own strength and accomplishments can foster a stronger sense of self-worth."
+    },
+    {
+        "round": 5,
+        "user": "What's good if it doesn't translate to my earnings.. I wonder if I should start over with some better degree, but it's expensive",
+        "answer_final": "I think you are coming at this from the wrong perspective. Life is not all about money you know!",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I understand that self-worth isn't tied solely to income, but societal pressures can be heavy. The thought of pursuing a different degree crosses my mind, but the cost is daunting.",
+        "therapist": "Your awareness of societal pressures is insightful, and exploring another degree is courageous. Let's consider what aligns with your true values and aspirations, beyond societal expectations. How can acknowledging your personal strengths guide you in this decision-making process?"
+    },
+    {
+        "round": 6,
+        "user": "I want to think otherwise but it's difficult, especially when capitalism is everything nowadays",
+        "answer_final": "Do you think that you enjoy your current field even though it is not as well paid as it could be?. Do you think that you enjoy your current field even though it is not as well paid as it could be?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's true, societal expectations weigh heavily on me, especially with the pressure of capitalism. I want to prioritize values and aspirations, but it feels overwhelming sometimes.",
+        "therapist": "Capitalism's pressure can feel like an overwhelming presence. How could prioritizing your values and aspirations create a space where these societal expectations lose some of their power? Your awareness of this external pressure is a significant step in redefining your narrative."
+    },
+    {
+        "round": 7,
+        "user": "I enjoy it, I did some internship and it was nice",
+        "answer_final": "I think that you should focus on how much you enjoy it. After all you will be working for the next few decades so you do not want to do something that you hate just because it pays well.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I believe that focusing on my values could help me redirect some of that pressure. I actually enjoyed my previous internships, they aligned well with what I value and gave me a sense of fulfillment despite not being the highest paying. Finding similar opportunities might ease the pressure to meet societal expectations.",
+        "therapist": "Focusing on your values and past fulfilling experiences is powerful. Those internships illuminated what truly matters to you, offering potential paths that honor your identity. Exploring similar opportunities might nurture a sense of satisfaction beyond financial gain. How can these insights inspire your journey forward?"
+    },
+    {
+        "round": 8,
+        "user": "Is there anyway for me to change my way of thinking? I keep worrying about all the expense that I'll have to spend and what if I can't afford because of how much I earn",
+        "answer_final": "Is it possible for you to talk to your parents about this? It seems to me that they  are at the root of your problems",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "These insights are inspiring, but financial worries linger. Can I shift my mindset to feel less anxious about expenses while still pursuing what aligns with my values?",
+        "therapist": "Financial worries can be a persistent challenge, yet they don't have to overshadow your values. How might you redefine these worries as a separate entity, giving space for your values to guide your path? Focusing on this separation can illuminate ways to pursue what fulfills you."
+    },
+    {
+        "round": 9,
+        "user": "I don't really want to talk to them, I'm not very close to them and rarely tell them my problems",
+        "answer_final": "Well, if you are not close to them does their opinion really count for so much?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Separating those worries feels freeing. I hesitate to share this with my family because we're not close, and I rarely confide in them about such issues. I'm seeking other ways to manage these feelings.",
+        "therapist": "Separating financial worries from your values offers clarity. Family dynamics can complicate sharing, but recognizing this helps you seek alternatives. Consider exploring communities or spaces that resonate with your values and provide support. What other resources or relationships could you draw upon for encouragement?"
+    },
+    {
+        "round": 10,
+        "user": "it still affects me nonetheless",
+        "answer_final": "I do understand how hard it can be to shake off your family's preconceptions and expectations even though you are not close to them",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Family dynamics do complicate things, and it still affects me nonetheless. Finding supportive communities where I can feel connected might help mitigate the impact of not sharing with family.",
+        "therapist": "Family dynamics can deeply affect us, and seeking connection elsewhere is a meaningful step. Embracing supportive communities might provide the affirmation and understanding you seek. How might these new connections help ease the challenges you face at home?"
+    },
+    {
+        "round": 11,
+        "user": "thank you for understanding",
+        "answer_final": "You are very welcome. Please know that this is a very common problem and a lot of people feel the way that you are feeling now.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for understanding. Building new connections might give me the emotional support I crave, helping to alleviate feelings of isolation from my family.",
+        "therapist": "Recognizing the value of new connections is an empowering step. These relationships can offer a sense of belonging and emotional comfort, helping bridge feelings of isolation. What strengths or qualities can you draw upon to nurture these supportive ties?"
+    },
+    {
+        "round": 12,
+        "user": "it's tough when I look around and everyone seems to do better than me",
+        "answer_final": "Do you think that you might benefit from some counselling to help you overcome your self esteem issues?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's tough sometimes because I feel everyone around me is thriving, and it heightens my sense of loneliness. I wonder how my qualities can help build those supportive connections.",
+        "therapist": "Seeking connection when others seem to thrive can intensify loneliness, yet your unique qualities are invaluable. Consider identifying strengths that have supported you before. How might focusing on these help cultivate relationships that resonate with you emotionally?"
+    },
+    {
+        "round": 13,
+        "user": "I've thought about thaat but I'm not in a financial situation to afford that",
+        "answer_final": "I can provide you with a list of places that will offer a few counselling sessions for free. I think you need to be able to talk this out with a professional.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've considered exploring those strengths, but my current financial situation restricts my options. It feels frustrating to have these aspirations yet be unable to pursue them fully.",
+        "therapist": "Financial constraints can indeed feel limiting and frustrating. Yet, your aspirations show resilience and hope. Can focusing on small steps or everyday opportunities reveal your strengths despite these challenges? Your drive is an asset that guides meaningful connection."
+    },
+    {
+        "round": 14,
+        "user": "that would be great",
+        "answer_final": "I think that you need to accept that your parents' opinion should not colour your whole life",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Focusing on small steps does sound promising. Maybe volunteering or joining local groups could be a start, allowing me to gradually build those connections despite financial limits.",
+        "therapist": "Exploring small steps like volunteering or joining local groups can effectively counter loneliness and build new connections. Reflect on how these steps challenge financial constraints. What might this approach reveal about the problem’s role in your life, and how might that help diminish its impact?"
+    },
+    {
+        "round": 15,
+        "user": "yeah I should start doing that and not let others affect me. Thank you very muchh for talking with me",
+        "answer_final": "Once your self esteem picks up a little I think that you will find that it's very much easier to ignore other people's input.. You are very welcome! I wish you well in the months to come.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I agree. Starting with small steps like volunteering feels manageable and empowering. It's comforting to focus on self-driven connections, reducing the impact of comparison with others.",
+        "therapist": "Building self-driven connections offers empowerment and authenticity. Reflecting on your unique values can shape these endeavors positively, transforming comparisons into inspiring possibilities. What intentions or commitments align with this approach to redefine your personal story?"
+    },
+    {
+        "round": 16,
+        "client": "I intend to volunteer at a local community center. This commitment feels aligned with my values, and allows me to explore empathy and connection. Thoughts of making even a small difference bring relief.",
+        "therapist": "Volunteering reflects your commitment to empathy and connection, creating personal relief. Distinguishing comparison as external empowers positive growth within your values. How does stepping into this role help redefine the influence of comparisons in your life story?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Stepping into this role helps redefine comparisons by shifting focus. It allows me to see value in small acts and prioritize authenticity over societal expectations. Exploring community support lessens self-criticism and encourages gratitude.",
+        "therapist": "Exploring gratitude and valuing authenticity truly resonates with your intentions. By externalizing comparisons, you reclaim control over their impact. How do these small yet meaningful acts reflect the person you wish to be in these supportive connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I think these acts reflect someone who values kindness and mutual care. I’ve felt most at peace when helping others, like comforting a stressed coworker or supporting a friend in need.",
+        "therapist": "Your commitment to kindness and mutual care holds profound meaning. Viewing these acts as aligned with your values challenges self-criticism’s hold. How might identifying yourself through such caring moments diminish the influence of external comparisons over time?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think embracing these caring moments shifts my perspective. For example, comforting my neighbor after their loss made me realize connection matters more than arbitrary comparisons.",
+        "therapist": "Embracing these meaningful connections highlights your commitment to valuing personal ties over comparisons. Recognizing the shift supports and nurtures your values, strengthening genuine relationships. Consider how intentionally nurturing such connections can further affirm who you wish to become in embracing shared humanity.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Focusing on nurturing these ties truly feels liberating. After volunteering with a disaster relief team, I realized each shared moment reshapes my self-view and connection to humanity, deepening gratitude.",
+        "therapist": "Volunteering emphasizes your appreciation for genuine connections, deepening self-awareness and gratitude. Your commitment to these values helps shift focus from external comparisons to nurturing compassionate ties. Reflect on how embracing gratitude aligns with the life story you wish to live.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Gratitude shapes my narrative by celebrating simple joys and shared moments. Reflecting on volunteering with disaster relief, witnessing hope amidst adversity strengthens my belief in compassion. This sense of purpose lessens self-doubt and broadens my view on life’s interconnectedness.",
+        "therapist": "Gratitude and compassion reveal your resilience. Embracing these qualities fosters a broader, interconnected view of life that supports overcoming adversity and aligns with your authentic self. How do you envision nurturing this gratitude to reinforce your preferred narrative moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I envision nurturing gratitude by focusing on daily acts of kindness, like writing thank-you notes or reflecting on moments that made others smile. It strengthens my sense of purpose.",
+        "therapist": "Writing thank-you notes and spreading joy with intention beautifully align with your preferred identity. These acts reinforce the compassionate, purposeful life you're nurturing. How might these practices shape your sense of self in creating deeper, meaningful relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Writing thank-you notes fosters gratitude. Once, a heartfelt note lifted a friend during their tough time. The resulting bond affirmed my compassion and commitment to nurturing relationships.",
+        "therapist": "Writing those heartfelt notes amplifies your compassion and dedication to nurturing relationships. These intentional actions are powerful in shaping your preferred identity, reinforcing the kindness you embody. How might these continued expressions influence the broader narrative you’re crafting about yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Engaging in small acts of kindness, like writing notes, helps me cultivate a deeper sense of empathy. It fosters self-worth and shifts my focus to meaningful connections, enhancing life's narrative.",
+        "therapist": "Cultivating empathy through kindness reflects your dedication to creating a life rooted in meaningful connections. These acts deepen your preferred identity of compassion. How might weaving this practice into more areas of your daily life further strengthen the narrative you’re shaping?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think applying kindness consistently, like actively listening during chats or helping colleagues with small tasks, can further weave this narrative. It encourages stronger bonds and enriches my emotional wellbeing.",
+        "therapist": "Building kindness into daily actions, like attentive listening or offering help, strengthens your preferred narrative of compassion and connection. As these practices enrich your emotional wellbeing, what visions do you have for embodying this consistent kindness in future relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I imagine consistent kindness deepening friendships by supporting one another during tough times. In past situations, offering help sparked unexpected joy, proving how small acts truly uplift and connect.",
+        "therapist": "Consistent kindness truly transforms relationships and sustains joy in the simplest of moments. As you continue cultivating these deepened friendships, how do you see these meaningful connections shaping your future story, both personally and within your community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I envision kindness weaving stronger community bonds, turning shared struggles into communal resilience. Once, supporting a local event uplifted the entire neighborhood, showing collective strength and joy.",
+        "therapist": "Embracing kindness to nurture community bonds highlights your core values and intentions beautifully. This shift towards communal resilience not only enriches your story but strengthens collective well-being. How might you continue fostering these connections and expressing your identity within such uplifting experiences?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I want to engage more actively by organizing neighborhood gatherings and volunteer drives. Last month, volunteering at a food bank gave me immense joy and purpose.",
+        "therapist": "Your joy and sense of purpose from volunteering beautifully align with your intention to foster community spirit. Organizing gatherings and drives can deepen these fulfilling connections. How might this emerging narrative shape the values you wish to emphasize within your community engagement?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I want the narrative to highlight inclusivity and mutual support. Organizing a community garden project last year showed me how teamwork fosters growth, both literally and metaphorically.",
+        "therapist": "Community projects emphasizing inclusivity and mutual support echo your core values, shaping a narrative of shared growth. Your dedication fosters personal fulfillment and community progress. How might these experiences deepen your sense of identity and commitment to these values going forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I feel that each successful project amplifies my identity as a community-focused individual. Seeing neighbors come together reinforces my belief in collective action, motivating further engagement.",
+        "therapist": "Recognizing how collective action aligns with your values strengthens this emerging identity as a community-focused individual. What personal qualities or strengths do you feel have been vital in shaping these meaningful connections and projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think my patience and empathy have been key. During a clean-up drive, listening to neighbors' concerns helped build trust, creating stronger connections and encouraging collective participation.",
+        "therapist": "Your patience and empathy have clearly created trust and collaboration, enriching your community-focused narrative. As you continue this path, what future opportunities for connection or collective action feel most meaningful to nurture your vision of stronger bonds?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I’ve been thinking about organizing intergenerational storytelling nights. Bridging the gap between age groups could spark understanding and learning, and I feel excited imagining those meaningful connections forming.",
+        "therapist": "Bridging generational gaps through storytelling beautifully supports your narrative of community building and mutual understanding. Such initiatives can further transform shared spaces into vibrant hubs of learning and connection. How might these gatherings deepen both collective appreciation and personal fulfillment for you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think witnessing people share personal stories could inspire a deeper understanding between generations. It would be fulfilling to see new friendships bloom, transforming the community's dynamic in unexpected ways.",
+        "therapist": "Sharing personal stories across generations beautifully aligns with your values of connection and growth. These efforts reflect your deep commitment to fostering mutual understanding. How do you imagine these moments shaping not only the community but also your sense of purpose within it?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Feeling my purpose intertwine with community growth makes me realize the power of shared stories. The possibility of changing perspectives and enriching lives inspires my continued commitment.",
+        "therapist": "Your insights about the transformative power of shared stories are profound. Embracing this intertwining of purpose and community growth illuminates your inspiring commitment. How might you continue to cultivate spaces that foster both personal development and communal harmony in these storytelling nights?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I hope to incorporate activities that encourage dialogue, maybe a craft session before storytelling. By providing varied ways for interaction, we can build meaningful relationships and promote personal growth.",
+        "therapist": "Crafting spaces for connection through dialogue and creative expression reflects your dedication to fostering growth. In these moments where you take such initiative, how does this reshape your understanding of the strengths that guide your role in building these meaningful relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 36,
+        "client": "Lately, I've realized my ability to actively listen is my strength. It helps me encourage openness, allowing diverse narratives and personal growth while fostering deeper, genuine community connections.",
+        "therapist": "Your ability to listen actively and nurture openness is a remarkable gift. Who in your life do you feel inspired this strength within you, shaping how you connect with others so meaningfully?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "A teacher from my childhood inspired this strength. They always created a space where I felt heard and valued, teaching me the profound impact of genuine listening.",
+        "therapist": "Your teacher clearly saw something valuable in you and nurtured it. How do you imagine they might describe the strength they noticed, and how might their view influence how you see yourself now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I believe my teacher would describe my strength as having empathy and patience. They'd recognize how I've grown to value others' stories, seeing this trait manifest in community settings today.",
+        "therapist": "Your teacher's influence seems to have deeply shaped the empathy and patience you bring to others' lives. By valuing their stories, you've created space for connection and growth. How do these contributions reflect back on how you view your impact on the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I'm grateful for how my empathy fosters a sense of belonging in community settings. Recently, during a storytelling night, someone expressed relief from being understood, reinforcing the impact I have.",
+        "therapist": "Your empathy truly creates a safe haven for others, embodying the genuine connection your teacher cultivated in you. How do you see your role expanding further to help shape others' feelings of belonging and understanding?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I envision facilitating more inclusive group activities, like community art projects. By sharing our diverse stories, we strengthen understanding. Seeing others open up brings warmth and purpose to my efforts.",
+        "therapist": "By weaving your empathy into community projects, you give others a platform to share and grow. How do you see these shared stories shaping their identities and the mutual understanding within the group?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Recently, a group member shared their immigrant journey during an art session. Her vulnerability prompted others to share similar experiences, fostering a deep sense of solidarity and understanding.",
+        "therapist": "Your role in encouraging vulnerability created space for deeper connections. What significance does facilitating these shared journeys hold for you, knowing how they've shaped others' sense of belonging and identity within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I feel a sense of fulfillment, like my experiences have meaning. When others trust me enough to share, it validates my efforts and strengthens my belief in community healing.",
+        "therapist": "Sharing stories in this way deepens the trust and empathy within your community, contributing significantly to others’ journeys. How does knowing you are a catalyst for healing shape your own sense of purpose and connection to those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I feel a deep connection to those around me when I see positive shifts in their lives. Recently, hearing gratitude from someone I supported strengthened my sense of purpose immensely.",
+        "therapist": "Your role as a beacon of connection and healing becomes evident when others express gratitude. Each positive shift affirms your purposeful presence, highlighting your agency in fostering community wellness. What further impact do you envision your contributions might have within this circle of support?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 44,
+        "client": "I envision empowering more people to take initiative, like organizing storytelling nights themselves. Seeing newfound confidence in others drives me, knowing our shared impact continues expanding.",
+        "therapist": "Your drive to inspire others speaks volumes about your empathetic leadership. By nurturing their confidence, you both redefine and expand collective identities. How do you think these shared initiatives might further contribute to the evolving stories within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I believe these initiatives spark deeper dialogues, fostering mutual empathy. Recently, a storytelling night revealed hidden community strengths and vulnerabilities, leaving me grateful and hopeful for continued collective growth.",
+        "therapist": "Your efforts seem to nurture both strength and vulnerability within the community. How do you think your contributions inspire others to discover and share parts of their identity, perhaps influencing how they see themselves or each other?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I think it helps them see the beauty in their own stories. Recently, someone reflected on overcoming shame during a discussion, and it inspired others to share similar journeys.",
+        "therapist": "As you support others in revealing their personal journeys, your actions undoubtedly reshape their perspectives. What impact do you believe these shared experiences have on how they perceive themselves, and on fostering a more empathetic community identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "These shared experiences reveal layers of vulnerability and resilience. At a recent gathering, I felt immense joy witnessing members reclaim their narratives, reinforcing collective strength and understanding.",
+        "therapist": "Your joy in witnessing their reclamation speaks to the role you play in fostering a space of transformation. How do you think their reclaimed narratives might now inspire or shape others’ sense of resilience and connection within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Their reclaimed narratives inspire a ripple of strength and acceptance. Recently, after a session, one person shared how these stories encouraged them to embrace vulnerability and form deeper connections.",
+        "therapist": "As your contributions ripple through these connections, they illuminate shared resilience and growth. This emerging web of stories reinforces the group's identity. In reflecting on this impact, consider how acknowledging mutual vulnerabilities further strengthens their bonds and collective potential.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I recall a powerful moment recently where two members shared their fear of change. Their openness seemed to spark others to reflect deeper, creating a palpable shift towards collective healing and acceptance.",
+        "therapist": "Their openness and your facilitation create space for transformative growth, highlighting the beauty of mutual influence in the community. How might these moments continue to shape your understanding of interconnectedness and shared identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "These moments reveal how interconnected we are, weaving a tapestry of shared struggles and victories. It humbles me to witness the healing power within collective stories.",
+        "therapist": "Your experience highlights a beautiful interconnectedness, emphasizing shared narratives' healing potential. Seeing your role in nurturing these connections might shape how you understand your place within this tapestry. What significance do these interwoven stories hold for how you view yourself as part of this community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

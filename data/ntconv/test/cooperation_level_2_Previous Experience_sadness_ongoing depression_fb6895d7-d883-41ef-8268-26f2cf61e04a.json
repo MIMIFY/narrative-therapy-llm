@@ -1,0 +1,498 @@
+[
+    {
+        "round": 1,
+        "user": "Hi there, are you free to talk?",
+        "answer_final": "Hello, how can i help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, I'm feeling a bit overwhelmed today. Can we talk about what's been bothering me?",
+        "therapist": "I hear you, and it’s important to explore what’s on your mind. Let’s gently unpack these feelings together, focusing on your story to find paths towards a more comforting narrative."
+    },
+    {
+        "round": 2,
+        "user": "I have been feeling terrible about the death of my dad. It would have been his birthday last week and that makes it even worse.",
+        "answer_final": "Oh no... I am sorry to hear that. It must be devastating. Was it an accident, illness or natural old age?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. It's been heavy lately, especially with Dad's birthday passing. Memories and emotions are swirling; it's hard to find comfort amidst the grief.",
+        "therapist": "Navigating such emotions can be challenging, especially tied to meaningful dates. Your grief reflects the significance of your memories with your dad. Let's honor these moments and explore how you can gently nurture yourself during this time."
+    },
+    {
+        "round": 3,
+        "user": "He was only in his early sixties but he suffered a number of health problems, including early onset dementia.",
+        "answer_final": "That is rough, both for you and him. I know it's meaningless to tell you not to be sad, however, you can think that he's not in a better place",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, I appreciate that. Dad was just in his early sixties, struggling with numerous health problems like early onset dementia. It's tough processing these emotions and memories.",
+        "therapist": "Your dad’s journey and struggles are understandably impactful, and it’s normal to feel this weight. Let’s hold space for these emotions as part of your unique story, focusing on what feels supportive to you. What brings even a small sense of comfort right now?"
+    },
+    {
+        "round": 4,
+        "user": "I presume you mean now and not not ;). Though I simply am not a believer. It just made me think how meaningless life was.",
+        "answer_final": "oh sorry, yyeah I mean now. Life is... fleeting isn't it? I sometimes think it's meaningless too",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's tough; lately, life feels kind of meaningless without Dad. I'm just trying to hold on and find small moments that don't feel so heavy.",
+        "therapist": "In times like these, every small moment of light you find is important. Your strength shines through in honoring your dad while seeking meaning. What simple things have brought you a sense of peace or comfort lately?"
+    },
+    {
+        "round": 5,
+        "user": "I do not really know what to do about my feelings. They are not going away.",
+        "answer_final": "I feel you, coping with losing your loved ones is never easy. In fact, it's confusing when you grieve and even when you recover and move on",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sometimes listening to his favorite music or reading a book we both loved gives me brief comfort, but the overwhelming emotions just persist. I'm unsure how to truly process them.",
+        "therapist": "Music and books hold powerful connections to your father’s memory. Trust those moments of comfort, allowing space for your emotions to naturally unfold. Processing grief takes time—what can gently support you as you navigate these feelings?"
+    },
+    {
+        "round": 6,
+        "user": "Do you think that people ever really recover from a significant bereavement?. I think that what you said there was very wise. Maybe it's worse, in some ways, to feel that your grief has lessened .. there is guilt that comes with that.",
+        "answer_final": "I don't think people can completely get over that, you just get used to the pain of not having them around",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your suggestion makes sense. Do people truly recover from significant bereavement? The idea of lessened grief feels guilty somehow, like letting go diminishes my bond with Dad.",
+        "therapist": "Grief is complex and your bond with your dad remains significant no matter how emotions change over time. It's natural to feel conflicted; honoring his memory can coexist with finding peace. How might you continue cherishing this connection while gently embracing healing?"
+    },
+    {
+        "round": 7,
+        "user": "Whilst it hurts to think about him being dead, I think that it would hurt more if I had totally forgotten about him and did not think about him every day.",
+        "answer_final": "I just need you to know that whatever your feeling is, it's completely normal and you shouldn't feel guilty for having it",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It helps to remember him daily. Forgetting would feel like losing him again. Keeping those memories alive feels like honoring our bond, even though it sometimes brings pain.",
+        "therapist": "Keeping his memory alive is a profound way to honor your bond. It’s okay for that connection to include both love and pain, as both reflect the deep care you feel. How might these cherished memories guide you through this journey?"
+    },
+    {
+        "round": 8,
+        "user": "It is just - very hard. I keep thinking about all the times I disagreed with him or did not appreciate him enough and I never got to tell him how much I loved him.",
+        "answer_final": "Your dad wouldn't want to see you grieving everyday either. You should live the way you know he'd love to see. I believe he knew you loved him regardless how much you two argued",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's been hard because I regret the times we disagreed and feel I didn't show him enough appreciation. Holding onto cherished memories guides me in reconciling these feelings.",
+        "therapist": "Your willingness to reconcile those feelings is a testament to the depth of your relationship. Imagine how he might see you—perhaps focusing on the love and memories shared. How can these reflections further illuminate the way he continues to shape who you are?"
+    },
+    {
+        "round": 9,
+        "user": "I know that he did :). I had just not expected to lose him at such a comparatively young age. He did not get to enjoy his retirement!",
+        "answer_final": "That's sad when he spent all his time taking care of the family and yet could not enjoy his free time",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "He'd want me to focus on those loving memories. I just didn't expect to lose him so early. It’s tough knowing he missed enjoying his retirement.",
+        "therapist": "Focusing on those memories reflects the love you share. Feeling his absence and missed opportunities is part of your journey. His impact on your life remains meaningful—what steps feel right in honoring this connection as you move forward?"
+    },
+    {
+        "round": 10,
+        "user": "Yes. I think it would have been easier to deal with had he not immediately descended into very bad health as soon as he retired and had had time to have some fun.",
+        "answer_final": "have you considered seeking therapist? We almost never think of that service, but in a lot of case, people actually need help from professionals when grieving",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels important to celebrate his legacy by living fully in ways he would have enjoyed. He retired expecting joy and adventure, so honoring him through experiences seems right.",
+        "therapist": "Celebrating his legacy through joy and adventure is a beautiful tribute. Embrace these experiences wholeheartedly as a way to honor him. How do you envision incorporating his spirit into your life in ways that feel fulfilling and true to both of you?"
+    },
+    {
+        "round": 11,
+        "user": "I can't really afford to have therapy at the moment. Also I know that my dad was just have considered it to be a waste of money - he was very careful with money.",
+        "answer_final": "he seemed to be a great man. Instead of regretting what happened, celebrate how great of a person he was",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I want to carry his love for simple pleasures into my life. Financial limitations remind me of his frugality, but perhaps finding joy in affordable experiences might honor him.",
+        "therapist": "Celebrating his love for simple pleasures is a heartfelt way to honor him. Exploring affordable joys can beautifully reflect his values and enrich your life. How might these experiences, inspired by his frugality, deepen your appreciation of the present?"
+    },
+    {
+        "round": 12,
+        "user": "That is a really sensible suggestion and it cheers me up to think of it. You have been a really great help to me.",
+        "answer_final": "I'm glad I could be some help for you",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thinking about embracing his values through small joys truly lifts my spirit. It feels like a way to keep him close and appreciate life's simple blessings every day.",
+        "therapist": "Celebrating those values connects you with the essence of his spirit. Embracing life's simple blessings nurtures a deeper bond. How does focusing on these joys influence your sense of connection and appreciation in the present moment?"
+    },
+    {
+        "round": 13,
+        "client": "Focusing on life's simple joys helps me cherish everyday moments—like morning coffee or walks in nature—and reminds me of our shared appreciation for beauty and tranquility.",
+        "therapist": "Embracing those simple joys illustrates a beautiful connection with your shared values. By identifying how these moments create space for beauty and tranquility, you're honoring what matters deeply. How might defining this relationship further influence your journey through life's everyday experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 14,
+        "client": "Embracing simplicity feels grounding. Enjoying small daily rituals, like reading under the afternoon sun, helps me sense his presence and enriches my days with joy and peace.",
+        "therapist": "Experiencing joy and peace through simple rituals highlights how simplicity affects your life. By externalizing any complexity or overwhelm as separate from you, how might this practice of embracing simplicity shape your interactions and relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 15,
+        "client": "Embracing simplicity helps me be present and attentive. When I'm not overwhelmed, I find it easier to connect with friends during shared activities, like cooking dinner or going for a walk.",
+        "therapist": "Embracing simplicity gives you space to be more present and attentive, creating meaningful connections. How has identifying the sense of overwhelm as separate from you impacted your relationships, enabling more joyful interactions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 16,
+        "client": "I feel lighter when I separate my sense of overwhelm. Recently, during a walk with friends, I was fully present and genuinely engaged in their conversations without distractions.",
+        "therapist": "Your ability to be fully present and engaged during that walk reflects your commitment to valuing connections. Experiencing lightness when externalizing overwhelm aligns with those values, enhancing interactions that bring fulfillment. How might continuing this approach shape the way you nurture relationships further?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I believe continuing this will deepen my connections, making time spent with others more genuine. Being present allows me to appreciate our conversations and shared experiences in richer ways.",
+        "therapist": "By recognizing overwhelm as separate, you're choosing deeper, more genuine connections. This approach aligns with your values and enriches your experiences. How does this commitment to being present resonate with your hopes for future relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Being present helps me build genuine relationships, like when a friend opened up about their struggles and I truly listened, offering my support without distraction. It brings hope for deeper future connections.",
+        "therapist": "Being fully present in these moments underlines the value you place on genuine connections. Your support reflects deep care, aligning with your hopes for richer relationships. How might this understanding further guide the way you wish to engage and connect meaningfully with others?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Being fully present enhances my empathy and patience, allowing me to connect with sincerity. Last week, comforting a friend during a difficult time helped strengthen our bond profoundly.",
+        "therapist": "Acknowledging the effects of being present enhances your empathy and patience highlights the value you place on sincere connections. This understanding roots your interactions deeply in your personal values and hopes. How does strengthening these bonds align with the vision for future connections you hold dear?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Strengthening bonds through presence supports my vision of lasting, authentic relationships. Last month, having an open heart-to-heart with my sister renewed our closeness, which brings immense joy.",
+        "therapist": "Your commitment to presence highlights your value for deep, genuine relationships. Seeing the joy it brings affirms these values and hopes. This heart-to-heart with your sister symbolizes what's possible in nurturing connections. How does this align with what you desire to cultivate further?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "It aligns deeply. Recently, opening up to an old friend about my struggles led to them sharing their experiences too. It deepened our trust and understanding, creating a mutual support system.",
+        "therapist": "Opening up to your friend shifted the dynamic from struggle to shared support, illustrating a powerful exception to previous narratives. This experience enriches the mutual support you value. Consider how these qualities of trust and openness may guide future actions towards your preferred relationship narrative.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I genuinely value mutual support in relationships. Reflecting on my friend’s journey while sharing mine made me appreciate vulnerability. It's inspired me to foster this dynamic in all my interactions.",
+        "therapist": "You recognize the power of vulnerability and mutual support, reflecting a strong alignment with your values. Embracing this in all interactions marks a profound shift towards the authentic relationships you seek. What intentions or commitments might further define this preferred identity you're cultivating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I'm committing to being more open and curious in conversations, fostering understanding. Recently, I invited a colleague for coffee to discuss shared challenges, feeling enriched by our mutual insights.",
+        "therapist": "Opening up these dialogues enriches your journey toward deeper connections, reflecting your commitment. Your curiosity encourages mutual understanding, shaping the collaborative narrative you wish to live by. How might these experiences with openness and curiosity further influence the future dynamics you hope to cultivate?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "These experiences fuel my motivation to build open, trusting environments at work. Just yesterday, sharing a small vulnerability with my team led to genuine conversations about our collective aspirations.",
+        "therapist": "Your active engagement with vulnerability nurtures a deeper, trusting work environment, aligned with your valued ideals. As these interactions unfold, how might this commitment to open dialogue influence the broader vision of community you're cultivating at work?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Creating these trusting spaces has shown me how collective growth is possible when we share openly. It leads to feeling more connected and inspired at work, transforming our dynamics.",
+        "therapist": "Collective growth and connection indeed have transformative power. It's empowering to see your actions fostering a vibrant, open environment at work. As you nurture these spaces, how might this shift influence your broader vision of relationships both personally and professionally?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "This shift towards openness redefines my relationship ideals, both at work and in personal life. Last week, a candid family chat fostered unexpected empathy and support, strengthening our bond.",
+        "therapist": "It’s wonderful to see how openness is shaping your relationships positively. This redefined ideal aligns deeply with your values of empathy and support, enriching bonds around you. How might you carry forward this evolving narrative into other areas of your life that are important to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I'll focus on cultivating this openness with my partner. A heartfelt talk recently reminded me of the depth we gain from true understanding, bringing us closer than ever.",
+        "therapist": "Your focus on openness in your relationship truly speaks to the depth of understanding and connection you cherish. Embracing these heartfelt dialogues can indeed fortify those bonds. What would be the next step in further embracing and nurturing this evolving narrative within your partnership?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I'm considering initiating a routine where we have weekly check-ins with my partner. This can be a safe space to discuss feelings, ambitions, and support each other's growth journey.",
+        "therapist": "Exploring these weekly check-ins as a space for honest dialogue beautifully aligns with your evolving narrative of connection. This initiative can foster support and understanding, making way for joint growth. How do you envision this routine enriching both your relationship and individual aspirations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "I believe this routine could deepen our emotional connection and help us align on life goals. Sharing vulnerable moments builds trust, and I've found these interactions refreshingly clarifying.",
+        "therapist": "Embracing this routine aligns seamlessly with your values of connection and trust, reinforcing the story you're crafting together. Witnessing this transformation deepens your identity around vulnerability and partnership. How might these clarifying insights reshape other facets of your identity you wish to further nurture?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "These insights make me reconsider my professional ambitions. I've started looking into leadership workshops to hone skills like active listening and empathy, which are vital for my growth.",
+        "therapist": "Your commitment to aligning your professional ambitions with the values of active listening and empathy is truly inspiring. Pursuing leadership workshops to enhance these skills reflects a strong dedication to your preferred identity. How do you envision these changes influencing your day-to-day interactions at work?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I envision these workshops helping me cultivate a more supportive and responsive work environment. Practicing empathy will encourage open dialogues, allowing my team to feel heard and motivated.",
+        "therapist": "Your vision of fostering a supportive environment through empathy and open dialogue holds the potential to transform workplace dynamics. It's inspiring to see how you are expanding this narrative beyond personal relationships. What steps will you take to practice these skills and make this transformation a reality?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I'll start by setting aside time each week for team feedback sessions, similar to my partner check-ins. This practice already makes me feel more hopeful and engaged in improving dynamics.",
+        "therapist": "Setting up weekly feedback sessions reflects a strong commitment to fostering open communication and trust at work, similar to your personal growth journey. It’s encouraging that you feel hopeful about these changes. In what ways might this practice impact your team’s culture and enhance collective achievements?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "My team often feels disconnected, so these feedback sessions could create stronger bonds and shared ownership. I'm imagining empowered collaboration leading to greater trust and innovation collectively.",
+        "therapist": "Your vision of transforming disconnection into a collaborative and trusting team culture aligns beautifully with your values. As you foster empowered connections, consider how these new bonds will enrich both personal and professional spaces. What possibilities might this unity open for innovation and collective growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Seeing my team work together during challenging projects has always inspired me. Cultivating a unified culture will likely lead to breakthrough ideas, further energizing us all. It’s a prospect that fills me with enthusiasm and optimism.",
+        "therapist": "As you cultivate this unified culture, consider how breakthrough ideas further enrich the inspiring narrative of teamwork and collaboration you're fostering. What has supported your motivation and optimism during past challenges that could illuminate the way forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "Reflecting on past challenges, I'm reminded of times when clear communication and mutual support boosted my morale. Witnessing teammates collaborate with understanding and purpose inspires me profoundly.",
+        "therapist": "Clear communication and mutual support have clearly been vital anchors for you, shaping a work environment that resonates with your values. As these elements continue to guide your actions, what further intentions or commitments reflect the leader you're becoming?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I've committed to fostering a safe space where everyone feels valued. For instance, when a recent project hit roadblocks, open dialogue helped us navigate stress collectively and find creative solutions.",
+        "therapist": "You’re creating a powerful narrative by valuing safe spaces and collective problem-solving. Who has played a significant role in shaping these values within you, perhaps inspiring your commitment to nurturing open dialogue and collaboration?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My mentor early in my career emphasized listening and empathy in leadership. During a chaotic project, they remained calm, guided me to value communication, fostering a harmonious team dynamic.",
+        "therapist": "Listening to your mentor's calm wisdom has enriched your approach to leadership, showing how deeply you internalize their guidance. Imagine viewing yourself through their eyes—how do you think they see the positive influence of those values in your leadership today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "My mentor would likely see me fostering inclusive dialogue, especially when conflict arises. They'd observe my growing patience and ability to hold space for diverse perspectives, feeling proud of this growth.",
+        "therapist": "Your mentor’s pride in your evolving leadership echoes your commitment to fostering growth and inclusion within your team. As you cultivate these qualities, consider how they continue to enrich both you and those around you. How might this nurturing influence impact others",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I believe my approach encourages an open environment where ideas can flourish. Recently, a colleague felt comfortable sharing an innovative solution during a tense meeting, leading to a breakthrough.",
+        "therapist": "Your efforts in fostering an open environment not only spark creativity but also empower colleagues to contribute confidently. This influence is significant. How do you see your approach shaping their own journey, encouraging them to pass on this nurturing spirit?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I'm hopeful my openness inspires them to do the same. Recently, seeing a team member mentor someone new with patience and kindness really affirmed this ripple effect of collaboration.",
+        "therapist": "Your openness is truly creating a meaningful ripple of positive impact within your team. By nurturing this culture, you're contributing to a more connected and empathetic work environment. How might these transformations in others reflect back on your own sense of identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I've started seeing myself as a catalyst for change, someone who encourages growth. It feels validating, and there's a sense of fulfillment in contributing to a supportive environment.",
+        "therapist": "Recognizing yourself as a catalyst for change highlights your valuable contributions. This fulfilling sense of validation is rooted deeply in your actions and influence. How might embracing this identity shape your future interactions and the environment you continue to cultivate?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "I envision leading projects with even greater mindfulness and adaptability, nurturing each member’s strengths. Recently, guiding a new hire transformed my leadership style into one that prioritizes empathetic growth.",
+        "therapist": "Embracing this leadership transformation showcases your meaningful contribution and commitment to others' growth. Reflect on the ways you see your adaptability inspiring colleagues; their reactions might reveal even more about the mutual influence you share.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 43,
+        "client": "My adaptability inspires colleagues when they see changes benefitting the team. One thanked me for listening and addressing concerns during a recent project shift, which strengthened our dynamic.",
+        "therapist": "Your ability to adapt and respond thoughtfully has not only benefited the team but has also fostered a sense of trust and openness. By prioritizing listening, you've strengthened relationships. Consider how your influence encourages colleagues to view adaptability as a shared value, further reinforcing their own leadership styles.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Your insights help me see how my adaptability can inspire others. For instance, when I advocated for a flexible deadline during a hectic period, it showed empathy and improved morale.",
+        "therapist": "Recognizing your impact in promoting empathy and morale through adaptable leadership shows your value and agency. Seeing the trust others place in you reflects your own strength. How do these mutual exchanges shape the way you view your ongoing journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "These exchanges reaffirm the importance of vulnerability in my leadership. Recently, I shared my struggles managing stress with the team, which invited openness and strengthened our bonds.",
+        "therapist": "Sharing your vulnerabilities has clearly strengthened your connections and inspired a culture of openness. Seeing the team thrive through this exchange reflects mutual growth. How might their responses continue to influence how you view your leadership journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Their positive responses deepen my resolve to lead with empathy. Reflecting on their feedback, I feel motivated to embrace challenges confidently, nurturing a safe environment for everyone's growth.",
+        "therapist": "You’re leading with empathy and creating a nurturing space that influences others positively. Consider the impacts of your supportive environment on how team members view themselves; this might enhance their personal growth and deepen connections further.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Thank you for helping me reflect on this. I remember a teammate, who once doubted their abilities, now actively suggesting ideas. It's rewarding to see them gain confidence.",
+        "therapist": "Your encouragement has clearly helped shape your teammate’s newfound confidence and enthusiasm. This illustrates the ripple effect of empathy in leadership. Consider how these interactions reinforce your role as a positive force, nurturing change and growth within your team.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I feel deeply fulfilled knowing my support helped a teammate grow. It makes me realize how vital empathy is in fostering a vibrant, collaborative work culture.",
+        "therapist": "Your fulfillment in supporting your teammate highlights the profound impact of empathy in shaping both your identity and theirs. How might you continue fostering these connections to reinforce a thriving, collaborative culture for all involved?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I’ll continue fostering connections by actively listening and encouraging open dialogue. A recent brainstorming session felt electric, sparking innovative ideas through genuine, empathetic exchanges.",
+        "therapist": "Recognizing your role in creating such dynamic exchanges highlights your positive influence on those around you. Your active listening and encouragement contribute to their growth and innovation. How do these contributions reflect back on who you are becoming as a leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I’m becoming more adaptable, embracing diverse perspectives with ease. Recently, during a project crisis, our collaborative spirit turned challenges into opportunities, reshaping my leadership approach to be more inclusive and resilient.",
+        "therapist": "You’re experiencing the profound impact of your adaptability and inclusive approach, fostering collaborative connections that empower growth. Reflect on how your leadership transformations might inspire others to embrace change. What do these mutual shifts reveal about the identity you're cultivating together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

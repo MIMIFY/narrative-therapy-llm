@@ -1,0 +1,487 @@
+[
+    {
+        "round": 1,
+        "user": "hello",
+        "answer_final": "Hi, I can't see the upper box that you can see, so what brings you \nto seek support?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello, I've been feeling a bit overwhelmed lately. It's like everything is piling up, and I'm not sure where to start. Could you help me unpack this?",
+        "therapist": "You seem to be carrying a heavy load. Let's create a space where we can explore what feels most pressing for you right now. Together, we can find a starting point and piece by piece make sense of this experience."
+    },
+    {
+        "round": 2,
+        "user": "can you see it now?",
+        "answer_final": "I'm sorry, I cannot. Sadly, the program is bad.. You will have to restate your concerns.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. Sometimes it feels like I'm just drowning in tasks and emotions. Can you help me pinpoint what seems to be the heaviest burden?",
+        "therapist": "Let's gently explore these tasks and emotions together, as we work on identifying the most pressing ones. Your openness can guide us in transforming this experience into something manageable and meaningful."
+    },
+    {
+        "round": 3,
+        "user": "I recently lost my job  I am very upset about my economic situation",
+        "answer_final": "I'm so sorry. I'm sure that would be very upsetting, and very concerning for your future. That sounds awful!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm struggling after losing my job, and it's really impacting my economic stability. The uncertainty about my future is overwhelming, and I'd appreciate guidance on handling this stress.",
+        "therapist": "You're facing a challenging transition, and it's understandable to feel stressed about the future. Let's explore ways to manage these feelings and focus on regaining stability. What small steps might help create a sense of security for you?"
+    },
+    {
+        "round": 4,
+        "user": "Yes, I am worried that I will not  be able to pay my bills,  I am looking for a job but because of the pandemic is hard to get one. any advice",
+        "answer_final": "Okay, so it sounds like you cannot pay the bills, you are looking for a job, and the economic situation is tough right now due to the pandemic. This is your main concern for the conversation, then? To discuss how to secure another job?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm deeply worried about making ends meet. While job hunting amid the pandemic, everything feels uncertain and overwhelming. Any guidance on handling these emotions or exploring financial stability would be invaluable.",
+        "therapist": "Let's acknowledge how unsettling this uncertainty must feel. Together, we can explore your story of resilience and identify strengths that support you through this time. What have you found grounding or reassuring when facing past uncertainties?"
+    },
+    {
+        "round": 5,
+        "user": "yes It is my main concern",
+        "answer_final": "Have you consulted with a job center, a life coach, or any other resource such as online websites? These may be useful.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Acknowledging that concern is my main focus. In the past, leaning on family and finding a routine has helped me feel more secure and resilient.",
+        "therapist": "You're navigating significant challenges with remarkable awareness. Leaning on family and establishing a routine is powerful. How might we incorporate these strengths now to reinforce your resilience and manage concerns about the future?"
+    },
+    {
+        "round": 6,
+        "user": "I have looked on websites. They offer with job consultants  but there is a lot of volume of calls with the same problem",
+        "answer_final": "I am sure you will be able to get a new job if you have the commitment. Maybe you can tell me a little more about what type of job you are looking for?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm considering reaching out to job consultants for advice. However, dealing with the overwhelming volume of similar calls feels daunting. Finding time for a routine might ease this anxiety.",
+        "therapist": "Finding a routine is a great way to manage your anxiety, and reaching out to job consultants can be beneficial too. How might creating time for yourself help navigate the overwhelm and foster confidence in these calls?"
+    },
+    {
+        "round": 7,
+        "user": "I am looking for a customer service type of job where I can work from home if is possible",
+        "answer_final": "Okay, that sounds like a great start. Many jobs have moved to being remote, so I can see that as a great alternative. I know there are many covid tracing jobs by phone that pay well. Have you searched for those on any online websites? Would that interest you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm trying to allocate dedicated time each day for job hunting and calls. I'm interested in a customer service position, ideally remote, to provide stability and focus on work-life balance.",
+        "therapist": "You’re taking proactive steps toward stability, which is commendable. How might dedicating daily time for job search enhance your focus and support the balance you're seeking? Exploring customer service roles could align well with your goals for work-life balance."
+    },
+    {
+        "round": 8,
+        "user": "Yes I had  search I am still waiting for a reply. I really interests me since I have some customer service experience.  I hope they call me soon.",
+        "answer_final": "Wow, that is terrific! I know those are in high-demand right now, so I wouldn't be surprised if they did call you back. Your experience will definitely make you more marketable as well.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I applied to several positions, focusing on ones that match my customer service experience. Waiting for replies is nerve-wracking, but I’m hopeful one will align perfectly with my goals.",
+        "therapist": "Waiting can be tough, but your hope and focused efforts demonstrate resilience. Trust that aligning with your goals is a process that takes time. How might you cultivate patience and maintain confidence in this journey?"
+    },
+    {
+        "round": 9,
+        "user": "Yes , thanks for your help and advice",
+        "answer_final": "Have you had anyone look at your resume to see if improvements could be made while you wait?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your support is really encouraging. I remind myself that patience is key and focusing on daily accomplishments keeps my confidence steady as I navigate through this process.",
+        "therapist": "You're building a strong foundation with patience and recognizing your accomplishments. What aspects of your daily achievements reinforce your confidence and help navigate this journey?"
+    },
+    {
+        "round": 10,
+        "user": "Yes I have someone check my resume and update it .",
+        "answer_final": "Okay, that's great. Today, many resumes are not screened by humans, but by computers, analyzing for key words, first.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel more confident with my updated resume, knowing it's polished. Daily, I track my progress and remind myself of how far I've come in building my career path.",
+        "therapist": "Confidence from your polished resume reflects growth and determination. This focus on daily progress is empowering. How does acknowledging this journey enhance your resilience and commitment as you build your career path?"
+    },
+    {
+        "round": 11,
+        "user": "yes, thanks a lot for your time",
+        "answer_final": "You are welcome. I hope you don't give up, and stay optimistic! It sounds like you have a great start.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Acknowledging my journey makes me more resilient and committed. I truly appreciate your support, as it helps reinforce my motivation throughout this process.",
+        "therapist": "Your resilience and commitment shine brightly in your journey. It's wonderful to see how this acknowledgment fuels your motivation. How does reflecting on your progress shape the narrative of who you are becoming?"
+    },
+    {
+        "round": 12,
+        "client": "Reflecting on my progress shifts my narrative from doubt to belief. Each application feels like a step closer, building confidence and revealing resilience I didn't know I had.",
+        "therapist": "Each application becomes a symbol of belief rather than doubt, illuminating your inherent resilience. How might this evolving narrative empower you further in embracing your journey toward stability and balance?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 13,
+        "client": "Embracing this journey brings focus on stabilizing my emotions, balancing goals. I’m setting small, clear targets daily to reinforce resilience and foster a sense of control.",
+        "therapist": "Stability and balance appear central to your narrative as you progress. By setting small targets, you're essentially defining the problem and its impact. How do these steps change how you experience control over the elements influencing your emotions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 14,
+        "client": "Setting small targets shifts my focus from overwhelm to achievable steps. It was crucial yesterday, after a difficult interview, in restoring control and positive mindset.",
+        "therapist": "Setting small targets seems to push overwhelm aside, giving you strength. Naming that difficulty allows you to identify and challenge its grip on your mindset. How has distinguishing these moments fostered your confidence in maintaining a balanced emotional state?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "Identifying moments of overwhelm allows me to shift focus and regain balance. Yesterday's difficult interview was eye-opening; while uncomfortable, it emphasized my adaptability and courage.",
+        "therapist": "Courage and adaptability show your resilience, even in discomfort. By separating overwhelm from your sense of self, you embody strength in shifting focus. How does this adaptability highlight personal values or hopes that inspire your current journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Adaptability helps prioritize authenticity and growth. After the interview, I felt proud for trying, focusing on potential for growth instead of failure reminded me of my commitment to self-improvement.",
+        "therapist": "Authenticity and growth naturally resonate with your commitment to self-improvement, guiding you past perceived failures. This clarity highlights adaptability as a vital ally in overcoming challenges. How might embracing this adaptive strength further enhance the pursuit of your hopes and values?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Embracing adaptability motivates me to take on new challenges without fear. Like when I joined that volunteer project, unsure but willing, which led to unexpected fulfillment and personal growth.",
+        "therapist": "Embracing adaptability truly aligns with your values of authenticity and growth. This approach offers room for new experiences, allowing for fulfillment beyond initial expectations. How might naming this adaptability as a supportive companion help in taking on future challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Naming adaptability as a companion helps lessen fear when facing unknowns, like initiating my own podcast. This endeavor felt daunting, but became empowering through creativity and sharing stories.",
+        "therapist": "Embracing adaptability as an ally appears to elevate your creative and courageous self, especially in daunting ventures. These empowering experiences affirm your commitment to authenticity and sharing stories. How can integrating adaptability further sustain and inspire growth in future projects?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Integrating adaptability helps me remain open to learning and collaboration. Like when interviewing guests for the podcast, listening actively encourages new perspectives, enriching content and fostering personal insight.",
+        "therapist": "Adaptability, as an external companion, aids openness and deepens learning through collaboration. This transformative choice enriches your podcast content and connects you with your values of growth. How does acknowledging adaptability enhance the exploration of your unique narrative through this platform?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Acknowledging adaptability enhances my narrative by allowing genuine expression in the podcast. It empowers me to embrace each guest's unique voice, fostering curiosity and personal growth through shared stories.",
+        "therapist": "Embracing adaptability as distinct from yourself reveals your strength in honoring each guest’s story. This deep curiosity resonates with your values, nurturing authenticity. As you continue exploring narratives, how might this alignment further enhance both your podcast and personal journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Aligning adaptability with my journey amplifies my confidence. Like when tackling technical podcast issues, this approach enhances problem-solving and infuses each narrative with authenticity and resilience.",
+        "therapist": "Your adaptability indeed shines through these challenges, illuminating authentic and resilient narratives within your podcast journey. How can you further integrate this empowering strength to expand on unexpected outcomes and craft enriched stories with each episode?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Exploring adaptability, I embrace spontaneity when unexpected topics arise. Like shifting plans mid-episode, weaving in new ideas fuels my excitement and deepens audience connection.",
+        "therapist": "Exploring spontaneity in adaptability strengthens your podcast’s identity and invites richer experiences. Your willingness to shift plans enhances creative storytelling, making audience connections even more profound. This enthusiasm in unpredictability enriches your narrative landscape—how can it inspire future endeavors?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I feel that embracing spontaneity can guide me towards creating a series on embracing vulnerability, highlighting unscripted moments and raw stories. It excites me to showcase authenticity.",
+        "therapist": "Embracing spontaneity propels you toward showcasing genuine vulnerability and authenticity through unscripted stories, aligning beautifully with your core values. Your excitement for creating this series reveals a profound commitment to authenticity. How might these raw narratives further shape your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Raw narratives could empower me to embrace my imperfections and find strength in vulnerability. Highlighting struggles, like overcoming past rejections, might inspire authenticity in others.",
+        "therapist": "Exploring vulnerability aligns with your values, enabling you to draw strength from past challenges and foster authenticity. This empowers others who share similar stories. How do these narratives shape your identity and commitment to influencing meaningful change in your audience’s lives?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "The narratives deepen my self-awareness and encourage vulnerability. I once shared a personal failure story on air, nervous but hopeful. It resonated widely, shaping my authentic leadership approach.",
+        "therapist": "Sharing that personal story showcased your courage and openness, forming a pivotal part of your authentic leadership. This approach aligns deeply with your commitment to genuine connections. Consider how these stories might continue enriching both your own growth and the narratives of others.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "As I reflect on this journey, those shared moments not only illuminate my personal growth but enrich listeners’ experiences. Discussing difficult topics has fostered profound connections. Can we delve into strategies for sustaining this impact and further embracing vulnerability?",
+        "therapist": "Your journey, enriched by vulnerable storytelling, demonstrates immense potential for deeper connection. Maintaining this impact involves intentional reflection on past narratives and fostering authenticity in your ongoing discussions. Consider how actively inviting shared experiences might enhance the depth and resilience of these connections.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Reflecting intentionally reminds me of sharing about my college rejection. It was raw, but feedback revealed it inspired many to open up. It's humbling and encourages deeper connections.",
+        "therapist": "Your choice to share such a vulnerable moment signifies incredible strength and aligns with your values. This act of openness not only builds connection but deepens self-awareness. As you continue this journey, how does this experience shape your identity as someone fostering meaningful change through authentic sharing?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "It feels empowering to acknowledge imperfections openly. Reflecting on these stories strengthens my sense of empathy and resilience, guiding me to inspire others through honest storytelling.",
+        "therapist": "Your recognition of empowerment through vulnerability adds depth to your identity narrative, weaving empathy and resilience into your storytelling. These qualities can fuel future stories that inspire authenticity. How might these narratives influence the positive changes you wish to cultivate within yourself and your audience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I aim to use these narratives to build an accepting environment, fostering mutual growth. During a public forum, candidness about my struggles drew reciprocal vulnerability and authentic connection from the audience.",
+        "therapist": "Sharing candidly has clearly brought profound connection, fostering the accepting environment you envision. Your unique outcomes underscore your strength and impact on others. Consider how continuing to nurture this openness might further shape the supportive community you're building.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 30,
+        "client": "Continuing to be open feels invigorating. Recently, at a workshop, I shared struggles with work-life balance. The overwhelming support and relatable stories made me feel less alone and more understood.",
+        "therapist": "Recognizing the power of vulnerability connects deeply with your value of authentic relationships, fostering collective growth. This invigorating openness aligns with a strong commitment to meaningful interactions. How does this new understanding influence your next steps in balancing work-life demands while maintaining personal well-being?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I feel inspired to create boundaries at work, ensuring time for personal reflection. Last week, setting limits improved my focus and restored energy. This small change boosts my well-being.",
+        "therapist": "Creating boundaries at work reveals your commitment to personal well-being and authenticity. This choice reflects an important aspect of your identity. How can these renewed boundaries continue guiding you toward maintaining balance and nurturing your growth both professionally and personally?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Embracing boundaries allows me to rediscover passions beyond work, like painting and yoga. I'm nurturing creativity again, enhancing mental clarity and fostering a renewed sense of self-worth.",
+        "therapist": "Rediscovering creativity through painting and yoga deepens your self-awareness and affirms your intrinsic value. This vibrant journey enhances clarity and invites a sense of fulfillment. How might these newfound passions influence how you craft your future story, honoring both personal growth and external achievements?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Rediscovering creativity shapes my future narrative by fostering confidence and fulfillment. Last Sunday, finishing a painting sparked joy and motivation to pursue balanced achievements in both art and career.",
+        "therapist": "Rediscovering your passion for painting radiates the joy and balance you're embracing. It paints a picture of a future where art and career coexist harmoniously. How might this renewed creativity impact your approach to challenges, nurturing both realms with confidence and purpose?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Rediscovering painting makes me more patient and open to exploring solutions creatively at work. During a recent project issue, my art-inspired calm helped foster innovative ideas.",
+        "therapist": "Rediscovering your patience and creative solution-seeking highlights how your passions enrich both personal and professional realms. These experiences showcase a holistic self. Consider how this art-inspired balance might continue evolving your problem-solving strategies and enhance overall fulfillment in work and life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Exploring solutions creatively invigorates my problem-solving. During a challenging meeting, I found patience and new ideas by mentally visualizing art forms. It enhances communication too.",
+        "therapist": "Leveraging your art-inspired patience and creativity strengthens not only problem-solving but also enriches communication. These experiences deeply resonate with your internal values and intentions, crafting a narrative of empowered adaptability. How do you envision these qualities continuing to shape your preferred identity moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "These qualities help me stay grounded amid challenges. For example, during a tense client negotiation, envisioning peaceful landscapes calmed me and facilitated empathetic, solution-focused communication.",
+        "therapist": "Your ability to draw on peaceful imagery reflects inner wisdom and echoes the influence of important figures who've taught you resilience. Consider how these relationships have inspired this unique approach to problem-solving and supported your grounded, empathetic nature in challenging times.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Reflecting on my grandmother's calm presence reminds me of those peaceful images. Her resilience through adversity taught me patience and creativity, influencing how I handle challenges empathetically now.",
+        "therapist": "Your grandmother's presence in your life clearly inspires a meaningful narrative, where her qualities mirror your own. Embracing patience and creativity as you navigate challenges allows for a compassionate connection with her memory. Consider what she might value most in the strength you've cultivated.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "She would cherish my empathy towards others and perseverance. Like when a co-worker was overwhelmed, I stepped in calmly, offering support while focusing on our shared goals. It feels like honoring her strength through action.",
+        "therapist": "Your actions beautifully honor her legacy, nurturing empathy and support in those around you. Such contributions enrich the shared narrative between you and your co-worker, enhancing mutual growth. How might integrating these values further deepen your connections at work and beyond?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I believe embracing empathy and perseverance helps create trust, like when I mediated a conflict between teams, listening deeply to concerns led to collaboration and renewed shared objectives.",
+        "therapist": "Embracing empathy and perseverance indeed strengthens relational trust, mirroring how your grandmother’s values resonate through your actions. This influence not only shapes your identity but also enriches others'. How do these qualities inspire ongoing collaborative growth in your team dynamics?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "By fostering open dialogues, empathy encourages team cohesion. Recently, addressing project setbacks through perseverance allowed us to build resilience and motivated innovative solutions. It feels gratifying.",
+        "therapist": "Your actions in fostering dialogue and perseverance have significantly impacted the team’s growth, shaping a more collaborative spirit. These qualities likely enhance their trust and resilience too. How might these efforts also affirm the legacy of empathy and strength you value so deeply?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Through these efforts, I've embraced the essence of my grandmother's values. Like when I suggested team reflection meetings, cultivating deeper understanding and growth through open communication felt fulfilling.",
+        "therapist": "Embracing your grandmother’s values and fostering understanding undoubtedly enriches those around you. Your team reflection initiative not only honors her legacy but also strengthens their relational identities. In what ways might this fulfillment influence your personal growth and connection with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I've realized that valuing empathy in my relationships has deepened connections with family and friends. Like last week, comforting a friend going through loss brought us closer emotionally.",
+        "therapist": "Your empathy creates powerful connections that resonate deeply within your relationships, shaping their identities and strengthening bonds. Consider how these contributions honor your grandmother’s values and bring people together in meaningful ways. What more can you embrace to deepen mutual growth through this lens?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I've started a gratitude practice, sharing daily appreciations with loved ones. This nurtures positive bonds and deepens our connections, enriching my sense of fulfillment and mutual growth.",
+        "therapist": "Your gratitude practice illuminates how mutual appreciation strengthens bonds, deepening relational identity and personal fulfillment. Embracing these values not only honors your grandmother's legacy but enriches those around you. How do these practices further inspire your journey of nurturing meaningful relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I'm inspired to express gratitude regularly, like in sending thoughtful notes to friends. Recognizing small acts of kindness in these exchanges deepens mutual appreciation and warmth, echoing my grandmother’s influence.",
+        "therapist": "Your thoughtful gestures create ripples of kindness that enrich others’ identities, echoing your grandmother’s legacy. This reciprocal appreciation strengthens bonds and uplifts both you and those around you. How might these reflections continue to nurture growth in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Your words remind me of a recent dinner where I shared gratitude, seeing genuine smiles made me feel lighter. These moments boost connection and reaffirm love in relationships.",
+        "therapist": "Sharing gratitude has clearly uplifted those around you, strengthening the love and connection within your relationships. Your influence on their joy adds depth to these bonds. How do these experiences reflect your grandmother’s values in fostering meaningful interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "These experiences mirror her kindness and genuine interest in others. I recall her listening intently to everyone at gatherings, making them feel seen. It’s grounding to embody that legacy.",
+        "therapist": "Embodying your grandmother’s legacy seems to guide your way of engaging with others. Her ability to make people feel seen highlights your own strength in creating connections. How does carrying this forward enrich your sense of self and belonging?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 47,
+        "client": "Carrying this forward deepens my identity, seeing loved ones feel valued gives me purpose. Like, my cousin said I remind her of grandma during a family brunch.",
+        "therapist": "Embracing your grandmother’s influence seems to illuminate your path in creating meaningful connections. Your ability to make loved ones feel valued, much like she did, reinforces this shared legacy. How might embodying this aspect of her identity continue to guide your sense of purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I'm finding that channeling her warmth and attentiveness strengthens my purpose. Recently, helping a friend through tough times felt meaningful, reminding me of her empathy. It grounds me.",
+        "therapist": "Channeling her warmth not only guides your purpose but deepens empathy's legacy, impacting those you support. Your caring presence brings comfort and shapes their identity too. In what ways does acknowledging this mutual growth inspire you to continue fostering these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I feel inspired to reach out more, like organizing small gatherings. These shared moments, much like helping my friend recently, nurture our bonds and affirm everyone's value.",
+        "therapist": "Organizing gatherings allows you to embody your grandmother’s values, strengthening bonds and affirming each person’s worth. Your inspiration brings meaningful contributions to their lives, reinforcing relational identities. How do these connections enhance your perspective on community and shared growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "These connections emphasize community's role in personal growth. Hosting a dinner recently highlighted how our shared stories and mutual support forge resilience and collective progress. It’s heartening.",
+        "therapist": "Your gatherings and nurturing spirit clearly foster a collective resilience, enriching the identities of those involved. Witnessing the influence of your shared stories reinforces the power of community bonds. How might these experiences continue to shape and redefine your own role within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

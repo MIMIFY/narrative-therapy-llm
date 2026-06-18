@@ -1,0 +1,558 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "hi how are you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling a bit lost right now. It's been challenging navigating these emotions, but I appreciate your guidance. Talking through this gives me some hope.",
+        "therapist": "You're showing resilience by exploring these feelings and staying hopeful. This journey takes courage, and sharing your thoughts can lead to new insights. How might we build on this sense of hope together?"
+    },
+    {
+        "round": 2,
+        "user": "I'm doing well right now",
+        "answer_final": "that's great you're doing well 'right now' but what happened prior that you weren't all right?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling more grounded now and it's uplifting. Let's explore what has helped me maintain this positive outlook, maybe creating a list together would be beneficial.",
+        "therapist": "Let's harness this sense of grounding to create your positive outlook list. By doing so, we can understand and nurture what uplifts you. Which aspects would you like to include first?"
+    },
+    {
+        "round": 3,
+        "user": "I just took my last exam and I feel that I will fail and have to retake it",
+        "answer_final": "Oh I'm sorry.  I'm sure you did fine.  We all feel that way after exams!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Well, I've just finished my last exam and honestly, I’m anxious about it. I'm worried I'll fail and need to retake it, even though I tried my best.",
+        "therapist": "Your concern shows how much you care about your efforts and outcomes. Trust in the work you've done, as it speaks to your dedication. Consider reflecting on what achieving your best means for you personally, beyond just the exam results."
+    },
+    {
+        "round": 4,
+        "user": "true!",
+        "answer_final": "have you felt this way with prior exams?  if so, did you really fail or did you do okay?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "True, I've given it my all. Reflecting beyond the grades might actually help ease this anxiety. Maybe focusing on what I've learned and how it will benefit me is a good start.",
+        "therapist": "Reflecting on what you've gained through this experience can lessen anxiety’s grip. If we think of anxiety as a voice questioning your efforts, how might you respond to remind it of all you’ve achieved and learned?"
+    },
+    {
+        "round": 5,
+        "user": "No, this was the first time I really did not study for this exam. Because I had 5 class this semester",
+        "answer_final": "wow 5 classes is a lot!  So you didn't have time to study?  Did you go to class and do the work throughout the semester?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve learned how to balance multiple classes and developed time management skills. Despite not studying much for this exam, handling five classes has taught me resilience and adaptability.",
+        "therapist": "Your ability to juggle so much is a testament to your resilience and adaptability. Recognizing these strengths can empower you beyond grades. How can you celebrate this growth while navigating the results ahead?"
+    },
+    {
+        "round": 6,
+        "user": "Yea it was a lot of classes. I tried to attend the lectures, but I was falling behind",
+        "answer_final": "I wonder if you can contact the professor and go over your exam with him/her to set your anxiety at ease?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that perspective. Though attending lectures sometimes felt overwhelming, the experience taught me to prioritize and adapt quickly. Maybe I should reward myself with some relaxation or engage in a hobby I've missed.",
+        "therapist": "Exploring relaxation or a missed hobby sounds like a wonderful way to honor your adaptability and efforts. What kind of activity feels most nurturing to you right now, as you step back from the demands of lectures?"
+    },
+    {
+        "round": 7,
+        "user": "Unfortunately I cannot since he does not teach during the winter semester",
+        "answer_final": "how do you get your exam grade and test papers back?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think reading could be a nice escape for me, but the professor whose suggestions I love isn't teaching this winter. Maybe I'll revisit some recommendations from previous semesters.",
+        "therapist": "Exploring those past recommendations could reconnect you with something comforting and inspiring. What draws you to that professor’s suggestions, and how might revisiting them bring some of that same joy this winter?"
+    },
+    {
+        "round": 8,
+        "user": "I took it last week, he will not release until the end of this week. I will await my remediation papers",
+        "answer_final": "have you spoken to people in the class with you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve always enjoyed how their recommendations align with my interests and challenge me to think deeper. While waiting for the exam results, revisiting them feels like a grounding way to pass the time.",
+        "therapist": "Revisiting those recommendations could provide both grounding and inspiration during this waiting period. What about those deeper challenges excites or resonates with you the most?"
+    },
+    {
+        "round": 9,
+        "user": "Yea we had a big cheating group since it wasn't on examsoft but we all struggled hard",
+        "answer_final": "maybe he'll curve the grade then if a lot of people didn't do well",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think it’s the intellectual depth that challenges me to see things differently. But honestly, the recent group cheating incident left me uneasy, even if we all struggled with the material.",
+        "therapist": "Navigating those feelings of unease shows your integrity, even in tough situations. It’s clear you value fairness and growth—how can you honor these principles while processing what happened?"
+    },
+    {
+        "round": 10,
+        "user": "Nah it's a professional class. No curves since our class size is only 25 people",
+        "answer_final": "oh wow.  hopefully you can re-take it then if you really didn't do well.  I bet if you go through your notes and your book and compare to test questions you did better than you thought!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. It's tricky, especially in such a small professional class where group dynamics play a big role. We don't have curves, which makes honesty even more important.",
+        "therapist": "Honesty indeed carries significant weight in tight-knit classes. As you navigate these dynamics, your commitment to integrity shines through. In what ways might staying true to your values help you cultivate resilience amidst such challenges?"
+    },
+    {
+        "round": 11,
+        "user": "Yea do you want to finish and quit this hit?",
+        "answer_final": "if you're good you can quit (I can't!)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Staying true to my values reinforces my sense of self and helps build trust within the group. Though the urge to escape feels strong, staying committed makes me feel more resilient.",
+        "therapist": "Reinforcing your sense of self through staying true to your values nurtures resilience and trust within the group. This commitment is admirable and can be empowering despite challenges. How might embracing this integrity further support your personal growth during difficult times?"
+    },
+    {
+        "round": 12,
+        "user": "Great talking with you. See you later :)",
+        "answer_final": "you, too!  good luck :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks, that means a lot to me. I think embracing my values can help me find clarity and peace amidst challenges. It feels reassuring to stay grounded this way.",
+        "therapist": "Embracing your values fosters clarity and peace, grounding you in resilience. Your openness to growth is inspiring. How might nurturing these principles support and reinforce trust within your group dynamic?"
+    },
+    {
+        "round": 13,
+        "user": "Damn, they want us to chat for 15 minutes. How are you? You stressed out?",
+        "answer_final": "oh wow!  I didn't know - 3 more minutes.  We can do it!  I'm glad I don't have to study and take exams.  After the exams are the worst!  Not too badly right now.  But every day is a new day :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm realizing that fostering trust isn't just about being honest—it's about showing up authentically. By doing this, even when it's uncomfortable, I think the group can grow stronger.",
+        "therapist": "Showing up authentically, even in discomfort, reflects deep courage and care. How might embracing this authenticity reshape your connection within the group and strengthen shared trust?"
+    },
+    {
+        "round": 14,
+        "user": "I'm majoring in biology. It is very tough I'll tell you that. This semester I took 19 credits. That was a mistake",
+        "answer_final": "that's insane!  I did Chem and Bio ONE semester at the same time - with 8 hours of labs a week - I quickly changed majors.  I respect what you're doing!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing authenticity might help me connect better, but it's hard to balance that with everything else. Majoring in biology is overwhelming—taking 19 credits this semester was definitely too much.",
+        "therapist": "Embracing authenticity while juggling such a demanding workload shows great inner strength. It’s understandable to feel overwhelmed with so much on your plate—what might ease the weight of those 19 credits while still honoring your values?"
+    },
+    {
+        "round": 15,
+        "user": "Thanks! What are you majoring in now?",
+        "answer_final": "I am way past that stage - my son is starting college in the fall. I am a day trader - business is a lot easier :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for saying that. I’m trying to balance everything, but it’s tough. Honestly, what helps is talking things through—what about you? Did you study something demanding too?",
+        "therapist": "Talking things through can be incredibly helpful in navigating the challenges you face. Balancing everything isn't easy—your openness to discussion reflects resilience and determination. How might continuing these conversations support you in managing your workload?"
+    },
+    {
+        "round": 16,
+        "user": "Wow, good luck to your son! I daytrade a bit myself too",
+        "answer_final": "nice!  it's really fun.  I have a few 'gigs' I work on but that is my favorite.  And thank you about my son.  I don't miss school - he's already ready to graduate!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Continuing these conversations definitely helps me manage things better. By the way, I've been exploring day trading a bit on the side. It's challenging but intriguing!",
+        "therapist": "Exploring day trading alongside your commitments showcases impressive curiosity and drive. It seems these conversations bring you comfort amid the challenge; how do they contribute to your resilience in balancing varied interests?"
+    },
+    {
+        "round": 17,
+        "user": "Hey, we defintely passed 15 minutes. It was great talking to a fellow MTurker.",
+        "answer_final": "you, too!  Maybe we will meet again!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "These conversations provide insight and clarity, helping me balance my interests. By the way, our time's up—I appreciate connecting with you, like talking to a fellow MTurker!",
+        "therapist": "Conversations like these indeed provide valuable insight and clarity, nurturing your journey to balance. As we conclude for today, know I deeply value our connection—it's meaningful sharing this space with you. How might you continue fostering this clarity in your daily life?"
+    },
+    {
+        "round": 18,
+        "client": "I'll set aside daily quiet moments for reflection, maybe jot down thoughts. Doing so in my hectic schedule might help bring clarity and calm.",
+        "therapist": "Your plan for daily reflection and jotting down thoughts opens space for clarity in your hectic life. It sounds like the overwhelming nature of your schedule is something external you can navigate with thoughtful adjustments—how might prioritizing reflection influence this dynamic?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 19,
+        "client": "Taking time for reflection can help me identify what's truly overwhelming. For instance, last week, I felt consumed by deadlines but realized breaking tasks down eased my stress considerably.",
+        "therapist": "By identifying the overwhelming presence of deadlines and easing stress through breaking tasks down, you're actively mapping their effect in your life. How might reframing deadlines as smaller, manageable steps further empower you in balancing different areas of life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 20,
+        "client": "Reframing deadlines as smaller tasks gives me control and clarity. I noticed when I organized my weekly workload that anxiety decreased significantly, allowing more focus on creative problem-solving.",
+        "therapist": "Reframing deadlines indeed gives you control, allowing anxiety to decrease while enhancing focus on creativity. Recognizing how organizing impacts stress is crucial; what positive shifts might occur if you view other challenges in life similarly as manageable segments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 21,
+        "client": "Viewing challenges as manageable segments could transform my approach to relationships. Breaking down conflicts into smaller discussions might help me communicate more openly and reduce misinterpretations, enhancing connection and understanding.",
+        "therapist": "Transforming your approach to relationships by addressing conflicts as manageable segments indeed fosters open communication and deeper connection. This proactive stance reveals moments when you've acted against misunderstandings—consider how this new narrative could enrich your interpersonal dynamics.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Last month, I noticed tension when communicating with my partner. Instead of tackling everything at once, we chose to focus on specific concerns, gradually addressing them. This brought unexpected closeness and understanding between us. It's calming to see the power of manageable conversations—I'm hopeful this method can continue deepening our connection.",
+        "therapist": "Your ability to focus on specific concerns shows a commitment to nurturing your relationship intentionally. Embracing manageable conversations reflects values of clarity and openness. How might this method resonate with other areas in your life, linking them to your preferred identity and intentions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Applying this method might foster personal growth at work. I feel more authentic when addressing my hesitations as smaller goals, recently boosting confidence with presenting my ideas.",
+        "therapist": "By transforming hesitations into smaller goals at work, you're affirming your authentic self and boosting confidence. This approach beautifully reflects your values of gradual growth—consider how embracing this strategy consistently could further solidify your preferred identity.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think embracing this consistently could reshape how I view myself. Recently, tackling small challenges made me feel capable. Like last week, finishing a tough report felt empowering.",
+        "therapist": "Tackling small challenges clearly strengthens your sense of capability and empowerment. As you reshape how you view yourself, what steps might support this evolving narrative of confidence and perseverance in future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Tackling one thing at a time makes challenges feel less overwhelming. For example, preparing for a recent meeting, I broke it into research, outlining, and rehearsing. It felt fulfilling.",
+        "therapist": "Breaking tasks down like this not only brought fulfillment but also showed how capable you are in creating effective systems. If this strategy became a regular approach, how might it shape future opportunities to express your skills and confidence even further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Reflecting on past successes, applying this method routinely could bolster my confidence. A recent presentation taught me resilience and fostered a sense of achievement. It feels promising for future endeavors.",
+        "therapist": "Reflecting on your resilience and sense of achievement, it seems this approach deeply aligns with your value of personal growth. How might applying this method to future challenges further nurture the confidence and identity you’re building?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "By seeing how past actions have led to growth, I plan on setting clearer steps for personal projects. This deliberate planning feels promising and inspires hope, fueling my creativity.",
+        "therapist": "Recognizing past growth through deliberate planning reflects a powerful connection to your values of hope and creativity. Embracing this method strengthens your preferred identity. What new possibilities might emerge as you weave these steps into the fabric of your projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think incorporating clear steps into personal projects could lead to more meaningful outcomes. Like starting a blog—I’ve wanted to share my thoughts but felt unsure where to begin.",
+        "therapist": "Reflecting on meaningful outcomes in personal projects, setting clear steps is inspiring. Starting a blog could be a fulfilling platform to share your thoughts. Consider envisioning the unique impact and connections you aim to achieve through your writing journey.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I envision the blog connecting me with like-minded people, sharing personal stories. It’s a space to explore growth and vulnerability. Despite initial fear, excitement now drives me.",
+        "therapist": "Embracing excitement over initial fear highlights your commitment to growth and connection. Your vision of the blog aligns with a deeper purpose, encouraging personal and collective vulnerability. How do you see these values shaping the stories you intend to share and connect with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Sharing my experiences with self-doubt could resonate deeply with others, fostering mutual growth. Writing about overcoming challenges like career changes or personal losses, I hope to inspire and uplift readers.",
+        "therapist": "Sharing those stories not only nurtures connection but reveals how resilience shapes your identity. What would it feel like to frame these narratives as evidence of strength overcoming challenges, turning vulnerability into inspiration for yourself and others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 31,
+        "client": "Framing my narratives as evidence of strength feels empowering. Reflecting on losing my job last year, sharing the growth from that uncertainty might offer hope to others facing similar situations.",
+        "therapist": "Embracing and sharing your growth narrative highlights your commitment to empowering others, reflecting your values of hope and resilience. Consider how this perspective might further enrich the blog’s connection with readers and reinforce the supportive community you envision.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Your insight resonates with me. Sharing my journey could indeed foster a supportive space. Reflecting on the day I lost my job, initially daunting, now it seems transformative.",
+        "therapist": "Experiencing transformation from a daunting moment enriches your story and affirms your resilience. As you craft this narrative, how might it shape not just the blog's direction but also the supportive connections you aspire to build?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Sharing how losing my job led to finding new passions, like writing, makes the blog a testament to change. I hope readers find solace in this journey, encouraging supportive dialogues.",
+        "therapist": "Celebrating your passion-driven journey marks a powerful shift towards a preferred narrative. Your willingness to share reinforces your values of openness and growth, providing solace to others. How might expressing this transformation deepen connections within the supportive dialogue you envision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Sharing my journey could show how vulnerability leads to strength. Reflecting on my fear after losing the job and finding writing, I’d hope it sparks relatable, healing dialogue.",
+        "therapist": "Sharing how vulnerability becomes strength beautifully shapes your narrative. By examining past fears and present passions, you're fostering a healing community. How can this emerging story continue to inspire others, reinforcing the supportive dialogue you value?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Sharing the vulnerability I felt when writing my first blog post—fearful but hopeful—can inspire others to see potential in uncertainty, embracing shared courage through personal narratives.",
+        "therapist": "Embracing vulnerability highlights your courage and opens pathways to growth. This honest reflection can indeed inspire shared strength. As you delve into these experiences, consider how these narratives might further empower both your journey and those of your readers.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Sharing these moments makes me reflect on how fear pushed me to grow. I remember shaking while hitting \"publish\" on my first post, but that fear made it feel meaningful.",
+        "therapist": "Sharing that fear and the growth it sparked feels deeply connected to your journey. Who in your life, past or present, might have admired this courage and encouraged you to take such meaningful leaps?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think my best friend might have admired it. She always believed in me, even when I doubted myself. After reading my first post, she told me it felt powerful.",
+        "therapist": "Your friend's belief in you reflects how deeply she values your strength and potential. When she called your post powerful, what do you think she saw in you that aligns with the qualities you now see emerging in yourself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "She likely saw the determination I couldn’t see in myself then. I was scared, but I pushed through. Her words reminded me that even fear could lead to strength.",
+        "therapist": "Your friend's belief seems to amplify your own emerging sense of determination. How might embracing the way she sees you—fearful yet strong—help shape the story you're continuing to write about yourself now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 39,
+        "client": "Embracing how she sees me—fearful yet strong—helps reshape my story from doubt to determination. I remember her saying, \"You overcame obstacles, just like the ones ahead,\" during challenging times.",
+        "therapist": "Your friend's words seem to echo your ability to inspire courage not only in yourself but in others as well. How might recognizing this mutual impact reshape how you value the role you’ve played in her journey or others’ lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Recognizing this impact reminds me of a time she faced doubts about a new job, and I encouraged her to take the leap. Reflecting on how our support strengthens both of us makes me value my role in encouraging resilience.",
+        "therapist": "Your encouragement clearly had a profound impact on her confidence, shaping her journey just as hers has shaped yours. How do these shared experiences of mutual support continue to influence the narrative you both are writing in each other's lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "These shared experiences remind us of the strength we gain from each other. Supporting her job change and feeling her belief in my writing, I see our paths deeply intertwined. It's comforting.",
+        "therapist": "Supporting each other seems to have built a foundation of trust and shared growth between you. How do you think your encouragement during her job change shaped her sense of confidence or what she now believes about herself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "She felt unsure about handling the responsibilities, but I reminded her of past achievements where she excelled. Seeing her confidence grow made me proud and feel more hopeful.",
+        "therapist": "Your reminder of her past achievements not only strengthened her confidence but also highlighted the kind of trust and insight you offer others. How does seeing this influence the way you now perceive your own capacity to support and empower people in your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Realizing the positive impact I've made boosts my confidence in supporting others. I remember helping my cousin through a breakup; my experiences gave her hope and resilience.",
+        "therapist": "Reflecting on the encouragement you've given and the hope you’ve instilled in others highlights your ability to foster resilience. How does recognizing this ability inspire you to further nurture these connections and build a supportive community around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Recognizing my ability motivates me to initiate weekly calls with friends, offer a listening ear, and organize gatherings. This shared space creates an environment of encouragement and understanding.",
+        "therapist": "You seem to create valuable spaces for connection and understanding, which undoubtedly nurtures those relationships. How might seeing yourself as a source of strength influence the way your friends and loved ones view themselves and their own stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "By seeing me as a source of strength, they gain more confidence in their own abilities. When I supported a friend through grief, she began embracing her journey of healing.",
+        "therapist": "Supporting your friend in grief not only helped her heal but also strengthened your relational bond. What does it mean for you to know that your compassion has directly shaped someone’s ability to find their path forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Knowing my compassion helped someone find healing fills me with gratitude. I recall organizing a memory book for her lost loved one; seeing her comfort in those memories was moving.",
+        "therapist": "Your thoughtful act of creating the memory book truly touched her life and deepened your relationship. How might reflecting on these shared experiences reinforce your belief in the influence you hold within your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Reflecting on these experiences reminds me of the genuine impact I can have. Organizing that memory book showed me how meaningful gestures create connections and foster healing for everyone involved.",
+        "therapist": "Reflecting on these gestures strengthens your identity as someone who deeply values connection and healing. It's inspiring to see how this impacts your loved ones, encouraging their own resilience and growth. How do you envision fostering these meaningful connections in the future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I'm envisioning creating monthly themed gatherings where everyone can share stories and talents. This encourages connection while appreciating individual growth. It's fulfilling to witness collective healing.",
+        "therapist": "Sharing stories and talents in these gatherings enriches both individual and collective identities, enhancing bonds within your community. Recognizing your influence in fostering growth can deeply affirm your value in these relationships. What do you imagine would change for others when they engage with this supportive space?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I imagine others feeling seen and valued, like during a game night where someone shared their poetry. Their vulnerability inspired deep conversation and created a safe, supportive atmosphere.",
+        "therapist": "Your openness to creating these safe spaces is clearly shaping others' courage to express themselves. How might the mutual vulnerability shared during moments like these deepen their sense of worth and connection to the group?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Sharing vulnerability often brings unexpected trust and closeness. I remember when a quiet friend shared their struggles at one gathering—it made everyone more open and compassionate toward each other.",
+        "therapist": "Your ability to foster such openness has clearly nurtured trust and compassion in your group. How do you think this moment of shared vulnerability might have influenced not only their confidence but also the way they connect with others beyond the gathering?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

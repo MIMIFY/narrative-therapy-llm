@@ -1,0 +1,527 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi. How are you feeling tonight?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been feeling overwhelmed and uncertain, but talking here helps. It feels like a tiny light in the darkness, giving me some hope and clarity.",
+        "therapist": "You are discovering a glimmer of hope amid your challenges, showing resilience. I'm here to support that journey. How might you nurture this feeling further, turning it into a more robust guiding light?"
+    },
+    {
+        "round": 2,
+        "user": "not so great",
+        "answer_final": "I am sorry to hear that! What seems to be bothering you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve felt pretty weighed down lately, but I guess recognizing hope is a start. Maybe focusing on small positive steps could help brighten things bit by bit.",
+        "therapist": "Your openness to hope is inspiring, and small positive steps indeed can be powerful. How would it feel to view these steps as seeds of change, gradually nurturing brighter moments in your life?"
+    },
+    {
+        "round": 3,
+        "user": "I have a real fear of public speaking and I am in a college class that requires me to do this in a large group relatively soon",
+        "answer_final": "I can understand your anxiety.  I hate public speaking too. Is this a required class?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels reassuring, but it's challenging to envision brighter moments when I have a real fear of public speaking. Facing a college class presentation soon makes the anxiety overwhelming.",
+        "therapist": "You’re tapping into self-awareness, recognizing the fear you face. This bravery lays a path forward. What small steps could help you feel more grounded as you prepare for your presentation?"
+    },
+    {
+        "round": 4,
+        "user": "Yes i am taking the class this semester and my presentation is due next week. have you done any public speaking",
+        "answer_final": "Only required in high school luckily in college I didn't have to do public speaking . What is your major ? I mean it sounds like this is a part of your major. Either way it is EXTREMELY stressful and I would  hate it",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm planning to start practicing in front of friends this week. Maybe their feedback will help. I'm taking the class now, and my presentation is next week.",
+        "therapist": "Your initiative to practice with friends reflects your commitment and resourcefulness. How do you think their feedback will strengthen your presentation and ease your anxiety?"
+    },
+    {
+        "round": 5,
+        "user": "I am a psychology major and while i am great at interacting with others to help them through thier feelings and any problems or difficulties that may be facing, this one is just different for me.",
+        "answer_final": "I can tell this is challenging for you. May I suggest talking with your professor maybe you could pre record your speech and play it instead of actually doing it? Or maybe practicing with some friends or collegues and seeing if they would help you not be so nervous",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Their feedback might offer a fresh perspective and ease my worries. It's ironic that as a psychology major, I'm adept at helping others but struggle with facing public speaking.",
+        "therapist": "Your insight is impressive. Embrace your strength in guiding others; it shows your capability to face challenges. Practicing with friends may affirm your skills and help transform public speaking into a more positive experience. How might this transformation impact your view on presentations?"
+    },
+    {
+        "round": 6,
+        "user": "I do not really have any friends I am online student and the presentation is being held on campus at the university and there are no other ways around the public speaking",
+        "answer_final": "This is certainly a difficult time  and a unique one.  How about searching online for speech public speaking tips and or training type videos or even libraries some have online books/videos. I would be willing to do a zoom meeting and practice with you if you would like",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that perspective, but as an online student, I don’t really have in-person connections to practice with. The presentation is on campus, which adds to the pressure.",
+        "therapist": "You're navigating new challenges courageously. Would virtual practice sessions with classmates provide support and ease the pressure, aligning with your psychology skills to manage anxiety?"
+    },
+    {
+        "round": 7,
+        "user": "I have done everything I can think of to prepare for this. I have been meditating to try and overcome this fear. I have spoken about my anxiety to my partner and family as well.",
+        "answer_final": "I am sure there are some support groups out there you could search for maybe. Also prayer works if you believe in God as I do!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That’s a good idea. I’ve been preparing by meditating to calm my nerves, and talking with my partner and family has provided some comfort too.",
+        "therapist": "You're finding supportive ways to manage this challenge, and those connections seem grounding for you. How has meditating or talking with loved ones shaped your sense of calm during this preparation?"
+    },
+    {
+        "round": 8,
+        "user": "I am not as anxious on video, just mainly in person in crowds of peopole",
+        "answer_final": "I understand better now sorry for the confusion. Have you spoken to your doctor for maybe temporary mild anxiety pills or something since you seem to have tried numerous things without much help",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Talking to my loved ones definitely eases my worries. With meditation, I feel less anxious about video presentations but struggle more with in-person crowds and interactions.",
+        "therapist": "Talking with loved ones seems to offer a strong sense of comfort for you. Meditation helps, too, though in-person settings feel more challenging. What if we explore ways to bring that same grounding presence into those interactions?"
+    },
+    {
+        "round": 9,
+        "user": "No problem  no need to apologize. I used to be on anxity medication but I wanted to get off the medication when I  got sober becuase it could lead to a bigger problem for me.",
+        "answer_final": "Yes I completely agree! I am going be honest and not sure how to help you. I will pray for you but I don't know what else to help. i am happy to listen and be your friend",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think that could really help. When I got sober, I decided to stop using anxiety medication since it felt risky for me. Grounding techniques might offer a safer alternative.",
+        "therapist": "Grounding techniques could align beautifully with the strength and resilience you've already shown in your journey to sobriety. What grounding method feels most accessible for you to try as you prepare for this next challenge?"
+    },
+    {
+        "round": 10,
+        "user": "WOW! I did not expect something like that to come from someone on here. Prayer is the best help in the world. Nothing is more effective than prayer!",
+        "answer_final": "Anxiety is a powerful thing and what may work for one person doesn't on another. I truly wish you the best . I would not want to be in your shoes . I honestly HATE public speaking. Yes it is and and most people say nothing left to do but pray and reality is that should be the first thing.  I have learned through many years and dont go to people houses or jam religion down throats but I am led lately to speak up in general conversation if it comes up",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate you saying that. Grounding techniques feel like something I can work with. Honestly, prayer has been my go-to—it calms me and provides clarity when I'm overwhelmed.",
+        "therapist": "Prayer seems to offer a deep sense of clarity and peace for you. It’s inspiring how you’ve found such a grounding practice. How might weaving this into your preparation create that same calm presence during moments of pressure?"
+    },
+    {
+        "round": 11,
+        "user": "It does seem to be one of my biggest fears in the world!. I can say that just the topic of prayer and that being of the heavenly father, this topic has helped to ease my anxiety in the present moment and I am sure that God led me here to the platform this evening just for this conversation with you even though it was simple in nature, you have been very helpful. People do not talk like this anymore. God and anything related has been taken out of conversations",
+        "answer_final": "Anyways,  it is time for me to go to bed. If we were able I would continue to talk to you and pray but as we can't I wish you all the best . Since you are in college you have your entire life ahead of you I hope.  Covid is temporary and this too shall pass. See you in heaven one day I hope . Goodnight and God bless.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Prayer truly is a comfort for me—it feels like divine guidance, grounding me in stressful moments. Incorporating it could help me face my fears with a calmer heart.",
+        "therapist": "Prayer seems to deeply nurture your sense of calm and strength. Trusting in that guidance could be a powerful way to steady yourself as you face these challenges. How might you create moments for prayer before or during those stressful times?"
+    },
+    {
+        "round": 12,
+        "user": "Thank you for your time! I will be praying for you as well!",
+        "answer_final": "I too believe it as well.  and you are right no one talks about it but it should be but it is easier for me with Covid since covid brings up death alot.  you are welcome and Keep safe and God did not give us a fearful mind but ... I don't remember all of it but you could google it .. something sound mind     and Satan will use fear to get us",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You're right, creating intentional moments for prayer could help me stay grounded. Thank you for encouraging that—I’ll be praying for you, too!",
+        "therapist": "Your commitment to staying grounded through prayer is truly meaningful. It’s wonderful that it provides such peace. How might these intentional moments deepen your sense of strength as you navigate stressful situations?"
+    },
+    {
+        "round": 13,
+        "user": "God does not give us the spirit of fear is I beleive what you were referring to and you 100% correct GOD BLESS!",
+        "answer_final": "tysm we all need prayers. sweet dreams my new friend",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think those moments of prayer would remind me that fear doesn’t define me—God’s strength does. That verse, about not having a spirit of fear, inspires me daily.",
+        "therapist": "Your connection with prayer and its empowering verse provides a steady anchor. Embracing this can foster a lasting strength over fear. What qualities in those moments of divine connection deepen your courage to overcome challenges?"
+    },
+    {
+        "round": 14,
+        "client": "In those moments, I feel an overwhelming peace and reassurance—a quiet strength. It’s like God reminding me I’m not alone. Recently, during a panic attack, that comfort was transformative.",
+        "therapist": "Prayer seems to offer profound peace amidst panic attacks, providing strength beyond fear. How can embracing this comforting reminder of God's presence help you navigate moments where fear tries to hold power in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 15,
+        "client": "Prayer's assurance reminds me that fear isn't my master. During a recent panic attack, pausing for prayer calmed my racing mind and helped me focus on hope and trust instead.",
+        "therapist": "Prayer has become a powerful ally, separating fear from your sense of identity and grounding you in hope. How does fear's presence try to influence areas of your life—relationships, decisions, or even self-perception—and how does this prayerful strength push back against it?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 16,
+        "client": "Fear often leaves me doubting my decisions and worth, especially in relationships. During an argument recently, prayer reminded me to respond with grace instead of retreating in self-doubt.",
+        "therapist": "Recognizing fear’s hold on your decision-making and relationships is a significant step in distancing yourself from it. Embracing grace during conflicts signals a shift towards valuing your self-worth. How does aligning with this mindset open new avenues for richer, more genuine connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 17,
+        "client": "I think it helps me listen better during conflicts, focusing on understanding rather than defending. After calming myself in prayer, I apologized sincerely to a friend recently, and we reconnected meaningfully.",
+        "therapist": "Embracing understanding over defense reflects your deep commitment to fostering meaningful relationships. Prayer helps externalize self-doubt and replaces it with grace. How might nurturing this balance enrich your daily interactions, reinforcing your values of empathy and connection?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Building on this balance allows me to approach conversations with openness, making me genuinely interested in others' stories. Recently, discussing my sister's struggles brought us closer; my listening improved.",
+        "therapist": "Approaching conversations with openness brings out the value you place on empathy and genuine connection, deepening bonds. This mirrors your commitment to cultivating meaningful relationships. How do you envision this newfound strength affecting the dynamics in other areas of your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think it could positively influence my workplace dynamics, encouraging collaborative efforts and reducing misunderstandings. Openness at work helps me approach challenges with patience and curiosity.",
+        "therapist": "Openness truly seems to reflect your value of fostering understanding and collaboration. How does this commitment to patience and curiosity align with the person you hope to be in both professional and personal spaces?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "In both realms, I aim to be someone who genuinely listens and learns. At work, collaborating on a tough project recently, curiosity allowed me to discover innovative solutions. Personally, listening with patience helped deepen conversations with my partner about future plans, providing reassurance and understanding.",
+        "therapist": "Your commitment to genuine listening and learning strengthens how you navigate challenges. Separating fear from your identity elevates values of curiosity and reassurance, creating space for deeper insights. How do these skills reflect your vision for growth in different areas of life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "My vision for growth includes using my skills in genuine listening and curiosity to foster inclusive environments. Recently, leading a team meeting, these qualities encouraged open dialogue and creative problem-solving.",
+        "therapist": "Your ability to create inclusive spaces through listening and curiosity highlights powerful moments of stepping beyond fear's narrative. How might these experiences of fostering openness shape your sense of confidence in guiding both yourself and others toward shared growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Fostering openness in my workplace has improved my confidence in team settings. I feel valued and able to contribute ideas, especially when brainstorming for our new project, resulting in collaborative growth.",
+        "therapist": "Your growth in fostering openness is linked deeply to values of collaboration and appreciation, shaping a confident identity in team settings. Celebrating these achievements aligns with your aspirations for leadership. How does this evolving confidence influence your approach to future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Evolving confidence makes facing challenges more exciting than daunting. For instance, in recent projects, I'm proactive in seeking diverse input and weighing different perspectives. I feel my team trusts me to lead with empathy and decisiveness, which encourages me to keep growing and refining my approach.",
+        "therapist": "Your evolving confidence seems to embody qualities like empathy and decisiveness, creating meaningful connections with your team. As you embrace this leadership role, what other values or practices feel essential in shaping the direction of your growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think adaptability and humility feel essential. For example, when a teammate highlighted flaws in my initial plan, I listened and adjusted. It felt rewarding to improve collectively.",
+        "therapist": "Your adaptability and humility shine through in moments like that. They seem to express a deep commitment to collaboration and shared success. How do these qualities reflect the kind of leader and collaborator you aim to be moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I aim to lead with empathy and openness, inspiring others to share ideas confidently. During a crisis last month, these traits helped unify the team under quick, thoughtful decisions.",
+        "therapist": "Your empathy and openness during the crisis reflect a strong alignment with your values of trust and collaboration. As you continue shaping this preferred leadership story, how might these traits guide the way you nurture confidence in others across future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think these traits help me create a safe space for others to express themselves. During a heated debate, I acknowledged everyone’s concerns and guided us toward a compromise that respected all voices.",
+        "therapist": "Your ability to navigate debates with respect and compromise speaks volumes about the trust you’re cultivating. How does guiding these moments of shared understanding deepen your sense of purpose in creating spaces where everyone feels valued?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I felt deeply fulfilled when colleagues mentioned feeling heard and respected. Moments like guiding the team toward understanding reaffirm my purpose of fostering an inclusive work environment.",
+        "therapist": "Your fulfillment in fostering understanding reflects your commitment to inclusivity, illustrating a core element of your leadership identity. This dedication not only enhances team dynamics but also solidifies your preferred narrative. How might continuing to embrace these values further inspire collective growth and individual expression within your team?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Embracing these values encourages transparency and mutual respect. During a recent project, I noticed team members volunteering insights more freely, cultivating innovation and bonding, which was incredibly gratifying.",
+        "therapist": "Your sense of gratification suggests these moments align strongly with your values. This openness seems to empower others while deepening bonds. How does seeing this growth in your team shape the way you view your role within these dynamics?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "I see my role as a facilitator who nurtures trust and creativity. When I noticed quiet team members sharing bold ideas, it felt rewarding knowing the environment encouraged them.",
+        "therapist": "Your role as a facilitator deeply aligns with your intention to nurture trust and creativity. Noticing quiet team members stepping forward reflects the meaningful impact of this environment you’ve created. How does witnessing these transformations further affirm what kind of leader you’re becoming?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Witnessing these transformations makes me proud and hopeful, seeing growth in the team confirms my potential as a leader. It reinforces my belief in cultivating a supportive environment where innovation thrives.",
+        "therapist": "Your pride and hope underscore the connection between your actions and deeply held values. As you foster this innovative, supportive environment, what other aspects of leadership might emerge for you to further embrace and integrate into this evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "In addition to nurturing trust, I could explore resilience in leadership. For instance, handling project setbacks taught me perseverance while helping my team learn and adapt. It boosted collective confidence.",
+        "therapist": "Leveraging resilience alongside nurturing trust opens valuable pathways for leadership development. As you adapt through setbacks, what new possibilities might emerge in shaping a resilient, supportive team culture that thrives on both innovation and collective growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I believe open communication is crucial for shaping this culture. During recent challenges, discussing setbacks openly helped us brainstorm solutions collectively and inspired a shared sense of perseverance and innovation.",
+        "therapist": "Engaging openly has clearly brought your team together, fostering both resilience and innovation. By sharing experiences and working through challenges collectively, you're reinforcing a culture that values growth and shared strength. How might continuing to nurture this environment influence the team's future narratives?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think nurturing this environment will create a narrative where challenges are seen as opportunities for collective growth. Recently, when deadlines tightened, our collaboration overcame initial stress and fueled creativity.",
+        "therapist": "Collaborative moments like overcoming stress to spark creativity reveal the power of your team's shared narrative. As these opportunities continue shaping growth, how might you expand practices that transform challenges into moments of connection and innovation for the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I might focus on regular team check-ins to openly share progress and challenges. Recently, sharing how a tight deadline spurred creativity fostered more innovative discussions among us.",
+        "therapist": "Regular check-ins sound like a powerful step toward building deeper connection and collaboration. As you reflect on these innovative discussions, what possibilities do you see for expanding this shared momentum into future projects or challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I see potential in fostering cross-team collaboration for future projects. During a recent initiative, combining diverse perspectives not only solved a complex issue but strengthened our overall bond.",
+        "therapist": "Collaborating across teams seems to resonate with your value of unity and growth. As you strengthen these bonds, how do you see this approach further aligning with the identity of a leader who inspires innovation and collective success?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I see it as fostering a safe space for collaboration where diverse ideas thrive. Recently, guiding two teams to co-create a proposal revealed how synergy fuels both innovation and trust.",
+        "therapist": "Guiding those teams to create something meaningful seems deeply aligned with the values you cherish. Who in your life, past or present, might have influenced this ability to foster connection and collaboration in such transformative ways?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My mentor during college shaped this for me. He encouraged group projects and showed how collaboration builds trust and uncovers unique strengths, which has stuck with me deeply.",
+        "therapist": "You seem to carry forward your mentor's belief in collaboration and trust. If your mentor were here, how do you think they would describe the impact of their guidance on the leader you've become today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think they’d say their guidance helped me value people over processes. I can imagine them smiling, knowing their lessons about trust shaped my leadership approach so deeply.",
+        "therapist": "Your mentor’s impact seems to live on in the way you nurture trust and connection. How do you think your leadership now carries forward this same legacy, inspiring others to value people as deeply as you do?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think my leadership reflects that legacy by creating genuine connections. For instance, during a tense project, I prioritized open dialogue, which helped ease anxieties and foster collaboration.",
+        "therapist": "You’ve cultivated an environment where others feel heard and valued. How do you imagine this openness and trust have shaped the growth or confidence of those you’ve worked alongside?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I think it’s given them a sense of safety to share their ideas freely. I remember one teammate opening up about their struggles, and later they confidently led a discussion.",
+        "therapist": "You’ve created a ripple effect by fostering safety for others to express themselves, highlighting your profound impact on their growth. What do you think about nurturing this ability in others, and how it continues to inspire confidence and empowerment in their identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I feel proud when I see it happen. Once, I helped a colleague step out of their comfort zone to lead a workshop—it was incredible watching them own that moment confidently.",
+        "therapist": "Your pride in empowering others reflects the mentor-like role you’ve embraced. How do you think your colleague’s confidence in leading that workshop might influence how they connect with or inspire others moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think it gave them courage to share their voice more openly. They later led brainstorming sessions with confidence, and I felt this quiet joy watching their growth.",
+        "therapist": "Your joy highlights a shared growth with your colleague, deepening both your and their relational identity. How do you see these moments influencing your broader connections and contributing to others’ identities in your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "These experiences inspire me to be more empathetic and attentive in community projects. Seeing someone’s transformation, like my colleague's, makes me realize the power of support and encouragement.",
+        "therapist": "You’re nurturing a culture where empathy and encouragement flourish. How do you see your actions reflecting the vision and values of significant mentors in your life, perhaps carrying forward their legacy into broader community impacts?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "My mentors instilled values of empathy and service. Like when my teacher encouraged me to lead a fundraiser, sparking my desire to impact community positively, even under stressful circumstances.",
+        "therapist": "Your teacher’s influence clearly resonates in your actions and values today, reflecting their enduring support. How does carrying forward these instilled values help you envision the kind of mentor or role model you aspire to be within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 45,
+        "client": "I aim to be supportive, encouraging community involvement and listening deeply to others. Like when I volunteered with a youth group, helping them shape ideas for local projects felt rewarding.",
+        "therapist": "Encouraging others' involvement reflects your generosity in supporting growth. Your meaningful contributions to the youth group highlight your strong commitment to community empowerment. How do you envision continuing this cycle of positive influence within other areas of your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I think by fostering deeper connections. Like at a neighborhood cleanup, I spent time listening to concerns about local issues—it made me feel connected and purposeful.",
+        "therapist": "Fostering those connections highlights your care for the community and the trust others place in you. How might your attentive listening at the cleanup have encouraged someone there to take action or feel more supported in their concerns?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I remember a woman sharing frustrations about local pollution during the cleanup. She later joined the planning committee after we discussed ideas—I felt proud seeing her step up.",
+        "therapist": "Your pride reflects how deeply your actions fostered her courage to step into leadership. How do you see this moment influencing the ways others in your community might now perceive their own capacity for change?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think it set an example of what collaboration can do. Seeing her take that step showed others that individual voices matter, which made me feel hopeful and energized.",
+        "therapist": "Your hope and energy show how deeply you value collaboration and shared empowerment. How do you think this example of collective impact reflects the strength others now recognize within themselves because of your encouragement?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think it showed them they’re capable of more than they realized. Like when a neighbor started organizing tree-planting events after seeing our cleanup efforts succeed. That felt fulfilling.",
+        "therapist": "Your fulfillment in witnessing your neighbor's initiative highlights the ripple effect of your efforts. Your contribution has inspired others to explore their potential for positive change. How might this shared journey strengthen your own sense of identity within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think it’s given me a deeper sense of belonging. When others take initiative, like during those tree-planting events, it feels like we’re truly building something together.",
+        "therapist": "You're contributing to a collective story of change and connection, enriching everyone's sense of purpose. How might these shared experiences reshape how you view yourself and your role within this collaborative community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

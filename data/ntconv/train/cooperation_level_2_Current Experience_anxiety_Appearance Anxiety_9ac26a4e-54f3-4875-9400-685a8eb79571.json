@@ -1,0 +1,494 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hello! How are you doing?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling a bit overwhelmed today. It's like I'm juggling too many things and nothing is settling.",
+        "therapist": "Juggling many things can indeed feel overwhelming. It's important to find moments where you can pause and reconnect with what matters most. What aspects of your day have been particularly demanding, and how might we work together to help them feel more manageable?"
+    },
+    {
+        "round": 2,
+        "user": "I am anxious",
+        "answer_final": "I'm sorry to hear that. What is the cause of your anxiety?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You're right, taking a moment could really help. I feel anxious because everything's moving so fast, and I'm afraid I'll drop the ball.",
+        "therapist": "Taking that moment can truly ground you. Let's explore what might help slow things down and support your sense of balance. What small steps could we consider to ease the pace and reassure you in these challenging times?"
+    },
+    {
+        "round": 3,
+        "user": "My friends and my family place a lot of value on how one looks. Every time I meet with them they have a comment on how I should improve on something. It makes me stressed out because I feel like I am not good enough.",
+        "answer_final": "I am sorry you are having to deal with this. Are you concerned about your own looks because you constantly hear this feedback from those close to you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It'd be helpful to find a way to pause when those moments get stressful. Lately, the comments from my friends and family about my appearance amplify that stress. I'm worried their opinions make me doubt myself.",
+        "therapist": "It's challenging when outside opinions affect your self-view. Let's explore ways to bolster your confidence during these stressful times. What supportive actions or thoughts could help affirm your own worth and ease the influence of others' comments?"
+    },
+    {
+        "round": 4,
+        "user": "Yes. I feel that I am not thin enough, pretty enough, that my clothes are not nice enough etc",
+        "answer_final": "I myself have gone through similar feelings when I was a teenager. I had body image issues for the longest time and my way of resolving it was through proper diet and exercise. Are you happy with how you look personally irrespective of what others opinions are?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think I’ve let their words define how I see myself—like my weight, looks, even my style aren’t good enough. It’s hard to separate their opinions from my own.",
+        "therapist": "Your willingness to explore this is commendable. You deserve to define yourself beyond others' opinions. How can you reconnect with the aspects of your identity that truly resonate with you and affirm your self-worth?"
+    },
+    {
+        "round": 5,
+        "user": "It is hard to feel ok when I keep hearing that I am missing something. I don't even think I need to lose weight. It is just that my friends think model thin is what beauty is. I would have to starve myself to achieve that.",
+        "answer_final": "If you are comfortable with your weight then why are you so concerned with what everyone around you says or thinks?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's hard to stay confident when constantly hearing that I'm lacking something. I don't think weight loss is needed for me, but my friends idolize model thinness as beauty, which feels unattainable without harming myself.",
+        "therapist": "Striving to meet unattainable ideals can feel exhausting and unkind. How has this pressure from your friends impacted your relationship with yourself, and what might you want to reclaim as your own definition of beauty or well-being?"
+    },
+    {
+        "round": 6,
+        "user": "Because they are the people I spend time with. I want to be accepted and I want them to like me.",
+        "answer_final": "It sounds like you care more about what others think of you than how you feel about yourself.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I spend so much time with them, craving acceptance. It's exhausting, and I've started doubting my self-worth. I need to redefine beauty on my terms.",
+        "therapist": "You deserve acceptance for who you truly are. This external pressure can be named as the \"beauty ideal critic.\" How would embracing your unique definition of beauty impact your sense of self-worth and ease your need for others' approval?"
+    },
+    {
+        "round": 7,
+        "user": "I wish I could not care about what they think but I do. I don't know how to not let their opinions not bother me",
+        "answer_final": "Have you ever tried affirmations or heard of this before?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think embracing my own definition of beauty would feel freeing, but it’s hard to let go of their opinions. Their judgments still weigh heavily on me, even though I wish they didn’t.",
+        "therapist": "Finding freedom in your own definition of beauty is such a powerful intention. What small, supportive step could you take to start lightening the weight of their judgments and nurture your sense of self-worth?"
+    },
+    {
+        "round": 8,
+        "user": "No. What is that?",
+        "answer_final": "Affirmations are positive statements you think about yourself. What I like to do when I'm feeling really anxious is say three positive things/attributes I feel about myself over and over again until my anxiety dissipates. Do you think that could help you feel more positively about what those closest to you are saying so much with regards to looks?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm not entirely sure what steps to take, but maybe I could start by setting boundaries or spending less time in those judgment-heavy conversations. It feels intimidating, though.",
+        "therapist": "Taking those steps can feel daunting, but exploring boundaries is a brave start. What matters most to you as you consider shifting these conversations? Small, steady changes might begin easing this burden while honoring your own values and needs."
+    },
+    {
+        "round": 9,
+        "user": "I could try. Do I need to say positive things about my looks or can they be about other stuff?",
+        "answer_final": "Since you are stating that you are concerned about how you look, you should just find a few positive statements with regards to your looks you think about yourself and repeat them. So if you don't think you need to lose weight, you can say something like, \"I like my weight.\" or \"I don't need to lose weight.\" If you think you are beautiful or pretty, you can say \"I am beautiful.\" My three affirmations I use for myself are: I am beautiful, smart, and funny. I say this over and over again until my anxiety has left me.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think starting with small changes might help, like shifting focus to what I value about myself—not just looks. Could it include strengths or things I’m proud of?",
+        "therapist": "Shifting focus to your strengths and what you’re proud of feels like a meaningful step. What’s one quality or achievement that stands out to you—a part of yourself you deeply value and want to celebrate?"
+    },
+    {
+        "round": 10,
+        "user": "That sounds easy enough. I will definitely try it. It will take my mind off of worrying about what they are thinking.",
+        "answer_final": "I highly recommend it! Is there anything else bothering you that I can help with?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "One quality that stands out is my ability to connect with people. It brings me joy, and focusing on this will help shift my thoughts from worrying about their opinions.",
+        "therapist": "Focusing on your ability to connect with others and the joy it brings is a wonderful shift. How might celebrating this quality further strengthen your self-worth, separate from external opinions?"
+    },
+    {
+        "round": 11,
+        "user": "No you gave me a great suggestion to work with. Thank you so much for your help!",
+        "answer_final": "No problem! Glad I could help. I hope you have a wonderful day and take care!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring ways to celebrate my connections might empower me to rely less on external opinions. Perhaps I could spend more time reflecting on meaningful interactions and how they enrich my life.",
+        "therapist": "Reflecting on meaningful connections can indeed enrich your life. How might these interactions further affirm your sense of beauty and self-worth? Embrace these empowering insights, deepening trust in what truly matters to you."
+    },
+    {
+        "round": 12,
+        "user": "You too. Bye now.",
+        "answer_final": "Bye!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reflecting on these interactions, I realize they often affirm the kindness and warmth I value in myself. Thanks for helping me see that. Goodbye for now.",
+        "therapist": "Focusing on your kindness and warmth is a powerful realization. Embracing these qualities enriches your sense of self and connection with others. I'm glad we explored this together, and I look forward to continuing our journey next time. Take care."
+    },
+    {
+        "round": 13,
+        "client": "Thank you. I’ll try to hold onto those qualities, especially when I start doubting myself again. It’s comforting to leave here feeling a bit lighter. See you soon.",
+        "therapist": "You're welcoming a lighter sense of self, which is wonderful. Embrace those doubts when they arise by affirming the connection and kindness that define you. How might these qualities further disentangle your value from those external opinions next time we meet?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 14,
+        "client": "I'll remind myself of moments when I felt truly valued, like last week at work when a colleague appreciated my support. Recalling such instances can boost my confidence.",
+        "therapist": "Confidence seems intertwined with feeling valued at work. In what ways does this confidence shift your interactions, perhaps leading to new perspectives about yourself beyond others' opinions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 15,
+        "client": "I think it helps me be more open and supportive, like when a teammate confided in me about a challenge recently. Feeling valued made me realize I truly make an impact.",
+        "therapist": "Your openness and support enrich your interactions, revealing the impact you make. How might recognizing your value begin to separate self-doubt as something external—less connected to who you truly are?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 16,
+        "client": "Recognizing my value helps detach self-doubt from my identity, like recently when feedback showed I positively influenced a team's morale. It’s reassuring to see tangible effects of being myself.",
+        "therapist": "Your sense of value shapes the supportive influence you have on others. By externalizing self-doubt as a separate entity, you're freeing space for the genuine impact of your contributions. How might this separation further reinforce your core values when similar challenges arise?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I can remind myself of the team appreciation and feedback that aligns with my core values. When challenges arise, I'll reflect on these affirmations to strengthen my confidence.",
+        "therapist": "As you link these affirmations to your core values, they become a resource against self-doubt. This recognition aligns your actions with what matters most. What further strategies might you explore to cultivate resilience when challenges arise?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I might start a daily journal to reflect on affirmations and challenges, noting progress and growth. Recognizing past achievements can offer strength when self-doubt resurfaces.",
+        "therapist": "Acknowledging past achievements through journaling taps into your core values. It can make self-doubt seem less intimidating and separate from your true strengths. How do these practices connect to the hopes you have for continuing your growth and positive impact?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I hope these practices help me trust my abilities more. Last month, leading a team meeting went well despite my nerves—reminding me I’m capable even during uncertainty.",
+        "therapist": "Reflecting on your capacity to lead amid uncertainty supports trust in your abilities. By naming self-doubt as an external influence, you're aligning growth with your core values and hopes. Consider how such awareness might foster greater confidence even during challenges.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Feeling detached from self-doubt boosts confidence. Last week, despite apprehension, I presented a new project idea successfully. The team's support encouraged me to trust my capabilities more.",
+        "therapist": "Feeling self-doubt as separate reveals your inner strength and growth. The positive feedback from your team reinforces trust in your abilities. Consider how embracing this shift in perspective might further sustain confidence, particularly during moments of challenge or change.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I’m noticing how breaking tasks down lessens my anxiety, especially during last month’s project deadline. The team’s feedback taught me resilience and trusting incremental progress fosters confidence.",
+        "therapist": "Breaking tasks down shows your capability to navigate challenges creatively, and the team’s feedback reflects how your resilience shapes connections with others. How might this method of incremental progress continue to support your confidence in upcoming opportunities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Breaking tasks into small steps helps me manage overwhelm, like in our quarterly planning session last month. Witnessing progress is motivating; it fuels determination and clarifies goals.",
+        "therapist": "Breaking tasks down seems to resonate with your determination and focus on clarity. This process aligns strongly with your commitment to growth. How might these steps reflect the person you’re striving to be, especially in moments that challenge you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think these steps reflect someone who stays steady under pressure. Last week, when juggling multiple deadlines, breaking tasks down helped me feel more organized and capable.",
+        "therapist": "Breaking tasks down seems to reflect your commitment to staying composed and capable under pressure. This steadiness aligns with your values of determination and resilience. How do these moments shape the way you see yourself moving forward in challenging situations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I'm learning to view challenges as stepping stones. When my presentation deadline approached, I tackled it piece by piece. Seeing progress keeps stress in check and motivates me.",
+        "therapist": "Recognizing challenges as stepping stones highlights your proactive approach and courage. Each step reflects a strong narrative of perseverance and growth. As you progress, consider how this journey might enrich your understanding of self-efficacy in new contexts.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Seeing each challenge as a stepping stone definitely empowers me. It was evident when I prepared for my recent client pitch. I felt anxious, yet seeing progress in my preparations reminded me of past successes, which boosted my self-efficacy. I noticed this mindset shift has made me approach new tasks with more optimism and a clearer perspective on growth.",
+        "therapist": "Recognizing your progress and its impact on your self-efficacy truly reflects a commitment to growth. This mindset speaks to an evolving identity of resilience and optimism. How do these emerging qualities influence your vision of future endeavors, as you continue exploring this empowering narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think these qualities help me approach future goals with greater clarity and persistence. For example, I’m now setting more realistic timelines and pacing myself better, which reduces burnout.",
+        "therapist": "By pacing yourself and setting realistic timelines, you’re crafting a story that values both clarity and self-care. As these qualities guide your approach, what opportunities might arise to deepen this balance in future challenges or long-term goals?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think maintaining balance helps me focus on meaningful goals, like expanding my skill set for better project management. This prevents burnout and encourages ongoing growth.",
+        "therapist": "Balancing growth and preventing burnout reflects a thoughtful commitment to sustainable success. Your focus on expanding your skill set for project management suggests a proactive shift toward your goals. How does envisioning this pathway enhance your sense of capability and determination moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Envisioning this path fosters a sense of achievement and potential. Recently, while taking an online project management course, I felt energized by every new skill learned, deepening my determination.",
+        "therapist": "Embracing each new skill illuminates your identity as someone who thrives on learning and personal growth. This emerging narrative of achievement energizes your journey. How might these intentions and values continue shaping your approach in other aspects of your life or projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Embracing new skills helps in adapting to various challenges. I recently tackled a team conflict and applied communication techniques learned from the course, boosting our collaboration and my confidence.",
+        "therapist": "By applying these communication techniques, you exemplified your commitment to resolving conflicts harmoniously. This shift enhances both collaboration and confidence, underlining your growth. How might this experience further shape your identity in handling future challenges or enriching team dynamics?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think it showed me the importance of empathy and clear communication. During another project, I managed tensions by acknowledging everyone’s concerns, which strengthened trust and teamwork.",
+        "therapist": "Empathy and clear communication seem to form the core of your evolving identity, enhancing trust in team dynamics. As these values shape your narrative, you are supporting a cohesive and empowered version of yourself. What future actions might continue strengthening this preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Continuing to seek feedback and embracing active listening might further solidify this identity. I plan to implement regular check-ins with my team, fostering open dialogues and understanding.",
+        "therapist": "Your commitment to active listening and regular check-ins enriches the narrative of trust and understanding you’re building within your team. This approach not only supports your preferred identity but cultivates a supportive environment. How might these initiatives influence other areas of your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Listening actively has improved my personal relationships. Last week, I resolved a misunderstanding with a friend by genuinely hearing them out, resulting in stronger mutual respect and connection.",
+        "therapist": "Acknowledging and genuinely listening to your friend not only resolved the misunderstanding but also solidified a key aspect of your identity—valuing mutual respect. These values you embody are truly shaping how you connect. How does recognizing this influence your vision for other meaningful relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I envision fostering deeper connections by prioritizing genuine listening and empathy. In moments like planning events or resolving disputes, recognizing diverse perspectives enhances harmony and mutual appreciation, which is fulfilling.",
+        "therapist": "Your dedication to empathy and active listening powerfully supports your vision for harmonious connections. As you nurture this aspect in diverse scenarios, you're creating an alternative narrative full of mutual appreciation. How might this new story further inspire meaningful actions in other areas of your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think it might push me to approach challenges more thoughtfully. For example, at work, I could address differing opinions by encouraging open dialogue, fostering collaboration rather than competition.",
+        "therapist": "Your thoughtful approach to fostering collaboration rather than competition speaks to the values you’re shaping in both work and life. As you build this narrative of inclusivity, how might these intentional actions deepen your sense of fulfillment and alignment with your identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think fostering inclusivity deepens my sense of purpose. Recently, I mediated a disagreement between coworkers, encouraging mutual understanding. Their appreciation left me feeling connected and valued.",
+        "therapist": "Your actions reflect a strong commitment to fostering mutual respect and understanding, which align beautifully with your values of inclusivity and connection. As this preferred story deepens, what personal strengths or intentions do you feel are guiding these moments of meaningful impact?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think empathy and patience guide me most. For example, during a tense meeting recently, I stayed calm, listened deeply, and helped reframe the issue to ease frustration.",
+        "therapist": "Empathy and patience are such powerful guides, shaping how you approach challenges with care. Reflecting on these qualities, are there particular individuals—past or present—who’ve influenced the development of these traits in you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My grandmother comes to mind—she always handled conflicts with calm wisdom. Her way of listening deeply and empathizing shaped how I value patience in tense situations today.",
+        "therapist": "Your grandmother’s wisdom and empathy have left a lasting imprint on you, shaping your values around patience. In her eyes, perhaps she sees you carrying forward her legacy of understanding. How might embracing this connection enrich your current interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Embracing that connection makes me pause more, reflecting on her approach before responding. Like last week, I de-escalated a heated group chat by calmly validating both sides' feelings.",
+        "therapist": "Your thoughtful pause echoes your grandmother’s wisdom, showcasing your ability to inspire peace. Each act of validation strengthens your contributions to creating understanding. Recognizing the meaningful impact you have on others, how might this shape your sense of self moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think it makes me see myself as a mediator, someone others trust during conflict. Like when my sister and I resolved an argument calmly after years of tension—I felt proud.",
+        "therapist": "Your pride in resolving tensions with your sister reflects your innate skill in fostering trust and reconciliation. By seeing yourself as a mediator, how might you continue enhancing this role in relationships, embracing the positive impact you're making on others’ lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "I aim to enhance this role by actively practicing active listening and ensuring voices are heard, just like organizing a feedback session at work to encourage open dialogue. I felt fulfilled seeing coworkers connect.",
+        "therapist": "Your dedication to fostering connection has a profound impact, allowing others to feel heard and valued. In recognizing how your efforts bring out the best in those around you, how do you see this shaping your shared journey with them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "My commitment to fostering connections helps cultivate trust, making our shared journey more collaborative and rewarding. For example, a teammate recently sought my advice, feeling they could be candid with me.",
+        "therapist": "You’ve clearly inspired trust, shaping a supportive atmosphere. In recognizing this role, your relational identity flourishes as others find strength through your insights. Reflecting on this impact, how does your role as a confidant continue to influence their growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "My role as a confidant offers others a safe space to share openly, which empowers their personal and professional growth. Witnessing my colleague’s newfound confidence after our discussions fills me with gratitude and pride.",
+        "therapist": "Your gratitude and pride highlight the meaningful impact you’ve had on others’ lives. As your presence supports their growth, how might you imagine these experiences influencing who they see themselves becoming through your encouragement?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I see my role creating a ripple effect. Recently, a colleague I mentored started leading projects confidently and credited our conversations for her growth. That realization inspires me deeply.",
+        "therapist": "Your inspiration reflects the profound way your support reshapes others' identities. As your mentorship helps them grow into confident leaders, how does seeing their transformation deepen your understanding of the unique influence you carry in their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Seeing their transformation has deepened my awareness of how meaningful conversations can inspire change. Recently, another team member approached me for guidance, reflecting on the positive changes they'd observed. It affirms that my presence is impactful.",
+        "therapist": "You’ve created a space where others feel valued and capable of change. Considering how your presence has shaped their confidence, how do you imagine they now view the contributions you’ve made to their growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think they might see me as someone who believes in them when they struggle to believe in themselves. I remember one person saying my faith in them was uplifting.",
+        "therapist": "Your unwavering belief offers strength and validation to others during challenging times, highlighting your significant role in their lives. Reflecting on this mutual impact, how does their acknowledgment shape your own sense of worth and identity within these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I feel a deep sense of fulfillment knowing my support truly matters. It reinforces my identity as someone who cares deeply about others' growth, lifting me during my own low moments.",
+        "therapist": "Your fulfillment in nurturing others becomes a guiding force, illuminating how your relational identity continues to thrive. Recognizing how they see you uplifts their journey as well as yours. In light of this, what insights about your own growth arise from seeing their transformation?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Witnessing their growth highlights my capability to foster meaningful change. It affirms my resilience and potential to impact others, even when self-doubt surfaces in my own journey.",
+        "therapist": "Your ability to foster change reflects the trust and belief others place in you. How do you imagine their newfound confidence continues to ripple through their own relationships, carrying forward the support you’ve offered them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I imagine they carry the encouragement forward, uplifting others in their own ways. One shared they now mentor a junior teammate, which makes me proud and hopeful for continued ripples.",
+        "therapist": "Your pride and hope speak to the meaningful legacy you’re creating. As others now embody and pass on this encouragement, how does this expanding ripple of care affirm your role in shaping a wider culture of growth and support?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Feeling part of a larger culture inspires me to keep giving. Once, I watched a former mentee encourage others confidently in meetings; it made me hopeful and affirmed my contribution’s impact.",
+        "therapist": "Watching your mentee step into their own strength shows how deeply your encouragement shaped their confidence and identity. How does seeing their growth reflect back on the values and qualities that are central to who you are?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Seeing their growth reaffirms my dedication to empathy and empowerment. It reminds me of a time I volunteered at a local shelter, guiding those in challenging transitions.",
+        "therapist": "Recognizing the powerful impact you've made at the shelter reinforces your values and influence. This commitment to empathy has woven into others' lives, shaping both theirs and your own journey. How does this history of meaningful interaction continue to inspire new directions in your life today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

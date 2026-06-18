@@ -1,0 +1,519 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "hi my name is Lisa, how are you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, I've been feeling quite overwhelmed lately. Could we talk about some strategies to manage this stress? It's starting to affect my daily life.",
+        "therapist": "Feeling overwhelmed can be challenging. Let’s explore small steps to reshape your daily life narrative, starting with identifying what's most important for you right now. What aspects of your daily routine offer the potential for calming or grounding experiences?"
+    },
+    {
+        "round": 2,
+        "user": "I'm struggling to make it through the day. My daughter was hit by a car in September and the traumatic experience is weighing heavy on my brain.",
+        "answer_final": "it sounds like you are feeling troubled after your daughter's car accident am I right?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Right now, being there for my daughter is most important. Since her accident in September, it's been a struggle to focus or find peace amidst the worry.",
+        "therapist": "You're showing remarkable strength by prioritizing your daughter during this challenging time. Focusing on small actions that nurture both her and yourself can help you find moments of peace. What little ways have you found comfort or relief while supporting her?"
+    },
+    {
+        "round": 3,
+        "user": "Troubled would not be the word I would use, but it wasn't a car accident. She was hit by a car in the street outside of my house.. She was coming home from school. She is only 5.",
+        "answer_final": "that sounds like it would be a very traumatic experience, it's no wonder this is hard for you, it would be hard for anyone in this situation",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Troubled isn't quite the word. She was hit by a car while coming home from school. She's only 5, and it's been hard for both of us. Finding comfort means appreciating small moments, like her laughter or even just being able to talk about our day.",
+        "therapist": "You're navigating such a heavy emotional journey, and valuing those small, meaningful moments with your daughter reflects your resilience. In this shared experience, what moments of connection have offered you both the greatest sense of comfort or support?"
+    },
+    {
+        "round": 4,
+        "user": "I have a hard time getting out of bed in the morning.",
+        "answer_final": "How  would you use to describe your feelings about this accident?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's comforting when she smiles, and we share simple activities like drawing. However, mornings feel difficult; it's hard to start my day with enthusiasm.",
+        "therapist": "Mornings seem to carry their own weight in this experience. If we imagined the struggle you feel as something outside yourself—like a cloud that hovers in the mornings—what might it be telling you about its presence or purpose?"
+    },
+    {
+        "round": 5,
+        "user": "I would say that I am anxious all the time. She survived, but she had some serious injuries after. I feel like a part of me died that day, the part that thought I could protect her no matter what. I would say that I'm also feeling ashamed because it was out of my control.",
+        "answer_final": "It sounds like you are dealing with a lot...it is normal to feel anxious about it",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think the cloud would be telling me about my fear—fear of failing her again. It’s heavy because it reminds me of that day, how powerless I felt.",
+        "therapist": "Your fear speaks to the deep love and care you have for your daughter. That powerless feeling is understandable after such a traumatic event. What might it look like to take one small, compassionate step toward easing that heaviness in the mornings?"
+    },
+    {
+        "round": 6,
+        "user": "Is that how you would feel?",
+        "answer_final": "and it's hard not to blame ourselves, but please remember this was outside your control",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess a step might be starting the day with something calming, like cuddling with her before we get up. Do you think that could help lighten the mornings?",
+        "therapist": "Starting the day with cuddles sounds like a nurturing way to create calm and connection. How might that gentle moment in the morning shape the rest of your day with her?"
+    },
+    {
+        "round": 7,
+        "user": "thank you for saying that. I quit my job to focus on her healing, and i don't want to go back to work now.",
+        "answer_final": "I have not experienced anything like this to be honest....the closest I can recall is encouraging my daughter to do something, and then she got hurt, and I blamed myself and felt like a bad mother. how is your daughter doing now?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That morning connection might set a more positive tone for both of us. I’ve already shifted so much—quitting my job to focus on her healing—and I want to stay present.",
+        "therapist": "You’ve made significant changes out of love and commitment to your daughter’s healing. That morning connection could ground both of you in a moment of peace. What does “staying present” mean for you personally in this journey?"
+    },
+    {
+        "round": 8,
+        "user": "She is healing well, she has a moderate TBI (traumatic brain injury) so there is still so much uncertainty. It sucks to blame ourselves for things that happen to our kids.",
+        "answer_final": "the fact that you felt the need to quit your job shows how deeply this has affected you...do you miss your work?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Staying present means cherishing those small healing moments, despite her moderate TBI. It's hard not to blame myself, but I try focusing on every hopeful step she takes.",
+        "therapist": "Cherishing those moments shows your deep resilience and care. Self-blame can be heavy—what might it look like to extend some of that compassion you have for her toward yourself as well?"
+    },
+    {
+        "round": 9,
+        "user": "No. And I'm completely dreading going back to work. I wish I could somehow get paid to exist so that I can just stay home with my daughter all day.",
+        "answer_final": "it sounds like you need to be with your daughter all day but also need the income that work would afford, am i right?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m not sure how to do that. Most days, my energy goes entirely to her. Honestly, the idea of going back to work feels overwhelming—I just want to stay by her side.",
+        "therapist": "Your devotion to her healing is remarkable, and it's understandable to feel overwhelmed by the thought of work. Perhaps focusing on even small moments where you nurture yourself could enhance your ability to stay present and supportive in this journey with her."
+    },
+    {
+        "round": 10,
+        "user": "YES. And if you can figure out how to make that happen I'll give you 10% of the salary lol.",
+        "answer_final": "hehe...0% is all I'd ask for.... how about part time work would that be possible for you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely! It's just tricky to find that balance between focusing on her healing and taking care of myself too. Honestly, I'd jokingly pay anyone who could help me find that balance.",
+        "therapist": "Finding that balance can be challenging but rewarding. As you continue to support your daughter, how might small acts of self-care—no matter how simple—also contribute positively to both your lives? Remember, nurturing yourself strengthens the support you offer her."
+    },
+    {
+        "round": 11,
+        "user": "I've been looking for a remote part time job that has pay equivalent to a full time job. Apparently, that's not a thing.",
+        "answer_final": "i see...I would not know how to find such a job, i've often thought that would be a great thing to do... i have a question",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I realize now that a remote part-time job with full-time pay is unrealistic, yet I hoped for it to manage both care and income. I'm determined to prioritize self-care to stay balanced.",
+        "therapist": "Balancing care and income indeed presents a challenge, and recognizing this allows room for self-care. What small steps can you take today to nurture yourself? Your determination in prioritizing balance can greatly benefit both you and your daughter's journey."
+    },
+    {
+        "round": 12,
+        "user": "What's your question.",
+        "answer_final": "is there a friend or family member that can spend time with your daughter so it's easier to get back to maybe a part time job?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think maybe taking a short walk or reading for a few minutes could help today. It’s hard to prioritize, but even small steps feel like progress, right?",
+        "therapist": "Walking and reading are meaningful self-care activities that can support your balance. Reflecting on those who contribute positively to your journey might inspire new ways to nurture yourself. How have others impacted or enriched your ability to find moments of respite?"
+    },
+    {
+        "round": 13,
+        "user": "I don't have a family. Just my daughter, and my boyfriend who lives in Australia that can't come here due to Covid restrictions. She does see her Dad everyday, but the part time hours I would need would have to be flexible and no company is even really hiring part time at the moment from what I can tell.",
+        "answer_final": "I see. I wonder if you have spoken to a doctor about how you feel?  Struggling to get through the day must be so difficult.  I wonder if it might be helpful to get screened for depression",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Though it's just my daughter and me, her Dad's daily visits bring her joy. Meanwhile, my boyfriend's presence via video calls lifts my spirits despite being afar in Australia.",
+        "therapist": "With your daughter’s father bringing joy and your boyfriend's support lifting you up, you're surrounded by love even amid challenges. How might you weave these moments of connection into nurturing your own well-being further?"
+    },
+    {
+        "round": 14,
+        "client": "I think I could share more of my concerns during calls with my boyfriend, and maybe join her dad in activities that bring her joy. It might lighten my heart.",
+        "therapist": "Sharing your concerns and engaging in joyful moments could be powerful steps. If we were to name this overwhelming struggle—perhaps \"Caregiving Overload\"—how has it shaped the way you see yourself or your ability to find balance recently?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 15,
+        "client": "['Sharing my concerns lightens the weight of \"Caregiving Overload.\" Initially, I felt disconnected from my needs. Now, I\\'m learning that connection helps me prioritize self-care and emotional resilience.', \"Recently, joining activities that brighten my daughter's mood eased feelings of isolation. Moments we laugh together help redefine balance from a nurturing perspective.\"]",
+        "therapist": "Recognizing \"Caregiving Overload\" empowers you to take intentional steps towards balance. As moments of laughter redefine isolation, how has acknowledging your needs and engaging in shared activities reshaped your emotional resilience?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 16,
+        "client": "Acknowledging my needs highlighted how much I value moments with loved ones, reducing isolation. The simple joys with my daughter and support from my boyfriend have grounded me emotionally.",
+        "therapist": "Recognizing the value of those connections shows how deeply you care about building a nurturing environment. How do these moments of joy and support align with the kind of life you want to cultivate for yourself and your daughter?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "These connections give me hope. I want a life for us filled with laughter and trust, where she feels secure and we share simple moments, like evening strolls together in our neighborhood.",
+        "therapist": "Embracing hope through meaningful connections shapes the life you envision. Your commitment to trust and laughter echoes profound values. Considering how “Caregiving Overload” can affect this vision, what steps feel essential in nurturing the security and simple joys you cherish?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Embracing open conversations helps relieve “Caregiving Overload.” Lately, our morning rituals, like sharing breakfast thoughts, bring peace. Prioritizing rest ensures I can nurture security daily.",
+        "therapist": "Finding peace through these rituals connects deeply with your hope for security and simple joys. Embracing conversations not only counters “Caregiving Overload,” but aligns with fostering a nurturing environment. What new possibilities might emerge if this sense of security continues to grow?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "As security grows, I imagine a stronger bond with my daughter where she feels completely heard and valued. Maybe we'll explore new hobbies together, like gardening or painting.",
+        "therapist": "Exploring hobbies together could offer a way for both of you to nurture joy and connection. Your envisioning reflects important values like presence and creativity. How do these hopes strengthen your commitment to providing a nurturing, valued space for your daughter?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Focusing on hobbies allows me to actively engage with my daughter, ensuring she feels valued. Like when we painted together last weekend—her laughter filled our space with warmth and creativity.",
+        "therapist": "Your focus on creating warmth and creativity speaks to a deep value of connection and care. How does separating “Caregiving Overload” from yourself help you prioritize these moments that align so strongly with what you cherish?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Separating caregiving overload feels freeing—I noticed it last night when my boyfriend cooked dinner. I finally relaxed, laughed with my daughter, and felt lighter emotionally.",
+        "therapist": "Experiencing that lightness reveals your ability to step away from caregiving overload’s grip. What does this freedom say about the balance you’re capable of creating in nurturing both yourself and your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think that freedom shows me I can step back without guilt. Like yesterday, when I read for an hour while my daughter played—it felt strange but also rejuvenating.",
+        "therapist": "Stepping back without guilt shows your commitment to honoring your needs and identity. Rejuvenation indicates a healthy boundary shaping your preferred life story. How might continuing these moments of self-care influence the values you cherish in creating this nurturing environment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Exploring self-care lets me embrace my own passions, like music. Last night, after reading, I picked up my guitar and felt harmony within myself. It enhances how I connect with others.",
+        "therapist": "Exploring your passion for music seems to deepen the harmony you seek within and with others. How do moments like this, where self-care aligns with creativity, help shape the identity you want to nurture in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I realize moments with music anchor me in my authentic self, showing vulnerability. Playing for friends felt raw and scary but so liberating. It invites honesty in relationships.",
+        "therapist": "Moments of vulnerability through music seem to highlight a commitment to authenticity and honest connection. How does embracing this part of your identity influence the way you envision strengthening relationships in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Embracing my vulnerability through music reminds me how sharing even my fears builds trust. Like performing at a friend's gathering—despite trembling, their encouragement strengthened our bond deeply.",
+        "therapist": "Sharing your fears through music seems to foster trust and strengthen bonds. How might this openness guide you in creating future opportunities for connection that align with the vulnerability and honesty you value?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Sharing openly could lead to more intentional connections, like planning a songwriting night with close friends. I’d feel nervous but excited, trusting it could deepen our bonds.",
+        "therapist": "Planning a songwriting night seems like an empowering step toward deeper connections. What might it look like to carry that nervous energy as fuel for creativity and trust, while embracing the excitement of sharing your authentic self with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I imagine the nervous energy would turn into creativity, like finding the perfect lyrics to express unspoken feelings. It'd feel rewarding, especially seeing friends relate and connect deeply.",
+        "therapist": "Sharing unspoken feelings through lyrics reflects a deep commitment to authenticity and connection. How do you see this creative energy shaping the story of who you are becoming in relationships where vulnerability and trust matter most?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I see this creative energy allowing me to express emotions I usually suppress. Like writing a song for my sibling about our complicated bond—it felt raw but cathartic.",
+        "therapist": "Embracing your creative energy to express suppressed emotions reflects a commitment to honesty and connection with yourself and others. How might honoring these feelings through your music reshape your sense of identity in relationships that matter most to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Honoring my emotions through music shapes my identity by fostering genuine relationships. I shared a song with my sibling about our past; it opened us up to healing conversations.",
+        "therapist": "Your experience of sharing a song with your sibling and sparking healing conversations points to your resilience and commitment to building meaningful connections. How might these insights inspire new pathways in how you view and engage in relationships moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Moving forward, I want to prioritize expressing vulnerability in all my relationships. Last week, sharing with my mentor revealed mutual understanding and led to unexpected personal growth for both of us.",
+        "therapist": "Your choice to prioritize vulnerability reflects a deep commitment to authentic connections. What values or intentions do you feel are guiding this shift, especially as it opens pathways for shared growth and understanding in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Values like honesty, empathy, and mutual respect guide me. Sharing my struggles with a friend last month taught us both about resilience and deepened our understanding of each other.",
+        "therapist": "Sharing your values highlights your commitment to nurturing growth and resilience. As you embrace this narrative of honesty and mutual respect, how do these choices shape the evolving story of your identity in connection with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "These choices help me embody authenticity. A recent chat with a close friend where we discussed our fears strengthened our trust and reminded me of the power in being genuine.",
+        "therapist": "Embracing authenticity through your choices enhances your relationships, like when sharing fears brought trust and deeper understanding with your friend. What actions can further cultivate this genuine expression, ensuring these connections flourish in meaningful ways?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think setting aside regular, distraction-free times to connect can deepen our relationships. For example, bi-weekly coffee chats with a friend have encouraged more meaningful conversations.",
+        "therapist": "Incorporating regular connection times is a powerful step towards nurturing meaningful relationships. How do these bi-weekly coffee chats contribute to shaping your sense of connection and belonging with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "These coffee chats make me feel seen and valued. Last week, I opened up about career uncertainties, and their encouragement helped ease my self-doubt and build trust.",
+        "therapist": "Opening up about your career uncertainties and feeling seen during these conversations adds a rich layer to your evolving story. Considering this trust and support, what new directions might you explore in nurturing both personal growth and professional aspirations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Exploring new directions, I'd like to seek mentorship in my career field. Recently, advice from an experienced colleague inspired me to pursue skill-building opportunities that enhance both my personal and professional growth.",
+        "therapist": "Seeking mentorship aligns beautifully with your values of growth and openness. As you continue on this path, what aspects of these skill-building opportunities are shaping your evolving identity in your professional journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Seeking mentorship has given me clarity and hope. Recently, during a workshop, learning project management skills made me realize my potential and ignited enthusiasm for contributing effectively at work.",
+        "therapist": "Your enthusiasm for growth highlights how mentorship illuminates your path. Seeing yourself through the eyes of mentors, what aspects of their encouragement resonate with your sense of self and inspire further pursuit of your potential?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Mentorship makes me see myself with potential and promise. My mentor's positive feedback during a project review strengthened my belief in my abilities and encouraged tackling complex challenges.",
+        "therapist": "Your mentor's positive feedback seems to reflect their belief in your competence and resilience. How might embracing this view of yourself, as seen through their eyes, influence the way you approach future challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Embracing their belief helps me approach challenges with more confidence. For instance, I volunteered to lead a team presentation recently, trusting my capability to guide and adapt.",
+        "therapist": "Trusting your capability to lead shows how much confidence you've nurtured through these relationships. How do you see your actions, like guiding that team, impacting others and contributing to their growth or sense of achievement?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think my actions inspire others to take initiative too. After the presentation, a teammate approached me for advice on improving their own communication skills, which felt really fulfilling.",
+        "therapist": "The way your actions inspire others demonstrates a meaningful connection and impact on their growth. Reflecting on how your support fosters their development, what insights do you gain about your own evolving identity within this community of mutual growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Reflecting on the impact I have, I've come to see myself as a catalyst for collective growth. After sharing strategic insights during team discussions, witnessing colleagues' enthusiasm to innovate deepens my sense of purpose and belonging.",
+        "therapist": "You perceive your role as a catalyst, sparking innovation and belonging among colleagues. This collective impact reinforces the richness of your relational identity. As you foster growth within your team, what mutual exchanges affirm and expand your evolving purpose in this vibrant community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I've noticed that open feedback exchanges deepen trust. For example, when I seek colleagues' ideas during planning sessions, their insights often reshape my approach, and we all grow together.",
+        "therapist": "Seeking colleagues' ideas and shaping approaches together highlights the shared trust you’ve fostered. As their perspectives influence your growth, how do you imagine your collaborative openness has helped shape their confidence or sense of contribution within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think my openness helps teammates feel valued. For instance, during a brainstorming session, I encouraged quieter members to share, and their unique ideas reshaped our entire strategy.",
+        "therapist": "Your encouragement seems to amplify others' voices, reshaping not just strategies but their confidence too. How might those quieter team members’ contributions evolve because of the trust and space you offered them in that moment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I think their contributions might grow bolder over time. One of them later took the lead on a project, and seeing that transformation felt deeply gratifying and meaningful to me.",
+        "therapist": "Recognizing the boldness and leadership that grew from your encouragement reveals the impact of your relational support. Their transformation also speaks volumes about your nurturing influence within the team. How might seeing these developments affirm or evolve your view of yourself as a leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Seeing their growth has made me reevaluate what leadership means. It feels less about authority and more about empowering others to uncover their potential, which is deeply rewarding.",
+        "therapist": "As your view of leadership shifts towards empowering others, consider how those you've uplifted might see you through their eyes. Reflecting on your impact, what do you discover about yourself and the values shaping this transformative dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I've realized I value collaboration and seeing others succeed as much as personal achievements. After supporting a peer who feared public speaking to lead a meeting, witnessing their confidence rise profoundly affected me.",
+        "therapist": "Supporting your peer illuminated the value of collaboration in your journey. This act highlights the mutual empowerment that enriches your shared experiences. How do these moments contribute to a deeper understanding of the collective significance you offer in others’ lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "These moments show me the power of fostering a supportive environment. Recently, encouraging a teammate during a setback helped them embrace challenges rather than retreat, strengthening our connection.",
+        "therapist": "Encouraging your teammate during a setback shows the transformative impact of your support on their resilience. As they embraced challenges, how might their growth reflect back to you—highlighting values or qualities they now associate with you because of that connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I believe they might associate me with trust and encouragement. Once, after a successful presentation, they thanked me for believing in them when doubt clouded their efforts.",
+        "therapist": "Experiencing gratitude from your teammate for believing in them reveals the trust you've cultivated. This shared acknowledgment might redefine how you perceive your impact. How does knowing they associate you with these qualities enrich your understanding of your role within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 48,
+        "client": "Knowing they associate me with trust and encouragement enriches my understanding of leadership. Their gratitude solidifies my role in fostering resilience, inspiring me to continually support growth.",
+        "therapist": "Your insights into leadership and fostering resilience illuminate your impact on others. As you continue supporting growth, consider how this evolving role might further shape both your identity and the connections you build within your team.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I've noticed how stepping into this role helps me grow, too. When I guide others, I learn from their strengths and vulnerabilities, building a deeper understanding of empathy and patience.",
+        "therapist": "Building empathy and patience through your role shows the reciprocal growth in these relationships. As others benefit from your guidance, how do you think their developing strengths and confidence might continue to shape who you're becoming?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Their growth inspires me to confront my own insecurities. For instance, seeing a teammate confidently navigate criticism reminded me to approach feedback with curiosity, not defensiveness.",
+        "therapist": "Witnessing your teammate's confidence in facing criticism seems to have profoundly impacted your own perspective. What qualities do you believe you’ve helped foster in them that now reflect back and reshape how you view yourself in these interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

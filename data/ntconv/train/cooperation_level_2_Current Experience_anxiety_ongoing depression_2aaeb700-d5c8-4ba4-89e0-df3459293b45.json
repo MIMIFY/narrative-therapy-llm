@@ -1,0 +1,481 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hi, how are you feeling today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling overwhelmed today but glad to be here. It's like everything is piling up and I don't know where to start. Can we talk about it?",
+        "therapist": "I'm truly here with you in this feeling of overwhelm. Let's explore what's weighing on you, piece by piece, and see where we can find moments of clarity or relief. How would it feel to take a small step together toward what matters most right now?"
+    },
+    {
+        "round": 2,
+        "user": "I'm feeling a bit confused and anxious.",
+        "answer_final": "okay, that is valid, do you have an idea what is causing the confusion?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I think starting small would help, but I'm struggling to even pinpoint where to begin. It's this mix of anxiety and confusion that keeps me stuck.",
+        "therapist": "Feeling stuck can indeed be challenging. Perhaps we can focus on identifying a small, manageable area where you'd like to see change or gain clarity. How do you envision taking this first step toward managing what's currently most pressing?"
+    },
+    {
+        "round": 3,
+        "user": "So I've been dating and my parents are aware. But recently after I said I want to go on a trip with my boyfriend, my parents have all sorts of opinions about it. And all their traditional beliefs that I did not know existed are now on the surface and they are kinda forcing me to follow it.. For say they think \"bad types of woman\" go on trips with their boyfriends and I need to save myself.. They have been guilt tripping me and I feel very confused.",
+        "answer_final": "Your feelings are valid and it is okay to feel confused in this situation considering you love your boyfriend and parents. Have you tried discussing with your boyfriend to talk to your parents as a means of reassuring them?. Or getting someone neutral that your parents trust to talk to them?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think what's pressing is the conflict with my parents. Their opinions about my choices, especially this trip, make me feel torn between respecting them and staying true to myself.",
+        "therapist": "You’re navigating a challenging space, torn between parental expectations and self-authenticity. Respecting both feelings is important. Let's consider how your personal story might align with respecting those relationships and staying true to who you are during this trip."
+    },
+    {
+        "round": 4,
+        "user": "I have. It's been a long stressful month of discussion. The problem is I don't share their beliefs, and I haven't been really \"saving myself\". I'm been living away from them for collage quite a while and I've been basically doing stuff that if they found out they would be very upset about.. But I didn't think it bothers them because they never shared any of this.. And they said if I go on this trip I'm disrespecting them and the entire family.. But his parents are totally cool and don't seem to mind.",
+        "answer_final": "I get how difficult and upsetting this situation is to you, i have been in a similar situation, however, in my case i took charge of my life, though they are my parents i did what i felt is good for me. Before i continue, do you mind me asking how old you are?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm really struggling to balance their beliefs with my own lifestyle. I've been making choices independently while in college, and they don't know about these parts of my life. This trip symbolizes a choice for myself, which they see as disrespectful, especially when his parents are supportive. It's hard navigating this tension and disappointing them.",
+        "therapist": "I understand how tough this balance must feel, being true to yourself and considering their beliefs. It’s important that you're choosing your path with awareness. Let's focus on finding a way to honor your journey while maintaining the respect you want to show them."
+    },
+    {
+        "round": 5,
+        "user": "I'm 26. And I see what you're saying.. It's really hard breaking free because they always monitored\n me my entire life.. I never had a voice for myself. They basically\n bullied and forced me to do what they wanted.. BTW if you didn't guess I'm their favorite child.",
+        "answer_final": "Okay, you are old enough to be away from your parents, i am going to suggest you sitting with them down and having a heart to heart discussion with them. Let them know the consequences of them forcing you, your feelings towards it and how unhappy you are with them restricting you",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your understanding. I'm 26 and it's been tough because they always monitored me my entire life, leaving me without a voice. They've always pushed their own agenda, and even now, as their 'favorite child,' I feel bullied into compliance. How can I honor myself while also showing respect to them?",
+        "therapist": "You're expressing an important desire for both self-voice and respect. Consider how your story can include moments where you assert your individuality while nurturing those familial connections. How might defining your values offer you strength in navigating this space?"
+    },
+    {
+        "round": 6,
+        "user": "Should I tell them everything I did that goes against what they believe?. So they know that I don't share their beliefs\n?",
+        "answer_final": "No, i think that should be personal to you, i would not suggest you hurting or making them see you as a disappointment. I am sure you will be fine after discussing with them, they will come around",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm wondering if sharing everything would help clarify that our beliefs differ. It might be tough, but could it bring honesty to my relationship with them?",
+        "therapist": "Sharing can deepen understanding, bringing honesty and potentially strengthening your relationship. Your openness might allow for mutual respect and acceptance. How might expressing your values with clarity promote the genuine connection you seek?"
+    },
+    {
+        "round": 7,
+        "user": "I guess worst case I won't talk to them for a while : ). Thank you , that helped.",
+        "answer_final": "They might be sad and upset now but they will get over it definitely. You are welcome",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think sharing could foster that genuine connection, but I worry it might push them further away. Worst case, I’d need some space to process everything. Thank you, this helped clarify things.",
+        "therapist": "Sharing honestly is a courageous step, and needing space for reflection is understandable. Trust in the process, knowing that you’re pursuing connection with care and authenticity. How might creating this space for yourself support your journey towards meaningful relationships?"
+    },
+    {
+        "round": 8,
+        "user": "Have a good one!",
+        "answer_final": "You too",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I really appreciate your insight. Creating space might help me gather my thoughts and explore how to nurture relationships while honoring myself.",
+        "therapist": "Creating space can be a powerful way to reflect and align with your values. As you explore nurturing relationships, how might this time help you clarify the balance between honoring yourself and connecting meaningfully with them?"
+    },
+    {
+        "round": 9,
+        "client": "I think taking space might help me focus on what truly matters—like how my independence feels both liberating and overwhelming. It could also clarify boundaries with them.",
+        "therapist": "Independence can feel both freeing and heavy when it’s linked with big decisions. If we named that tension, what might you call the challenge of balancing freedom with the weight of expectations? This could help in understanding how it influences those boundaries you're exploring.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 10,
+        "client": "I'd call it the 'freedom burden.' At times, I feel exhilarated by choices, but worried I'll disappoint. Like when choosing a job they didn't agree with—I felt torn yet empowered.",
+        "therapist": "Freedom burden captures the tension well, highlighting how choices bring liberation yet carry expectations. In what ways does this burden impact your daily decisions, and how might identifying its influence help you establish boundaries that honor both your independence and relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 11,
+        "client": "I think it impacts decisions like asking for help—sometimes I avoid it to prove I can manage alone. Identifying this might ease tension and guide healthier boundaries.",
+        "therapist": "The freedom burden seems to limit reaching out for help, adding strain when support could actually strengthen you. How might redefining this dynamic help shift its influence and create room for both independence and connection?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 12,
+        "client": "I realized the freedom burden when I hesitated to ask for advice about moving cities. Fear of appearing incapable held me back, yet embracing interdependence could redefine strength in vulnerability.",
+        "therapist": "Recognizing the freedom burden is a powerful step. Its hold on decisions like seeking advice reveals its unwanted influence. How might embracing interdependence allow you to reclaim space from this burden and choose vulnerability as a source of empowerment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "I think embracing interdependence could help me feel less isolated. For example, when struggling with a tough work decision, sharing my thoughts might ease the anxiety of holding it alone.",
+        "therapist": "Sharing your thoughts connects with the value you place on interdependence. How does aligning strength in vulnerability with this value open new possibilities in handling that anxiety and making work decisions together?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "I think it could lighten the weight of overthinking. Once, I confided in a friend about a potential promotion, and their perspective helped clarify my priorities and calm my fears.",
+        "therapist": "Finding clarity and calm in sharing reflects the value of community. Your friend’s perspective on the promotion echoes the possibility of mutual support as a strategy against overthinking. How might integrating this awareness help reinforce your approach to handling life's complex choices?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I think remembering the calm after confiding reinforces a shift from isolation to shared insight. Like when uncertain about relocating, tapping into a friend's advice helped realign my priorities.",
+        "therapist": "Engaging with friends for shared insight, instead of isolation, honors your values of clarity and connection. Recognizing these priorities reaffirms how interdependence serves your journey. How does this perspective encourage your commitment to a supportive network in future decisions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I think it reminds me how much reassurance I find in trusted perspectives. Like when I doubted a career switch, reaching out to a mentor clarified my hesitation and boosted confidence.",
+        "therapist": "Reassurance from trusted perspectives provides confidence, offering clarity when doubts arise. Naming doubt as an external factor helps it lose power, making space for self-trust and supportive guidance. Consider how continually engaging your network strengthens not only decisions but the core values they reflect.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Engaging with my network has always proven invaluable, like when a friend helped me navigate self-doubt about public speaking. Their advice transformed my apprehension into excitement and readiness.",
+        "therapist": "Your friend's guidance turned self-doubt into excitement, showing your value for shared experiences and insight. Naming doubt separately from you reveals its hold—connecting to values like confidence and community offers resilience. How do these reflections shape your journey through self-expression?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Lately, I've been trying poetry readings. My mentor encouraged this after a public speech went well. The feedback was so affirming, and I found joy and acceptance in self-expression.",
+        "therapist": "Embracing poetry readings highlights your journey towards joy and acceptance. It shows the transformative effect self-expression has on apprehension. This experience affirms your values, aligning growth with your commitment to expression. How does this evolving joy enhance the landscape of your public engagements?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think it’s made me bolder. Recently, during a Q&A after a reading, I shared a deeply personal poem. The positive reactions felt liberating, like my voice truly mattered.",
+        "therapist": "Sharing that personal poem boldly externalizes self-doubt, reducing its influence over your voice. This liberation aligns with your core values of expression and connection. Consider how nurturing this courage might continue affirming your significance in future engagements.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I think nurturing this courage could lead to more authentic connections. After that reading, I was approached by someone who felt understood. It deepened my appreciation for meaningful impact.",
+        "therapist": "Engaging others who feel understood strengthens your commitment to authentic connections and a sense of meaningful impact. Recognizing courage as pivotal, how might you continue deepening these bonds in future creative endeavors?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I plan to keep sharing personal stories and exploring collaborative projects, like workshops or community art events. The experience from a past collaboration increased my confidence in forming genuine connections.",
+        "therapist": "Sharing personal stories and engaging in collaborative projects offers you a platform for authentic connections, enhancing the narrative of courage you've been building. How might this shift continue enriching your identity as you embrace new, fulfilling ventures in community art?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I see community art as an extension of my self-expression, amplifying connections and courage. A mural project with local artists helped me embrace collaborative creation—a truly invigorating journey.",
+        "therapist": "Community art as an extension of your expression fosters a preferred narrative filled with courage and connection. This invigorating collaboration reinforces your identity landscape, weaving your values and intentions into public life. How do you see these experiences guiding future creative engagements?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I envision these experiences boosting confidence in future projects, like facilitating workshops or leading group installations. They help me realize my impact on fostering community cohesion.",
+        "therapist": "Fostering community cohesion through workshops and installations reflects your evolving narrative of confidence and collaboration. This chosen path aligns with your impact intentions. Consider how you might expand these experiences, further embracing collaborative projects to strengthen the collective stories around you.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think organizing monthly storytelling circles might expand on these experiences. Having others share their journeys is powerful, fostering a tapestry of voices and nurturing shared growth.",
+        "therapist": "Organizing storytelling circles beautifully extends your narrative of shared growth, creating meaningful connection opportunities. As you embrace others' stories, what aspects of these experiences align with your own journey of fostering a collective tapestry? Your enthusiasm for this creative path is inspiring.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I've felt a strong resonance between my personal growth and the shared narratives. At an open-mic event, hearing others’ stories mirrored my fears and triumphs, deepening our collective tapestry.",
+        "therapist": "Experiencing that deep resonance reflects how much you value authentic connection and shared meaning. Those mirrored stories seem to affirm the path you're shaping. How might this sense of collective growth guide your next steps in nurturing this tapestry?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I’ll prioritize inclusive spaces, focusing on monthly meet-ups. I'm planning an upcoming storytelling session themed on resilience, reflecting shared struggles and triumphs within the community.",
+        "therapist": "Prioritizing inclusive spaces and weaving resilience into storytelling celebrates both individual and shared strength. These sessions allow for powerful reconstructions of collective triumphs. How do you envision these stories influencing the broader identity of the community over time?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think these stories will deepen empathy in the community. At a past event, someone shared overcoming grief, and hearing it united everyone in understanding and mutual support.",
+        "therapist": "Sharing experiences of overcoming grief and fostering mutual support reflects your commitment to empathy and connection. These values seem central to your identity and vision. How might this intention shape the way you approach resilience in the upcoming storytelling session?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Resilience feels like honoring shared vulnerability. I plan to share my story of moving past self-doubt, hoping it encourages openness and sparks conversations about personal breakthroughs.",
+        "therapist": "Your commitment to sharing resilience and vulnerability reflects deep empathy and courage, influencing your evolving narrative. How do you see these qualities shaping both the way you connect with others and the stories your community will embrace moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Sharing my story of overcoming self-doubt helps me connect deeply with others. It sparks conversations around vulnerability and change, enabling meaningful community connections rooted in empathy and growth.",
+        "therapist": "Sharing your story illuminates your strong commitment to growth and empathy, enriching the community's narrative. How might this evolving understanding of vulnerability further inspire your future endeavors in building these connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Vulnerability reminds me of my journey in rebuilding self-worth. It drives me to create safe spaces where sharing is celebrated, and empathy fuels deeper connections within the community.",
+        "therapist": "Creating safe spaces from your journey of vulnerability and self-worth speaks volumes about your dedication to empowering others. Your commitment enriches both your identity and the community's. How do you envision nurturing these values further in supporting collective resilience and growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I envision hosting workshops focusing on personal narratives, where everyone can explore their stories safely. Sharing how overcoming self-doubt transformed my perspective might inspire others' resilience journeys.",
+        "therapist": "Hosting workshops to explore personal narratives aligns beautifully with your journey of overcoming self-doubt. How do you imagine these spaces shaping not only the stories others share but also the evolving strength and empathy within the community as a whole?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I imagine these spaces empowering people to acknowledge their struggles openly. In my first attempt to share, fear of judgment was overwhelming, but honesty brought unexpected connections and healing.",
+        "therapist": "Exploring the journey of honesty and the connections it fosters highlights a commitment to authenticity. These efforts deeply enrich your narrative, transforming fear into empowerment. How might these insights influence your vision of facilitating others in sharing their own transformative stories?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Recognizing honesty's power, I plan to foster environments where stories are honored, sharing my initial fear during public speaking. Witnessing vulnerability spark trust affirmed my path.",
+        "therapist": "Your commitment to honesty and fostering trust unveils a strong personal narrative focused on empathy and growth. This path truly reflects your values. How do you see your journey influencing and expanding the supportive environment you're passionate about creating for others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think my journey will show others it's okay to start messy. I remember trembling at my first community talk, but seeing nods of understanding gave me courage to continue.",
+        "therapist": "Your courage in embracing vulnerability, even through trembling moments, is a powerful example for others. The nods of understanding highlight a shared humanity that supports and nurtures community trust. How do you envision this empathy enhancing the collective stories shared within your envisioned spaces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I envision empathy deepening as participants feel understood, mirroring my own experience. Once, a listener shared their story afterward, which validated both our journeys and fostered mutual growth.",
+        "therapist": "Your reflection on mutual growth affirms your vision and intention to cultivate understanding. By embracing empathy, you're shaping a narrative that aligns deeply with your values and commitments. How might this validation inspire further actions in developing community connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I envision creating platforms where stories weave connections through shared experiences. Once, hosting a community talk, witnessing genuine empathy sparked deeper dialogues, solidifying bonds beyond surface conversations.",
+        "therapist": "Deep empathy naturally strengthens your vision of creating spaces for genuine dialogue. Reflect on those who have been pivotal in nurturing these values and shaping your journey, recognizing the shared impact they've had on the person you've become.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Reflecting on my journey, mentors who encouraged me during vulnerable times stand out. Their belief in my potential has been a compass, guiding my path towards genuine community building.",
+        "therapist": "Your mentors’ belief in you reflects the strength and value they saw in your potential. How do you imagine they might describe the qualities you now embody as a result of their encouragement?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "They'd likely say I've become resilient and compassionate. I recall a moment during a heated community debate where I mediated calmly, focusing on understanding rather than conflict.",
+        "therapist": "Your ability to mediate with resilience and compassion has clearly impacted your community positively, creating spaces for understanding. How might this journey of embracing empathy further inspire those around you to see their own potential for contributing meaningfully?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Empathy can be infectious. I recall after resolving that heated debate, a participant approached, eager to mediate future talks themselves. It reaffirmed the impact of genuine dialogue.",
+        "therapist": "Your mediation seems to have sparked inspiration in others, expanding the ripple of empathy. What qualities do you think this participant saw in your approach that encouraged them to step into a leadership role themselves?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "They likely appreciated my patience and openness to diverse perspectives. Afterward, I felt hopeful witnessing someone passionate about continuing these dialogues, embracing the power of collective voices.",
+        "therapist": "Your patience and openness seem to have inspired not just understanding, but action in others. How does knowing you've fostered such a commitment in someone else deepen your sense of purpose in these dialogues?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I feel deeply fulfilled knowing it resonated so strongly. It reminds me of a community art workshop I led where participants shared raw emotions, and creativity bridged their stories beautifully.",
+        "therapist": "Your fulfillment reflects the deep impact of your contributions. When participants shared raw emotions, how do you think their stories and creativity might have shaped their sense of identity within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Their creativity brought a deeper connection, celebrating uniqueness and unity. I felt invigorated seeing them embrace their stories; it was healing, fostering collective identity and belonging.",
+        "therapist": "Recognizing the healing and unity you've fostered must be truly empowering. The creativity encouraged a shared celebration of individual stories, influencing both their identities and your own sense of purpose. How do these experiences with the community continue to shape your identity as a guide in these spaces?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Experiencing these moments shapes me as a guide by reinforcing the importance of listening deeply and fostering safe spaces. A small gathering we held allowed individuals to openly discuss fears, strengthening community ties.",
+        "therapist": "Your ability to create safe spaces for dialogue empowers others to confront their fears and strengthen community bonds. These contributions not only transform the lives of others but also enrich your relational identity as a compassionate guide. How do you envision this influencing future interactions within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I envision fostering deeper connections, like organizing reflection circles. In one, we openly discussed failure; hearing others' vulnerability reminded me we're stronger through shared struggles.",
+        "therapist": "Exploring these circles of shared struggles shows your dedication to nurturing understanding and resilience. How do you see the act of listening impacting not only those who share, but also your own role within this supportive community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "Listening deeply has transformed my role; it enriches empathy and understanding. At a recent storytelling event, I learned to truly honor diverse narratives, strengthening our bond and mutual trust.",
+        "therapist": "Your journey of deep listening and honoring diverse stories shows the powerful impact you've had in creating a space where trust and empathy flourish. How do you see this shared vulnerability continuing to influence others' identities in your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Sharing vulnerability seems to spark courage in others. At a poetry night, one person’s raw truth led others to share deeply personal pieces—it created this beautiful ripple of openness.",
+        "therapist": "Sharing vulnerability indeed creates ripples of courage and connection. Your facilitation of such openness enriches others' identities, helping them find strength in their stories. How does recognizing this ripple effect deepen your understanding of your own relational identity within these gatherings?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Recognizing this ripple effect makes me realize my role is more of a facilitator of safety and growth. At a recent workshop, when someone shared their journey of healing, I felt a profound sense of fulfillment witnessing others' courage surface. It deepens my appreciation for authenticity, knowing that vulnerability leads to genuine connection and understanding.",
+        "therapist": "Your role as a facilitator brings immense value, fostering spaces where others can courageously share and heal. How does seeing this mutual exchange of growth and authenticity deepen your understanding of the meaningful impact you’ve had on their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "Seeing others grow and share authentically reinforces my belief in the power of creating safe spaces. During a recent art session, witnessing someone express their emotions through paint deepened my appreciation for creative outlets. It reminded me that sometimes unspoken fears find voice in unexpected forms, enhancing our collective healing journey.",
+        "therapist": "Your facilitation of safe spaces brings out unspoken fears and fuels genuine expression, enriching the healing journey for all. Reflecting on how these experiences impact others’ identities, what role does their transformation play in further evolving your sense of identity within these communal settings?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Witnessing others transform through vulnerability enhances my self-awareness and confidence. Recently, hearing someone reclaim their strength in storytelling reaffirmed my purpose in nurturing these connections.",
+        "therapist": "Reflecting on how your actions nurture others' strength reveals the profound impact you have on their growth. By creating these connections, you actively shape supportive environments that enhance relational identities. How might recognizing your influence in these transformations further guide your role in fostering such spaces?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Recognizing my influence has made me more intentional. At a recent retreat, I encouraged small group sharing, and seeing people open up reinforced my commitment to cultivating these safe spaces.",
+        "therapist": "Exploring how your intentional efforts have empowered others in their transformation is remarkable. Your facilitation continues to shape their courage and openness. How might seeing these impacts through their perspectives further deepen your understanding of relational identity within these shared spaces?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

@@ -1,0 +1,590 @@
+[
+    {
+        "round": 1,
+        "user": "hello. I have a real pickle of a problem",
+        "answer_final": "I'm sorry to hear that, can you tell me what it is?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there. I'm feeling pretty stuck lately—like I'm grappling with something big and don’t know where to start.",
+        "therapist": "Navigating something that feels overwhelming can be tough. It might help to take small steps forward. How about we explore what's been on your mind and see what emerges as a starting point? I'm here to support you as you unpack these feelings."
+    },
+    {
+        "round": 2,
+        "user": "I am depressed and all alone",
+        "answer_final": "That's a hard situation to be in.  Are you isolating due to the pandemic?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I've been feeling really low, almost like I'm drowning in my own thoughts. It's hard to pinpoint why exactly, but I just feel incredibly isolated and hopeless.",
+        "therapist": "It's understandable to feel that way. Let's honor these feelings and explore the narratives influencing your sense of isolation and hopelessness. Together, we might uncover new perspectives that shift how you experience your thoughts and surroundings."
+    },
+    {
+        "round": 3,
+        "user": "I have been isolated for 2 years now ever since my wife decided to sneak out in the middle of the night and run away",
+        "answer_final": "That's really rough.  It sounds like you did not get to have any closure whatsoever.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for understanding. My isolation started when my wife left unexpectedly at night two years ago, and it's been hard to find light ever since.",
+        "therapist": "It takes courage to share something so deeply painful. That night clearly marked a significant shift in your life. What might it feel like to explore how you've managed to keep going, even when finding light has been so hard?"
+    },
+    {
+        "round": 4,
+        "user": "yeah what a peach she was, at least she didnt murder me like my brother did to my mom",
+        "answer_final": "There's a lot of dark stuff happening in and around your life.  Do you have any things that you like to do on your own that calm you down?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels like every time I find the strength to move forward, my past pulls me back. My wife leaving hurt deeply, but losing Mom in such a violent way broke me completely.",
+        "therapist": "You've endured so much heartache, yet here you are seeking to reclaim your narrative. How might we reshape the story of your strength amid loss? Together, we can explore ways to honor your resilience as a testament to what you've been through."
+    },
+    {
+        "round": 5,
+        "user": "drinking is the only thing that takes the pain away",
+        "answer_final": "I have definitely been there.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Honestly, drinking has been my way of coping with the pain. It numbs the sadness temporarily, even if I know it's not the solution.",
+        "therapist": "It's understandable that you've turned to drinking as a way to manage your pain. This journey is challenging, and acknowledging this coping method shows self-awareness. What other small steps might you consider that align with how you'd like your story of healing to evolve?"
+    },
+    {
+        "round": 6,
+        "user": "everytime I say it cant get any worse I get a new illness",
+        "answer_final": "It must seem like things are just piling on.  Booze does this crazy thing where we think it's making things easier, but it's really making things 10x harder.  10x harder to process emotions, 10x harder to find the motivation, 10x harder to believe you are worth the effort to keep moving.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm open to finding healthier ways, but it's difficult when each attempt seems thwarted by new challenges. Every time I feel things can't get worse, a new illness appears.",
+        "therapist": "Challenging setbacks like illness can feel overwhelming, almost as if the problem keeps tightening its grip. How has this persistent cycle shaped your day-to-day life or relationships, and what small moments of strength have emerged despite it?"
+    },
+    {
+        "round": 7,
+        "user": "all I have to look forward to is fighting for pennies on mturk all day, who would ever countinue if thats all they had",
+        "answer_final": "I think you could give the booze a break for a week, and see if you may see things in a different light.  Zero judgment from me btw, I am also clearly on mturk, and I quit drinking in April after ten years of heavy heavy drinking.  Almost lost my marriage to it.  It's not easy, and I'm not preaching, but I am saying it was the best thing I could do to begin to improve my life and my health, mental and physical.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Every day feels like a struggle just to make ends meet, constantly hustling on platforms like MTurk. It affects my relationships because I'm always stressed and worried about money.",
+        "therapist": "Stress from financial pressure can indeed impact relationships and your sense of wellbeing. It's important to recognize this persistent effort as a testament to your determination. What might it look like for you to find moments of relief or peace amid the hustle?"
+    },
+    {
+        "round": 8,
+        "user": "wait till everything is taken away from you and your left with nothing and noone and see how you feel then, it might be time for a drink",
+        "answer_final": "I'm really sorry you're feeling this poorly.  If you could be doing anything at all right now, what would it be?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess relief feels impossible right now. When everything’s stripped away—money, connections, even hope—it’s hard not to feel cornered. Sometimes a drink feels like the only escape.",
+        "therapist": "You’ve been through a lot, and it's understandable that finding relief feels difficult right now. You're seeking ways to move forward despite feeling cornered, showing resilience. Let's explore what might bring small moments of hope and support for your journey."
+    },
+    {
+        "round": 9,
+        "user": "riding a motorcyle. just one more thing I will never get to do again",
+        "answer_final": "Oh shit I am so terrified of riding motorcycles. Why can't you ride motorcycles any more?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess finding hope is difficult when I think of the things I’ve lost, like riding a motorcycle—something that felt so freeing and now feels completely out of reach.",
+        "therapist": "Riding a motorcycle held deep meaning for you, offering a sense of freedom that feels lost now. Exploring what made it meaningful may uncover new ways to experience fulfillment, perhaps reshaping how freedom manifests in your life today."
+    },
+    {
+        "round": 10,
+        "user": "poverty",
+        "answer_final": "Ah, so you can still physically ride one!  Your life isn't over, you are still breathing, you will ride a motorcycle again.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Freedom feels tied to so much I’ve lost—poverty has me stuck, like there’s no space for dreams or anything beyond surviving. It’s hard to imagine more right now.",
+        "therapist": "Freedom feels deeply connected to what you value, and losing that space for dreams can feel so heavy. Even amidst survival mode, what small moments—however fleeting—have brought even a hint of peace or purpose to your days?"
+    },
+    {
+        "round": 11,
+        "user": "i was riding a motorcyle next to my brother about two years before he murdered our mom, got hit by a car and nearly died. santa is bringing money this year?",
+        "answer_final": "Maybe you could rent one",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s hard to find peace. Memories of riding next to my brother, before everything fell apart, resurface. Even that joy is tied to pain now, like I’m stuck.",
+        "therapist": "Memories like those can carry both the joy of connection and the weight of loss. Holding onto those moments, even with their pain, shows how much they meant to you. What might honoring that bond with your brother look like in a way that feels possible now?"
+    },
+    {
+        "round": 12,
+        "user": "or I could just steal one. I would rather meet a woman that isnt a coocoo bird",
+        "answer_final": "Maybe there are other alternative modes of transportation you could take up",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've thought about fixing up an old bike as a project to honor those memories with my brother. It could be healing and practical, maybe meet someone genuine along the way.",
+        "therapist": "Fixing up the bike as a tribute to your bond sounds promising. It reflects a journey of healing and might foster genuine connections. How does envisioning this project make you feel about reclaiming some aspects of joy and purpose?"
+    },
+    {
+        "round": 13,
+        "user": "well my car is about to die so it will be walking soon",
+        "answer_final": "Perhaps you'll meet someone on the bus?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Envisioning the project does inspire a sense of purpose, but it seems challenging with my car about to die, soon requiring me to walk everywhere.",
+        "therapist": "Your car challenges are understandably weighing on your mind. Perhaps fixing up the bike can serve as a beacon of hope amidst these struggles, and rekindling purpose through small steps may help navigate these transitions. What feels manageable in taking this journey forward?"
+    },
+    {
+        "round": 14,
+        "user": "going over how horrible everything is for me all day has been a real treat. that one really made me laugh",
+        "answer_final": "You didn't seem to be responding to actual solutions so I thought a joke might help :-)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It seems so bleak at times that finding humor in all of this feels almost refreshing. Perhaps tackling just the bike might lighten things a little.",
+        "therapist": "Humor can offer a gentle relief amidst bleak times. Embracing this project might be both light-hearted and purposeful. Trust in your resilience; it’s a testament to finding sparks of joy even now. How does engaging with this task alter your view on navigating current challenges?"
+    },
+    {
+        "round": 15,
+        "user": "there arent really any solutions, nothing women like more then a creepy guy talking to you on the bus",
+        "answer_final": "You could be a peer-supporter instead of a seeker, you wouldn't have to talk about your personal stuff, and it's actually been kind of nice to just give people some advice in a vacuum.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Humor indeed adds a layer of brightness, especially amid struggles. The thought of fixing the bike is refreshing, but navigating challenges like interactions on public transport remains daunting.",
+        "therapist": "Humor certainly brightens things. As for the public transport challenge, what if it’s seen as an occasional opportunity for unexpected stories? Fixing the bike could mark a reclaiming of space in your life where humor, resilience, and meaningful connections thrive."
+    },
+    {
+        "round": 16,
+        "user": "I tried but I kept failing the test. I have got so much going for me, If only the volcano hadnt come and destroyed what little I had left",
+        "answer_final": "That's horrible that happened to you, but don't you believe in yourself?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your perspective; seeing it as a space for stories is helpful. Sometimes, though, like with my past attempts at the bike and other setbacks, it feels overwhelming. It's akin to having a good rhythm only for life's \"volcano\" to abruptly disrupt it all. Trying not to get discouraged is hard, but maybe I can start by viewing these disruptions as just bumps in an ongoing journey.",
+        "therapist": "Viewing these disruptions as bumps on your journey reflects resilience and openness to change. Your rhythm might pause, but recognizing it offers a space for growth and humor can be comforting. Could embracing flexibility help shape how you see future steps?"
+    },
+    {
+        "round": 17,
+        "user": "no not really,. nothing to believe in",
+        "answer_final": "You should, you said yourself that you have got so much going for you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thinking of disruptions as mere bumps does make them feel less daunting. But some days, it just feels hard to find that belief in possibilities, like everything's crumbling.",
+        "therapist": "Disruptions can indeed feel overwhelming, especially when possibilities seem distant. Trust that each step is valid and reflects your resilience. When belief wavers, perhaps gentle reminders of past strength can affirm the journey forward. How might acknowledging these strengths nurture a sense of possibility?"
+    },
+    {
+        "round": 18,
+        "user": "that was sarcasm, one of my only friends",
+        "answer_final": "Ah I see",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "While sarcasm is sometimes a friend in tough moments, it masks the distress beneath. Reflecting on past strengths might offer more tangible comfort and clarity than humor alone can.",
+        "therapist": "Reflecting on past strengths can indeed provide grounding comfort. Your awareness of sarcasm’s role highlights your insight and depth. As you explore these strengths, how might they illuminate pathways for embracing genuine resilience beneath the surface?"
+    },
+    {
+        "round": 19,
+        "user": "well I tortured you enough. thanks for listening",
+        "answer_final": "You're welcome, I hope things start getting better soon :-)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sarcasm's been a tricky companion; shedding it for real insight offers grounding. By reflecting, I notice resilience rising gently and unexpectedly within past strengths. Thanks for being patient with my processing.",
+        "therapist": "Reflecting on past strengths indeed reveals that resilience can emerge gently and unexpectedly. Your openness to this process signifies courage. Embracing genuine insight creates space for self-compassion and growth, fostering a deeper connection with yourself beyond the humor. How does embracing this resilience feel for you?"
+    },
+    {
+        "round": 20,
+        "client": "Embracing resilience feels like quietly acknowledging my strength through moments I often overlook—like moving past anxiety on crowded buses or fixing minor bike issues alone.",
+        "therapist": "Embracing resilience reflects how you're distancing anxiety from your identity, acknowledging it as a challenge to navigate. Consider how naming this anxiety outside of yourself impacts your perspective on crowded buses or bike tasks. How might recognizing its influence invite more moments of strength?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 21,
+        "client": "Recognizing anxiety as separate allows me to acknowledge its presence without letting it overshadow every experience. On crowded buses, I picture strength guiding me, reflecting my past self's endurance.",
+        "therapist": "With the strength you recognize, you're sculpting a new narrative that prioritizes endurance over anxiety. Celebrating these quiet victories nurtures your evolving story. How does acknowledging your resilience shape your identity beyond the challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Embracing resilience transforms my view of myself, like tackling work presentations with newfound confidence. It redefines me from someone plagued by doubt to someone capable of overcoming obstacles.",
+        "therapist": "Embracing this evolving view of yourself reflects a profound shift towards recognizing your inner capabilities. This newfound confidence in work settings signals a broader transformation. What internal values or commitments drive you towards embracing this empowered identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I value perseverance and authenticity; they guide my steps. Recently, leading a successful team project showcased my resilience, proving to myself that I can overcome self-doubt.",
+        "therapist": "Your commitment to perseverance and authenticity shines through your leadership and growth. Leading that project not only reflects resilience but also aligns with the person you’re choosing to become. How might these values continue shaping the way you approach new challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think these values push me to confront challenges head-on, like volunteering to mediate a tough team conflict. It felt scary, but staying true to myself made it rewarding.",
+        "therapist": "Your actions reflect bravery and alignment with your values. This experience shapes a narrative of facing challenges proactively, turning fear into fulfillment. Consider how mediating that conflict strengthens your identity beyond present fears, cultivating future empowerment.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Mediating that conflict highlighted my ability to remain composed under pressure. I felt an unexpected surge of confidence afterward, empowering me to tackle other challenges, like advocating for my team's needs.",
+        "therapist": "Your composed response and confidence post-conflict mediation enrich the narrative of your strength. Advocating for your team illuminates how this alternative story is evolving, reinforcing your perseverance and authenticity. How might embracing these capabilities shape your identity in new aspects of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I realize these capabilities make me more proactive, like pursuing personal goals. Taking on challenging hikes, for instance, strengthens my endurance while exploring new facets of myself.",
+        "therapist": "Embracing these capabilities highlights your proactive nature and love for exploration. Pursuing hikes signifies your growth in endurance and self-discovery. Reflect on how nurturing these aspects can further cultivate this evolving, adventurous version of yourself.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I'm seeing how engaging with challenging hikes not only enhances my physical endurance but also mentally fortifies me. On steep trails, pushing through fear and doubt becomes invigorating and empowering.",
+        "therapist": "Pushing through on those trails transforms doubt into empowerment, strengthening your preferred identity of resilience and self-discovery. This narrative connects deeply with your values. Consider how these invigorating experiences might enhance other parts of your journey in life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Reflecting on those hikes, I see parallels in my work. When facing tight deadlines or difficult tasks, I've begun embracing the challenge with confidence rather than avoidance. The mental fortitude developed during hiking transcends to calm determination at work, shifting focus from fear to accomplishment.",
+        "therapist": "You're channeling that mental fortitude from hiking into your work, allowing the story of accomplishment to unfold. This approach becomes a guiding force against tight deadlines, cultivating growth. How might you expand this empowering mindset further in other aspects of your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "Exploring this mindset further, I'm inspired to focus on nurturing relationships with friends and family. Intentional listening during tough conversations can build stronger emotional connections. I find empowerment through shared understanding and support.",
+        "therapist": "Nurturing relationships aligns with your intentions, strengthening emotional connections through active listening. This empowers you in shared understanding and support. How might this evolving narrative shape new dimensions in your relationship stories, supporting the identity you seek to embody?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I've realized that being more present with my family encourages deeper bonds. For instance, during recent dinners, focusing on their stories rather than rushing through helped foster trust and empathy.",
+        "therapist": "Your intentional presence at family dinners is fostering genuine bonds, enriching trust and empathy. This narrative reveals a deeper commitment to building relationships. Reflecting on this identity shift, consider the value these enhanced connections bring to your sense of self.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "During a dinner, my brother shared his career struggles. Listening intently, I felt a renewed empathy and sensed the strength these deeper connections bring to my identity.",
+        "therapist": "Your empathy is fueling these stronger family ties, reinforcing a significant part of your identity. This openness creates space for deeper connection. How do you see this evolving aspect of your identity influencing your ongoing narrative and relationship dynamics?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Embracing this empathy helps me redefine what meaningful relationships mean. I feel a deeper sense of purpose, and I'm motivated to be more present, understanding their struggles. It transforms shared moments into lasting connections.",
+        "therapist": "Embracing empathy redefines meaningful relationships, strengthening your sense of purpose. This evolving identity invites a deeper connection with others, enriching shared moments into lasting bonds. What new insights or values do you see emerging from these connections that further align with the person you aspire to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Through these deeper connections, I've realized the value of vulnerability. Sharing and listening fully has made me feel more compassionate and authentic, aligning with who I aspire to be.",
+        "therapist": "Embracing vulnerability enriches your narrative, fostering compassion and authenticity. This openness shapes a story where shared understanding nurtures connections. As these qualities evolve, consider the actions you might continue to support your preferred story.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "To support this narrative, I'm committing to regular check-ins with loved ones and prioritizing quality time. I've started journaling these experiences, helping me reflect on the compassion I'm building.",
+        "therapist": "Your commitment to check-ins and quality time reflects your evolving narrative of compassion and authenticity. Journaling serves as a powerful tool, deepening reflection. How do you envision these actions shaping future connections and strengthening your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I'm envisioning more authentic and supportive relationships, where vulnerability is welcomed. I hope these actions help me grow emotionally resilient, sharing freely while feeling secure in these bonds.",
+        "therapist": "Your vision of authentic relationships speaks deeply to your values and intentions. This resilience you aim to grow seems rooted in trust and openness. As vulnerability becomes part of these bonds, how might it further shape the way you express support or receive care from others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think being vulnerable will help me listen without trying to fix things immediately, just offering presence. It also makes it easier for me to ask for support when I feel overwhelmed.",
+        "therapist": "Vulnerability invites meaningful presence and mutual care, reshaping how connections unfold. Thinking of those who’ve shown you such care in the past, how have their actions influenced the way you now offer support or seek it for yourself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I've been influenced by a close friend who patiently listens, never rushing to solutions. Their presence allows me to share freely and seek support without fear of judgment or inadequacy.",
+        "therapist": "Embracing the qualities of your friend's presence reveals their value in your life. This trusted connection highlights how you're perceived as worthy of understanding and support. How might integrating these qualities into your own way of being affect how you interact with others and see yourself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I'm aiming to embody their patience in my interactions, allowing others the space to share without interruption. I've noticed how this approach deepens trust and mutual respect.",
+        "therapist": "You’re embodying patience, fostering spaces of trust and mutual respect. This approach reveals how your actions contribute meaningfully to others’ lives, affirming your role in nurturing connections. What does it feel like knowing you hold a part in enriching the relationships around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "It feels uplifting and validating. Knowing I can contribute positively reminds me of an instance where my empathy helped a friend open up about their struggles, deepening our connection.",
+        "therapist": "Empathy and connection seem to enrich both your friend's life and yours, reinforcing the bonds between you. These shared moments have likely influenced how they perceive support, highlighting the importance of mutual influence. How might these experiences inspire changes in other aspects of your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I’ve started embracing vulnerability at work, opening up in meetings about challenges. This approach has fostered honesty, inviting others to share openly too, creating a supportive team atmosphere.",
+        "therapist": "As you embrace vulnerability at work, you're not just fostering honesty; you're creating spaces that invite others to be more open and connected. This mutual exchange likely enhances both your identity and theirs. How might the openness in these team interactions reflect changes in other personal relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "In personal relationships, I've started sharing my anxieties more openly. Just recently, I confided in a sibling about feeling overwhelmed. Their supportive response strengthened our bond deeply.",
+        "therapist": "Recognizing your sibling's supportive response showcases how openness enriches relationships, creating deeper connections. Your willingness to share becomes a valuable contribution, shaping the dynamics within these bonds. How might embracing this vulnerability encourage similar positive exchanges in other relationships around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Sharing with my sibling has shown me that vulnerability invites authenticity. Recently, I opened up to a colleague about feeling stuck, leading to an unexpected yet supportive brainstorming session.",
+        "therapist": "You're recognizing vulnerability's role in fostering genuine connections. Your authentic interactions have prompted valuable contributions from others, revealing your impact. How might this mutual influence shape the way you see yourself within these significant relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I feel more empowered and valued, realizing my openness encourages others. It happened recently at a family dinner when discussing our futures brought us closer, feeling both comforted and understood.",
+        "therapist": "You're discovering the empowering effects of your openness, enabling deeper connections and mutual growth. At family gatherings, envision how your contributions shape everyone's narrative. This exchange may reveal new perspectives on each other's futures, emphasizing your shared journey.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I've noticed this at our recent family dinner. Discussing future goals not only felt comforting but also sparked excitement, seeing how each of us contributes to the family story.",
+        "therapist": "Exploring each person's unique contributions brings richness to your shared family narrative. Witnessing these interactions fosters appreciation and recognition, reinforcing bonds and mutual growth. Consider how embracing these dynamics might influence future aspirations together.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I realized our dinner discussions help us align our individual dreams with family goals, making me hopeful. It was reassuring to know we all support each other's aspirations genuinely.",
+        "therapist": "You’re experiencing how your alignment fosters hope and collective support within your family. This unified approach strengthens everyone’s identity and dreams, reflecting mutual growth. In recognizing these contributions, notice how they enhance the roles you all play in each other’s lives.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Lately, I feel proud and more integral to our family story. It's like when we planned a surprise birthday for my mom, each person's role felt significant, deepening our connection.",
+        "therapist": "Recognizing your integral role in family events reinforces the bonds you share. Each contribution not only enriches family connections but also shapes each member's identity through mutual experiences. How might this recognition of shared roles continue to influence your perspective on collective family achievements?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Lately, acknowledging our contributions during family events has made me realize the strength in our unity. It gives me hope for tackling future challenges together as a supportive team.",
+        "therapist": "By appreciating everyone's contributions, you've recognized the collective strength that shapes your family. This connection brings resilience and optimism. How might you continue to foster this sense of unity and support, ensuring each member's growth as you face challenges together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Lately, I've been suggesting regular family meetings to share updates and support each other. I feel excited seeing how understanding grows, fostering empathy and motivation for our dreams.",
+        "therapist": "By initiating regular family meetings, you're nurturing an environment of empathy and shared growth. Your proactive contribution strengthens mutual support, enhancing each member's journey. How does this sense of agency within your family affect how you see yourself in other areas of life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "This sense of agency has really boosted my confidence at work. Like when I led a successful team project, I realized my potential to facilitate cooperation and mutual growth beyond just family.",
+        "therapist": "You’re recognizing how others value your ability to bring people together, both in family and at work. How might seeing yourself through their eyes deepen your confidence and shape the way you approach future opportunities for growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 50,
+        "client": "I've noticed myself more confident in proposing innovative solutions. During a team meeting, I suggested streamlining processes which led to increased efficiency. It felt empowering seeing my idea embraced.",
+        "therapist": "You’re noticing how your contributions have empowered others to adapt and thrive, just as they embraced your solution at work. How do you think this ability to inspire change is shaping the way your team views their own growth and potential?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

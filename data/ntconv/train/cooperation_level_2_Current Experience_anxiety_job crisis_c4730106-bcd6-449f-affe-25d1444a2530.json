@@ -1,0 +1,532 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello there, is there anything I can help you with?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling uncertain and heavy inside, like something’s unresolved. It’s hard to explain, but I’d like help sorting through it all.",
+        "therapist": "You’re facing a complex emotional weight, and sorting through that takes courage. I’m here to help explore what lies beneath and guide you as we find clarity together. How do you imagine resolving this feeling might change your daily experience?"
+    },
+    {
+        "round": 2,
+        "user": "hello, thanks for reaching out to me",
+        "answer_final": "You're most welcome! How are things in your life right now?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, thank you. I think resolving this could bring me peace and help lift this weight. It's hard to live each day with such uncertainty.",
+        "therapist": "You deserve peace and clarity, and it's important to address what's troubling you. Let's work together to explore these feelings and identify the paths that might lead you to relief and certainty. What could the first step towards resolving this look like for you?"
+    },
+    {
+        "round": 3,
+        "user": "not so good",
+        "answer_final": "Is there anything specific that is making you feel bad?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Not so good. I think a first step might be exploring where this uncertainty stems from and what specific aspects weigh heavily on my mind.",
+        "therapist": "Exploring the roots of your uncertainty sounds like a meaningful starting point. Let's delve into these specific aspects weighing on you, offering them space for reflection. Which part feels most important to start with today?"
+    },
+    {
+        "round": 4,
+        "user": "Yes, i lost my 9 - 5 job last week, and considering the pandemic, it makes me anxious and scared",
+        "answer_final": "Wow that is not good at all. Do you have any savings that you can fall back on in the short term?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Losing my job last week during the pandemic really heightens my anxiety. I'm feeling uncertain about future stability, and exploring these worries seems critical right now.",
+        "therapist": "Losing your job during such an uncertain time must feel deeply overwhelming. Let’s explore how this experience has impacted not only your sense of stability but also the stories you hold about yourself and your future. What feels most significant about these worries right now?"
+    },
+    {
+        "round": 5,
+        "user": "Yes i have some savings , but it is not much",
+        "answer_final": "I believe that there are some government assistance programmes for people who have been made unemployed as a result of the pandemic.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I do have some savings, but they're limited. I'm worried about how long they can sustain me. The uncertainty about finding a new job adds to this concern.",
+        "therapist": "With your savings and job uncertainty weighing heavily, the anxiety about future stability is understandable. Let's examine how these financial worries are affecting your broader narrative and explore ways to reshape them positively. What opportunities might be hidden in this challenging time?"
+    },
+    {
+        "round": 6,
+        "user": "okay great! do you know how i an access it?",
+        "answer_final": "I am not totally sure but you could try asking your local Citizen's Advice Bureau and they should be able to help.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Opportunities could be there, like maybe a different career path. But accessing this positivity feels tough. How do I move from this anxiety to seeing possibilities?",
+        "therapist": "You have recognized possibilities, like exploring new career paths. While moving toward positivity feels challenging now, your openness shows resilience. Together, we can gently explore these opportunities. Which aspect of a potential new career resonates with you most?"
+    },
+    {
+        "round": 7,
+        "user": "Alright, no problem, also because of the job loss i have been having insomnia and anxiety problems",
+        "answer_final": "I hear you, I have been suffering badly from them the last year too. Have you seen anyone about it?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring new paths does spark some interest, but lately insomnia and anxiety from the job loss weigh heavily. It's been hard to see possibilities through these struggles.",
+        "therapist": "You're facing insomnia and anxiety, which is understandably tough. Recognizing the spark for new paths shows resilience amidst these challenges. Let's explore together how even small steps towards those interests might help balance your concerns with finding peace in possibilities."
+    },
+    {
+        "round": 8,
+        "user": "Talked to few friends about it, but their advices does not help",
+        "answer_final": "Have you considered seeing someone professional? You might be able to get that free too given your circumstances",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful you're helping me see a different path. I chatted with some friends about this, but their advice didn't resonate. I find myself struggling to grasp and apply those suggestions.",
+        "therapist": "You appreciate seeing a new path, and it's understandable if others' advice hasn't aligned with your experience. Trusting your own journey is essential, and we can continue exploring what resonates deeply with you. How might we shape these new ideas to fit your unique needs?"
+    },
+    {
+        "round": 9,
+        "user": "i have not seen any professional, do you think that will help?",
+        "answer_final": "Yes I think it should. They might be able to give you advice about your finances too.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring personal journeys resonates with me, and I'm contemplating seeking professional guidance. Do you believe that working with a counselor would enhance my journey?",
+        "therapist": "Exploring your journey with a counselor can certainly provide valuable insights and support. Professional guidance often offers new perspectives that enhance personal growth. How do you envision this support aiding your path forward?"
+    },
+    {
+        "round": 10,
+        "user": "Okay great. but have you ever lost a job or know a friend that lost one",
+        "answer_final": "I have yes but I was fortunate enough that I was able to get a new one very quickly. I know that there is much more competition for jobs during this time though",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think professional guidance could really help, though I wonder—have you ever faced job loss yourself or seen someone close struggle through it? It feels so isolating.",
+        "therapist": "You’re describing such a deep sense of isolation, which makes your openness about seeking help even more powerful. While I can’t fully know your exact experience, I do admire your courage in sharing this—what feels most important for support right now?"
+    },
+    {
+        "round": 11,
+        "user": "okay that is very good for you, i am happy for you.",
+        "answer_final": "Have you started looking for a new job?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think feeling truly understood is what I need most right now. It’s comforting to hear encouragement, but the isolation from this situation often makes it hard to stay hopeful.",
+        "therapist": "You’ve shown remarkable self-awareness in identifying the need to feel understood. Let’s explore what true understanding might look like for you—what would it mean to feel less isolated within this experience?"
+    },
+    {
+        "round": 12,
+        "user": "Yes i have, i have submitted my CV to different companies, i am expecting that they call for interview",
+        "answer_final": "Well that sounds very promising. I hope that you are successful.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Feeling less isolated might mean connecting with people who genuinely understand where I’m coming from. I’ve been actively applying to jobs, hoping interviews will bring some encouragement.",
+        "therapist": "Connecting with others who truly understand sounds like an important step. Your efforts in applying for jobs already show resilience—how can we explore further ways to nurture connection and hope during this process?"
+    },
+    {
+        "round": 13,
+        "user": "Thank you so much for that assurance, i really needed it It means a lot",
+        "answer_final": "You're most welcome and I wish you all the best in the future.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, that truly means a lot. I think exploring more ways to connect with people could really help, maybe through support groups or networking events. It feels encouraging.",
+        "therapist": "Exploring support groups or networking sounds like a wonderful way to build connection and encouragement. How might engaging with others who share similar experiences begin to shift the isolation you’ve been feeling?"
+    },
+    {
+        "round": 14,
+        "user": "Thank you very much, i wholeheartedly appreciate!",
+        "answer_final": ":) You need to quit from your end and take the survey - I can't do it my end",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Engaging with others who understand could feel incredibly reassuring. Just thinking about it gives me a sense of hope, and I truly appreciate your support in guiding me there.",
+        "therapist": "Connecting with those who understand does seem like a meaningful way to nurture that hope. What small, first step toward seeking these connections feels most achievable for you right now?"
+    },
+    {
+        "round": 15,
+        "user": "Okay i will do it right away. Have a GREAT Day!",
+        "answer_final": "You too!. Just press quit and fill out the survey :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think reaching out to a local support group might be an achievable first step. I’ll look into nearby options today—it feels like a solid way forward. Thank you!",
+        "therapist": "Reaching out to a support group is a courageous and proactive step. It shows how deeply committed you are to finding connection. As you take this step, what feels most important for you to experience in these interactions?"
+    },
+    {
+        "round": 16,
+        "client": "I think feeling accepted without judgment is key. Sharing my struggles openly and hearing others’ stories would help me feel less alone, like we’re all in this together.",
+        "therapist": "Sharing experiences in a non-judgmental space can truly foster connection and understanding. Let’s explore how \"isolation\" has influenced your life, separating it from you. In what ways might redefining this isolation empower your pursuit of genuine acceptance?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 17,
+        "client": "Isolation has made me feel disconnected from myself and others, impacting my confidence. Redefining it as a shared experience might give strength to seek genuine bonds without fear.",
+        "therapist": "Building strength through shared experiences acknowledges your resilience against isolation. Imagine naming this “disconnection,” revealing its hold on confidence and self-worth. How might understanding and separating from it empower a healthier connection with yourself and others?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 18,
+        "client": "Naming it “disconnection” feels insightful—it separates it from who I am. Recognizing this could help me regain trust in myself, like reconnecting with friends I've drifted from recently.",
+        "therapist": "Separating “disconnection” from yourself opens space for healing and rebuilding trust. As you explore reconnection with your friends, consider what meaningful qualities in those relationships align with your values and hopes, reinforcing the strength of genuine bonds.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Aligning friendships with my values is vital. I recall how sincere empathy from a friend recently made me feel truly heard and understood. It's that authenticity I seek to foster now.",
+        "therapist": "Being deeply heard is vital and supports your aim to cultivate authenticity in friendships. Considering your commitment, how can fostering this understanding reshape relationships with disconnection, advancing toward stronger, value-aligned bonds?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Recognizing disconnection as an external issue gives me room to seek friendships where authenticity reigns. For example, when a friend called and truly listened, it felt uplifting, sparking the desire for deeper bonds.",
+        "therapist": "Your awareness of disconnection as external truly empowers your journey. Deepening bonds through authenticity resonates with your values. In what ways might embracing genuine connection support your aspirations for a fulfilling life anchored in truth and empathy?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think embracing genuine connection could let me share more openly, like when a neighbor recently checked in on me—it helped me feel cared for and seen again.",
+        "therapist": "Recognizing those moments of being cared for shows your resilience. Consider how fostering such connections can consistently reinforce feeling seen and heard. What qualities in these interactions resonate with your preferred narrative and empower your identity journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I've noticed that genuine curiosity and active listening really resonate with me. When my neighbor checked in, their questions were thoughtful, making me feel valued and like my experiences mattered.",
+        "therapist": "Exploring genuine curiosity and active listening illuminates values reflecting your true self. It invites authenticity to thrive, strengthening meaningful bonds and reinforcing your identity. Consider how incorporating these qualities can fortify actions aligned with your commitment to deeper connections, emphasizing mutual understanding.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "When my cousin visited, we spent hours reminiscing. Their genuine interest in my life reminded me how it feels to be truly valued. It made me want more of these genuine interactions.",
+        "therapist": "Genuine interest seems to deeply affirm your sense of value and belonging. How might prioritizing these kinds of interactions reflect your hopes for more meaningful relationships and align with the connections you wish to cultivate in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think prioritizing these interactions would help me feel more connected and appreciated. Like when an old classmate messaged me unexpectedly—it reminded me how small gestures can rekindle warmth.",
+        "therapist": "Prioritizing these connections shapes a story of appreciation and warmth. What steps can you take to nurture these moments further, strengthening a narrative that celebrates small but impactful gestures in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think reaching out more myself could help. Like sending a quick message to check on someone or sharing small updates—it might create openings for deeper conversations.",
+        "therapist": "Reaching out could be a powerful way to cultivate the deeper connections you value. As you think about sharing these updates or checking in, what moments or stories from your life might reflect the kind of openness and warmth you wish to create?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think about a time I helped an old friend through a tough day just by listening. That openness felt reciprocal, like we both left the conversation lighter and closer.",
+        "therapist": "Helping your friend through listening reflects a commitment to empathy and shared understanding in your identity. How could these values guide the way you approach future interactions, strengthening this sense of reciprocal openness you cherish?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think those values guide me to be more intentional in reaching out, like last week when I called my aunt just to ask about her day. It felt fulfilling.",
+        "therapist": "Reaching out with intentionality highlights your values of care and connection. These fulfilling actions speak to a growing narrative of nurturing meaningful relationships. How might leaning into this commitment help reinforce the identity you're crafting—someone who creates closeness through thoughtful gestures?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think leaning into this makes me feel more aligned with who I want to be. Like last month, I organized a small surprise for a coworker’s birthday, and seeing their gratitude gave me this deep sense of purpose and connection.",
+        "therapist": "Organizing that surprise and feeling purpose through connection highlights how your thoughtful actions embody the relationships you value. What qualities or intentions guided you in creating that moment, and how might they inspire other ways to shape meaningful connections in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "I focused on attentiveness and kindness when planning that surprise. I realize these qualities inspire genuine connections, prompting me to find ways to be more present for others.",
+        "therapist": "Embracing attentiveness and kindness shapes a narrative rooted in genuine connection and presence. As you explore these qualities further, consider how they deepen your sense of identity. In what ways can these values continue to enhance the stories you want to create around being present for others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "By actively listening during our family dinners, like asking thoughtful questions and celebrating small achievements, I can further cultivate attentiveness. It fuels a sense of belonging.",
+        "therapist": "As you actively listen and celebrate achievements, it seems these gatherings deepen your sense of belonging. How might the attentiveness you're cultivating shape further experiences that enrich your family's narrative and reinforce the values important to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think fostering deeper conversations can expand our family narrative, like recently discussing life lessons we’ve learned, it not only strengthens connections but reaffirms mutual respect and understanding.",
+        "therapist": "Embracing life lessons within family discussions adds depth and richness to your narrative, fostering mutual respect. How can you further nurture this evolving family story, weaving in moments that reinforce these meaningful connections and shared understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I can nurture it by organizing monthly family night, where we share stories about triumphs or challenges, encouraging openness and learning from one another’s experiences.",
+        "therapist": "Embracing monthly family nights to share stories supports a narrative of openness and learning. Each triumph and challenge can add depth to your collective experiences. How might these gatherings continue evolving your family’s sense of togetherness and mutual growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think these nights could foster more vulnerability. Like last week, my sister shared her struggles with work, and it felt like a safe space to offer support and connect.",
+        "therapist": "Sharing vulnerability creates a safe space that strengthens your family’s narrative. With openness and support, what other steps might continue to enhance this connection and embrace your family's commitment to mutual growth and respect?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think regular check-ins about personal goals could strengthen our connection. Recently, we supported my brother’s fitness journey, and the shared encouragement fostered mutual growth and respect.",
+        "therapist": "Regular check-ins can be a powerful way to reaffirm the identity values of mutual growth and respect within your family. What new ways might you and your family explore these shared journeys, further cultivating support for each other's goals?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Recently, we've considered planning shared activities tied to personal goals, like hiking trails my brother aims to conquer for his fitness journey. It feels rewarding celebrating milestones together.",
+        "therapist": "Celebrating milestones through shared activities reflects your family’s values of support and unity. How do these moments reinforce the story of your family as one that thrives on mutual encouragement and connected growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Celebrating milestones together has made me realize how much we lean on each other. Like during my dad’s retirement party, seeing everyone cheer for his achievement felt deeply grounding.",
+        "therapist": "Celebrating your dad’s retirement together highlights how deeply your family’s support has shaped your connections. What values or lessons do you think he’s passed on that have influenced the way you engage with others or approach life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My dad taught me resilience and gratitude through his actions. When he faced tough times, he stayed composed. At his party, I felt inspired by his humility and strength.",
+        "therapist": "Your dad’s resilience and gratitude seem to have deeply shaped how you see strength and humility. How do you think he might view the values you embody today and the way you approach challenges in your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think my dad would see my determination and how I’ve tried to carry his lessons forward. When I finished college despite setbacks, I hoped he saw that strength in me.",
+        "therapist": "Your determination, shaped by his lessons, speaks volumes about your shared values. How do you think your achievements might have inspired or brought pride to him, strengthening the mutual impact between you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think seeing me graduate despite setbacks probably reassured him that his struggles weren’t in vain. It felt like proving that his resilience lives on in me, which makes me proud.",
+        "therapist": "Your pride in carrying his resilience forward reflects a powerful connection between you. How do you imagine your own actions and achievements have influenced the way he now sees his own legacy and sense of fulfillment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "During my graduation, seeing his tears of pride made me realize how fulfilled he felt knowing his struggles and teachings had shaped my perseverance. It strengthens our shared legacy.",
+        "therapist": "Your father's pride reflects a deep mutual influence between you, reinforcing how connected your identities are through shared struggles. How do you envision this legacy continuing to impact your family’s future decisions and relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Seeing my dad's influence on me, I imagine our family prioritizing resilience and humility in decisions. His strength guides us, like when handling financial difficulties together.",
+        "therapist": "As you prioritize resilience and humility, your father's influence seems woven into your family's values, steering decisions through challenges like financial difficulties. How might these qualities foster even stronger bonds within your family as you face future decisions together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Embracing these values, especially during moments like my dad's layoffs, builds trust and teamwork. Our united front in adversity fosters understanding and strengthens our family bonds.",
+        "therapist": "Embracing trust and teamwork strengthens the fabric of your family's identity, fostering mutual understanding. How might these experiences have shaped your perspective on resilience, influencing the roles and relationships within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Seeing my family's adaptability during tough times, like pooling resources after my dad's layoffs, taught me resilience is about unity and creative solutions, shaping our supportive roles.",
+        "therapist": "Unity and creativity clearly play vital roles in your family's resilience, and it's impressive how these values influence the supportive roles you embody. How do you see these qualities contributing to your personal identity as well as within your family dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "These qualities are central to my personal identity, reminding me that adaptability and teamwork turn challenges into opportunities for growth. A notable event was when we supported each other emotionally during health crises, showcasing our unity.",
+        "therapist": "Your family’s unity during health crises speaks to the depth of your contributions in fostering emotional support. How do you imagine these moments have influenced the way your loved ones perceive resilience and their roles within the family dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Our shared experiences during health crises have made resilience a core family value. My loved ones learned their roles are essential for healing, helping each other adapt, grow, and face challenges together.",
+        "therapist": "Your resilience and role in fostering healing are deeply meaningful, shaping how your loved ones adapt and grow together. In seeing their transformation, how does this reflect the unique qualities you bring to your family’s ability to thrive during challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I bring empathy and communication, often initiating conversations that help us process tough experiences. I remember leading a family meeting after a crisis, where we discussed our feelings openly.",
+        "therapist": "Your leadership through empathy and communication has clearly impacted your family, helping them open up during challenging times. Considering how these contributions have influenced your loved ones, what mutual transformations have you observed in them that further enrich your family's resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I've seen my dad become more expressive, and my mom takes proactive steps to manage stress. These shifts encourage open dialogue and creative problem-solving, strengthening our family bond.",
+        "therapist": "Your contributions clearly foster valuable changes within your family, enhancing their resilience. By recognizing your role in sparking open dialogue and problem-solving, what insights can you share about how these transformations further define your sense of agency and value?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I’ve realized these changes remind me of my ability to nurture stability in chaos. For example, when my brother felt lost post-divorce, I guided him toward finding new purpose.",
+        "therapist": "Your ability to provide guidance during your brother’s difficult time is deeply meaningful. How do you think his experience of rediscovering purpose, with your support, has shaped not just him, but also how he might now see your role in his life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think it’s made him see me as someone he can trust when life feels overwhelming. After his divorce, he said my support gave him hope to start again.",
+        "therapist": "Your brother’s acknowledgment reflects the depth of trust and hope you inspire. In recognizing his view of you as a reliable guide, how do you feel this relationship continues to shape your own identity in times of challenge or uncertainty?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 50,
+        "client": "I think it reminds me of my strength in offering stability to others. When I face uncertainty, remembering his gratitude helps me feel more grounded and capable.",
+        "therapist": "Your strength in offering stability clearly creates a ripple effect in others’ lives. Reflecting on how your brother’s growth and gratitude impact you, how do these connections inspire your vision of what’s possible within other relationships you value?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

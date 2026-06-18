@@ -1,0 +1,471 @@
+[
+    {
+        "round": 1,
+        "user": "what should I do?",
+        "answer_final": "Can you tell me a little more about your situation so I can better understand?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling stuck and unsure about the next steps. I really want to make changes but don't know where to begin. Can you guide me through this?",
+        "therapist": "You’re expressing a desire for change, and that’s a powerful first step. Let’s explore the story of your current situation together. What is one small thing you could focus on changing that might lead you toward the transformation you seek?"
+    },
+    {
+        "round": 2,
+        "user": "My friend's husband is spreading false rumors about me because my daughter moved up in soccer and theirs didn't.  He's telling people it's because I'm having an affair with the coach - who is married!  This is not true!  My daughter is a better soccer player.. what do you think I should do?",
+        "answer_final": "It sounds like your friend's husband might be jealous of your daughter, or embarrassed\n that his daughter did not get moved up also. Have you spoken to your friend about this?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "This situation with my friend's husband is so upsetting. I'm stuck, feeling betrayed by someone I trusted. Maybe focusing on maintaining integrity and clearing the air is a good start?",
+        "therapist": "Focusing on maintaining your integrity and clearing the air seems constructive. How do you see this step aligning with your values? Let’s identify small actions that reflect who you are and contribute to healing the trust affected."
+    },
+    {
+        "round": 3,
+        "user": "I haven't yet.  I was deciding whether or not to talk to him directly or just her or both at the same time.  I am really upset and don't want to lose her.  I know people get all crazy about their kids and sports.  I agree that he's jealous but his daughter isn't really that good - didn't make the school team either.  Should I talk to my friend alone first?",
+        "answer_final": "It depends on the depth of the relationship between the three of you. How long have you all been friends?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I haven't decided on a direct conversation yet. I'm upset about how to handle it without damaging my friendship. His behavior feels like jealousy, but I want to discuss it calmly with her first.",
+        "therapist": "Discussing it calmly with her sounds wise and can support your friendship's integrity. Your insight about his jealousy is crucial. What might be one respectful step toward communicating this that feels safe for you both?"
+    },
+    {
+        "round": 4,
+        "user": "About 6 years.  Our daughters are also friends, too.  I am single so I don't care about the husband but also don't want to come in between their marriage.",
+        "answer_final": "Yes, that is a difficult situation to know how to handle. It could be in your best interest to leave your friend out of it so she doesn't feel stuck in the middle or forced to take sides. However she could view the opposite as you going behind her back.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've known her for about 6 years, and our daughters are friends. It feels delicate; I want to be honest without disrupting their marriage. It's challenging since I'm single, but it's crucial not to interfere with their relationship unnecessarily. I believe gently expressing my feelings while emphasizing our friendship might help.",
+        "therapist": "Your desire to preserve the friendship while expressing your feelings is a strong and thoughtful approach. Highlighting your long-term connection can indeed be reassuring. What small steps can help you express yourself honestly while maintaining this cherished bond?"
+    },
+    {
+        "round": 5,
+        "user": "yes that's true.  I don't want to go behind her back but also don't want to get her involved.  I could have the coach talk to the dad maybe?",
+        "answer_final": "Yes, coaches are a great resource for life's dilemmas. Perhaps another option would be to casually mention something to him in passing, like at one your daughters games as to avoid any big blowups or emotional exlosions.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree, preserving trust is essential. I don’t want to bypass her or create unnecessary tension. Having the coach speak to him might address concerns without complicating our friendship.",
+        "therapist": "Preserving trust indeed matters greatly. Your idea of involving the coach to address concerns shows foresight and care for maintaining relationships. How do you feel about moving forward with this approach, balancing honesty and respect for your friendship?"
+    },
+    {
+        "round": 6,
+        "user": "Oh that's a good idea - in public and not making a big deal about it - and before she moves teams and rumors get worse.",
+        "answer_final": "That is exactly right. Each person handles and avoids conflict differently and you have the important roll as leader in all of this. There is a chance he is not aware of the strain this has put on you emotionally and he could respond well to not being called out by someone else. Does that make sense?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think approaching it in a public setting could ease any tension and prevent further misunderstandings. It's important to handle it soon, especially before she switches teams.",
+        "therapist": "Handling it in a public setting sounds like a thoughtful way to ease tensions. It's commendable that you're planning ahead to preserve both friendship and clarity. Would you like to explore how best to balance this approach with maintaining open communication?"
+    },
+    {
+        "round": 7,
+        "user": "it does - but doesn't seem that he cares about my strain on my life since he's the one spreading such lies about me.  I just hate him!",
+        "answer_final": "I can understand how you would feel like he doesn't care about the strain it's placed. Can I ask, are your daughters aware or involved in these rumor's? This could make a difference in how you could respond.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your support on finding balance, but his behavior leaves me stressed and hurt. It feels unfair with the lies he's spreading about me, yet I want peace.",
+        "therapist": "His behavior seems to be an unwelcome presence impacting your peace. By naming these falsehoods as 'lies,' we can better examine their role in your life. How might you reclaim some control over this narrative and prioritize your peace?"
+    },
+    {
+        "round": 8,
+        "user": "I did tell her because I was so mad when another mom told me.  She doesn't care.  She still likes the friend but not the dad.",
+        "answer_final": "Sounds like your daughter has a good head on her shoulders. Maybe there's something to be learned from her reaction to all of this. I understand how hard this has been for you so perhaps simply ignoring the rumors will allow you to heal quicker, by simply being the bigger person. Because rumors are just rumors, after all. You and your daughter know the truth and that's all that matters.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I did let her know when I heard about it from another mom, and I was so angry. It's unsettling she doesn't seem to care much and maintains friendship only with her daughter, not the dad. This complexity makes me feel stuck but determined to find peace amidst these lies.",
+        "therapist": "Navigating these emotions amidst such a situation truly shows your resilience. Your determination to find peace is inspiring. How might you reinforce your sense of calm and truth while staying true to the narrative that empowers you?"
+    },
+    {
+        "round": 9,
+        "user": "yes you're right.  I will try to just ignore.  And figure out what to do with my anger over all this?  Maybe go for a run and also avoid him?",
+        "answer_final": "If he knows you know and you rise above with a smile on your face, that could show him that you are more mature than his childish games, and that you mean business. By taking ownership of your own feelings and emotions, you might find that will squash your need to let out any anger towards him.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think focusing on activities that ground me, like running, might help clear my head. Ignoring him seems tough but necessary. How do I process this lingering anger productively?",
+        "therapist": "Engaging in grounding activities like running can be a strong ally against the anger you're experiencing. By externalizing this anger, you create space to evaluate its influence. How might running help you distance yourself from the anger, nurturing both peace and clarity in your life?"
+    },
+    {
+        "round": 10,
+        "user": "oh I like that and I am willing to try.  I am tired of wasting my energy being so angry at this man who like you said is jealous which is HIS problem and shouldn't be might, right?!",
+        "answer_final": "Exactly. Let his problems remain his. You worry about you and your daughter and he can watch from a distance confused at his failed attempt to reflect his own dissatisfaction with life onto you didn't work. I think you will feel freed\n of any stress this has caused.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Running definitely seems like a good outlet for my frustrations. I'm ready to try it, instead of focusing on anger over his jealousy, which really is his problem.",
+        "therapist": "Running offers a positive channel for processing frustration. By recognizing his jealousy as external to you, you're separating from its grip and choosing clarity. As you engage in running, reflect on how reclaiming your focus nurtures personal peace. What might emerge when you prioritize self-care over anger?"
+    },
+    {
+        "round": 11,
+        "client": "Running does help clear my mind, creating space for new perspectives. By letting go of anger, I realize it also allows me to engage more with my children. Recently, during a run, I imagined myself embracing peace instead of holding grudges—seeing myself happier felt refreshing.",
+        "therapist": "Embracing peace and creating space for new perspectives align beautifully with your values, especially as a parent. It seems that prioritizing emotional clarity is bringing meaningful change. What further steps could support this shift toward a more peaceful, fulfilled self?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 12,
+        "client": "I think spending more time outdoors with my kids might help. Last weekend, we went hiking, and their laughter made me feel calm and connected. I'd like more moments like that.",
+        "therapist": "Feeling calm and connected with your children during hiking aligns with your desire for peace and fulfillment. Prioritizing such outdoor moments reinforces this connection. How do these experiences reflect your values of joy and togetherness in shaping a narrative you cherish?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "During hiking, watching my kids laugh and explore reminded me of the simplicity in joy and connection. These moments inspire me to shift focus toward genuine experiences and away from resentment.",
+        "therapist": "Exploring genuine joy highlights your commitment to nurturing positive connections over resentment. This focus reflects a deep alignment with personal values of simplicity and family connection. How might these insights shape future experiences that celebrate this newfound clarity and joy?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Realizing this, I'd like to create rituals of weekend adventures with my kids—small hikes, picnics in the park. Imagining these moments already feels warm and fulfilling.",
+        "therapist": "Creating weekend rituals centered around connection and joy honors your values. Externalizing resentment opens pathways for nurturing relationships that fulfill you. These moments strengthen bonds with your children while supporting emotional growth. How might engaging in these adventures further align with your vision for a more peaceful life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Engaging in adventures with my kids fosters harmony, strengthening our relationship. Just last weekend, their curiosity while exploring nature brought unexpected serenity to us all.",
+        "therapist": "Your children's curiosity and the serenity it brought aligns beautifully with your commitment to nurturing harmony. This shift towards peaceful experiences reflects your values deeply. Exploring what these harmonious moments mean to you could reinforce this positive transformation in your narrative.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Last week's nature trip underscored how peace stems from simplicity. As we walked through the forest, a wave of calm washed over me, soothing my lingering frustrations. Observing them engage so freely reminded me of the beauty in life’s unplanned joys. I felt lighter, more present, and deeply connected to our surroundings.",
+        "therapist": "Embracing the calming simplicity you found in nature underscores how vital peace is to your wellbeing. Observing unplanned joys brings you closer to cherished values of presence and connection. How does recognizing this harmony inspire your journey toward sustaining a more peaceful, fulfilling life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Recognizing this harmony encourages me to prioritize moments that truly matter. A simple sunset walk can calm my racing thoughts, bringing clarity and strength amidst life's chaos.",
+        "therapist": "By prioritizing moments like a sunset walk, you're valuing peace and clarity over chaos. These choices affirm your commitment to serenity amidst life’s challenges. How might these conscious steps towards tranquility help reshape your narrative into one filled with purpose and meaning?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Consciously choosing tranquility helps me feel more in control. Last weekend, I noticed a calm focus after walking along the beach at dusk. It shifted my perspective positively.",
+        "therapist": "Naming the problem of chaos separately helps you harness tranquility as an empowering force. Walking along the beach nurtured your personal values of clarity and focus. How do these experiences align with your commitments to living a more meaningful life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think these experiences reflect my commitment to finding peace in the small things. One evening, watching waves roll onto the shore, I felt grounded, as though life’s weight had temporarily lifted.",
+        "therapist": "Finding peace in small moments, like the grounded feeling at the shore, connects you deeply to values of tranquility and release. As you externalize life's weight, what shifts in perspective support your hopes for sustaining balance and clarity amid everyday experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I notice I can carry the sense of calm from these experiences into stressful moments. For example, before a tough meeting, recalling the beach waves helps ground my anxiety.",
+        "therapist": "Recalling beach waves as a calming resource highlights your value of internal peace during stress. Identifying these triggers empowers you over anxiety's grasp. How do your experiences of grounding influence your hopes for managing future challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I hope that grounding will continue to guide me through challenges. Remembering waves helps me breathe deeply and approach situations with a calmer mind, like recently handling a tense family discussion.",
+        "therapist": "Embracing grounding through recalling the waves empowers you to handle challenging situations with grace, like your recent family discussion. How does acknowledging these unique outcomes help transform your narrative towards a story of strength and resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Acknowledging these outcomes makes me feel capable and resilient, like when I calmly mediated between family members. It was fulfilling to see their disagreements resolve through my influence.",
+        "therapist": "You're clearly tapping into a strong sense of capability and resilience, guiding others with calm authority. Recognizing these actions strengthens your preferred narrative of being influential in resolving conflicts. How do these experiences further reflect your commitment to fostering harmony and understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "During a family dinner, seeing tensions rise, I focused on creating space for each person to voice concerns, facilitating constructive dialogue. This was heartening and reinforced my desire for unity.",
+        "therapist": "Your action to create dialogue space reflects deep commitment to unity and understanding, shaping a stronger identity. As your stories of fostering harmony evolve, how do these narratives impact your sense of purpose in nurturing connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Fostering harmony reinforces my purpose of nurturing connections, giving me a sense of fulfillment. Recently, guiding siblings through their conflict deepened our bond and felt rewarding.",
+        "therapist": "Focusing on nurturing connections and guiding your siblings reveals a deeply rooted commitment to harmony, strengthening family bonds. This action landscape you've shaped indicates the transformative power of connection in your life. How might these experiences inform your ongoing journey of creating deeper relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "These experiences have shown me the value of empathy and patience, both crucial for building deeper relationships. Guiding a friend's struggles recently mirrored this nurturing instinct, fueling my purpose.",
+        "therapist": "Acknowledging your nurturing instincts connects strongly with your core values, like empathy and patience. As you embrace these qualities, you're enriching not only your relationships but also your sense of self. How might these experiences of fostering growth in others shape the narrative of who you are becoming?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Embracing empathy has led me to see myself as a connector, crucial in my interactions. Recently, during a friend's emotional breakdown, listening and supporting reaffirmed this role deeply.",
+        "therapist": "Embracing your role as a connector aligns beautifully with your inner values of empathy and support. Witnessing these qualities during your friend's time of need reinforces your identity and purpose. How does this evolving narrative shape your vision for future interactions and personal growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I envision cultivating deeper connections, continuing to support others empathetically. Recent successes encourage me to explore new ways of understanding, hoping this leads to further personal growth and fulfillment.",
+        "therapist": "Your intention to deepen connections and embrace new understanding speaks volumes about your commitment to growth and fulfillment. You're on a meaningful path of re-authoring your story. How might exploring new perspectives further enrich this journey of cultivating empathy and support in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Exploring new perspectives opens my mind to unique insights. When my colleague faced burnout, listening deeply uncovered struggles I hadn't considered, enhancing both empathy and support.",
+        "therapist": "Your keen observation during your colleague's burnout speaks volumes about your empathetic nature. Recognizing such exceptions and acting with support highlights a growing narrative of profound understanding in your interactions. How might these insights continue shaping the meaningful connections you aim to nurture?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "I realized that by truly listening, I'm able to offer genuine support, strengthening our bond. These insights teach me the value of shared vulnerability and honest communication.",
+        "therapist": "Your embrace of true listening and shared vulnerability suggests a strong commitment to fostering honest communication, reflecting core values. This realization aligns deeply with your preferred identity. How might you carry this understanding into future relationships, enriching them with the depth of support you've discovered?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I intend to actively listen and be present in future conversations. A recent moment when my friend confided about their fears highlighted how openness strengthened our trust and understanding.",
+        "therapist": "Exploring this openness in conversations is a beautiful step towards deepening trust and understanding. Your intention to actively listen shapes a narrative of genuine connection. How might integrating this practice continue to transform your interactions and support your evolving story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I believe integrating openness will help me confront conflicts more calmly, like when my brother questioned our plans last week. It fosters understanding rather than resentment, leading to resolution.",
+        "therapist": "Reflecting on moments with your brother demonstrates your ability to transform potential conflict into understanding. Embracing openness as a part of your evolving narrative enriches relationships profoundly. How might these redefined interactions support further transformations in other areas of your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I've noticed that when I communicate openly with my family, I'm less anxious in other settings. It boosts my confidence at work and encourages me to address issues directly.",
+        "therapist": "Your insight into open communication reducing anxiety beautifully aligns with your preferred identity of confidence and directness. Embracing these values strengthens not only your work life but also reinforces meaningful relationships. How can you continue integrating this openness to support further positive growth in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think embracing openness means actively choosing to communicate even when it's hard. At work, discussing a challenging project helped me feel grounded. I'm grateful for this positive change.",
+        "therapist": "Openness clearly reflects a core value, guiding you through challenges with resilience and clarity. These intentional choices create a preferred narrative grounded in genuine communication. As you embrace this change, how might it continue to influence the identities you are shaping at work and beyond?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think this openness helps me feel more authentic. For example, during a team meeting, sharing my honest concerns invited collaboration instead of judgment. It was unexpectedly empowering.",
+        "therapist": "Your willingness to share authentically in that meeting reflects courage and trust in collaboration. It seems this authenticity is reshaping how you experience connections. How might this newfound empowerment guide your approach to other moments where openness feels challenging?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "This empowerment encourages me to face discomfort head-on, like when presenting new ideas. I often feel anxious before speaking up, yet addressing these nerves directly fosters a sense of fulfillment and growth.",
+        "therapist": "You’re integrating empowerment into your evolving narrative, transforming anxiety into opportunities for growth. This speaks volumes about your commitment to authenticity. How might these values further shape the actions you choose when facing challenging situations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "When faced with challenges, like taking on a new leadership role at work, I try to focus on what I've learned. Thinking of past achievements eases my nerves and inspires confidence.",
+        "therapist": "Reflecting on those achievements reveals the influence of significant figures who may have contributed to your growth. Who, in your life, might have inspired or supported these lessons, shaping the confidence you now bring to leadership roles?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My mentor, who always believed in my potential, played a huge role. Their unwavering support during challenging projects reminded me of my capabilities and instilled self-belief.",
+        "therapist": "You see yourself as capable and worthy through your mentor’s eyes, enhancing your self-belief. Their support contributes to shaping your identity with resilience and confidence. How might you nurture this perception of yourself in continuing to face new challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think I could nurture this by celebrating small successes more intentionally. For example, after successfully mediating a conflict at work, I reflected on my growth and felt proud.",
+        "therapist": "Celebrating small successes highlights your ability to impact others positively. Each step you take is a testament to the leadership role you're embracing. How might these moments, filled with pride and reflection, guide your interactions and inspire those around you in new ways?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Reflecting on these successes allows me to lead by example and foster a collaborative environment. Recently, I initiated team brainstorming sessions where my pride in mediation encouraged creative problem-solving.",
+        "therapist": "Your leadership by example and initiative in team settings clearly showcase your impact on creating a positive space for others. Celebrating these meaningful contributions highlights your sense of value and agency. How does recognizing this influence shape your future interactions with your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Recognizing my influence motivates me to cultivate trust and transparency. When resolving a recent deadline issue collaboratively, I felt encouraged and inspired to strengthen our team's resilience.",
+        "therapist": "Your dedication to fostering trust has not only enhanced team resilience but also reflects your deep sense of responsibility and care. This mutual impact reveals how you enrich others' lives. How does knowing you contribute this way to your team’s identity shape your own sense of purpose and connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Reflecting on my impact gives me a profound sense of purpose. Recently, when I helped a struggling colleague by listening and offering solutions, our connection deepened. It reinforced my belief in empathetic leadership.",
+        "therapist": "Your empathetic leadership not only fosters purpose within yourself but also empowers your colleague’s growth. As you recognize this ripple effect on identities, your role becomes a catalyst for transformation. How might these relational impacts inform how you continue nurturing the team’s collective strengths?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Seeing this impact, I focus more on personalized encouragement and celebrating individual contributions. Recently, I acknowledged a teammate's innovative solution, boosting morale and reinforcing our collaborative spirit.",
+        "therapist": "Your choice to emphasize personalized encouragement and recognition shapes a culture of belonging and innovation. Acknowledging your teammate fosters not only individual morale but also the entire team's spirit. How might continuing this focus further strengthen your mutual understanding and collective goals?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 43,
+        "client": "Continuing this focus strengthens our team's unity and shared objectives. Acknowledging teammates' achievements during a challenging project builds trust, transforming collaboration into seamless teamwork, enhancing each person's potential.",
+        "therapist": "Your focus on acknowledgment nurtures the relational fabric and enhances collective identity. By celebrating these contributions, your role becomes vital in shaping both personal and team growth. How does witnessing this evolution affirm your own leadership identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Witnessing this evolution feels validating. I see myself growing with each interaction, realizing the true impact of my actions on team morale and cohesion.",
+        "therapist": "As you recognize the profound influence on team dynamics, your role in this transformation not only validates your growth but enriches others' lives. Your sense of leadership and empathetic guidance can continue deepening this collective strength. How do these insights inspire future interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I’m inspired to encourage open dialogues where each voice feels heard. Recently, I started weekly feedback sessions, enhancing communication and reflecting on personal growth. This fosters a thriving environment.",
+        "therapist": "Your initiative in fostering open dialogues beautifully aligns with the team's collective identity, nurturing mutual growth. By acknowledging contributions during these sessions, you enhance their individual sense of value. How does this deepened connection inspire your future role in supporting their evolving identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Recognizing the importance of fostering identity growth, I plan to mentor individuals more closely. Witnessing a teammate propose a solution independently showcased how valued identities fuel innovation.",
+        "therapist": "You’re embracing mentorship and witnessing your teammates thrive, showing how deeply you contribute to their identity growth. This process can enhance both their innovation and your sense of purpose. What possibilities does this collaborative development open up for future contributions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "By encouraging unique approaches, I feel fulfilled when team members overcome challenges independently. In these moments, I'm reassured of our collective potential and my role in inspiring creativity.",
+        "therapist": "Your ability to inspire creativity significantly shapes your team's journey and individual identities. Seeing the ripple effects of their autonomy and your encouragement underscores a profound connection. How might this understanding influence how you nurture these relationships moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Understanding my impact makes me more intentional in creating a safe space for ideas. Recently, I encouraged Sarah during her project, and seeing her confidence grow was rewarding.",
+        "therapist": "Your role in supporting Sarah's growth not only strengthens her confidence but affirms your capacity to nurture meaningful connections. Seeing this positive impact can enrich both your relationship and identity as a supportive leader. What aspects of these relationships contribute to your sense of value?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Supporting others makes me feel connected and purposeful. When Sarah succeeded, I felt pride and reassurance that fostering confidence strengthens both the team and my role as a guide.",
+        "therapist": "Your pride in Sarah's growth highlights the mutual impact of your guidance and her success. By fostering her confidence, you’ve helped shape her courage to take risks. How does seeing this transformation deepen your understanding of the leader you’re becoming through these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Seeing Sarah thrive helps me realize I'm more effective as a leader than I once believed. Encouraging her reinforced my belief in fostering an environment where others can shine.",
+        "therapist": "Sarah's success and your guidance highlight a shared journey, where both identities grow stronger. Your belief in their potential not only enriches the environment but enhances your sense of leadership. How does witnessing these transformations influence the way you approach nurturing future growth within your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

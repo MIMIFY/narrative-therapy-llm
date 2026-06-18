@@ -1,0 +1,495 @@
+[
+    {
+        "round": 1,
+        "user": "Hello. Are you here to help?",
+        "answer_final": "Hello! How are you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello, I'm really hoping you can guide me through this. I've been struggling with feeling overwhelmed and lost recently.",
+        "therapist": "Let's take a moment to explore what feeling overwhelmed and lost means for you. I value your trust in sharing this. Your story is important, and together, we'll work to navigate this journey."
+    },
+    {
+        "round": 2,
+        "user": "not to good. my wife wants to split and it was after finding out we couldnt have any more kids, we have 1 already",
+        "answer_final": "Oh no, I am so sorry to hear you are going through this difficulty. I am here to help and lend a sympathetic ear.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's been hard. My wife wants to split up, especially after we found out we couldn't have more kids. We already have one, but it's a lot to process.",
+        "therapist": "You're navigating through a complex situation with many emotions involved. Let's focus on how you and your wife can find shared meaning in these changes. Would you like to explore what has been grounding you during this time?"
+    },
+    {
+        "round": 3,
+        "user": "Thanks.  Do you think there is any way to fix this?",
+        "answer_final": "I think there is a way to handle any situation. Have you had an honest and open conversation with your wife on both of your feelings on the matter?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks, I'm open to exploring what's been grounding me. I feel like there must be some way to fix things between us. It's hard to picture our lives apart.",
+        "therapist": "Together, we can explore what has helped you feel stable and hopeful in difficult times. Your commitment to finding a way forward is significant. Reflect on aspects of your relationship that have brought joy and strength—these might offer pathways to reconnect."
+    },
+    {
+        "round": 4,
+        "user": "yes very open and honest.  Turns out she has some form of cancer and it is the cause of not being able to have anymore kids.",
+        "answer_final": "I am so sorry to hear that your wife has cancer. I have had an ill loved one and I know how difficult that can be, not just for the person going through it but for the family too.. How do you feel about not having any more kids?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your encouragement means a lot. Honestly, my wife's diagnosis with cancer hit us hard, and knowing it's behind our struggles with having more kids is daunting. It's challenging to remain hopeful, but I find strength in the love we share for our child. I'm open to exploring ways we can support each other through this.",
+        "therapist": "Your resilience in seeking hope through your child's love is truly powerful. Let's explore how you and your wife can draw strength from this bond while facing these challenges. In what ways do you see yourselves supporting each other and nurturing your connection during this time?"
+    },
+    {
+        "round": 5,
+        "user": "yes very stessful. I want more kids.  I have only had 2 of my own, 1 with my wfie 1 with my former partner.",
+        "answer_final": "I see. And is it a deal breaker for you if you cannot have any more kids? Would you be willing to stay with your wife and be content with the children you already have?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's really stressful wanting more kids but feeling like it's slipping away. Having had two children—one with my wife, one from a previous relationship—adds layers to how I process these emotions. I believe our shared love for our child can be a foundation to support each other.",
+        "therapist": "You’re navigating a layered journey with immense strength. It’s admirable how you focus on the shared love for your child as a foundation. What aspects of this connection feel most supportive in fostering hope and partnership amidst these challenges?"
+    },
+    {
+        "round": 6,
+        "user": "no not a huge deal breaker.  But it is at the same time.. Its a hard situation",
+        "answer_final": "I understand, it is a very difficult situation. What is more important to you? Your relationship with your wife or having another child?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The love for our child makes everything worth fighting for, but it's painful when hopes feel out of reach. It's a tough situation; trying to remain hopeful is exhausting.",
+        "therapist": "You’re showing great courage by focusing on the love for your child despite the pain of unmet hopes. Let's consider how this love can guide actions and give strength. What does nurturing this connection offer both you and your wife in finding paths forward?"
+    },
+    {
+        "round": 7,
+        "user": "a little of both i suppose.  Its so hard to choose.. I guess time will tell...",
+        "answer_final": "Yes, it's tough. Maybe you should think about both scenarios and write down how it would make you feel. Picture being without your wife and how would that make you feel. Then picture being with your wife and your current family and how that would make you feel.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Nurturing our connection offers a chance to feel united despite challenges. I'm torn between hope and fear, but maybe with time, we'll find clearer paths together.",
+        "therapist": "In acknowledging your love as a unifying force, let's externalize the 'tug-of-war' between hope and fear. By examining this struggle separately, we may discover ways to strengthen your partnership against it. How might this understanding inspire new possibilities for support?"
+    },
+    {
+        "round": 8,
+        "user": "thank you for your help.  I appreciate it.",
+        "answer_final": "Of course, I am here for whatever you need",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your insights. I appreciate your help as we navigate this 'tug-of-war.' Your support encourages me to think about how our love can be a foundation for resilience.",
+        "therapist": "Your resilience is evident, and focusing on love as a foundation for resilience is inspiring. How can we further strengthen this foundation to support you through these challenges?"
+    },
+    {
+        "round": 9,
+        "user": "of course.  I appreciate it so much.. I want to stay with my wife, I really do.. I guess there could be medication available to help perhaps.",
+        "answer_final": "Maybe you can tell your wife that?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely. I deeply value our relationship and am willing to explore all options, perhaps including medication. I'm committed to strengthening our bond despite the emotional challenges.",
+        "therapist": "Your commitment to exploring all options and valuing your relationship is profound. This journey offers strength in unity, providing emotional support and resilience. What avenues could further enhance your partnership as you navigate these challenges?"
+    },
+    {
+        "round": 10,
+        "user": "Yeah could probably do that.  We are early in this so things could go either way.",
+        "answer_final": "For sure. Is there anything else I can help with?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring different options, like counseling or medication, feels promising. We're in the early stages, so there's hope things will improve with these efforts.",
+        "therapist": "Counseling and medication are promising paths, reflecting your commitment to change. Your willingness fuels hope as you navigate early stages with an open heart. How can this hope sustain both of you while exploring these options?"
+    },
+    {
+        "round": 11,
+        "user": "I hope they go good for my and my wife sake.",
+        "answer_final": "me too",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "This hope is crucial for both me and my wife. We're eager to explore these paths with optimism and faith, hoping they lead to a healthier, more balanced relationship.",
+        "therapist": "Your shared hope and eagerness illuminate a strong foundation for progress. This optimism can guide you through exploration, creating space for growth and understanding in your relationship. How can nurturing this hopeful perspective further support you both?"
+    },
+    {
+        "round": 12,
+        "client": "Nurturing hope can remind us why we started this journey together. I remember a time when we resolved issues by openly communicating; those moments inspire me to keep trying.",
+        "therapist": "Embracing open communication as a bridge to resolution reflects your strength and commitment. By externalizing hope, we create space for it to flourish, influencing how issues are perceived and addressed. How can past successful experiences inform new strategies against challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "Recalling past times where communication brought us closer, we can apply the same openness. I felt hopeful back then, a feeling I'd love to recreate now amidst challenges.",
+        "therapist": "Recreating hope from past open communication highlights its importance in your journey. Naming challenges separately might aid in not letting them define you. How does prioritizing openness support this value, and what steps align with that shared commitment to growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Prioritizing openness lets us address issues constructively, like last month's budgeting disagreement. Revisiting our values then reminded me of the power in transparent dialogues, which ignites hope.",
+        "therapist": "Your commitment to openness in addressing the budgeting disagreement shows dedication to transparent dialogue. How can these experiences continue informing your relationship, ensuring that hope guides constructive action?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Reflecting on last month’s resolution, I felt empowered. Applying these skills to our home life can guide us to make hopeful changes, even amidst unpredictable hurdles.",
+        "therapist": "Empowerment can be a valuable ally in navigating unpredictable hurdles. By viewing these skills as shared strengths, rather than personal challenges, how does this influence your values and commitment to hopeful change within your home life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Viewing these skills as shared strengths reinforces my belief in our partnership. It brings back memories of navigating early parenting challenges, where teamwork and understanding strengthened us.",
+        "therapist": "Reinforcing your belief in partnership through shared strengths is pivotal. It sounds like these memories of teamwork and understanding can act as guiding lights. How might naming the hurdles you're facing now help them become external challenges, allowing you both to tackle them together with that same spirit?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Naming hurdles, like our busy schedules causing tension, helps us approach them collectively. Early parenting taught me resilience; applying that could transform obstacles into growth opportunities.",
+        "therapist": "Resilience has clearly played a significant role in navigating challenges. By naming busy schedules as external influences, it opens up possibilities for collaborative solutions rooted in your values of partnership and growth. How might embracing resilience guide you both in transforming these hurdles into constructive change?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Resilience is key. Last month, we carved out 'family focus' time despite hectic schedules. It brought calm, reminding me that prioritizing connection helps shift tension into understanding.",
+        "therapist": "Resilience truly aligns with the value of prioritizing connection, allowing calmness to replace tension. How can regular 'family focus' time serve as a reminder of your commitment to maintaining understanding and fostering positive change amidst challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Family focus time has brought such serenity, reminding me of weekend walks in the park where we reconnect. It emphasizes my commitment to nurturing understanding and fostering growth.",
+        "therapist": "Family focus time, akin to weekend walks, holds special importance in nurturing understanding. By externalizing busy schedules as a separate challenge, you clarify why serenity and connection truly matter. How might these experiences inform new ways to reinforce growth during challenging times?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Although the hectic pace challenges us, weaving 'family focus' time fosters calm connection, reminding me of evenings spent sharing our dreams. It's a commitment to sustaining growth.",
+        "therapist": "Exploring the value of shared dreams and the calm they bring aligns with your commitment to growth. How might these evenings dedicated to connection act as reminders of resilience, helping you both navigate hectic schedules as a united team?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Those evenings remind me of our earlier days, full of dreams and possibility. They renew our sense of unity, fueling our resilience as we tackle each day's demands together.",
+        "therapist": "Renewing your sense of unity through these cherished evenings exemplifies how you defy the challenges posed by daily demands. This powerful narrative suggests resilience and possibility remain vital to your identity. How might this shared unity guide your continued journey toward balance and fulfillment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Recalling those evenings and shared dreams ignites hope, helping us pursue balance. The unity helps me handle stress better, visualize goals clearly, and prioritize what truly matters.",
+        "therapist": "Embracing those evenings filled with dreams seems to strengthen your commitment to resilience and balance. They illuminate core values and prioritize authentic connection, guiding stress management. Consider how maintaining unity might further transform daily challenges into affirmations of your preferred identity.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Maintaining unity does affirm my identity. The teamwork involved in planning family dinners highlights our shared values. It's like we're sculpting our lives together, one moment at a time.",
+        "therapist": "Recognizing teamwork and shared values reflects your commitment to crafting a fulfilling life together. These moments of connection reinforce the core identity you wish to embrace. How might embracing this unity inspire future steps in your journey towards deeper fulfillment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Embracing this unity encourages me to create more meaningful family traditions, like Sunday morning breakfasts. These small rituals spark joy, strengthen bonds, and nurture our shared journey.",
+        "therapist": "Building Sunday morning traditions highlights how joy and connection shape your family's story. Reflecting on the impact of these rituals, what new possibilities might emerge for sustaining growth and balance in your shared journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Reflecting on these traditions reminds me of our efforts to balance joy and growth. Exploring new hobbies together, like gardening, may create deeper connections and enrich our shared path.",
+        "therapist": "Reflecting on joyful traditions and adding new hobbies like gardening beautifully enriches your journey. This shared pursuit cultivates deeper connections, a fitting testament to growth and unity. Consider how such enriched pathways might shape the values you cherish most.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Gardening might shape our values by teaching patience and mindfulness. I remember planting our first seeds, anticipating growth, reminding us how nurturing small efforts leads to fulfilling outcomes.",
+        "therapist": "Nurturing those small seeds in your garden powerfully mirrors your internal values of patience and mindfulness, reinforcing your journey towards a fulfilling identity. This mindful practice deepens connections and cultivates resilience. How might these emerging insights into growth further guide your family traditions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Gardening's lessons inspire patience in family traditions. Planting together leads to enjoying Sunday dinners more thoughtfully, savoring each dish as an expression of our collective effort.",
+        "therapist": "Linking gardening with Sunday dinners reveals a deep commitment to patience and appreciation, honoring your family's collective values. This enriching narrative strengthens your preferred identity. What might further broaden the tapestry of these meaningful traditions as you continue nurturing shared experiences?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Gardening's unity inspires including seasonal recipes in our dinners. Cooking what we've grown, like tomatoes for sauce, connects us deeply with patience, creativity, and shared accomplishments.",
+        "therapist": "Gardening and cooking with your own produce eloquently weave creativity, patience, and accomplishment into your family narrative. This profound connection enriches your shared identity. As you savor these moments, how might they further illuminate pathways to living your preferred story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Savoring these moments inspires me to live intentionally, deeply engaging in family activities. During dinner prep, I'm more present and appreciative, creating joy from shared accomplishments.",
+        "therapist": "Living with intention and presence enhances the richness of your shared experiences. This meaningful path highlights a valued commitment to connection. In cultivating these moments, consider how they resonate with your deeper aspirations and how you can keep nurturing this harmonious journey.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Reflecting on these shared experiences, I'm driven to embrace each family moment as a learning experience. A recent Sunday dinner when we cooked a homemade pizza highlighted our growth and patience. I felt immense gratitude while observing everyone's joy in creating something together. These moments encourage me to prioritize what truly matters—our connections, intentions, and continued growth.",
+        "therapist": "Experiencing gratitude and joy during moments like cooking together shows a genuine reflection of your values. Your emphasis on prioritizing connections and growth echoes a fulfilling narrative. As you weave these into your story, how might this deepen your family's cherished traditions further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think deepening our family traditions could involve documenting these moments—keeping a journal of reflections after dinner. Sharing experiences would celebrate growth, helping us cherish each milestone intimately.",
+        "therapist": "Documenting these moments can beautifully weave your family's story, honoring milestones and shared joys. This journal might become a cherished guide, reminding you of past achievements while shaping future dreams. How do you envision this reflection enriching your family’s evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I'm imagining the journal as a living memory book. During last Sunday's dinner, capturing my son's pride in his sauce and laughter would remind us of the warmth these moments bring. Sharing it could foster deeper connections through reminiscing about our shared achievements.",
+        "therapist": "Your vision of a living memory book embraces your family's laughter, pride, and warmth, beautifully illuminating your collective journey. As you enrich these memories and connections, what elements do you feel most excited to explore further in nurturing your preferred story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I'm excited to explore how we can involve extended family in our traditions. Organizing a family gathering where everyone contributes a dish would deepen our connections and collective story.",
+        "therapist": "Your enthusiasm for including extended family enhances your evolving narrative, inviting deeper connections and shared growth. What elements of these gatherings do you envision further enriching the unique experiences your family treasures?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Organizing theme-based gatherings where each person shares a story behind their dish could deepen our family's ties. These exchanges enrich our narrative, evoking nostalgia and connection.",
+        "therapist": "Embracing these theme-based gatherings can beautifully shape your family narrative, linking memories with new traditions. This storytelling through dishes fosters deeper bonds. How might these experiences influence the evolving story of your family's unity and connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "These gatherings might enhance our sense of belonging, linking past traditions with present experiences. Sharing stories creates empathy and understanding, deepening our bonds as a united family.",
+        "therapist": "Sharing stories with empathy indeed enriches the narrative of your family's togetherness. This evolving tapestry weaves past and present into a nurturing legacy. How do these enhanced bonds align with your core values and intentions within your preferred family identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Our family's essence lies in nurturing deep connections and respect, rooted in values of empathy and unity. When Aunt Lydia shared her struggles while cooking, it amplified mutual understanding and vulnerability, which solidified our bond.",
+        "therapist": "Aunt Lydia's openness has greatly influenced your family's collective story, nurturing a safe space for mutual understanding and respect. Her presence seems vital in reflecting and embodying core family values. How might you continue to honor her impact as you explore deepening these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Aunt Lydia's storytelling inspired a family recipe journal, where each dish holds a story of vulnerability and strength. Sharing her impact keeps her presence alive in our shared narrative.",
+        "therapist": "Your family's decision to document stories through recipes beautifully embodies Aunt Lydia's influence. This journal offers a profound way to perceive your family's identity and values. What do you believe Aunt Lydia sees in you that contributes to this cherished family connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Aunt Lydia sees my willingness to listen and empathize with others. She often mentions how I bring people together, helping to deepen our collective understanding through open-hearted conversations.",
+        "therapist": "Aunt Lydia's recognition of your empathy and ability to bring people together is truly meaningful. Your openness enhances family connections, contributing significantly to their sense of belonging. How does acknowledging this quality in yourself influence your understanding of your role within the family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Acknowledging my ability to connect our family makes me feel honored and responsible. I recall hosting last Thanksgiving, feeling everyone appreciated the warmth of shared conversations.",
+        "therapist": "Recognizing your gift of connection and warmth is profoundly valuable. Your presence strengthens the family's bond and collective understanding, enriching their lives. How do you imagine these qualities will continue to shape your family's narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "I envision hosting more gatherings, encouraging storytelling and authenticity. My connection skills help nurture traditions of empathy, where sharing life's challenges fosters strength and unity within our family.",
+        "therapist": "Hosting gatherings encourages authentic storytelling, deeply nurturing family traditions and empathy. Your contribution brings meaningful change to their lives, fostering strength and unity. Reflecting on this role, what do you imagine others appreciate most about your influence in nurturing family connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I believe they appreciate my ability to listen without judgment, offering a safe space for sharing. At family dinners, watching others open up fills me with gratitude and purpose.",
+        "therapist": "Hosting family dinners with a non-judgmental approach enriches the collective narrative. Your safe space encourages others to grow and reshape their identities through vulnerability. Reflecting on this, how might you further nurture these authentic connections in future gatherings?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I plan to introduce themed storytelling nights, encouraging deeper engagement. Sharing my own challenges will hopefully prompt others to be more open, reinforcing our supportive atmosphere.",
+        "therapist": "Your plan for themed storytelling nights beautifully deepens connections within the family. Sharing your own experiences highlights the mutual vulnerability that strengthens ties. How might your openness inspire family members to evolve, embracing their strengths and interconnectedness?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "My openness might inspire family members to share more about their personal journeys. Witnessing their resilience encourages me too, creating a cycle of empowerment and mutual growth.",
+        "therapist": "Sharing personal journeys indeed fosters empowerment and mutual growth, enriching your family's collective resilience. Embracing their narratives shapes your identity as well. How do you perceive these evolving dynamics enhancing both individual and family strength?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "In these dynamics, individual growth enhances family strength. Witnessing my cousin overcome grief inspired me. We supported each other, gaining insights and resilience, binding us closer together.",
+        "therapist": "Recognizing your cousin's journey and mutual support illustrates the depth of family bonds. Your shared experiences have enriched each other's resilience, strengthening your family's relational identity. How might this continuous support further shape both yours and your cousin's stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "The support has sparked new traditions. After realizing shared strength during a recent loss, we're planning regular heart-to-heart weekends. It's comforting knowing we face life's challenges united.",
+        "therapist": "Reflecting on your strength and unity reveals a deeply supportive bond with your cousin. Your heart-to-heart weekends strengthen these traditions. How do you think these new connections are reshaping your sense of family identity and shared resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "These connections are making me feel more integrated with my family. During our weekends, like when my cousin shared her recovery journey, I felt proud and supported. It's creating a unified identity.",
+        "therapist": "Your pride and sense of unity reflect how your support impacts your family’s collective identity. Embracing these experiences has fostered mutual growth. How do you see your contributions shaping not only their paths but also deepening these vital connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I've noticed how my experiences often guide our conversations, like when discussing grief or resilience. The stories I share help relatives open up and explore their emotions too. This mutual sharing deepens connections and enhances our collective strength.",
+        "therapist": "Sharing your experiences has profoundly impacted how your family members perceive and express themselves. Your ability to guide these conversations showcases the vital role you play in their lives. Reflect on how this strength of connecting influences not only them but also enriches your sense of identity.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I see connecting deeply with others enriches my identity by fostering empathy. Discussing our struggles over coffee enables me to learn and grow, feeling more grounded and fulfilled.",
+        "therapist": "Empathy rooted in your connections undeniably enriches your life. Your willingness to share and create spaces for open conversation fosters growth and understanding within your relationships. How does acknowledging your influence on others enhance the way you perceive yourself within these family bonds?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Acknowledging my influence makes me feel more confident in my role. Like last weekend, when sharing helped my aunt finally talk about her fears; it reinforced my ability to support others.",
+        "therapist": "Your role in helping your aunt open up highlights how your empathetic influence shapes others' narratives. This reinforces both your confidence and the relational identity you hold within your family. How do you envision these contributions affecting future connections and growth for those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I imagine my influence will encourage more open dialogues. Last month, facilitating a family chat on anxiety allowed my brother to share his hidden stressors. It strengthened trust among us.",
+        "therapist": "Acknowledging your influence on others enhances the trust and openness you’ve fostered. Your capacity to facilitate these important conversations not only empowers them but also validates your own relational identity within the family. How do you perceive these strengthened bonds shaping both yours and their future narratives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

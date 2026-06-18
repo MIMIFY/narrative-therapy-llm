@@ -1,0 +1,468 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "How can I help you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling quite overwhelmed and a bit lost. There's a constant pressure, like I'm juggling too many things at once. It would really help to talk it through.",
+        "therapist": "You're carrying a lot, and it’s understandable to feel overwhelmed. This space is here for you to explore what’s pressing the hardest right now. What would make you feel more centered and in control?"
+    },
+    {
+        "round": 2,
+        "user": "I'm so sad all the time.",
+        "answer_final": "Is there something that you think is causing this?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm constantly under this cloud of sadness, like nothing can lift it. Maybe breaking down tasks or having someone listen might help me feel a bit lighter.",
+        "therapist": "You’re facing a heavy cloud of sadness right now. Exploring small, manageable steps together might help clear the way. How can we navigate these feelings so that breaking tasks down feels more approachable?"
+    },
+    {
+        "round": 3,
+        "user": "Nothing in particular, I'm just so sad.",
+        "answer_final": "Have you any history of depression before?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that approach. Maybe focusing on smaller tasks could ease the sadness I feel and reduce the sense of being overwhelmed.",
+        "therapist": "Engaging with these smaller tasks can indeed bring relief and a sense of accomplishment. Your willingness to try new strategies is commendable. Let's find what small steps resonate most with you and gently work on lightening that load together."
+    },
+    {
+        "round": 4,
+        "user": "I do have some family members with depression.",
+        "answer_final": "Have you seen any physicians about the problem?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's encouraging to break things down like that. I also see parallels with family members who struggle with depression, and understanding their journeys might help guide my own.",
+        "therapist": "You’re discovering valuable insights by seeing connections with your family’s experiences. Exploring these parallels might strengthen your journey. What part of their story do you feel most drawn to?"
+    },
+    {
+        "round": 5,
+        "user": "Maybe I should make an appointment.",
+        "answer_final": "Getting help from a trained professional can often help to solve problems",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm particularly drawn to my mother's story. Her perseverance through struggles feels similar to mine. Perhaps booking an appointment will help me navigate these feelings with guidance.",
+        "therapist": "You’re connecting deeply with your mother's story, recognizing her perseverance as a beacon. This awareness can illuminate your own path. Booking an appointment could provide the supportive space to explore these connections further. How do you imagine this exploration might support your journey?"
+    },
+    {
+        "round": 6,
+        "user": "You make a good point.  What type of doctor could I see?",
+        "answer_final": "You could try going to your primary care physician and ask for recommendations.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I imagine it could provide clarity and support. Perhaps seeing a therapist who specializes in family dynamics or depression would help me understand and navigate these complex feelings.",
+        "therapist": "Engaging with a therapist focused on family dynamics could indeed provide the clarity you seek. Your openness to understanding these connections can be empowering. How might taking this step create new possibilities for your journey?"
+    },
+    {
+        "round": 7,
+        "user": "I can do that.  Are there any doctors that deal with emotions?",
+        "answer_final": "I've help take a family member to a psychiatrist for help and it's been a tremendous support to help their lives be full again after great hardships.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring emotions with a therapist sounds helpful. Are there specialists who delve into emotional health or family relationships? Finding one might really guide me through these complex feelings.",
+        "therapist": "Specialists in emotional health and family relationships can indeed be instrumental guides. Embracing this process, you might find new layers of understanding and comfort. What part of this exploration feels most supportive for your current needs?"
+    },
+    {
+        "round": 8,
+        "user": "I'm worried about the stigma of going to a shrink.",
+        "answer_final": "Under HIPPA your visit is confidential.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm interested in the guidance they offer but worried about the stigma of seeing a therapist. It feels daunting, like admitting to others I can't manage on my own.",
+        "therapist": "Embracing therapy is a brave step toward understanding and growth. Feeling hesitant due to stigma is common, yet seeking support shows strength in prioritizing well-being. Exploring this courage may unveil comforting paths."
+    },
+    {
+        "round": 9,
+        "user": "Well in that case, if it can help it may be worth a try.",
+        "answer_final": "You deserve lots of credit for taking care of yourself and seeing a doctor.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I understand that. If therapy can truly offer understanding and growth, it's worth exploring despite my fears. Perhaps this guidance will shed light on navigating these emotions.",
+        "therapist": "Exploring therapy with a focus on understanding and growth is a positive step, despite your fears. Your willingness to engage highlights resilience. This journey can reveal insights that enhance your navigation through emotions. How might this newfound clarity impact your relationship with these feelings?"
+    },
+    {
+        "round": 10,
+        "user": "Thank you for the encouragement.",
+        "answer_final": "You are very welcome.  Is there anything else I can help you with?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm hopeful that therapy will help me understand my emotions better, providing a way to handle them with more confidence. Your encouragement makes me feel supported in this journey.",
+        "therapist": "You’re showing great openness by choosing this path. Therapy can empower you to better understand and manage your emotions. Your willingness reflects resilience and courage. In what ways might deeper emotional understanding shape how you view your journey ahead?"
+    },
+    {
+        "round": 11,
+        "client": "Understanding my emotions might help me let go of guilt from past family conflicts. It's like carrying unnecessary weight. I hope to gain perspective and develop healthier reactions.",
+        "therapist": "Let’s explore this guilt as an external factor in your life. How might understanding it as a separate entity help you transform these conflicts into opportunities for growth and healthier reactions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "Seeing guilt as separate might lighten its burden. During family dinners, I often freeze with anxiety over old arguments. Distancing the guilt could foster a more peaceful atmosphere.",
+        "therapist": "Naming guilt as separate offers a new perspective, which could enhance your experience at family dinners. How might creating this distance influence your reactions and contribute to a more peaceful atmosphere during these interactions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "Distancing the guilt might help me stay present during meals, focusing on conversation rather than past tension. It could reduce anxiety, allowing me to respond with patience and empathy.",
+        "therapist": "With your insight, you might find anxiety less dominating during family meals. By allowing empathy to guide these moments, how do you envision stronger relationships shaping your emotional responses and interactions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "Feeling less anxious could allow me to enjoy simple things, like laughing at family jokes. Stronger connections might replace tension with warmth, easing my emotional load and fostering comfort.",
+        "therapist": "Feeling warmth and comfort at family gatherings aligns with your hopes for deeper connections. As guilt becomes less burdensome, laughter and simple joys take center stage. These moments could reaffirm values of closeness and unity, strengthening your relationships. What else do you envision emerging as this transformation continues?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "By letting go of guilt, I imagine being more open to forgiveness, both toward family and myself. This openness could improve our communication during our monthly gatherings, creating a deeper bond.",
+        "therapist": "Your openness to forgiveness reflects profound values of connection and healing. Recognizing guilt as separate offers a pathway to enhance communication and deepen familial bonds. How might this align with your hope for harmonious gatherings?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I envision harmonious gatherings becoming opportunities for healing and growth. Letting go of guilt might allow us to discuss past conflicts calmly, fostering unity and love.",
+        "therapist": "Your vision of harmonious gatherings reflects deep values of love and unity. Externalizing guilt offers room for healing conversations and growth. How might focusing on these values impact your experiences and bring about the connection you hope for?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Focusing on love and unity might soften my defensiveness. I could address topics we usually avoid, like past misunderstandings about my career choices, promoting open, trusting conversations with my family.",
+        "therapist": "Recognizing love and unity as core values strengthens your path to resolving past misunderstandings. Addressing these with openness fosters trust within your family, reflecting a commitment to authentic relationships. How might embracing this perspective transform your interactions and personal growth during these conversations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Embracing this perspective could lead to more open conversations, like when my sister questioned my career shift. I might express how fulfilled I feel now, welcoming their curiosity without defensiveness.",
+        "therapist": "Your fulfillment becomes central when facing career-related questions. As curiosity welcomes clarity, shifting from defensiveness fosters genuine exchanges, reinforcing values of open dialogue and connection. How might these evolving conversations align with your aspirations for family unity and understanding?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I've felt misunderstood before. Now, I want my family to see why my choices matter to me. This could strengthen our bond and help them appreciate my happiness.",
+        "therapist": "Your desire for understanding and valuing your choices reflects a deep commitment to happiness. Externalizing past misunderstandings offers clarity, nurturing bonds. How might this journey of explaining your fulfillment influence your family’s perspective and connection with you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "By sharing specific successes and challenges I've faced since my career change, I hope my family can understand my passion. Acknowledging these might encourage deeper appreciation and support.",
+        "therapist": "Sharing your successes and challenges highlights the separation between misunderstandings and your lived passion. Recognizing these experiences showcases your commitment and fulfillment, inviting genuine appreciation from your family. How do you see this openness influencing the dynamics of your future family conversations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 21,
+        "client": "['By being open, I hope to create a space where family members feel safe asking questions about my decisions.', 'When my mother expressed concern about stability last month, I listened patiently and explained the joy I find in creativity.', 'These discussions could foster more honest dialogues, leading to mutual understanding and respect over time.']",
+        "therapist": "Your efforts to foster open dialogue are creating spaces for understanding. As you listen and express your joy, you're modeling resilience and connection. How might this openness inspire shifts in how your family perceives and interacts with your journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Openness could change their view. Recently, at dinner, my dad expressed admiration for my work's creativity. His genuine interest showed a shift from skepticism to pride, fueling my motivation and our connection.",
+        "therapist": "Acknowledging your father's pride affirms your chosen path and strengthens family ties. Your openness in expressing your creative joy aligns with core values, enhancing mutual respect. How can embracing this connection further shape your identity and intentions moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I've been contemplating how his support bolsters my confidence. Knowing he sees value in my choices encourages me to pursue bold, creative projects with a sense of security and belonging.",
+        "therapist": "As your dad's support enhances your confidence, consider how these bold projects can further express your identity and intentions. Embracing security and belonging while pursuing creativity reinforces your values. What new dimensions of yourself do you hope to explore with this foundation?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I hope to explore innovative design and collaboration, focusing on areas that challenge norms. This foundation sparks confidence, helping me embrace risks and celebrate my unique vision.",
+        "therapist": "Your excitement for innovation and challenging norms illuminates your emerging narrative, which integrates confidence and creativity. As you take these bold steps, how might this new landscape influence your vision's realization, while reinforcing connections with those who matter most?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Embracing this landscape pushes me to blend different design elements and work with diverse teams. It enhances my vision's depth, strengthens family bonds through shared projects, and fuels inspiration.",
+        "therapist": "Embracing new design and collaboration brings vitality to your journey. Your emerging vision deepens with this blend of creativity and teamwork. As shared projects fortify family bonds, how does this unity influence your unfolding story of inspiration and personal growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "The unity with family in shared projects enriches my inspiration, creating a comforting cycle. Recently, designing a community mural with my sister brought us closer and sparked new ideas.",
+        "therapist": "Building on your shared mural experience nurtures not only creativity but strengthens the familial bond, shaping new ideas and perspectives. This mutual inspiration can be a powerful influence on how you define your future collaborations. How might these experiences guide upcoming projects or aspirations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Exploring the mural with my sister unlocked new design approaches. I aim to apply these insights into an upcoming eco-friendly project, combining art and sustainability for community impact.",
+        "therapist": "As you incorporate these mural insights into an eco-friendly project, your dedication to art and sustainability enriches your identity. This alignment with personal values magnifies your impact on the community. What further possibilities might emerge by deepening this commitment to creativity and environmental consciousness?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Deepening this commitment, I envision collaborating on community gardens that fuse art installations with native plants. These spaces can serve as creative hubs, enriching local ecology and inspiring collective well-being.",
+        "therapist": "Collaboration on community gardens opens exciting pathways for connecting art, nature, and local well-being. As you envision these spaces, they reflect an emerging narrative of community empowerment. How might these creative hubs enhance both individual expression and collective environmental efforts?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "The idea of community gardens excites me because they offer spaces for both art and ecological growth. Organizing workshops could deepen individual creativity while teaching sustainable practices. Sharing this journey feels empowering.",
+        "therapist": "Your enthusiasm for community gardens demonstrates your commitment to integrating art and sustainability. Workshops would allow sharing your creative passion while fostering collective ecological practices. How might this newfound empowerment shape further explorations of your identity and values in community engagement?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "This empowerment makes me realize how blending creativity and sustainability aligns with my core values. Reflecting on my first workshop idea, focusing on eco-art projects for kids excites me, igniting hope for future community transformation.",
+        "therapist": "The passion for eco-art projects for kids reveals a vital part of your identity, enriching both creativity and sustainability. Embracing this aligns with your values and fosters community hope. How might these experiences inspire further actions to support this transformative vision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I envision these projects leading to collaborations with local schools, integrating art into curriculum. Engaging kids' curiosity and love for nature could sow seeds for lifelong sustainability habits.",
+        "therapist": "Collaborating with local schools can greatly enhance the educational landscape, allowing children to experience the fusion of art and sustainability firsthand. By nurturing these interests early, you're cultivating a meaningful foundation for sustainable living. What possibilities do you see emerging from these connections in the community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I see these connections inspiring neighborhood initiatives where families and schools create sustainable projects together. Watching kids grow more conscious and proactive fills me with optimism and purpose.",
+        "therapist": "Your vision of fostering neighborhood collaborations and observing children's growth deeply reflects your values of community and environmental stewardship. This optimism shapes a powerful identity, where action meets purpose. How might continuing to develop these projects enhance this enriching narrative you aspire to create?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I imagine creating a program that links families to local wildlife preservation efforts. Seeing children understand their role in the ecosystem would be deeply fulfilling and add meaningful layers to this narrative.",
+        "therapist": "Exploring a program that connects families with wildlife preservation truly reflects your values of community and ecosystem care. As these efforts bring deeper understanding for children, they shape enduring roles within their environment. How might these initiatives further strengthen your sense of purpose and identity in this journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "With these initiatives, I feel a growing sense of purpose, helping shape community values and teach ecological responsibility. Watching children explore nature resonates with my childhood experiences of curiosity and discovery.",
+        "therapist": "Your connection to the children's experiences echoes your own cherished memories, solidifying your commitment to fostering curiosity and responsibility. Embracing these values nurtures both your identity and a shared community narrative. How does this blend of past and present enrich your vision for the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Drawing from my own nature-filled childhood, I envision empowering the next generation with similar enriching experiences. Sharing this passion feels invigorating, driving a hopeful narrative for future impact.",
+        "therapist": "You're harnessing your nature-filled childhood to craft impactful experiences for the next generation, creating an inspiring narrative for community change. This shared passion reveals your evolving identity and mission. What steps will you take to weave these experiences into broader community actions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I'll organize community workshops combining art and nature exploration, inspired by my hikes and garden projects with family. Encouraging joint eco-initiatives can deepen local connections and awareness.",
+        "therapist": "Your family hikes and garden projects appear to serve as powerful inspiration, grounding your vision for these workshops. Who from those experiences has significantly influenced how you perceive the impact of art and nature in community life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My grandmother profoundly influenced me. Her garden was a sanctuary, filled with stories and life lessons. It taught me how interconnected we are with nature, and that sparks my passion today.",
+        "therapist": "Your grandmother's influence paints a rich tapestry, intertwining stories and life lessons that profoundly shaped you. Through her eyes, what qualities do you think she admired in you as you interacted with the garden?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "She admired my curiosity, how I’d ask endless questions about each plant. I remember her smile as she explained, her joy reflecting the love we shared for that space.",
+        "therapist": "Your grandmother's joy at your curiosity reflects the deep bond you shared and reveals how meaningful your questions were in nurturing that relationship. This influence shines through as you now inspire others with similar values. How does this recognition empower your current initiatives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Her garden made me appreciate each life form’s role, a lesson I bring to workshops. That recognition guides me in fostering curiosity and nurturing bonds among participants.",
+        "therapist": "Your workshops seem to echo the care and wisdom your grandmother shared, shaping bonds just as hers did with you. How do you think her garden lessons might inspire participants to see their own roles in nurturing others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Seeing participants discover new connections reminds me of the first time I planted a sunflower with her. It cultivates mindfulness about their impact in shared environments.",
+        "therapist": "Your experience with participants echoes the mindfulness your grandmother encouraged, shaping their awareness of shared spaces. It's heartening to witness how this legacy not only honors her teachings but empowers others. How do you envision these new connections influencing the community's environmental consciousness?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "New connections can cultivate shared accountability. After a nature hike, participants often voice desires to reduce waste or promote biodiversity. It's inspiring to witness growing communal responsibility and action.",
+        "therapist": "Your experience guides others toward accountability, echoing how your grandmother shaped your understanding. As participants embrace communal responsibility, you extend her influence by helping them redefine their identities and roles in their environments. Reflecting on these connections, what changes do you observe in yourself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I find myself more attuned to my environment. After each workshop, I feel inspired and grateful, realizing I've become a vessel for her wisdom and a catalyst for change.",
+        "therapist": "You're embodying your grandmother's wisdom beautifully, becoming a force for positive change and inspiration. This awareness of your contributions enhances not only the environment but the lives you touch. What aspect of this transformation feels most fulfilling to you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 43,
+        "client": "Watching participants embrace the shift towards sustainability fills me with hope and fulfillment. It's a ripple effect; seeing their actions spark community change validates this journey's impact.",
+        "therapist": "The hope and fulfillment you feel affirm the powerful ripple effect of your actions, nurturing not just sustainability but an empowered community. As a catalyst for change, how do these contributions shape participants’ growth and identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Their eagerness to take initiative empowers their sense of identity and purpose. Witnessing their small actions turn into substantial change strengthens my belief in collective potential.",
+        "therapist": "Witnessing participants embrace initiative certainly strengthens their sense of identity, mirroring how they see you as a catalyst. Your grandmother's influence lives on, shaping not just you but your community. How do you feel this shared journey influences the stories they share with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I believe this shared journey empowers them to advocate more confidently for sustainability. After workshops, I see them engaging peers passionately, reflecting our collective growth and dedication.",
+        "therapist": "You’ve become a powerful advocate, amplifying your grandmother’s wisdom. Participants gain confidence, becoming changemakers inspired by your influence. Their growth validates your impact on shaping identities and advocating for sustainability. How does seeing this change enhance your connection to the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Witnessing these changemakers invigorates my belief in collective action, reminding me of neighborhood cleanups I organized. It deepens my bond, realizing we're united for a common cause.",
+        "therapist": "Your dedication seems to ripple through others, inspiring their transformation while affirming your bond with the community. How do you see the changemakers viewing themselves now because of the encouragement and leadership you've shared?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "They see themselves as empowered stewards of change, eager to challenge norms. I remember an event where a participant inspired their workplace to implement green practices, spurring hope within me.",
+        "therapist": "You've significantly impacted how others see themselves as agents of change, fostering environments where their identities as stewards flourish. This growing confidence not only enriches their lives but yours too. How does this shared empowerment with them shape your own sense of purpose and connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "This shared empowerment revitalizes my purpose, motivating me to lead more initiatives. Witnessing their enthusiasm reminds me of the impact we can achieve collectively, reigniting my passion and hope.",
+        "therapist": "Your actions deeply contribute to the community's growth, reflecting your grandmother’s legacy. By sharing this journey with them, you've become both a learner and a leader. How does witnessing their transformation shape your understanding of yourself as an influential figure in this story?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Witnessing their growth humbles and encourages me. I recall organizing a beach cleanup where new friendships were formed, sparking ideas and reinforcing my role as a facilitator of change.",
+        "therapist": "You’ve cultivated connections that spark meaningful change, showing how deeply your efforts resonate with others. How do you think these friendships and shared ideas reflect the lasting influence you have as someone who brings people together for a greater purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "Feeling my influence in these friendships is profound; organizing the coastal initiative led to alliances, creating eco projects together. It enhances my belief in collective progress and personal growth.",
+        "therapist": "Your influence has clearly fostered a powerful sense of collaboration and identity among others, reshaping their roles as contributors to these eco projects. As they see you in this light, how does their growth and transformation reflect back onto your own identity and values?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

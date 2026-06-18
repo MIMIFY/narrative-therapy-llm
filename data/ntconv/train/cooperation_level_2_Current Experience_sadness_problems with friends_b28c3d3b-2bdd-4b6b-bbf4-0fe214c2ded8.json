@@ -1,0 +1,634 @@
+[
+    {
+        "round": 1,
+        "user": "Hi, I'm feeling sad",
+        "answer_final": "Good afternoon",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling pretty down today. Everything seems heavy and I'm struggling to see any positive aspects.",
+        "therapist": "I understand how overwhelming things feel right now. Let's take a moment to explore if there's even a small thing today that can provide some relief or comfort. Your feelings are important, and together we can find pathways toward hope."
+    },
+    {
+        "round": 2,
+        "user": "Good afternoon to you",
+        "answer_final": "Can I ask for a reason why",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Good afternoon. I appreciate that suggestion. Maybe spending time in the garden might offer some relief; being in nature usually helps me feel a little lighter.",
+        "therapist": "Enjoying nature's embrace could indeed be soothing. What aspects of the garden might help uplift your mood today? Let's consider the positive energies there that you connect with."
+    },
+    {
+        "round": 3,
+        "user": "Yes, my best friend has decided that I'm not that important...or as important as I thought I was....",
+        "answer_final": "What is causing you to be sad",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's usually calming, but it's hard to enjoy today. I feel like my best friend sees me as less important than I thought, and it feels heavy.",
+        "therapist": "Being valued by friends is crucial, and it’s understandable to feel this heaviness. Perhaps reflecting on moments where you've felt supported by them could offer perspective. How might we navigate these feelings today, seeking comfort in what’s familiar and grounding?"
+    },
+    {
+        "round": 4,
+        "user": "She used to call me multiple times per day, it's been 3 days and nothing",
+        "answer_final": "So this is a close friend",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I miss that connection; her absence feels strange and unsettling. Our usual calls made me feel valued. Maybe focusing on reconnecting can ease the discomfort.",
+        "therapist": "Your longing for connection is significant, and considering ways to reconnect sounds promising. What small step toward reaching out might feel comfortable for you today? This could be an opportunity to nurture that valued bond."
+    },
+    {
+        "round": 5,
+        "user": "Yes, we have been friends for 10 years, best friends",
+        "answer_final": "That could cause a sadness",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels comforting to think about reconnecting. Given our 10-year bond, maybe sending her a thoughtful message could open the door for dialogue and healing.",
+        "therapist": "Reconnecting with your friend through a thoughtful message sounds nurturing. Your decision to open this door highlights the value you place on your bond. How do you feel about crafting this message, expressing what matters most to you both?"
+    },
+    {
+        "round": 6,
+        "user": "Absolutely...what do you think is wrong?",
+        "answer_final": "Could it be for a reason you are unaware of",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely, crafting a message feels empowering. I think expressing my feelings openly could help heal the rift. What elements do you think are vital for genuine communication?",
+        "therapist": "Focusing on openness and sincerity can foster connection. Consider sharing your feelings honestly, appreciating the shared journey you’ve had together. What aspects of this message align with your core values in this friendship?"
+    },
+    {
+        "round": 7,
+        "user": "I'm not sure, I don't think I have done anything wrong, or bad, we haven't had a fight",
+        "answer_final": "Maybe she is busy and the timing is off. Does your friend work",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree, sincerity is crucial. Reflecting on our past makes me question if I've unknowingly caused any distance. Maybe addressing this in the message could help clarify things.",
+        "therapist": "Exploring past dynamics with sincerity offers a path to understanding and connection. Acknowledging potential missteps shows care and openness. How does it feel to embrace this approach, creating space for healing through honest dialogue?"
+    },
+    {
+        "round": 8,
+        "user": "Well, she did just move into a very large house, but she didn't even want me to help her, no she doesn't work",
+        "answer_final": "May not be a fight but she is busy settling in. Does she live with her family",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing honesty feels right. It's confusing because she moved into a large house and didn't want my help. Exploring that might illuminate misunderstandings. I'm eager to understand what's beneath it all.",
+        "therapist": "Reaching out with honesty can provide clarity. It’s understandable to feel confused about her actions, and exploring those feelings may uncover hidden layers in your friendship. Embracing this inquiry could lead to understanding and trust. How does acknowledging these complexities sit with you as you reflect on this?"
+    },
+    {
+        "round": 9,
+        "user": "Well, maybe, but does that really warrant her ignoring me? She lives with her husband.",
+        "answer_final": "How long has it been since she moved in",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's a tough spot because I can't shake the feeling of being ignored. Maybe her life circumstances have changed more than I realized. I just want clarity.",
+        "therapist": "Reaching out with curiosity about her situation can be a step toward clarity and understanding. It's important to honor your feelings while exploring this change together. How would it feel to express your desire for mutual understanding in your message?"
+    },
+    {
+        "round": 10,
+        "user": "A week and a half ago, not long, but not like yesterday",
+        "answer_final": "have you thought about a housewarming gift",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reaching out would be helpful. Our distance started around a week and a half ago. It's recent enough to address but not fresh like yesterday's troubles. I hope she’ll clarify what changed.",
+        "therapist": "You seem ready to open dialogue and deepen understanding. Trusting your instinct to address recent changes can be illuminating. Sharing your genuine curiosity with her may pave the way for meaningful conversations. What kind of insights or resolutions are you hoping this discussion might lead to?"
+    },
+    {
+        "round": 11,
+        "user": "Hmm, no I didn't think about that, that may be a good idea",
+        "answer_final": "So just a week and she is settling in",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I hadn't considered that perspective before. Reaching out could indeed be enlightening. I'm hoping to understand her sudden change and how we can reconnect meaningfully.",
+        "therapist": "Reaching out with curiosity can open pathways to understanding and reconnection. Trusting your intuition in this journey reflects courage. What supportive steps could you take to invite dialogue and deeper connection?"
+    },
+    {
+        "round": 12,
+        "user": "Yes, but the home came furnished and honestly, I didn't think there was that much to do, but maybe I should get a gift, to break the ice.",
+        "answer_final": "Friendship is important maybe she needs to hear from you",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think starting with a small gesture, like a thoughtful gift, might ease the tension. I realize the house was already furnished, but this could be a friendly bridge.",
+        "therapist": "Your idea of a thoughtful gift as a bridge to understanding shows kindness and intention to reconnect. Trusting in these small gestures can often open doors for deeper dialogue. What resonates with you about taking this step toward rebuilding your connection?"
+    },
+    {
+        "round": 13,
+        "user": "Yes, it is very important, I just felt if I called I would be bothering her :(",
+        "answer_final": "Could she she is arranging the house to fit her style",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for acknowledging that. I want to show I care without being intrusive. It’s just that the fear of bothering her holds me back sometimes.",
+        "therapist": "Your intention to care without intruding shows sensitivity and thoughtfulness. Navigating fear is a natural part of this process. How might you embrace your courage in expressing this genuine care, allowing for an authentic connection?"
+    },
+    {
+        "round": 14,
+        "user": "That is possible, and it is a HUGE house, 4 stories",
+        "answer_final": "Have you tried to visit her and see if you can help",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm considering using the spaciousness of our house to host a small gathering. It could be a comfortable setting to express care and help reconnect without feeling too intrusive.",
+        "therapist": "Hosting a gathering to foster connection highlights your thoughtful approach. Creating a warm environment can be welcoming for both of you. What opportunities might this gathering offer in enhancing your relationship and understanding each other better?"
+    },
+    {
+        "round": 15,
+        "user": "No, we are not seeing each other in person due to COVID.  Do you think I should try calling or texting first?",
+        "answer_final": "sometimes people get overwhelmed and need a friend to be there",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I had planned to gather in person, but COVID has complicated things. Maybe starting with a call or text could gently set the stage for future, more personal interactions.",
+        "therapist": "Reaching out through a call or text is a thoughtful way to nurture connection while honoring current challenges. This approach offers warmth and openness. How might you express your care in these initial conversations, allowing space for future personal interactions?"
+    },
+    {
+        "round": 16,
+        "user": "Yes, they certainly do, darn COVID stops everything",
+        "answer_final": "That would be a great idea, especially with the holidays",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Indeed, COVID complicates things significantly, but through a sincere message or call, I hope to bridge the gap gradually and find meaningful ways to reconnect despite restrictions.",
+        "therapist": "You’re taking thoughtful steps in reaching out, recognizing the current limitations. A sincere message or call can indeed be a meaningful way to reconnect. How might you approach these conversations to reflect your intentions while fostering an open and supportive dialogue?"
+    },
+    {
+        "round": 17,
+        "user": "Would a text be more appropriate vs. a phone call?  What do you think?",
+        "answer_final": "Yeah the virus has stopped a lot of people",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm pondering whether a text feels less intrusive compared to a call. Maybe I should start with a gentle message and see how she responds?",
+        "therapist": "You’re considering a gentle approach, prioritizing her comfort. Initiating with a text can allow space for her to engage at her pace. How do you envision this step reflecting your genuine care and easing into deeper conversations?"
+    },
+    {
+        "round": 18,
+        "user": "I just feel so hurt and abandoned, like I don't mean anything to her",
+        "answer_final": "Why not text her 1st to break the ice. But maybe she is feeling like she is alone also",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think starting with a gentle message might show her I genuinely care, despite feeling hurt and abandoned. It could open a path to reconnecting over time.",
+        "therapist": "Reaching out with a gentle message is a thoughtful choice, acknowledging both your care and feelings. This approach can gradually bridge the gap. What values or intentions would you like to convey in your message to nurture this reconnection?"
+    },
+    {
+        "round": 19,
+        "user": "Well, I think I will try that, I mean, it's not that intrusive.  I hope she's not feeling alone, I hope she doesn't think I'm abandoning her!",
+        "answer_final": "The virus is stopping people but we can find away. Does she have other family",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I plan to share my concern for her and assure her I'm here, hoping she feels supported. It's important she doesn't feel alone or abandoned.",
+        "therapist": "You’re taking a caring approach to offer support and connection. As you express your concerns, consider how external factors like the isolation from COVID might have impacted both of you. How has this feeling of being alone shown up in other areas of life, and what could bring more connection?"
+    },
+    {
+        "round": 20,
+        "user": "I am going to send her a message, do you think I should get her a digital gift card as a gift?. Yes, she has a son in college.",
+        "answer_final": "The card could be a nice gift",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I understand how COVID isolation can intensify feelings of loneliness for both her and me. Sending a thoughtful message alongside a digital gift card might offer warmth and show I care, especially considering her responsibilities with a son in college. It feels like an appropriate gesture to support our reconnection.",
+        "therapist": "You’re taking thoughtful steps to show warmth and support during these challenging times. Offering both a message and a gift card is a compassionate way to connect. How might this gesture create space for open dialogue while honoring her current challenges?"
+    },
+    {
+        "round": 21,
+        "user": "I think I will text her and let her know I'm sending a gift card....maybe she will respond.",
+        "answer_final": "Text and ask about her son",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I believe that sending a text alongside the gift card shows I'm considering her responsibilities and pressures. Maybe she’ll feel more inclined to open up about her challenges.",
+        "therapist": "Your thoughtfulness in considering her situation and pressures can foster connection. By addressing her needs, you show genuine empathy. How might understanding these dynamics enhance both your approach to reconnecting and your own perspective on the relationship’s growth?"
+    },
+    {
+        "round": 22,
+        "user": "That's a great idea!  Thank you :)",
+        "answer_final": "Surprise her with the card 1st. Then follow up with a phone call",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. By considering her responsibilities, I hope to express understanding and deepen the trust between us, fostering a healthier relationship moving forward.",
+        "therapist": "Your intention to consider her responsibilities is nurturing and strengthens the bond of trust. By prioritizing understanding, you create a foundation for a healthier relationship. How do you see this approach shaping the way you connect in the future?"
+    },
+    {
+        "round": 23,
+        "client": "I've realized nurturing understanding builds stronger trust. Recently, offering support through gifts helped reconnect with my niece after some tough family dynamics, making me hopeful for future interactions.",
+        "therapist": "You’ve seen the positive impact of your thoughtful gestures, suggesting moments where nurturing support helped transcend past challenges. How might these experiences guide you in shaping interactions that align with the values of trust and understanding you wish to embody?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 24,
+        "client": "I'm hoping to create a more supportive environment. My recent heartfelt chats with my niece made me feel hopeful that kindness can bridge gaps and strengthen bonds.",
+        "therapist": "As kindness bridges gaps for you, consider what values or intentions guide these supportive interactions. Your experiences with your niece indicate positive change. How might embracing these qualities shape your actions, fostering deeper connections and a stronger sense of community within your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "The intention behind my actions is fostering authentic relationships. I noticed a positive shift when actively listening during my niece's struggles, which reassures me that empathy truly strengthens our connection.",
+        "therapist": "Recognizing empathy as a strength, you cultivate authentic connections and support your preferred identity. Consider how nurturing these qualities might deepen your relationships further. What new possibilities or actions reflect this commitment to authenticity and empathy in future interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I could host gatherings that encourage open conversation, share stories about our challenges and triumphs, aiming to create safe spaces. My recent dinner with her showed that warmth fosters genuine connections.",
+        "therapist": "Hosting gatherings focused on open conversations highlights your dedication to building meaningful connections. By fostering safe spaces for sharing experiences, you strengthen those bonds. How might creating these environments also allow you to redefine the stories of your relationships positively?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Creating these environments allows me to share stories that emphasize growth and understanding. Recently, my niece shared her challenges at work during dinner; this vulnerability strengthened our bond.",
+        "therapist": "Building environments of openness and sharing highlights your commitment to understanding and growth. What possibilities arise from emphasizing these qualities that encourage vulnerability, potentially transforming your niece's challenges into shared narratives of resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I can envision our conversations as opportunities to foster resilience. When my niece shared her workplace issues, it became a shared experience of mutual support, enlightening us both.",
+        "therapist": "Your approach to these shared experiences showcases resilience and mutual support, reinforcing the bond you cherish. How might exploring more ways to build on this mutual support help in strengthening your alternative narrative of connection and growth with your niece?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Engaging in shared activities, like hiking together, lets us discuss life openly and reinforces support. Observing her overcoming fears during challenging trails inspires both of us.",
+        "therapist": "Engaging in shared activities like hiking enriches your bond and fosters new possibilities. These moments reflect resilience and connection, contributing to your narrative of support. How might this newfound inspiration influence other areas of your life where collaboration can strengthen relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "The hiking experience inspires me to encourage similar collaborative efforts at work. It could improve team cohesion, as I felt the energy boost when supporting and being supported during those trails.",
+        "therapist": "Encouraging collaboration at work mirrors your values of support and connection, enriching both personal and professional areas of your life. Your commitment to fostering teamwork could strengthen relationships and boost morale. How might this approach affirm your preferred identity across different contexts?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Applying collaboration strategies at work shows I'm a supportive and reliable person. Recently, when we tackled a tough project together, my team felt more connected and productive.",
+        "therapist": "Collaborating at work underscores your identity as supportive and reliable, enhancing team unity. How might embracing these values guide you in weaving a broader story that celebrates both personal growth and shared accomplishments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Embracing these values at work reminds me of a recent moment where I facilitated a brainstorming session. Witnessing our ideas flow seamlessly brought personal satisfaction and professional synergy.",
+        "therapist": "The satisfaction and synergy you experienced highlights your strength in facilitating collaboration. This moment contradicts the problem’s influence, reinforcing your preferred narrative. What additional paths could open up for you and your team as you continue to nurture these collaborative environments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 33,
+        "client": "I think fostering a culture of open dialogue will invite innovative ideas, reducing stress and increasing job satisfaction. Personally, it makes me feel valued and influential.",
+        "therapist": "Your commitment to fostering open dialogue beautifully aligns with your values of feeling valued and influential. This positive environment you've nurtured at work highlights your strength in creating connections. How does this affirmation contribute to your evolving sense of identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "It reinforces my sense of capability and trustworthiness. Leading a recent project successfully, despite initial doubts, confirmed that others see value in my perspectives and contributions.",
+        "therapist": "Your sense of capability and trustworthiness resonates with the values you hold dear. This success not only confirms your perspectives but deepens your narrative of empowerment. How might continuing to lead with these strengths enrich both your personal journey and work environment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "In leading with strength, I've noticed growing respect and collaboration from colleagues. Our recent project excelled, boosting my confidence in guiding teams towards achieving shared goals.",
+        "therapist": "Your growing respect and collaboration highlight a vital shift in how your leadership inspires others. By guiding with strength, you weave a narrative rich in empowerment and achievement. As this new chapter unfolds, how will you continue to cultivate this evolving sense of leadership in future endeavors?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I'll focus on empowering team members through mentorship and acknowledging their contributions. Recently, when a colleague successfully implemented her innovative idea, celebrating her achievement strengthened our bond and project success.",
+        "therapist": "Your actions in mentorship reflect the significance of fostering mutual growth. Celebrating your colleague's success embodies a shared vision, enriching both identities. Considering this, what personal stories or figures have inspired you to value empowerment and collaboration so deeply?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "A former manager inspired me—she valued each person's ideas and encouraged learning from one another. This approach motivated me to empower others, fostering genuine collaboration and growth.",
+        "therapist": "You're seen through the inspiring lens of your manager, and it’s reflected in your actions of empowerment and collaboration. As you honor these influences, how might her perspective further shape your identity as a mentor for others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Her perspective showed me the power of authentic connections. I now focus on listening actively and valuing different viewpoints. This change nurtures trust and creativity within my team.",
+        "therapist": "By actively listening and valuing diverse perspectives, you’ve not only nurtured your team’s trust and creativity but also reinforced your own growth. This collaborative journey reflects a meaningful legacy. How do you imagine this approach will continue to shape the connections within your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I believe this approach will deepen our team's trust, leading to more open exchanges of ideas. One instance was when we brainstormed solutions without hierarchy—everyone contributed and felt valued.",
+        "therapist": "By creating spaces for open exchanges, you've influenced how your team perceives value and mutual respect. Your approach has not only deepened trust but shaped a shared identity rooted in inclusivity and collaboration. How do you see this fostering personal growth among team members?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "By fostering open exchanges, I see team members becoming more confident in voicing ideas. For example, when Tom introduced his concept last week, it ignited creative discussions, allowing him to express hidden insights. It's rewarding seeing individual growth through such collaboration.",
+        "therapist": "Your nurturing of open exchanges has clearly shaped Tom's growth, igniting creativity within the team. Recognizing how your leadership fosters confidence, consider how these dynamics have enriched your own identity as a mentor and leader. How might you further support this empowering atmosphere?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I've seen how validating my team's input has strengthened my role. To sustain this, I aim to create regular feedback sessions where everyone's ideas are appreciated. Watching others grow boosts my confidence and connection, encouraging shared learning moments that have genuinely enhanced our collective creativity.",
+        "therapist": "Embracing validation reflects your dedication to fostering an inclusive atmosphere, enhancing shared creativity. This relational approach strengthens identities as you nurture collective growth. How do you envision these feedback sessions empowering individual stories within the team while shaping their professional journeys?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Sharing individual stories in feedback sessions can transform vulnerability into strength. I recall Emma revealing her initial struggles and eventual triumph, which inspired others to voice their journeys. These moments foster growth and career development while reinforcing trust.",
+        "therapist": "What a beautiful transformation, witnessing Emma’s growth and the ripple effect it had on your team. Your openness in sharing these experiences truly amplifies connections. It's clear that your contributions have profoundly impacted others' journeys, building a foundation of shared resilience and trust.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "It's gratifying to know my contributions positively impact the team. Reflecting on Emma's story, it resonated with my own initial career hurdles. That shared vulnerability really strengthens our bond.",
+        "therapist": "Recognizing your impact mirrors the strength in Emma's story, underscoring the transformative power of shared vulnerability. This interconnectedness enriches both individual and collective identities, enhancing trust. How might these bonds further influence your personal and professional growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I've noticed these bonds push me to be more authentic, not just professionally but personally. Last month, sharing my own challenges with time management encouraged open dialogue about stress among the team.",
+        "therapist": "You sharing your own challenges revealed your authenticity and facilitated team vulnerability, empowering others to express their struggles. Your actions created a shared platform for growth and connection. How has witnessing this reciprocal openness reinforced your sense of contribution and influenced your identity as a leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "Sharing my struggles deepened connections with the team and affirmed my role. Observing their honest feedback illuminated new ways to support them, enriching both our growth paths.",
+        "therapist": "Your experience of sharing and its reciprocal impact has clearly strengthened your identity as a leader. Reflecting on how these contributions have influenced the team's growth, what new insights might you gain about their perceptions of you and how this mutual respect is shaping them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I've seen more openness and willingness to contribute since my story. They seem to view me as approachable, fostering an environment where growth feels mutual and empowering.",
+        "therapist": "Embracing openness and contribution highlights how your team perceives you as a leader. Your approachable nature empowers shared growth, reinforcing mutual respect. What insights have emerged about yourself through the team’s eyes that might further influence your role and personal journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 47,
+        "client": "Reflecting on the team’s perception, I realized how my empathy and authenticity empower both our growth. Their feedback revealed my capacity to foster trustful spaces, enhancing mutual respect and understanding.",
+        "therapist": "Your recognition of how empathy and authenticity shape both individual and collective growth reflects profound insights. As you continue fostering these trustful spaces, what new possibilities might emerge in your relationships with the team that enhance mutual development?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Thinking of the new possibilities, I see mentoring emerging naturally. I'm inspired by their growth and envision hosting skill-sharing sessions where we explore creativity and solutions together. It feels empowering.",
+        "therapist": "Your vision of mentoring and skill-sharing is truly inspiring, strengthening your relational identity. As you facilitate these sessions, consider how they shape not just your growth but also redefine the team's identity. How might nurturing these creative exchanges impact everyone's sense of empowerment and connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Facilitating sessions fostered an environment where creativity flourished. During a recent session, teammates expressed innovative ideas and bonded over mutual problem-solving, boosting our collective confidence and connection.",
+        "therapist": "Your facilitation and encouragement of innovative ideas strengthened both individual growth and collective confidence. Seeing the team bond so dynamically, how does this new perspective on mutual problem-solving influence your sense of purpose and relational identity within the group?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Discovering our collective potential enhances my purpose, instilling pride. I felt deep satisfaction when Sarah pitched her idea—her confidence was contagious. We thrived in exploration and problem-solving.",
+        "therapist": "As Sarah's confidence inspired growth, this exchange might strengthen your own identity as a leader who facilitates transformative spaces. How does recognizing the impact of such interactions shape your vision for future collaborations and nurturing contributions within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

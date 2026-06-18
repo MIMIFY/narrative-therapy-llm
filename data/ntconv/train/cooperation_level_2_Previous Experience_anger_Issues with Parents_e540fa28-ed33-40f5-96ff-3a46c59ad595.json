@@ -1,0 +1,555 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hi!   How are you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, I’m feeling a bit apprehensive but also hopeful about starting this conversation. It’s been a tough time recently, and I’d like to talk about that.",
+        "therapist": "I appreciate you sharing that—it takes courage to open up, especially during a tough time. Let’s take this at your pace. What feels most important for you to talk about today?"
+    },
+    {
+        "round": 2,
+        "user": "I'm grounded so i'm not happy",
+        "answer_final": "I'm sorry to hear that.  It must be hard.. Can I ask what has happened?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling pretty down because I've been grounded, and it's really affecting my mood. It's tough staying positive, and I want to understand how to deal with this better.",
+        "therapist": "You're in a tough spot, and wanting to understand this feeling is a positive step. Could we explore how grounding fits into the story of your life right now, and see if there's space for finding something hopeful within it?"
+    },
+    {
+        "round": 3,
+        "user": "My sibling broke the tv and blamed it on me and my parents\n believed them",
+        "answer_final": "Oh no!  I'm sorry to hear that.   That must be a hard situation, to not have your folks believe you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess the grounding feels unfair because it wasn’t my fault. My sibling broke the TV, but they blamed me, and my parents believed them. It’s left me feeling hurt and frustrated.",
+        "therapist": "I hear how unfair and hurtful that situation feels. Your frustration makes sense given what happened. If you were to reframe your role in this story, what qualities or strengths do you think have helped you cope so far?"
+    },
+    {
+        "round": 4,
+        "user": "It is very frustrating",
+        "answer_final": "Have you spoken with your sibling about why they lied?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think my patience has helped, even though it feels stretched thin. It’s frustrating to feel unheard, but I’ve been trying to stay calm and not let it consume me.",
+        "therapist": "Your patience seems like a powerful ally here, even under strain. How has this feeling of being unheard affected your sense of fairness or connection with your family?"
+    },
+    {
+        "round": 5,
+        "user": "No, we just got into a yelling fight about it and are both in our rooms now",
+        "answer_final": "I'm sure it's frustrating when you know you're correct and no one believes you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The yelling match just amplified how unfair it feels, like my side wasn’t valued. It hurts our connection, making it hard to feel close right now.",
+        "therapist": "Your feelings of being unheard and disconnected make complete sense given the situation. What do you think might help you feel more valued or understood in moments like this?"
+    },
+    {
+        "round": 6,
+        "user": "Yes it is. I'd rather just run away from everything",
+        "answer_final": "It's not cool that you're sibling lied, but it may be a good time to breathe a second.   Running away never solved anything",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I sometimes think about escaping from this, imagining a space where my feelings are heard and valued. But I know running away isn't the solution. How do I move forward constructively?",
+        "therapist": "You're seeking a space where your voice matters, which shows incredible self-awareness. What small steps might help create that sense of being valued within your current situation, even in small ways?"
+    },
+    {
+        "round": 7,
+        "user": "It is late at night",
+        "answer_final": "So probably it's quiet.  this is a good time to take a breath and , literally try and sleep on it.. What do you want to see happen?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm thinking about having a heart-to-heart with my parents, maybe late at night when things are quieter and we’re less distracted. It's challenging but feels worth trying.",
+        "therapist": "Late-night heart-to-heart talks can offer a safe space for honest expression. How do you envision this conversation bringing clarity or resolution to the situation?"
+    },
+    {
+        "round": 8,
+        "user": "that is probably a good idea. I want my sibling to be punished not me and for parents to believe me",
+        "answer_final": "OK, I understand.. So, then, it's how to figure out how to make that happen.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I hope it helps my parents see my side clearly. I just want fairness—like my sibling facing consequences instead of me—and to feel genuinely believed and supported.",
+        "therapist": "Your longing for fairness and being genuinely heard reflects how deeply you value respect in relationships. If we were to give this problem a name, like \"Being Overlooked,\" how would you describe its role in creating this unfair dynamic?"
+    },
+    {
+        "round": 9,
+        "user": "well my parents dont believe me so not much i can do",
+        "answer_final": "May I ask why they believe your sibling?   Is your sibling a different age?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's like \"Being Overlooked\" takes control, making me feel invisible no matter what I say. When my parents don’t believe me, it leaves me stuck and powerless.",
+        "therapist": "It’s difficult to feel stuck under the weight of \"Being Overlooked.\" If you were to imagine taking even a small step away from its influence, what might that look like for you?"
+    },
+    {
+        "round": 10,
+        "user": "they are younger and the favorite",
+        "answer_final": "I understand.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It might involve addressing the favoritism with my parents, explaining how their focus on my younger sibling makes me feel, and asking for more equitable treatment.",
+        "therapist": "Addressing this could be a brave step toward fairness and being heard. What would help you feel confident and supported as you prepare to share these feelings with your parents?"
+    },
+    {
+        "round": 11,
+        "user": "I just need to wait until I'm 18 so I can move far away",
+        "answer_final": "So, it sounds like you already have a plan to turn things around.   How far away from 18 are you, if I can ask?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think having someone to back me up, like a friend or relative who understands my perspective, might help. But part of me wonders if it’s even worth trying.",
+        "therapist": "Trusting someone who understands your perspective can provide valuable support. It's natural to question the worth, but each step can bring you closer to feeling heard and supported. What small action could help shift your feelings towards a hopeful outcome?"
+    },
+    {
+        "round": 12,
+        "user": "1 year",
+        "answer_final": "OK, good for you.   It may not seem like it, but you can do anything for a year.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reflecting on past attempts to voice my concerns and recognizing growth over the year has encouraged me. Sharing these experiences openly might build my confidence.",
+        "therapist": "Sharing your growth openly can be empowering. What stands out most about the strength you've shown in voicing your concerns over time?"
+    },
+    {
+        "round": 13,
+        "user": "True.. I can't wait",
+        "answer_final": "So, the question is....how do you deal in the short term?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've realized how persistent I've been in trying to express myself. It excites me to think about addressing things more openly now.",
+        "therapist": "You’ve shown incredible persistence. Embracing this excitement for openness can be a powerful motivator. How might you further nurture this newfound eagerness as you express yourself?"
+    },
+    {
+        "round": 14,
+        "user": "It will be nice to get away and never talk to family again. Just hole up in my room and not talk to anyone from now on I think. only talk when necessary",
+        "answer_final": "Yes.   I was going to suggest the \"grey rock\" technique.. You would be only as polite as you need to be, and only engage others in a limited way.   You go about your business as you need to without the involvement of your other family members.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I realize the thought of isolating myself creeps in when I'm overwhelmed, but your question sparks something within. Exploring how my persistence can further bolster my confidence seems promising.",
+        "therapist": "Remember, isolating can sometimes sneak in when overwhelmed. What would the shift look like if you embraced your persistence as an ally to guide these moments? Exploring that could further transform your confidence into a strong support system."
+    },
+    {
+        "round": 15,
+        "user": "That is a good idea. I will just do that. i can handle that for a year. thank you for your help",
+        "answer_final": "you're welcome!. I truly wish you the best.   Stay calm, you're a stone, and will get through this until you can leave.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing my persistence as an ally feels like a solid strategy. I think I'll start by taking small, consistent steps. Your support makes this seem manageable, even for the long term.",
+        "therapist": "Embracing persistence as an ally is a powerful strategy. Those small, consistent steps could be pivotal. How does it feel knowing this journey is manageable, offering you stability and empowerment for the future?"
+    },
+    {
+        "round": 16,
+        "client": "It feels hopeful, like I finally have a way forward. I remember last week managing my anxiety by focusing on small wins—it showed me how persistence truly helps.",
+        "therapist": "Persistently managing anxiety through small wins highlights your resourcefulness. Let’s explore how anxiety has impacted different areas of your life and see where these small victories might also bring light to those parts.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 17,
+        "client": "I think anxiety has held me back socially, especially in group settings. A recent small win was speaking up at a team meeting—it made me feel more capable and valued.",
+        "therapist": "Exploring anxiety's impact in social settings, you’ve made steps towards feeling valued. Consider how addressing anxiety's effects more directly could reshape your experiences in group situations, enhancing capability and connectedness. What might it mean for you to strengthen this newfound voice?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 18,
+        "client": "Exploring anxiety's effects in group settings might mean harnessing this newfound confidence from the team meeting. Feeling valued there gave me a glimpse of how empowering it can be.",
+        "therapist": "Harnessing that confidence speaks to your resilience and value for connection. If anxiety were something external, how might you see its role in these moments where your courage takes the lead?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Anxiety sometimes feels like a shadow, just outside my control. When courage takes the lead, that shadow lessens—I think of moments engaging in team brainstorming where creativity flows.",
+        "therapist": "You’ve recognized how courage diminishes anxiety's shadow, especially in creative team settings. Naming anxiety as external helps map its presence—align this insight with your values and hopes for stronger engagement and creativity. How does shaping it around courage further illuminate these experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Naming anxiety as external helps me view it as a separate entity that can be challenged. In those brainstorming moments, courage lets me explore ideas without self-doubt, fostering creativity.",
+        "therapist": "Naming anxiety separately gives you power to confront it. Your creativity in those brainstorming moments speaks to your value for open exploration and contribution. This courage connects deeply with your hopes for self-expression and community impact. What values are guiding this courageous journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I've been valuing vulnerability and authenticity. In brainstorming sessions, sharing ideas openly without fear helps me build genuine connections. Experiencing respect and collaboration fuels my motivation to continue contributing.",
+        "therapist": "Building genuine connections by embracing vulnerability and authenticity offers powerful moments where your ideas flourish. Reflecting on these experiences of respect and collaboration, how might cultivating these values further transform your interactions and strengthen your preferred story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Cultivating these values could help me form deeper bonds. At a recent workshop, sharing a personal story felt freeing. Witnessing everyone's support reinforced my belief in vulnerability's power.",
+        "therapist": "Engaging in these moments of sharing shows how your vulnerability empowers deeper bonds and aligns with your core values. It's inspiring to see support reinforcing these commitments. How might embracing vulnerability continue to shape your preferred identity and strengthen your connections moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Embracing vulnerability might help me foster even more trust in my relationships. I recall a conversation with a colleague where sharing my struggles invited their honesty too—it felt deeply mutual.",
+        "therapist": "Embracing vulnerability has evidently nurtured trust and openness, allowing honest exchanges that build mutual connection. Your experience with your colleague highlights the empowering journey of shared struggles. How might these moments inform ways you wish to enrich and maintain these valued relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Sharing struggles with my colleague reminded me how honesty fosters trust. I’ve started reaching out more intentionally—like checking in after a tough meeting—which feels deeply rewarding and authentic.",
+        "therapist": "Recognizing the value of intentional actions like checking in post-meeting shows your dedication to nurturing trustful connections. Your efforts illuminate an inspiring path toward authenticity. As you continue this journey, consider how these rewarding experiences might influence future relationships and opportunities for personal growth.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I've noticed that reaching out more builds a stronger sense of community at work. After checking in with a colleague, I felt more connected and reassured. It's comforting knowing we're all navigating similar challenges.",
+        "therapist": "As you reach out, it's inspiring to see a stronger sense of community emerge. These moments not only affirm shared challenges but reveal how your actions create meaningful connection. How might continuing to foster this community support the development of your preferred narrative at work?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I'm realizing that fostering community helps align my work narrative with my values. After hosting a team lunch, everyone seemed more relaxed, and I felt truly connected and appreciated.",
+        "therapist": "Hosting that team lunch highlights your ability to cultivate a space where connection and appreciation thrive. As fostering community aligns so closely with your values, how might you continue building these meaningful experiences in ways that strengthen your sense of purpose?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Engaging more directly, like organizing monthly check-ins or creative brainstorming sessions, strengthens my connections and empowers me. Feeling valued during these interactions boosts my enthusiasm and drive.",
+        "therapist": "As you embrace direct engagement, these practices beautifully weave your values into your work narrative, amplifying enthusiasm and drive. Such initiatives reflect your dedication to fostering connection. What further intentions or commitments could expand this empowering sense of community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "As I continue fostering this community, I'm considering starting a mentorship program. Supporting colleagues in their growth can be profoundly fulfilling and deepen our collective resilience.",
+        "therapist": "By initiating a mentorship program, you're fostering growth and strengthening resilience while aligning closely with your values. It's fulfilling to support others' journeys. How might this initiative further shape the supportive community you're cultivating and enhance your preferred narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think a mentorship program could empower both mentors and mentees by creating mutual learning opportunities. Supporting someone’s progress would remind me of my own growth, fostering deeper connections.",
+        "therapist": "As you envision the mentorship program, your commitment to mutual growth beautifully enhances both personal and collective empowerment. This sense of fostering deeper connections speaks deeply to your values. How might this evolving community help reinforce your preferred identity at work?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think creating this program would align my identity as someone who nurtures growth. Guiding others reminds me of my values and validates my role as a supportive leader.",
+        "therapist": "Guiding others seems to resonate deeply with your identity as a nurturing and supportive leader. How might this mentorship program become a meaningful expression of your core values and strengthen the leadership narrative you’re cultivating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think the program would show my dedication to helping others thrive, especially when I see mentees overcome challenges. Witnessing their success would reinforce my purpose as a leader.",
+        "therapist": "Witnessing their growth could be such a powerful affirmation of your leadership values. As you reflect on this vision, what steps might you take to bring this program to life and integrate it meaningfully into your leadership journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I’d start by identifying colleagues who might benefit from mentorship and propose tailored guidance sessions. Developing a framework to ensure both practical advice and emotional support feels essential. Seeing their potential flourish could ignite motivation and boost our collective morale.",
+        "therapist": "You",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I've seen colleagues with untapped potential. When I imagine them flourishing, it lifts my spirits. Planning these mentorship frameworks feels daunting yet exciting, truly meaningful in shaping my leadership journey.",
+        "therapist": "Reflecting on the potential you're envisioning, what small, manageable step could you take to begin building this mentorship framework? Starting with one element might ease the process while aligning with your meaningful leadership vision.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think starting with an open conversation with one colleague I’ve noticed struggling could be a good first step. I’d listen to their goals and challenges, then brainstorm how mentorship could help.",
+        "therapist": "You’re considering a thoughtful and collaborative approach to support your colleague, which reflects your deep commitment to nurturing growth. How might taking this step reinforce the values that matter most to you as a leader?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Taking this step helps reaffirm my belief in the power of personal connection. Last week, seeing a colleague's struggle made me recall how mentorship impacted my journey, making me more empathetic.",
+        "therapist": "Your empathy and value in personal connections stand out vividly here. Exploring how this initiative could deepen your identity as a mentor, what intentions or commitments might guide your development of these meaningful relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I aim to foster a supportive space where colleagues feel comfortable sharing vulnerabilities and growth aspirations. Reflecting on my own journey, I’m committed to empathy, listening, and actionable guidance.",
+        "therapist": "Your commitment to creating a supportive space reflects deep influence from meaningful connections in your life. Who comes to mind as having inspired this empathetic and action-driven approach, shaping your values as a leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think of my first manager. She noticed my hesitation early in my career, sat with me, listened patiently, and encouraged small risks. Her kindness made growth feel possible.",
+        "therapist": "Imagining the possibilities through your manager's eyes, how does this kindness continue to shape your identity and leadership aspirations today? Reflecting on her impact may bring clarity and reinforcement to your path.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Her kindness showed me how empathy could drive real change. It reminds me daily that leadership is more about empowering others than personal success, urging me to prioritize compassion and active support.",
+        "therapist": "Empowering others through compassion speaks to your core values as a leader. How does seeing yourself through your manager's eyes enrich your own understanding of the strengths you bring into empowering and supporting those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Seeing myself through her eyes reminds me of my capacity to uplift others. It’s humbling, but it also highlights my ability to notice struggles and offer thoughtful support naturally.",
+        "therapist": "You’re recognizing the lasting imprint of your manager’s perspective on how you uplift others. In what ways do you see your thoughtful support shaping not just your colleagues’ growth, but also their sense of value and confidence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "I remember once when a colleague doubted their presentation skills. I took time to guide and reassure them, which later helped them deliver confidently. It was rewarding seeing them proud.",
+        "therapist": "Your ability to guide others through reassurance creates powerful change, influencing how they see themselves. How might your continuous support further strengthen their skills and self-perception, enhancing mutual growth within your connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I think consistent encouragement is key. When I notice their improvement, I celebrate it openly. Once, praising a colleague’s creative idea boosted their confidence in sharing more innovations.",
+        "therapist": "Your ability to celebrate others’ strengths opens pathways for their growth and confidence. How do you think your colleagues carry forward the impact of your encouragement in their own interactions and aspirations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Seeing the pride in their eyes when I praise them inspires me too. Some now mentor others, sharing ideas fearlessly, a ripple effect reminding me that kindness truly multiplies.",
+        "therapist": "Your kindness doesn’t just ripple—it reshapes connections and identities around you. How do you see the growth of those you've mentored reflecting your shared influence, and reinforcing the compassion you’ve chosen as a central thread in your leadership?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Witnessing their growth mirrors back the values I've invested, creating a culture of support and empowerment. It affirms the impact compassion has in transforming doubts into dreams.",
+        "therapist": "Your commitment to fostering growth not only empowers others but creates a shared culture of possibility. How do you feel this ripple of kindness and encouragement continues shaping the way others see their own potential and place in that shared vision?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I feel it encourages people to trust their strengths. For example, one colleague recently led a tough project after my encouragement. Seeing them thrive was deeply fulfilling for me.",
+        "therapist": "Your encouragement evidently nurtures trust and self-belief in others, shaping their readiness to tackle challenges. What enduring aspects of yourself do you see reflected in the success and confidence that emerges within those you guide?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I see my belief in resilience mirrored in their confidence. Encouraging a team member during a tight deadline showed me that my calm resolve is contagious, bolstering collective perseverance.",
+        "therapist": "Your influence fosters a culture where resilience strengthens both individuals and teams. How does witnessing their evolution through your encouragement deepen your understanding of your own identity and role as a mentor?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I realize how much I value being a source of stability and encouragement. Watching others succeed reminds me that my efforts create lasting impact, which reinforces my sense of purpose.",
+        "therapist": "By being a steady source of encouragement, you weave strength and purpose not only into your own identity but deeply into theirs. How does this shared journey of growth with others further affirm the importance of your role in both their lives and yours?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I feel my role grows each time someone achieves their goals. Supporting a team member through a promotion recently deepened our bond and affirmed the ripple effect of my guidance.",
+        "therapist": "Supporting others’ growth appears to strengthen not only their confidence but your shared connection. In seeing them succeed, how do you think your guidance has shaped the way they now inspire or support others in return?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "My guidance seems to foster a culture of support. One team member who I mentored recently took on a mentor role themselves, offering help during another's tough project. It's inspiring.",
+        "therapist": "Seeing your influence ripple through the team highlights the depth of your supportive impact. How does acknowledging their growth and reciprocation reinforce your view of the relational dynamics you've helped cultivate and nurture?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Seeing their development reassures me about the positive dynamics we’re building. Recently, a team celebration where everyone expressed appreciation highlighted how supportive our environment has become. It feels rewarding.",
+        "therapist": "Observing the positive dynamics you're fostering, it’s clear your contributions are pivotal to this nurturing environment. How does experiencing this shared appreciation strengthen your understanding of your own influence and identity within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Experiencing that appreciation made me realize how much my actions set the tone for the team. It clarified my role as a motivator and affirmed my leadership approach.",
+        "therapist": "Experiencing how your leadership inspires others to grow illuminates the mutual impact you share. How do you imagine the team views their own potential differently because of the tone you've set?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

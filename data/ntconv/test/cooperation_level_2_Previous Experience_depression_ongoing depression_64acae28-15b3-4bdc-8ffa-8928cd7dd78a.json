@@ -1,0 +1,474 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello.  How can I help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel overwhelmed, like there's a constant weight pressing down on me. Sharing these emotions helps me find a bit of relief and hope.",
+        "therapist": "Sharing your feelings is a strong step toward relief and hope. How might this expression of emotions transform the weight you're experiencing into something more manageable and uplifting?"
+    },
+    {
+        "round": 2,
+        "user": "Hi. I am feeling really depressed.",
+        "answer_final": "Is there anything particular that you are feeling depressed about?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm glad I shared. It helps me feel lighter and see the possibility of slowly lifting this depression, even if it's just a little each day.",
+        "therapist": "Sharing has brought some lightness and hope, showing strength. How might nurturing these small steps of change lead you toward a path that feels less burdensome?"
+    },
+    {
+        "round": 3,
+        "user": "Well I recently lost my grandfather and since then I have been feeling I am not doing well in life and that it's pointless.",
+        "answer_final": "Losing a family member can be very tough.  It seems like you are having a hard time going forward.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Losing my grandfather has felt like a heavy blow, making me question the meaning in my life. I'm struggling to find purpose but sharing this lightens some of that weight.",
+        "therapist": "The loss of your grandfather and questioning life's meaning are profound experiences. Your willingness to share shows resilience. How might honoring your grandfather's memory help you uncover renewed purpose and direction?"
+    },
+    {
+        "round": 4,
+        "user": "Yes I am. I",
+        "answer_final": "Do you have anyone around you that you feel comfortable talking to about this?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I am trying to honor his memory by reflecting on our shared moments and what he valued. It's tough, but it's encouraging me to seek deeper meaning.",
+        "therapist": "Reflecting on shared moments honors his legacy and can reveal deeper meaning in your life. How might these values guide you toward the purpose you're seeking?"
+    },
+    {
+        "round": 5,
+        "user": "I have talked to my family and my husband. They have helped some. I just feel depressed because I feel like I a not making an impact with my life.",
+        "answer_final": "It's great you have family in your life that you can talk to.  It sounds like having a strong family is something you can be proud of.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think about his values and realize I haven't felt impactful lately. I’ve talked to my family and husband, which helps some, but the depression lingers because finding purpose feels elusive.",
+        "therapist": "Reflecting on his values is a powerful way to honor him and may help in finding your own impact. Engaging with those close to you shows courage. How might small, daily actions aligned with these values bring more purpose into your life?"
+    },
+    {
+        "round": 6,
+        "user": "Yes. That is true.. I think the idea that I could also lose the at some point is very hard to deal with.",
+        "answer_final": "I agree.  I also worry about losing my family",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, that's true. Daily actions could help. The idea of losing someone close eventually is tough. It makes me question how I’m spending my days.",
+        "therapist": "Reflecting on how you spend your days shows self-awareness. What might be a meaningful way for you to spend today that aligns with those values, perhaps honoring both your own journey and the legacy of connection with your grandfather?"
+    },
+    {
+        "round": 7,
+        "user": "What do you do to help feel better?",
+        "answer_final": "From my experience, I just focus on the now and try not to worry about things that may be out of my control.. Have you ever tried meditation?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, reflecting helps me acknowledge my emotions. How do you personally align your daily actions with values when you face challenging times?",
+        "therapist": "Reflecting on my own values helps ground me in tough times. Everyone's journey is unique, but small actions rooted in core values can steer us back to purpose. What might be a simple, meaningful action for you today?"
+    },
+    {
+        "round": 8,
+        "user": "No i have not. I am kind of a wired person and think I would struggle to meditate.",
+        "answer_final": "I understand.  That may be exactly what could help you, though. It may be good to Try something that may open yourself up to new experiences.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've not tried meditation, but I often feel restless. It seems challenging for someone like me who’s constantly buzzing with thoughts. Maybe finding a creative outlet could help.",
+        "therapist": "Exploring a creative outlet can channel that restless energy into something expressive and fulfilling. Creativity may provide a space to discover aspects of yourself. What type of creative activity might resonate with you and support this exploration?"
+    },
+    {
+        "round": 9,
+        "user": "Okay do you have any advice where to start?",
+        "answer_final": "There are several books that you can download from Amazon that can help with meditation, or if you really want to try something out of the norm, there are classes where they help you learn how to meditate.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the suggestion. I've always enjoyed drawing but haven't done it in years. Do you have any advice on how to get back into it?",
+        "therapist": "Engaging with drawing could be a powerful way to reconnect with what brings you joy. You might start with small, relaxed sessions that let your thoughts flow freely onto paper. How do you feel about setting aside time each day to explore this creative expression?"
+    },
+    {
+        "round": 10,
+        "user": "Thank you that is really helpful.",
+        "answer_final": "You're welcome.  I think that is a great start and I think it can be really helpful for you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the encouragement. Setting aside time for drawing could be a soothing escape from my restless mind, allowing me to rediscover what once brought joy.",
+        "therapist": "Rediscovering joy through drawing can be a beautiful way to find peace in your thoughts. Trust in this process and the gentle moments it brings. How does dedicating time to this feel as a commitment to yourself?"
+    },
+    {
+        "round": 11,
+        "client": "It feels liberating, like a promise to rediscover forgotten parts of myself. I imagine slowly sketching calming scenes or moments with Grandpa—somewhere serene, filled with love and memories.",
+        "therapist": "Rediscovering forgotten parts through drawing can gently externalize your restlessness and embrace comforting memories. This serene process can transform buzzing thoughts into nurturing creativity. As you sketch moments with Grandpa, how does it feel when art becomes a bridge to your cherished memories?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "Drawing brings back vivid scenes, like fishing with Grandpa by the lake—his laughter, the sun's warmth. It anchors me in cherished moments and eases my restless mind.",
+        "therapist": "Anchoring in cherished moments through drawing shows how restlessness loses power when you engage with meaningful memories. How has this buzzing energy affected your ability to connect with these peaceful parts of your life elsewhere?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "The buzzing often clouds my ability to be present. Even simple tasks become overwhelming, and it's hard to find peace elsewhere, except when I truly immerse myself in memories like those with Grandpa.",
+        "therapist": "Restlessness seems to act like a cloud, obstructing your presence in everyday tasks. Yet, finding calm through memories signifies your strength in navigating these moments. Would you like to explore more ways where these connections could help lessen the problem's impact?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "Finding ways to lessen the restlessness through these connections is appealing. Maybe involving Grandpa's spirit more in daily tasks could help center me. His guidance always brought peace and clarity.",
+        "therapist": "Drawing on Grandpa's spirit to lessen restlessness shows insightful understanding. His guiding presence in daily moments seems inviting. How might you involve this nurturing connection more deeply within those routines that challenge your focus?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "Involving Grandpa's spirit in daily routines could be as simple as imagining his calm presence during breakfast or his advice when I'm overthinking. It's like carrying his wisdom with me.",
+        "therapist": "Grandpa’s wisdom seems like a source of steadiness amidst restlessness, reminding you of clarity and peace. What is it about his presence or advice that feels so grounding to you in those moments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "His presence reminds me of childhood afternoons filled with joy and wisdom. When faced with uncertainty, imagining his advice brings clarity, like the times he patiently explained life's simplicities.",
+        "therapist": "Grandpa's clarity during uncertainty offers a powerful tool against your restless mind. It's fascinating how revisiting his wisdom and the joy it brings aligns with your commitment to finding inner peace. How does drawing on his patience empower you towards that hope for steadiness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Grandpa’s patience was like a calming force during storms of confusion. When stressed, imagining his steady hand on my shoulder encourages me to approach challenges with newfound steadiness and confidence.",
+        "therapist": "Imagining Grandpa’s calm presence as a steady force seems vital to handling life's challenges. What stands out is how you've connected this support to your personal commitment for confidence and tranquility. Let's explore how further externalizing the restlessness can deepen that connection.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Imagining restlessness as a disruptive guest might help. It barges in, throws everything into chaos, but Grandpa’s steady influence feels like a guardian calmly guiding me back to balance.",
+        "therapist": "Imagining restlessness as an unruly guest allows you to identify its chaos, contrasting with Grandpa’s steady guidance. This visualization can reveal how his calming influence promotes balance across your life's domains. How does recognizing these distinct influences shape your responses to different situations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 19,
+        "client": "Recognizing these influences helps me pause and assess my emotions. For example, during arguments, I now visualize Grandpa's calm voice guiding me to respond thoughtfully instead of reacting impulsively.",
+        "therapist": "Grandpa’s calm voice embodies your personal commitment to thoughtfulness and balance, even amidst disruptions. Seeing restlessness as a separate entity helps focus on patience over impulse. Consider how further naming this visitor might allow more direct challenges to its disruptive influence.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Naming restlessness as 'the Storm' makes sense. In a heated argument with my partner last week, picturing 'the Storm' allowed me to pause, breathe, and avoid escalating the situation.",
+        "therapist": "Naming restlessness as 'the Storm' truly sets boundaries for its effects, allowing you to draw from Grandpa’s calming guidance instead. Seeing this shift during disagreements highlights growth. What other areas of your life might benefit from recognizing and transforming interactions with 'the Storm'?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 21,
+        "client": "Recognizing 'the Storm' also helps in work settings. Last week, faced with a challenging task, I imagined Grandpa’s guidance and tackled it calmly instead of letting anxiety spiral.",
+        "therapist": "Embracing 'the Storm' transformation reveals resilience across your life's narrative, from work to personal relationships. This new perspective aligns beautifully with Grandpa's influence, enhancing how you engage with challenges calmly. As you nurture these moments of calm further, what identity insights might emerge for you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "[\"Recognizing 'the Storm' highlights resilience, making me see myself as adaptable. I recall when unexpected deadlines hit at work; usually anxious, I found strength in Grandpa’s calm approach.\"]",
+        "therapist": "Reflecting on these resilient moments helps solidify your adaptable identity, bridging the calm wisdom you value. As 'the Storm' now reveals, balancing both adaptability and tranquility supports your narrative beautifully. How might further embracing this calm adaptation enhance other personal endeavors?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Embracing calm adaptability could improve how I handle my creative pursuits. Last month, tackling a daunting art project, channeling Grandpa's influence helped me find inspiration amidst pressure.",
+        "therapist": "By integrating calm adaptability into your creative work, you forge a powerful narrative where pressure transforms into inspiration. This growing synergy reflects a newfound confidence in confronting challenges creatively. Consider how continuing to embrace this approach may inspire even greater fulfillment and self-expression in your artistic journey.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Integrating calm adaptability has certainly enriched my artistic journey. Recently, I approached a new project without fear, just excitement to explore. It feels liberating and creatively invigorating.",
+        "therapist": "Approaching projects with excitement rather than fear reflects a deep shift in how you engage creatively. This liberating energy seems to echo your adaptability. How might nurturing this fearless curiosity influence not only your art but other areas where self-expression thrives?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Engaging with fearless curiosity lets me express more openly in social situations. Sharing my thoughts without self-doubt has improved connections, fostering genuine interactions and warmth.",
+        "therapist": "Engaging with fearless curiosity reflects an authentic commitment to connecting deeply. It seems your growing confidence aligns with values of openness and warmth in relationships. How might this exploration continue shaping the way you approach connection and express yourself across other areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I notice this approach impacting my hobbies and family life. Sharing cooking tips, I found more laughter and learning. It's grounding me, even when facing misunderstandings with calm patience.",
+        "therapist": "Grounded in calm patience, you're cultivating rich connections through hobbies and family interactions. This shift enhances understanding and brings joy into shared experiences. Consider how embracing this mindset might further deepen relationships and support your evolving narrative of confident self-expression.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Exploring this mindset in family gatherings has been transformative. During dinner last weekend, I voiced my thoughts freely, sparking an engaging debate that deepened bonds and opened new perspectives.",
+        "therapist": "Transforming your family gatherings reflects a significant evolution in embracing your identity as an open communicator. This approach aligns with your values and commitment to deepening connections. Exploring how these discussions enhance personal fulfillment might continue enriching the preferred narrative you're building.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Discussing values at family gatherings revealed how deeply I care about our collective growth. These moments remind me of Grandpa's wisdom, evoking a feeling of fulfillment and connection.",
+        "therapist": "Reflecting on Grandpa's wisdom shows your deep commitment to family growth, emphasizing the importance of values and connection. As you continue exploring this landscape of identity, consider how these insights can further shape your preferred story and guide you in fostering familial relationships.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Reflecting on Grandpa's advice, like prioritizing empathy, I've noticed our family sharing stories with more patience. At last Sunday's brunch, his influence enriched our conversation with shared gratitude.",
+        "therapist": "Grandpa's legacy of empathy seems to ripple through your family's interactions, enriching them. As you deepen these narratives, how might these moments contribute to a more connected family identity, and what actions might continue this shared journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "['Reflecting on family values, like empathy, emphasizes closeness.', \"After Sunday's brunch, we initiated regular gratitude circles at home.\", 'It strengthens bonds by openly sharing personal challenges and triumphs.']",
+        "therapist": "You seem to be deepening familial bonds through empathy and shared gratitude. By linking these practices to your values, you’re shaping a narrative of closeness and connection. How might these shared experiences further support the family identity you're nurturing?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I believe these gratitude circles enhance our sense of unity and promote openness. Recently, Dad shared a personal struggle, which deepened my appreciation for his resilience and fostered closer bonds.",
+        "therapist": "Recognizing the unity and openness within your family affirms your values of connection and resilience. Your Dad's vulnerability highlights these evolving relationships. How might this deepen your understanding of empathy as a guiding principle for family unity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Dad's openness taught me that empathy involves truly listening and connecting on a deeper level. When he shared his struggles, I felt immense respect and a newfound closeness.",
+        "therapist": "Dad's willingness to share his struggles indeed deepens your sense of empathy and respect. This connection might fortify the family narrative of unity and resilience you cherish. How might embracing this evolving understanding of empathy further enrich your personal growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Embracing empathy encourages me to listen more intently to others' stories. Recently, a friend confided in me about her job struggles, and I realized the power of simply being present for someone.",
+        "therapist": "By being present for your friend, you're embodying empathy and expanding your narrative of meaningful connection. This ability to deeply listen fosters a more compassionate self. How might this strengthen your preferred story of building supportive relationships in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "During that conversation, I realized how impactful simple listening could be. It inspires me to cultivate more open spaces, whether at work or within my community, encouraging deeper connections.",
+        "therapist": "Your insight into the power of listening is a profound step towards fostering genuine connections. This intention to create open spaces truly aligns with your values. How might you continue nurturing this approach within your community, reinforcing your preferred narrative of support and connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "I'll start by hosting informal gatherings where people can share stories and struggles. I've felt deeply connected during such moments, reinforcing our sense of community and support.",
+        "therapist": "Hosting these gatherings can be a powerful way to nurture the alternative story of connection and community you value. How do you envision these spaces fostering deeper connections and potentially reshaping community interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I envision these gatherings encouraging vulnerability and dialogue, where people share experiences openly. By sharing my own story first, I hope to inspire others to feel safe expressing themselves.",
+        "therapist": "Encouraging vulnerability through your story can indeed invite others to share openly and build community strength. As you reflect on this, how has your understanding of openness shaped the ways significant others have impacted your personal growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Significant others' openness has shown me the strength in vulnerability. When my partner expressed doubts, it reminded me that admitting fears can foster growth and deeper trust.",
+        "therapist": "Exploring how others value vulnerability enriches your self-perception. This acknowledgment can enhance your understanding of mutual support and trust, nurturing growth. In this space, how might viewing yourself through the lens of significant others strengthen your narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Viewing myself through the lens of significant others helps me appreciate their perspective on my resilience. A friend's comment about my handling of past challenges reassures and motivates me.",
+        "therapist": "Appreciating how others see your resilience not only affirms your worth but also illustrates the impact you've had in their lives. By embracing these insights, your narrative of value and agency grows stronger. What strengths do you think others rely on when they seek your support?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "My friends often rely on my empathetic listening and practical advice during tough times. Recently, a friend needed guidance for a career change, appreciating my calm approach to uncertainty.",
+        "therapist": "Recognizing your empathetic listening and calm advice as strengths reflects your deep impact on those around you. Your friends value these qualities, likely helping shape their confidence and choices. How does this shared growth reinforce your own sense of purpose in these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Feeling needed and valued strengthens my purpose in these friendships. Like when a friend thanked me for calming her job interview nerves, it confirmed my supportive role is meaningful.",
+        "therapist": "You're noticing how your ability to support and reassure others influences both their identity and yours. This mutual exchange strengthens your sense of self as a supportive friend. As you reflect on these contributions, how do they enhance the narratives your friends hold about themselves?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I've noticed that when I help friends, like giving advice or calming nerves, they often feel more confident in themselves. It's fulfilling to know my presence boosts their self-belief.",
+        "therapist": "Engaging in others' confidence development enhances both their journey and your understanding of your supportive role. Your influence, though quietly profound, shapes who they become. This realization seems to create a sense of fulfillment for you. What possibilities might emerge from this mutual recognition in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Engaging deeply with friends has highlighted the power of shared growth. I think this mutual recognition could lead to deeper bonds and trust. After comforting a friend before a big presentation, I realized these moments help solidify our support systems and encourage openness. It’s comforting to know my presence can foster their belief in themselves, allowing us all to flourish together.",
+        "therapist": "Your presence and contributions clearly nurture confidence in your friends, deepening trust and strengthening bonds. This shared growth not only enriches their journey but also expands yours. How do you envision continuing to build these flourishing connections in the future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I envision strengthening these connections by being more present and initiating meaningful conversations. Sharing experiences openly will create a deeper understanding, like discussing future aspirations with close friends.",
+        "therapist": "Your vision for strengthening connections highlights the importance of presence and meaningful dialogue in nurturing mutual growth. This approach can deepen understanding and trust, enriching these relationships further. How do these evolving bonds impact your own identity and aspirations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I've found that these evolving bonds have reinforced my identity as someone who nurtures growth in others. This realization fuels my aspiration to become more involved in community support initiatives.",
+        "therapist": "Your nurturing role in friendships enhances your community support aspirations, affirming your impact on their identities. These bonds inspire growth and transformation both ways. How do you see this nurturing identity influencing the broader contributions you want to make in community initiatives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I'm inspired by my friend's empowerment after my advice before her presentation. This drives me to initiate workshops focusing on self-esteem and collaboration, believing in transformative community impact.",
+        "therapist": "Your initiatives reflect a powerful cycle of support and empowerment that impacts both your friends and community. The mutual influence in these relationships truly enhances your identity as a nurturer. How might embracing this impact shape the way you lead future workshops?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "Embracing my impact shapes workshops by prioritizing interactive discussions and personal storytelling. My friend's confidence post-presentation reaffirmed this approach; hearing others' journeys can inspire collective empowerment.",
+        "therapist": "Through your workshops, you're creating a space for collective empowerment and nurturing the potential in others. This journey mirrors how your presence uplifts your friends, highlighting the transformative influence you have. In what ways might this growing identity deepen your own personal journey of empowerment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Through supporting others, I've discovered inner strength and resilience. The satisfaction from helping my friend succeed fuels my motivation to expand these efforts, despite occasional self-doubt.",
+        "therapist": "Your efforts provide strength to others and contribute to their growth, affirming your identity as a source of support. Your resilience grows with each shared success. How do you think this role you've embraced continues to influence those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I'm witnessing more open, genuine interactions. My friend said she felt confident speaking because of our discussions. It's heartening to see them thrive, knowing I played a part.",
+        "therapist": "Reflecting on the impact your discussions have had brings clarity to your role as a supportive influence. How might acknowledging these contributions deepen your understanding of yourself through their eyes, enhancing your sense of value and agency?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Acknowledging these contributions helps me see myself through others' gratitude. My friend's confidence boosted my self-esteem, revealing the reciprocal nature of support and empowerment.",
+        "therapist": "Your reflections reveal how deeply your interactions resonate within you, enriching both your self-esteem and your friend's. This mutual support cycle shapes your identity positively. How might this recognition influence the way you nurture relationships in other areas of life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 50,
+        "client": "Recognizing this has encouraged me to be more open and attentive, actively listening to my family and colleagues. I feel appreciated when others trust and rely on me.",
+        "therapist": "Embracing openness and attentive listening shapes your relationships, deepening connections with family and colleagues. As you recognize their trust and reliance on you, it enriches not only your identity but also theirs. How do you see this reciprocal impact influencing your future interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

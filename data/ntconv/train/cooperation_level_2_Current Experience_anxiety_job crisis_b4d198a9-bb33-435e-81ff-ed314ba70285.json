@@ -1,0 +1,568 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi, how are you feeling? Is there anything on your mind?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been feeling quite overwhelmed and stuck lately, struggling to see a way forward. It's hard to shake off this sense of frustration and confusion.",
+        "therapist": "You're navigating a challenging moment right now. It's understandable to feel overwhelmed when faced with uncertainty. Let's explore small steps or perspectives that might help you gain clarity. What aspect of your life feels most important to focus on at the moment?"
+    },
+    {
+        "round": 2,
+        "user": "hello",
+        "answer_final": "What would you like to talk to me about today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm really feeling the weight of everything in my personal life right now. The stress makes it hard to pinpoint where to begin, but I think focusing on work-life balance could help.",
+        "therapist": "You're facing a lot right now, and focusing on work-life balance sounds like a meaningful start. This focus could help ease some stress. How might this balance begin to shift your experience in your personal life?"
+    },
+    {
+        "round": 3,
+        "user": "yes I would like to find more jobs, hopefuly online. do you have any suggestions?",
+        "answer_final": "Unfortunately I think that a lot of people are trying to find online work right now as people are too scared to go out - I know that I am!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring online job options could offer the flexibility I need for better work-life balance. Finding remote work that aligns with my skills might create more harmony and relieve some stress. Any tips on where to start?",
+        "therapist": "Exploring online job options shows a proactive step towards balance and harmony. Consider starting with platforms showcasing remote opportunities matching your skills. Remember, each step forward contributes to the larger shift you're aiming for."
+    },
+    {
+        "round": 4,
+        "user": "haha, i am the same. Mturk really helps as my side job",
+        "answer_final": "It can be very good yes. Have you tried any other sort of gig work?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I actually use MTurk for some extra income. It gives me a bit more control over my time, which helps balance things out. It's great knowing I can adjust my work schedule as needed.",
+        "therapist": "Balancing your time with MTurk appears to be an empowering step for you. What other adjustments might nurture this sense of control and balance further in your life?"
+    },
+    {
+        "round": 5,
+        "user": "I heard finally Antarctica got Coronavirus",
+        "answer_final": "Oh wow, that is really bad. At least there aren't very many people there .. I think it's mainly research people.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hearing about global events like Antarctica getting Coronavirus sometimes shifts my focus. Maintaining control through MTurk helps when I feel overwhelmed by external issues. It helps me stay grounded.",
+        "therapist": "Balancing through MTurk offers a strong anchor amidst overwhelming news. It shows your resilience in finding ways to stay grounded. Reflecting on how these adjustments contribute to stability could further empower you in maintaining control."
+    },
+    {
+        "round": 6,
+        "user": "I have applied for them but never got them. So I am trying to become a YouTuber",
+        "answer_final": "So you feel that perhaps you could make some money by vlogging?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. I've been trying different avenues, like applying for remote jobs, but haven't succeeded yet. So now I'm exploring becoming a YouTuber as another way to create more control and balance in my life.",
+        "therapist": "You've shown remarkable initiative exploring different paths, such as YouTubing, to achieve balance. Embracing creativity could offer fulfillment and control. How might pursuing this journey further inspire you in reshaping your work-life dynamic?"
+    },
+    {
+        "round": 7,
+        "user": "yes who wants to live in Antarctica lol",
+        "answer_final": "I think it would be fun to visit but not for very long.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "While I don't plan on moving to Antarctica, exploring YouTube allows me creativity without boundaries. It might offer the same flexibility as MTurk but in an inspiring way.",
+        "therapist": "Exploring YouTube as a creative outlet and flexible work opportunity reflects your adaptability and innovative spirit. Creativity can foster empowerment and balance in your life. What aspects of this journey inspire you most?"
+    },
+    {
+        "round": 8,
+        "user": "possibly, problem is that i don't want to show myself online, what do you think about wearing a full face mask and do youtube?",
+        "answer_final": "Well, perhaps you could vlog about the need to wear facemasks?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m inspired by the creative freedom, yet hesitant about showing my face. How effective would wearing a full-face mask be on YouTube? Any thoughts?",
+        "therapist": "Embracing creative freedom while feeling hesitant about visibility is a valid and thoughtful consideration. Wearing a full-face mask could be a unique way to explore creativity on YouTube. How might this approach redefine your sense of control in your creative journey?"
+    },
+    {
+        "round": 9,
+        "user": "I think that is a great idea. Full mask is better than a partial mask",
+        "answer_final": "Yes it is! Beware that there are a lot of people trying to make money on youtube though - you need to get lucky.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think that's an exciting approach! A full-face mask offers complete anonymity while allowing me to express creativity freely. It could boost my confidence by maintaining privacy yet showcasing innovation.",
+        "therapist": "Embracing a full-face mask while expressing creativity offers an exciting balance of freedom and privacy, empowering your self-expression and boosting confidence. Your willingness to innovate is inspiring. How do you envision this approach transforming your creative process?"
+    },
+    {
+        "round": 10,
+        "user": "Right, thanks for your advice, They do any crazy stuff to make money",
+        "answer_final": "It's a difficult time for us all :) People are doing what they have to in order to put food on their tables I think.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks! I feel the mask could let me explore unique, creative themes without limits. It’s intriguing how creators use outlandish ideas for engagement—so much potential in my own journey.",
+        "therapist": "Exploring these limitless creative themes is empowering and shows your commitment to growth. Your fascination with unique ideas reflects a strong, inspiring journey ahead. How does this potential for creativity make you feel about your path forward?"
+    },
+    {
+        "round": 11,
+        "user": "i know right, when in desperation people go crazy",
+        "answer_final": "I am hopeful that with the vaccine having been developed, things might start to improve shortly.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's empowering to imagine exploring creativity without limits. When under pressure, people often resort to unusual solutions. This feels like a bold, liberating step forward.",
+        "therapist": "Embracing this bold step forward enhances your sense of empowerment and creativity. Your innovative spirit shines in these moments of exploration. How does envisioning unlimited creativity impact your confidence and sense of liberation?"
+    },
+    {
+        "round": 12,
+        "user": "i want to be prepared before I go into that state. I hope so too\n1",
+        "answer_final": "Can you think of things to look forward to in the New Year that might cheer you up a little?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Imagining unlimited creativity boosts my confidence and sense of liberation, but I want to be prepared before fully diving into this state. I hope it's fulfilling.",
+        "therapist": "You’re embracing the potential of creativity, and it's empowering to take those steps towards liberation. Feeling prepared can enhance your journey. How might you nurture this sense of readiness as you explore creative opportunities?"
+    },
+    {
+        "round": 13,
+        "user": "oh yes the stock price may keep going up. Like Tesla, that cheears me up",
+        "answer_final": "Well, maybe the change of administration in some parts of the world will help a little.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring these opportunities reminds me of the unpredictable stock market. Like Tesla's price fluctuations, the creative potential keeps my enthusiasm high and makes me feel ready to dive deeper.",
+        "therapist": "Embracing this creative journey with enthusiasm is both exciting and energizing. Your readiness to explore deeper connections showcases your courage and adaptability. What steps can you take to foster this sense of excitement and curiosity as you venture into new creative realms?"
+    },
+    {
+        "round": 14,
+        "user": "what do you mean?",
+        "answer_final": "I mean that political change can help people and give them fresh hope. Or, depress them :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think fostering excitement starts with embracing uncertainty and experimenting with new ideas. What ways can I explore to enhance this approach further?",
+        "therapist": "Embracing uncertainty and experimenting with new ideas fosters excitement. Exploring diverse perspectives can deepen your creative journey. How can you continue cultivating an open, inquisitive mindset in your quest for new possibilities?"
+    },
+    {
+        "round": 15,
+        "user": "Oh yes. They're gonna give out 600 dollars to us I hope",
+        "answer_final": "That would be a big help for people who are struggling!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Experimenting is a bit like anticipating a reward, similar to the hope of receiving unexpected support, like those 600 dollars. It keeps my enthusiasm alive and fuels new possibilities.",
+        "therapist": "Your enthusiasm is the fuel for exploration and possibility. Embracing experimentation with anticipation of support can lead to fulfilling discoveries. How does nurturing this sense of reward influence your creative path?"
+    },
+    {
+        "round": 16,
+        "user": "Right now I am not too desperate and can enjoy listening to Christmas songs,",
+        "answer_final": "Christmas is a good time of year but it is also expensive. Do you think that it has increased your financial woes?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Nurturing a sense of reward keeps my creative path optimistic and vibrant. Right now, enjoying Christmas songs provides comfort and stirs some cheerful creativity.",
+        "therapist": "Your enjoyment of Christmas songs enriches your creative path, bringing comfort and joy. This openness nurtures optimism and vibrancy. How does incorporating such moments influence your journey toward creativity?"
+    },
+    {
+        "round": 17,
+        "user": "It is a beautiful time. Not really, as I did not buy any expensive gifts etc",
+        "answer_final": "I am glad to hear that .. too many people think they have to spend too much. Anyway I hope you have had a lovely day and all the best to you",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I find comfort in the little joys, like Christmas songs. They uplift my spirits and inspire creativity without needing grand gestures or expensive gifts.",
+        "therapist": "Finding joy in small, meaningful moments can create a rich and inspiring atmosphere for creativity. Your appreciation of simple pleasures like Christmas songs highlights your ability to find warmth and inspiration. How might you incorporate more of these joyful elements into your daily life?"
+    },
+    {
+        "round": 18,
+        "user": "well, thank you for your advice. It was great taoking to you. Merry Christmas",
+        "answer_final": "And you!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your thoughtful words. I will focus on integrating more joyful elements like music into my routine. Merry Christmas to you too!",
+        "therapist": "I'm glad you’re finding joy through music. It sounds like a wonderful way to infuse your routine with positivity and creativity. How else can you nurture these joyful elements to continue enhancing your well-being?"
+    },
+    {
+        "round": 19,
+        "client": "I've started journaling about moments of joy and revisiting them when I'm feeling down. It helps me shift focus and regain a sense of gratitude and happiness.",
+        "therapist": "Journaling about joyful moments externalizes the weight of sadness, letting gratitude flourish. Naming these instances helps in recognizing joy as an ally during tough times. What other aspects of your life might carry potential sources of comfort or happiness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 20,
+        "client": "I find comfort in daily routines, like morning coffee and walks. Also, connecting with friends through shared hobbies sparks joy. They ground me, offering moments of genuine happiness.",
+        "therapist": "Daily routines and friendships act as anchors, allowing genuine happiness to flourish. Recognizing how these positive elements counteract challenges in your life can empower you. As you explore these interactions, what steps can reinforce this connection even further?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 21,
+        "client": "Recently, I started setting aside time for morning coffee with a friend once a week. It's grounding and joyful, allowing us to discuss hobbies and life while feeling supported.",
+        "therapist": "Your weekly coffee meetings reflect a meaningful exception to solitude and have allowed space for joy and connection. They emphasize the supportive relationships you value. Consider how these moments might further encourage your identity of being grounded and joyful in other areas of life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I really cherish those coffee chats; they remind me of the importance of nurturing connections. They've inspired me to reach out more and plan group hikes, which deepen bonds further.",
+        "therapist": "Connecting through coffee chats and planning hikes underscores your value in nurturing bonds, reinforcing a community-based identity. How might these experiences reflect broader aspects of your intentions and commitments towards building a supportive and interconnected life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "These experiences reflect my desire to cultivate authentic relationships and support networks. I intend to foster an environment where both myself and others feel understood, connected, and cherished.",
+        "therapist": "Connecting with others fulfills your desire for authentic relationships, transforming aspirations into actions that strengthen your support network. Reflect on these experiences—how might they continue to empower this journey of building understanding and connection in your broader life landscape?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Feeling this connection empowers me by reinforcing trust and openness. Recently, I organized a book club with colleagues; our discussions revealed new perspectives, deepening mutual understanding in unexpected ways.",
+        "therapist": "Trust and openness are creating pathways for shared understanding within your book club, expanding horizons. Reflect on how organizing these discussions further solidifies your role in fostering genuine relationships and what it means to embrace this evolving narrative of connection in your life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Organizing discussions enhances my ability to build genuine relationships. I recently shared a vulnerable story, inviting deeper connections and newfound empathy. This growth reaffirms my commitment to connection.",
+        "therapist": "Sharing your story courageously invites empathy and strengthens your commitment to connection. By organizing discussions and being vulnerable, you're shaping relationships around trust and authenticity. How might embracing this vulnerability further reveal aspects of your evolving identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Embracing vulnerability reveals my resilient spirit and capacity to listen deeply. Sharing personal stories during a meeting highlighted the strength gained from empathy, influencing my leadership style positively.",
+        "therapist": "Embracing vulnerability has highlighted your resilient spirit and empathetic leadership. Your capacity to listen deeply enhances connection, impacting relationships positively. As you continue this journey, what further aspirations might emerge in shaping your narrative around resilience and leadership?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I aspire to lead projects that prioritize mental health, fostering an environment of safety and support. I imagine workshops where sharing experiences amplifies empathy, boosting our collective resilience.",
+        "therapist": "Projects and workshops centered on mental health reflect your commitment to safety and support, driving forward the strength of collective empathy. Consider the ripple effect of these initiatives—how they might transform your community and reinforce resilience in ways you envision.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I envision creating a workshop series titled \"Empathy Unplugged,\" inspired by a session where open dialogue revealed mutual struggles. Witnessing honest exchange, I felt the transformative power of empathy.",
+        "therapist": "Your vision for \"Empathy Unplugged\" captures a commitment to fostering understanding and growth. This focus on honest dialogue highlights your values of empathy and connection. How does this align with your broader identity and intentions for impacting those around you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "This vision aligns with my desire to create spaces where people feel valued and heard. A recent session's impact reaffirmed my passion for cultivating supportive environments, which shapes my identity as a facilitator.",
+        "therapist": "In shaping supportive environments, your identity as a facilitator blossoms. Each session affirms your intention to prioritize spaces where everyone feels valued. How might continuing this journey of empathy amplify the landscapes you envision in your broader aspirations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Engaging deeply in empathy helps me visualize thriving communities where collaboration and openness are key. After facilitating a heartfelt session recently, I felt hopeful about fostering even more profound connections.",
+        "therapist": "The hope you felt signals a powerful shift in how you're fostering connections. Imagining thriving communities rooted in empathy enriches your narrative as a facilitator. How might building these open, collaborative spaces reshape the relationships and potential you see for both yourself and others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Building these spaces could transform not just work relationships but personal ones too. During a recent community event, sharing my story led to unexpected support and connection that felt truly uplifting.",
+        "therapist": "Sharing your story and experiencing that support highlights your capacity to influence connections positively. As these spaces grow, consider how these newfound connections can enrich both personal and work relationships, enhancing the supportive environments you value deeply.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I've noticed that sharing personal stories at work opens doors to authentic relationships. At a team meeting recently, revealing my struggles surprisingly sparked empathy and improved our collaboration.",
+        "therapist": "Sharing your struggles has revealed your capacity to deepen authentic connections, transforming collaboration. Your willingness cultivates an environment of understanding and empathy. How might this shift continue to affirm your identity and commitments in both personal and professional spaces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "This shift reinforces my identity as someone who values honesty and connection. Recently, after opening up about stress at work, I felt a mutual understanding that was truly encouraging.",
+        "therapist": "You've discovered an important part of yourself in valuing honesty and connection. Your experience at work highlights the mutual understanding you're cultivating. This exploration could serve as a foundation for building even deeper relationships aligned with your authentic self.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I agree, those moments of honesty help me feel aligned with who I truly am. Recently, after sharing my concerns in a team brainstorm, we achieved a creative breakthrough that felt fulfilling.",
+        "therapist": "As your authenticity fosters creativity and connection, it's evident how aligning with honesty enriches both you and your team. This fulfillment in shared breakthroughs strengthens your narrative. How can these moments continue to guide your journey towards deeper connections and innovative outcomes?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I'm starting to view each moment of honesty as a chance to deepen connections. At last month's project launch, expressing my hesitations openly led us to rethink our strategy—saving us time and effort. Each instance feels like an opportunity not just for immediate outcomes but also long-term relationships rooted in trust and collaboration. I feel optimistic about continuously fostering this environment.",
+        "therapist": "Expressing honesty has clearly become a valued part of your identity, deepening connections while enriching collaboration. This optimism you're nurturing might guide you to further strengthen these relationships and long-term impacts. How could fostering this trust continue to support the preferred story you're constructing?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I've been thinking deeply about how fostering trust creates a foundation for growth. Like when I openly shared budget concerns, and it led to honest discussions improving resource allocation—it's empowering.",
+        "therapist": "As you continue to foster trust and empowerment, reflect on those who've influenced your approach—perhaps mentors or colleagues who valued transparency. Their impact enhances your growth. How do their contributions shape your understanding of collaboration today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I often reflect on a former manager who always valued transparency, fostering an environment of open dialogue. Their mentorship showed me how clear communication builds strong collaboration, shaping my current approach.",
+        "therapist": "Reflecting on your former manager's mentorship highlights a strength you hold—valuing transparency. Through their eyes, you see yourself as someone committed to fostering open communication. This recognition affirms your collaborative approach. How does carrying this legacy influence your current interactions and aspirations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I've noticed this legacy in my leadership approach. During a recent project, encouraging open feedback led to diverse ideas and solutions, fostering a collective sense of ownership and motivation.",
+        "therapist": "Your legacy of transparent leadership is shaping a meaningful narrative, benefiting those around you by creating ownership and motivation. Recognizing how your contributions inspire collective progress is powerful. How does this understanding further affirm your sense of purpose in leading others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Recently, guiding my team through a challenging deadline reaffirmed my purpose. I witnessed them thrive as we collaborated transparently. Their dedication and growth during those moments bring immense satisfaction.",
+        "therapist": "Celebrating your team’s growth through transparency is profound. As you embody this dedication, consider the lasting influence of your guidance on their identities and strengths. How does witnessing their development and collaboration enhance your own sense of leadership?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Witnessing their growth nurtures a sense of fulfillment, deepening my commitment to lead with empathy and support. During tight deadlines, their resilience strengthens my belief in collaborative power.",
+        "therapist": "Your empathy and supportive leadership foster a nurturing environment where your team thrives. How has this mutual influence, seeing their growth as you support them, shaped your sense of identity as a leader? Reflecting on these shared experiences enriches both your journey and theirs.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Recently, leading our team through a product launch pushed me to redefine my identity as a leader. Their trust, initiative, and creativity affirmed the value of genuine connections.",
+        "therapist": "By embracing your team's trust and creativity, you've contributed to a space of genuine connection and empowerment. This reinforces not only their growth but also your evolving identity as a leader. How does recognizing this mutual impact deepen your understanding of the value you bring to your role?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "Recognizing this mutual impact highlights how my leadership fosters growth. During our last meeting, the excitement when brainstorming solutions energized me, reaffirming the positive ripple effect of collaboration.",
+        "therapist": "Observing the excitement during brainstorming demonstrates how your leadership enriches both your identity and theirs, making collaboration a catalyst for growth. This reinforces genuine connections within your team. In what ways do these shared experiences inspire you to enhance your leadership further?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "These experiences inspire me to focus on creating an environment where ideas flourish naturally. I'm motivated to implement regular feedback loops and mentorship programs, fostering continuous growth and learning.",
+        "therapist": "Recognizing how your leadership nurtures environments for ideas to flourish reflects your impactful presence. Your dedication to feedback and mentorship shapes a thriving culture, deepening others' confidence and creativity. How might these actions enrich not only their growth but also reinforce who you are as a leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Implementing these actions helps me embody the leader I aspire to be—encouraging growth, building trust. After one feedback session, seeing a teammate’s confidence rise was truly rewarding.",
+        "therapist": "Celebrating your teammate’s increased confidence reveals your meaningful impact on their growth. Your actions shape who they become and reflect back, reinforcing your own identity. How do these moments strengthen the connections and relationships within your team as everyone continues to grow together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Feeling like my leadership resonates with the team fosters genuine connections. A recent project success ignited shared enthusiasm, enriching our bond and driving collaborative spirit. It's incredibly fulfilling.",
+        "therapist": "Building these genuine connections clearly enhances your leadership role and strengthens your team’s identity. Their growing trust and enthusiasm seem to reflect your nurturing impact. Consider how these dynamics might further shape both your path and theirs, enriching this collaborative spirit even more.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I've noticed how our increased openness encourages team members to approach challenges creatively. It’s thrilling to see ideas evolve, each voice shaping the collective direction and uplifting us all.",
+        "therapist": "Recognizing how your openness fosters creative challenges and evolving ideas signifies the positive influence you've cultivated. Each voice enriching the direction mirrors back into their sense of self and yours as a leader. How does this shared evolution deepen the relational bonds within your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Seeing our creative ideas come to life strengthens trust and unity. Recently, during a critical deadline crunch, teamwork intensified, making me feel proud of the bonds we’ve formed.",
+        "therapist": "The pride you feel highlights the profound bonds and mutual support within your team. Your leadership appears to inspire a collective strength, shaping who they are becoming together. How do you see these strengthened connections influencing future projects?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Strengthened connections mean we can tackle more complex projects with confidence. Recently, our improved synergy helped us meet an aggressive deadline. I felt accomplished and relieved afterward.",
+        "therapist": "Your role in strengthening these connections is pivotal, enhancing not just team success but also mutual confidence. It seems this synergy reveals not only what your team achieves together, but also highlights your unique impact and growth as a leader.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Thank you. Recently, during a high-pressure presentation, I realized our collective confidence came from shared experiences and growth. Witnessing everyone handle pressure and still remain creative was empowering.",
+        "therapist": "Embracing the collective confidence and creativity shows your leadership's transformative impact. Your team's resilience reflects both shared growth and mutual trust you've nurtured. How might this empowerment influence each person's perception of themselves moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Everyone seems more willing to take risks and trust their instincts, which has helped them grow individually. After a challenging pitch, we all celebrated together, feeling truly united.",
+        "therapist": "Celebrating together after a challenge speaks volumes about your shared resilience and the trust you've all cultivated. This unity reflects your meaningful role in fostering growth. How does this shared sense of accomplishment enrich your understanding of each person's journey, including your own?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

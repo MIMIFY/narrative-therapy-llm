@@ -1,0 +1,543 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Good afternoon!  What can I help you with today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello, I'm feeling a bit overwhelmed today and could really use someone to talk to. It's been hard navigating my emotions lately. Can you help?",
+        "therapist": "You’re going through a lot, and it's okay to seek support when it feels overwhelming. Let’s create a space where you can share more about what's been challenging you lately. Together, we can explore these emotions and find ways to bring some ease into your experience."
+    },
+    {
+        "round": 2,
+        "user": "I've been feeling a lot of pressure and stress lately due to school",
+        "answer_final": "Oof, yes, school can be a tough situation.   Are you close to the end of the semester?. That can be both a relief and stressful, because a break is near, but all the exams and projects are due.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for offering support. The pressure from school assignments and expectations is just becoming unbearable. It's like no matter how much I try, it's never enough.",
+        "therapist": "You’re navigating a lot of pressure right now, and feeling like your efforts are never enough can be incredibly exhausting. Your experience deserves validation. Would it be helpful to explore moments when you’ve felt even the smallest success or relief in your schoolwork?"
+    },
+    {
+        "round": 3,
+        "user": "Yes, I am a little more than halfway done with the semester. The thing is that I am in a doctoral program, so even though the semester is close to the end, I always need to continue working",
+        "answer_final": "Ahh, I see.  That is a great deal of time and work.  What are you studying?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, finding relief is challenging. I'm more than halfway through my doctoral program, and while the semester's end offers some respite, the continuous workload feels endless.",
+        "therapist": "You're showing resilience despite the challenges of your doctoral program. As we talk, let's uncover any moments that have sparked even a small sense of accomplishment or motivation. How can we focus on these to foster some relief amidst the continuous demands?"
+    },
+    {
+        "round": 4,
+        "user": "It is... I am in psychology. I have to work on my thesis on the side even with all of my classes and I have a hard time managing my time and keeping track",
+        "answer_final": "Time management can be very difficult with a normal class load, that sounds exhausting.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m studying psychology, working on my thesis amidst classes. Time management is a real struggle. Sometimes, small victories come when I complete assignments early.",
+        "therapist": "Recognizing those small victories is vital in your demanding journey. Completing assignments early is a noteworthy achievement and reflects your strength. As you balance studying and your thesis, let’s consider ways to replicate this success to nurture more moments of ease."
+    },
+    {
+        "round": 5,
+        "user": "It is!",
+        "answer_final": "Do calendars help you at all?  I am a super visual person, so calendars and planners are invaluable to me, as well as different colors of ink and labels so I can visually divide my attention. Getting a million different colors of pens and highlighters changed my organization for the better.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Completing assignments early feels rewarding. I think if I can replicate that feeling consistently, it might help manage my stress levels better.",
+        "therapist": "Recognizing the reward in completing assignments early highlights your capability and resilience. Let’s focus on sustaining these victories, creating a narrative of progress. How might we weave these successful moments into your routine to bolster stress management?"
+    },
+    {
+        "round": 6,
+        "user": "I do keep a physical and electronic agenda, but I feel like even if I write down my tasks, I find a way to procrastinate which is what I am having trouble with",
+        "answer_final": "Also, setting clear boundaries for your study/work and relax times may help.  I like to set a timer for, say, 45 minutes, and work/write/read/study for that long, then, I get a 10 minute break.  I'll go outside, refresh my coffee, grab a snack, dance to some music, stretch, then set another timer for 45 minutes, then another break for 10 minutes.  That allows my brain to take a second and refresh from the work.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been using both a physical and electronic agenda, writing everything down. But, I struggle with procrastination despite that. It's tough to sustain progress without letting delays get in the way.",
+        "therapist": "Procrastination can be tricky, but separating it from your identity allows us to better understand its impact. Let’s explore how these delays affect you and why minimizing them is vital for maintaining progress. What small steps might help weaken procrastination's grip on your routine?"
+    },
+    {
+        "round": 7,
+        "user": "That is actually very helpful, I'll take note of it. I think it would help to fix break times so I can actually focus on working",
+        "answer_final": "Or, like, today, I woke up and spent half an hour allowing myself to drink my coffee and scroll through Reddit.  Then it was time to work on my group project for 45 minutes, then a break, then I worked again, took a break, went to a class, etc.  Scheduling your breaks can be helpful too so your lizard brain doesn't freak out and go \"WE ARE GOING TO BE WORKING FOREVERRRR\"",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Separating procrastination from my identity helps a lot. Scheduling fixed break times might help me concentrate better and lessen delays.",
+        "therapist": "Separating procrastination from your identity is a powerful shift. Embracing fixed break times could enhance focus and productivity. How do you imagine integrating this approach into your routine to support a more balanced workflow?"
+    },
+    {
+        "round": 8,
+        "user": "I agree!!! That really is helpful, thank you",
+        "answer_final": "which, for me at least, is where the fatigue sets in.  You're very welcome!  I hope I was helpful.  You seem positive and willing to try new things, and I think you will be successful even if you are tired.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree wholeheartedly! Fixed breaks might help me recharge mentally, maintaining productivity and reducing procrastination. Thank you for pointing out how separating it from my identity could be so helpful.",
+        "therapist": "Empowering yourself with scheduled breaks is an excellent strategy for sustaining your well-being and productivity. By distancing procrastination from your identity, you're crafting a narrative of resilience. What do you envision as the next step in weaving these changes into your life?"
+    },
+    {
+        "round": 9,
+        "user": "The pandemic hasn't really helped either. I'm always locked in my apartment and staying sitting down in front of my computer all day",
+        "answer_final": "Definitely not.  Everyone's Maslow hierarchy getting knocked out from under them is extremely disconcerting.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The pandemic made it challenging, keeping me confined to my apartment and stuck at the computer all day. Incorporating these strategies could bring much-needed balance back into my life.",
+        "therapist": "The challenges you've faced during the pandemic highlight your strength in adapting. It's promising to see you aiming to restore balance with these strategies. Your willingness to embrace change is inspiring. How might you continue nurturing this sense of balance moving forward?"
+    },
+    {
+        "round": 10,
+        "user": "Hahaha, Maslow, i like it.",
+        "answer_final": "Like how is a person supposed to study, self-actualize, when we literally don't know what will happen next?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your kind words. It feels reassuring to think about nurturing balance in my life, perhaps even elevating it like reaching for Maslow's peak.",
+        "therapist": "Reaching for personal fulfillment and balance truly reflects your aspirations. Embracing this path can be empowering. What small, fulfilling actions might support you on this journey toward Maslow's peak?"
+    },
+    {
+        "round": 11,
+        "user": "I agree! I've also been turning to drugs a lot lately due to the situation. Procrastinating makes me feel guilty, and I end my day too early to smoke and focus my mind on something other than studying....",
+        "answer_final": "Are there aspects of your study that you dislike, or are you just ready to be done with school?  Little of column A + column b?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I want to embrace small, meaningful actions, but lately, I've struggled with turning to substances for comfort. Procrastination fuels guilt and frustration, driving me away from my goals.",
+        "therapist": "You're acknowledging the challenge substances present, and that's a vital first step. By externalizing procrastination as a separate entity, we can examine its impact without self-blame. How might distinguishing these struggles aid in navigating toward your goals with greater clarity?"
+    },
+    {
+        "round": 12,
+        "user": "Hm, I think it has less to do with liking or disliking, and more with starting a very hard and lengthy degree online without any social contact",
+        "answer_final": "Ah, yes, that makes sense.  And working from home is infamously hard, again, for lack of boundaries, so in addition to just not seeing people and getting the casual affirmation and confirmation messages on a daily basis of like \"hey Jim you did a great job on that spreadsheet\" or \"Haha Jessica you're so funny\", we also are writing papers in our pajamas and bedclothes, which makes it seem interminable.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I see how distancing these struggles can help. Right now, it's more about managing the isolation of a tough, online degree without social contact, rather than substances.",
+        "therapist": "Managing isolation in your online degree can feel daunting, especially with the lack of social contact. Embracing small actions to foster connection or self-care may support you through this. How might you nurture connections or personal well-being while pursuing your goals?"
+    },
+    {
+        "round": 13,
+        "user": "Ugh exactly",
+        "answer_final": "Listening to lectures while the doorbell is ringing and it's just so strange and we aren't set up to do it.  That's why I'm a big fan of specific spaces in my house since March.  I tried to sit in bed with my laptop and do things but 1. I'm old and it hurts my wrists and 2. my headspace is so completely different from being my computer chair and at my desk.  I try to be really strict about where I do my work., maybe trying to structure that a bit could help you feel a little more in control of the work load and your day's schedule.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I definitely feel the impact of isolation. Finding ways to reconnect, like joining a virtual study group or setting small self-care routines, might ease this burden.",
+        "therapist": "You're taking thoughtful steps towards alleviating isolation by considering ways to reconnect. Embracing a virtual study group or self-care routines can indeed bring positive changes. How might these actions enrich your sense of connection and well-being as you navigate your studies?"
+    },
+    {
+        "round": 14,
+        "user": "I agree, that makes a lot of sense! Thank you. You have been a big help today and I really feel listened and understood. I really appreciate it",
+        "answer_final": "I am very glad to hear that!  You sound motivated to succeed and I think that you deserve to take care of yourself and stay healthy to complete your studies.  It will be hard but it will also be worth it, and you should be proud.  Good luck with everything!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree, finding new ways to connect or care for myself could enhance my studies. Thank you for your guidance. I truly feel heard and supported today.",
+        "therapist": "Reconnecting and caring for yourself will certainly enrich your study experience. Your willingness to explore these possibilities is admirable. How might your newfound strategies enhance the balance and fulfillment you seek?"
+    },
+    {
+        "round": 15,
+        "user": "Wow, thank you!. Have a great day",
+        "answer_final": "Thank you!  You too!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your support and feel hopeful. Engaging more in virtual groups might balance the stress of online study. It feels empowering to imagine new connections and self-care habits.",
+        "therapist": "Empowerment is a powerful feeling, and embracing virtual groups and self-care can create meaningful connections. How might this fresh sense of empowerment influence your approach to both studies and personal well-being?"
+    },
+    {
+        "round": 16,
+        "client": "Empowerment inspires me to set more structured study schedules and prioritize reaching out in forums. I'm hopeful about finding comfort in these habits, balancing solitude with connection.",
+        "therapist": "That sense of empowerment seems to resonate with your values of growth and connection. By setting structured routines, you're honoring these values, potentially transforming isolation into opportunity. How do you feel these changes align with what matters most to you in your journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I've realized growth and connection have always been vital to me. When I struggled previously, I lost touch with those values. Finding comfort in structure and new routines aligns with my goals.",
+        "therapist": "Your realization about growth and connection speaks deeply to who you are. As structure and new routines align with your values, what impact do you imagine this shift having on reclaiming those lost connections and fostering your goals?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I believe prioritizing structure will revitalize my commitment to reaching out, aiding my studies and personal growth. It's comforting to see potential reconnections strengthening my sense of belonging.",
+        "therapist": "Embracing structure as a way to combat isolation honors your commitment to growth and belonging. This distinction empowers you, allowing connection and focus to align with personal values. How might naming these challenges as distinct entities support your efforts in maintaining balance?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Naming challenges like procrastination or isolation provides clarity, transforming them from vague fears into manageable tasks. It reminds me of previous victories over study hurdles, reinforcing my resilience.",
+        "therapist": "Naming these challenges indeed gives you strength, separating them from your sense of self. With your resilience and previous victories, how can this perspective guide your path to overcoming procrastination and isolation moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 20,
+        "client": "Acknowledging procrastination as a challenge rather than my identity encourages action. In the past, breaking tasks into small steps helped reduce overwhelm and foster focus.",
+        "therapist": "Breaking tasks into small steps highlights your proactive nature, detaching procrastination's hold. How has this externalization influenced other areas of your life, like relationships or work, in supporting your focus and resilience?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 21,
+        "client": "Proactive steps positively impact my relationships and work life. Recognizing patterns, I've scheduled regular check-ins with colleagues, helping strengthen bonds and improve communication. These actions bolster mutual trust and collaboration.",
+        "therapist": "Reflecting on your proactive steps and their impact highlights how these actions align with your preferred narrative of trust and collaboration. This speaks to your capacity for fostering positive outcomes. How might this insight support further growth in areas you feel challenged?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "[\"Reflecting on this, I've begun using similar methods in my health journey.\", 'Planning meals and setting realistic fitness goals mirror past strategies, helping manage expectations and anxiety.', 'It renews hope for balance across different life facets.']",
+        "therapist": "Building on these approaches in your health journey shows your commitment to finding balance. It seems these strategies resonate with deeper intentions and reflect a core value of self-care. How does acknowledging this commitment enhance your sense of identity and its connection across different life facets?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Recognizing my commitment to self-care has deepened my self-respect. It echoes in all life areas. Like, when I balance work deadlines with leisure, it boosts my confidence.",
+        "therapist": "Recognizing and integrating self-care into your life underlines your ability to balance and thrive across various areas. It’s affirming to see these choices enhance confidence. In supporting this preferred narrative, what further actions can nurture your sense of identity in this direction?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I'm considering establishing a routine for creative expression. Painting allows me to explore emotions and celebrate progress. This practice could further align with my self-care focus, enriching my identity.",
+        "therapist": "Embracing a creative routine like painting truly integrates with your self-care commitment, enhancing your identity. This alignment of expression and values is compelling. How might this practice further connect to the evolving story of who you are becoming?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Incorporating painting into my routine feels like I'm giving a voice to unexpressed parts of myself. Each brushstroke seems to capture layers of emotions—complexities that words often fail to convey.",
+        "therapist": "Painting as a form of self-expression indeed deepens the connection to your authentic self. Your commitment to exploring complex emotions through art enriches your identity. What themes in painting align with the values you wish to explore or further develop?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I want to explore themes like resilience and vulnerability in my paintings. Recently, painting a stormy seascape helped me process feelings of chaos and find underlying strength.",
+        "therapist": "Exploring resilience and vulnerability through art allows for a profound connection with your identity. It appears these themes are foundational to your strength. What other aspects of your evolving narrative might you express through future creations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Painting has helped me explore growth, reflecting on moments of perseverance after setbacks. Capturing this reminds me of times when overcoming challenges unveiled new strengths.",
+        "therapist": "Painting clearly reflects your growth journey, unveiling strengths after challenges. This narrative of perseverance becomes a vivid reminder of resilience and empowerment. Consider how these moments inspire future narratives. How might these visual expressions continue guiding you through future endeavors?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I'm hopeful that future paintings will explore the interplay between change and stability. Recently, revisiting a challenging hike through a landscape series brought clarity and optimism.",
+        "therapist": "Exploring change and stability in your paintings beautifully complements your journey of finding clarity. The optimism gained through this landscape series reinforces new perspectives. Consider how this understanding might continue to reveal empowering narratives in both your art and life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "I appreciate that perspective. A recent piece on a tree changing through seasons highlighted how stability forms the base of growth, bringing comfort and a reminder of cyclical renewal.",
+        "therapist": "Your depiction of the tree illustrates a profound connection between change and stability, fostering renewal. This understanding seems central to your journey. Consider how this theme might continue to nurture and support evolving stories in other areas of your life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I can feel the comfort in routines like morning walks that offer stability. They remind me of changes I've navigated, and how returning to familiar spaces supports my growth and renewal.",
+        "therapist": "Reflecting on your walks, it's evident these routines anchor you amidst change. These moments of renewal and stability deeply resonate with your values of growth. How might this understanding influence new expressions or directions in your life's narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Understanding these walks as an anchor could inspire me to explore themes of home and belonging in my work. They've been crucial in times of transition, offering peace and perspective.",
+        "therapist": "Your connection to routines such as walks shows an intrinsic link to themes of belonging and stability. This is deeply tied to your identity during transitions, reinforcing growth. As these themes unfold in your art, how do they enhance your sense of self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Exploring themes of belonging in my art clarifies my identity. It's comforting to see those elements emerge naturally. During a recent painting session, I felt incredibly grounded and at peace.",
+        "therapist": "As your art clarifies your identity and enhances feelings of peace, those connections to belonging grow stronger. This foundation supports the preferred narrative of who you are becoming. How might exploring these themes further influence your expressions or commitments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Exploring belonging has opened a new layer in my art. My commitment to personal stories is growing, adding depth. During recent reflection at the beach, I realized that nature, too, weaves narratives of resilience and home.",
+        "therapist": "Exploring resilience and home within both art and nature seems to reflect your evolving identity beautifully. These realizations deepen your personal narrative. How do you see this strengthened sense of belonging shaping future endeavors in your life and creativity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "This renewed sense of belonging enriches my creativity, allowing me to delve into diverse themes. I envision future projects that integrate experiences of change and stability, inspired by recent travels.",
+        "therapist": "Your journey of connecting change and stability with belonging enriches your narrative profoundly. This exploration through creativity opens new doors. How do these insights from travel enhance or shift the actions you choose in pursuing these projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Traveling pushed me to step outside my comfort zone. It taught me adaptability—like painting unfamiliar landscapes. Now, I feel more confident weaving these themes into meaningful stories.",
+        "therapist": "Your adaptability through travel inspires a vibrant canvas for new stories, blending the known with the novel. As you navigate these landscapes, how do these experiences shape your vision for meaningful storytelling in upcoming projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Travel has woven both novelty and nostalgia into my storytelling. During a recent trip, observing the vibrancy of different cultures sparked ideas for narratives exploring cross-cultural friendships.",
+        "therapist": "Your experiences illuminate how cultures and friendships enrich your stories, adding layers of depth to your identity. Considering those who have influenced you on this journey, how might they perceive the narratives you're creating?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think they’d see the narratives as honoring shared experiences. Like when I stayed with a host family abroad—the warmth and connection inspired key moments in my writing.",
+        "therapist": "The warmth you felt with your host family becomes a profound part of your narrative, reflecting how valued and connected you feel. This recognition not only enriches your stories but also shapes your evolving identity. How does acknowledging these contributions deepen your own understanding of belonging?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Acknowledging these contributions shifts my understanding of belonging from abstract to tangible. I recall sharing meals with them, listening to stories; it deepened my sense of connection and appreciation for diverse perspectives.",
+        "therapist": "Your connection and contribution to those moments—sharing meals and embracing their stories—offers mutual richness. As your sense of belonging grows, how do you think your host family may reflect on the warmth and connection you brought into their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think they'd see the warmth and joy we shared as enriching. Helping with their festival preparations felt like participating in something larger, binding us through laughter and stories.",
+        "therapist": "Your involvement brought joy and depth to their celebrations, reflecting your mutual impact on each other's identities. As these connections resonate deeply within you, how might this sense of belonging encourage further enrichment in your future interactions with diverse communities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I believe my sense of belonging will guide me to engage more openly and respectfully. My past experiences, like learning local dances, have enriched these interactions profoundly.",
+        "therapist": "As you recognize your contributions to others’ lives through sharing in dances and cultures, you're creating a valuable impact. This openness enriches both your identity and theirs. What other cultural exchanges might expand your journey of mutual growth and shared belonging?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "I imagine attending more community workshops where I can learn traditional crafts or recipes. Trying local cuisine sparks curiosity and acceptance, opening pathways to mutual understanding and friendship.",
+        "therapist": "Through embracing traditional crafts and cuisines, you're weaving valuable contributions into communities that enrich their identity. These engagements reflect mutual acceptance and understanding. How might this curiosity and openness inspire them to appreciate and celebrate diverse aspects of their own culture even more?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think by sharing enthusiasm and respect, I inspire them to rediscover and value their traditions. Once, in a small village workshop, exchanging stories led to renewed pride in their embroidery art.",
+        "therapist": "Sharing enthusiasm has led you to inspire others in rediscovering pride in their traditions. Your positive impact reinforces shared identities. As this continues, how do you envision their cultural pride contributing back to your own sense of purpose and belonging?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I'm encouraged by how their renewed cultural pride brings depth and significance to my interactions. It validates my pursuit of belonging, echoing the joyful connections made while learning their music.",
+        "therapist": "Your contributions resonate deeply, nurturing shared cultural pride and belonging. This reciprocity enriches your identity while validating meaningful connections. How might your awareness of this relational impact continue inspiring purposeful engagements in new cultural experiences?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Your words make me reflect on moments when I connected deeply, like visiting a local art fair, immersing myself in traditional painting techniques. Seeing their proud expressions inspired gratitude and belonging within me.",
+        "therapist": "Immersing yourself in these cultural exchanges reveals your meaningful role in uplifting others. This connection mirrors mutual pride, strengthening both their expressions and your belonging. Consider how these interactions enhance your sense of purpose, fostering future experiences that continue to inspire gratitude and cultural appreciation.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "Reflecting on past moments, such as a festival where traditional storytelling created unity and pride among diverse visitors, deepens my gratitude and sense of belonging. It nurtures genuine appreciation in me.",
+        "therapist": "Gratitude and appreciation flow deeply from your shared cultural experiences, like the festival's storytelling. Your contributions helped shape a sense of unity, enhancing their pride and your belonging. These mutual impacts reflect how you've influenced their sense of identity, inviting more enriching connections.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Your words remind me of another impactful event, a community play focused on folk tales. Watching locals perform instilled a sense of shared history and made me feel warmly connected to their stories.",
+        "therapist": "Watching the play reflects your meaningful contribution to creating a shared history and connection. Embracing these moments enriches your understanding of belonging and mutual pride. How does knowing your impact shape the stories you want to continue sharing within communities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "Embracing this impact, I aspire to share stories that celebrate diverse experiences. Recently, I engaged in a project that highlights community resilience, reinforcing mutual understanding and emotional growth.",
+        "therapist": "It's wonderful to see your stories celebrating resilience and diverse experiences. These efforts foster deep connections and support emotional growth, both for you and those involved. How might the community's recognition of your contributions further enrich your shared narratives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I feel the recognition deepens connections, fostering empathy and collective growth. At a recent community meeting, sharing project outcomes revealed shared resilience stories that moved us, creating profound gratitude and motivation to continue.",
+        "therapist": "You are nurturing a culture of empathy and growth, profoundly impacting others' narratives. Your dedication fosters recognition of shared resilience, shaping collective identity and purpose. Consider how these relationships further enrich your journey, emphasizing the importance of mutual influence and connection.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I've realized mutual influence expands my capacity for empathy and collective growth. Recently, witnessing a friend's determination in overcoming challenges inspired new strength and enriched my community impact.",
+        "therapist": "Witnessing your friend's determination exemplifies the powerful, reciprocal influence you share. Their courage not only inspires strength in you but also reinforces your community impact. Reflecting on how these relationships shape each other's identities enhances your empathy and growth. How has their journey influenced your perspective on mutual growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Their perseverance reshaped my views on resilience, highlighting our shared journey's power. I’m inspired to keep contributing, believing that mutual growth fuels enduring impact and deeper connections.",
+        "therapist": "You’ve beautifully acknowledged how your contributions and those of others shape your sense of value and connection. Reflect on the deeper connections formed by this mutual growth. How does acknowledging your influence inspire future actions within your community journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

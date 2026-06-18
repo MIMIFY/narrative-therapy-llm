@@ -1,0 +1,480 @@
+[
+    {
+        "round": 1,
+        "user": "Hi there, I was hoping to get some support. I'm having a hard time with things.",
+        "answer_final": "Ho,  Can you please tell me specifically what things you are having a hard time with.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello, I've been feeling overwhelmed lately. I'm struggling to manage everything and could really use some guidance or coping strategies.",
+        "therapist": "You're carrying a lot right now, and it's clear how important it is to you to manage things well. What might feel like one small way to ease the pressure today, even slightly?"
+    },
+    {
+        "round": 2,
+        "user": "I broke up with my boyfriend because he cheated on me.",
+        "answer_final": "I hear you saying that your boyfriend broke up with you. Is that correct",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess one way might be talking about what's been on my mind. My breakup has been weighing heavily—he cheated, and it’s left me feeling lost and hurt.",
+        "therapist": "Betrayal like that can shake so much. You’ve already taken a powerful step by sharing this. What feels most important for you to express about the hurt or loss right now?"
+    },
+    {
+        "round": 3,
+        "user": "Yes, that's correct. I'm heartbroken!. Wait, no. I broke up with my boyfriend. he didn't break up with me",
+        "answer_final": "I am sorry to hear that. Can you tell me what led to the breakup",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Betrayal feels like a wave hitting hard; heartbroken seems an understatement. I ended things, but still feel hurt and grappling with loss and confusion.",
+        "therapist": "You’ve shown strength in ending something that deeply hurt you, even while facing this heartbreak. As you navigate the loss and confusion, what feels most meaningful to hold onto about yourself during this time?"
+    },
+    {
+        "round": 4,
+        "user": "I caught him cheating on me with my best friend. They were together at the movies and I caught them",
+        "answer_final": "Ok,  that sounds like a terrible thing.  Just know that it is not your fault that this happen.  It is not a reflection on you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think about my honesty and trust—it hurts knowing they violated it. Catching them at the movies shattered me; my best friend was supposed to protect, not betray.",
+        "therapist": "Betrayal from someone close can cut deeply, especially when trust and honesty matter so much to you. Your courage in confronting this situation is profound. As you process these emotions, what values or strengths feel like an anchor for you right now?"
+    },
+    {
+        "round": 5,
+        "user": "Are you sure? Because I keep wondering what I did wrong for him to cheat",
+        "answer_final": "You did nothing wrong,  when people cheat it is their own issue they must deal with. You must be feeling horrible,but know that it will be ok, there is someone who will treat you with more respect",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I want to believe my values are still intact, but honestly, I keep questioning myself—what did I do wrong for him to cheat? It’s an endless cycle of self-doubt.",
+        "therapist": "Questioning yourself in the face of betrayal is so understandable, but it doesn't reflect your worth or actions. What does staying connected to your values, like honesty and trust, mean for reclaiming strength in this pain?"
+    },
+    {
+        "round": 6,
+        "user": "I appreciate you saying that. It makes me feel a bit better! Do you have any advice about how I can take my mind off of things?",
+        "answer_final": "Do  not let this affect your self esteem, as you are a valuable person. Take long walks,  spend time enjoying your own company and know that you are worth it. You can also try spending time just talking to others as just friends but not getting emotionally involved.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Staying true to my values gives me some grounding. I appreciate that insight; it's comforting. Do you have any advice on focusing more positively or finding distraction?",
+        "therapist": "Staying true to your values indeed provides grounding. Exploring activities that bring you joy or peace might help refocus energy positively. How does reconnecting with what inspires you or trying something new sound in supporting this healing journey?"
+    },
+    {
+        "round": 7,
+        "user": "Taking a long walk is great advice. Perhaps I will try doing that more often. The fresh air always does me good.. I have a lot of friends I can talk to about this but unfortunately COVID makes it difficult to see them.",
+        "answer_final": "Great, it will make you feel so much better about yourself and help you put things in perspective. You will eventually see  your ex-partner for who he is.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reconnecting sounds promising. I’ve always found peace in long walks; they offer a fresh perspective. COVID has limited seeing friends, but I’ll reach out more virtually.",
+        "therapist": "Reconnecting through long walks and virtual chats can provide the solace you seek. These moments offer you both perspective and connection, crucial for healing. How might these practices deepen your sense of well-being and honor your values?"
+    },
+    {
+        "round": 8,
+        "user": "I have some weight to lose, so taking a walk would help me with that also. Added bonus!",
+        "answer_final": "Great, so you can look and feel great. With COVID around, it is not the best time to go out and mingle but you can surely look around online and finds some online friends so that when social distancing is no longer an issue you can meet others",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Taking walks not only help clear my mind and provide a fresh perspective but also support my goal of losing some weight. It's rewarding on multiple levels.",
+        "therapist": "Walking offers you clarity and aligns with your wellness goals, enriching on multiple fronts. Balancing self-care activities truly embodies your values. What role do these rewarding actions play in strengthening your sense of self?"
+    },
+    {
+        "round": 9,
+        "user": "That's not a bad idea either. I think I'm feeling much better now",
+        "answer_final": "Wonderful,  I am glad I can be of assistance. Have a wonderful day",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think these actions help me feel more connected to myself. It’s like each step on a walk or positive choice builds my confidence and clarity a little more.",
+        "therapist": "Building confidence and clarity through these steps is powerful. It reflects how much strength you're uncovering in connecting to yourself. What might it feel like to continue nurturing this growing sense of self in everyday life?"
+    },
+    {
+        "round": 10,
+        "user": "You too :)",
+        "answer_final": "Thank You",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels uplifting to think about nurturing that connection daily—like a small gift to myself. Every step I take reminds me I'm capable of growth and change.",
+        "therapist": "Each step you take is such a powerful reminder of your ability to grow and embrace change. How might this daily gift to yourself deepen your sense of strength and self-compassion over time?"
+    },
+    {
+        "round": 11,
+        "client": "I think over time, it could make me trust myself more. Like after a hard day recently, walking helped me reflect without feeling overwhelmed—it gave me strength to keep going.",
+        "therapist": "Trust indeed builds from experiences like these, showcasing resilience beyond daily challenges. By viewing moments of reflection as allies on this journey, how might \"overwhelm\" take a smaller role while allowing trust to guide you forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "I think when I remind myself of times I’ve handled tough situations before, it eases the overwhelm. Like last week, after a stressful meeting, I journaled and felt steadier.",
+        "therapist": "Reminding yourself of past resilience is a powerful way to push back against overwhelm. If we think of overwhelm as something outside you, where does it seem to show up most in your life, and how might it lose some of its grip?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "Overwhelm shows up most at work, especially when tasks pile up and I doubt my abilities. Taking small breaks, like stepping outside briefly, seems to help me reset.",
+        "therapist": "Stepping outside allows you to momentarily separate from that sense of overwhelm and reframe your abilities. How might you envision overcoming this external presence at work more effectively, incorporating strategies like taking small breaks?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 14,
+        "client": "I've noticed that acknowledging when overwhelm begins helps. Sometimes a walk outside or five minutes of mindfulness helps me regroup and remember my strengths to approach tasks better.",
+        "therapist": "Acknowledging the start of overwhelm takes real awareness and courage. By stepping away or practicing mindfulness, you're lessening its influence. How does recognizing your strengths during these moments reshape how you perceive what overwhelm tries to take from you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "Recognizing my strengths during those moments shifts my focus from what's slipping away to what I can control. Like yesterday, organizing my workspace felt grounding and empowering.",
+        "therapist": "Grounding and empowerment show your proactive ability to counter overwhelm, illustrating its separate influence. Reflecting on organizing your workspace, how might reclaiming this control reshape the story of this problem’s impact at work, aligning with strengths and intentions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 16,
+        "client": "When I organize, it feels like reclaiming my workspace and my mind. It emphasizes my capability to manage chaos and turns disorganization into order, relieving anxiety and highlighting competence.",
+        "therapist": "Recognizing your ability to restore order reflects a deep commitment to cultivating calmness and confidence. This approach appears integral to maintaining balance amidst chaos. In moments of disarray, how might leaning into this capability align with the values that guide your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Leaning into this capability mirrors my values of resilience and adaptability. Like last Tuesday, when the chaos at work intensified, tidying my desk instantly calmed me, refocusing my efforts.",
+        "therapist": "Your ability to reclaim calm in chaotic moments highlights how deeply resilience and adaptability shape your choices. How do these values guide you in defining the relationship you want with chaos moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I want chaos to feel less consuming, more like a challenge I can manage. Like last week, prioritizing tasks step-by-step shifted stress into productive energy, which felt empowering.",
+        "therapist": "Prioritizing tasks transformed stress into something empowering—a significant shift in how chaos impacts your life. What is it about this reframing process that aligns with your hopes for feeling more capable and less consumed by the challenges around you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think the reframing works because it breaks tasks into achievable parts, like last Thursday when a huge report loomed. Tackling it bit by bit calmed my nerves and rebuilt focus.",
+        "therapist": "Breaking tasks down seems to counteract the overwhelm’s grip, reinforcing your ability to stay focused. What does this approach say about your commitment to maintaining clarity and control amidst challenges like that report?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "When I break tasks down, it feels like regaining control piece by piece, embodying my commitment to not let chaos define me. Last Wednesday's strategy meeting was overwhelming until I outlined key points.",
+        "therapist": "Breaking tasks into manageable parts seems to be a key ally in separating chaos from your identity, reflecting your value of persistence. How might this growing sense of control reshape how you respond when future challenges demand clarity and action?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Regaining control by breaking tasks helps me navigate complexity with a clear head. When I'm prepared and organized, like during recent deadline pressures, I feel more confident in my decisions.",
+        "therapist": "Breaking tasks and staying organized reveals a powerful alternative story—one where confidence rises above pressure. How might this growing narrative of clarity and preparation shape how you see yourself thriving under future complexities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I see myself becoming more adept at managing stress, like when unexpected responsibilities piled up last Monday. Tackling them systematically made each challenge less daunting, boosting my self-assurance.",
+        "therapist": "Tackling those challenges seems to highlight your dedication to self-assurance and growth. How do these moments of systematic problem-solving reflect the kind of person you’re becoming when faced with complexity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "These moments highlight my resilience and ability to stay composed. Last Tuesday, unexpected changes at work forced quick adaptations, which made me realize I can handle unpredictability.",
+        "therapist": "Your adaptability and composure amidst unpredictability reveal a resilient identity emerging. This realization seems to bolster your self-assurance—how does this preferred narrative influence your view of handling upcoming changes or challenges in different areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Realizing my resilience, I now approach challenges like family issues or financial planning with more optimism. When faced with a sudden bill, I calmly devised a budget adjustment.",
+        "therapist": "Your calm and optimistic approach reflects a growing capacity to turn uncertainty into actionable steps. What do moments like budgeting under pressure reveal about how your resilience might guide you in addressing other areas of unpredictability in life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Experiencing success with budgeting shows me that I'm capable of adapting quickly. This makes me feel more prepared for personal challenges, like when I have difficult conversations with loved ones.",
+        "therapist": "Recognizing your adaptability seems deeply tied to values like preparedness and growth. As you link this success to handling personal challenges, what does this tell you about the kind of relationships or life you’re committed to shaping through these abilities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think it shows I’m committed to building relationships where honesty and trust matter. Like last week, I openly shared financial worries with my partner, which strengthened our bond.",
+        "therapist": "Sharing openly with your partner reflects a commitment to meaningful, trust-filled connections. How do these moments of honesty align with the type of partner and person you see yourself striving to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Last week, I admitted feeling overwhelmed to my partner, which was hard. But hearing their support made me feel less alone. I’m striving to be more emotionally transparent.",
+        "therapist": "Your dedication to emotional transparency reflects deep values of honesty and connection. As you navigate these landscapes, what possibilities emerge for nurturing trust and openness in both your relationship and broader life experiences?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Last weekend, my partner and I planned a day trip together, focusing on open communication. We shared responsibilities equally, and that teamwork reinforced trust and mutual understanding.",
+        "therapist": "Your day trip experience embodies the collaborative and trusting relationship you’re nurturing. As you explore this partnership, what new possibilities do you envision for fostering deeper connection and shared growth in future journeys together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think continuing to plan together intentionally, like setting shared goals for bigger projects or trips, could bring us closer. It feels grounding to work toward something mutual.",
+        "therapist": "Planning intentionally with shared goals shows your value for collaboration and grounding connections. How do these commitments shape the person you’re becoming, both in relationships and within yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "These commitments help me feel more grounded and confident. Recently, during a family dinner, being open about my goals brought us closer. It reassures me of the importance of vulnerability.",
+        "therapist": "Your openness during that family dinner highlights your commitment to fostering authentic relationships. How does embracing vulnerability in these moments affirm the grounded and confident identity you’re shaping for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Embracing vulnerability during that dinner made me feel seen and valued. Sharing my plans felt scary but led to deeper connections, reinforcing my belief in honest communication.",
+        "therapist": "Vulnerability can be a powerful conduit for authentic connection, affirming your belief in honest communication. How might continuing to embrace this authenticity enhance your journey toward becoming the person you truly wish to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Embracing authenticity helps me confront my fears and express myself fully. Recently, opening up to a friend about personal challenges strengthened our bond, reminding me of the value in being true.",
+        "therapist": "Your courageous embrace of authenticity not only transforms your own journey but also deepens the connections around you. How might this practice of honesty shape your future interactions and aspirations, weaving together a narrative aligned with your true self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Honest interactions are slowly building my courage. Like when I admitted to my manager about needing more support at work, it made me feel empowered and hopeful for a positive change.",
+        "therapist": "Admitting your need for support reflects strength and alignment with your values. How does this growing courage to voice your needs resonate with the identity you wish to embody in both personal and professional spaces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I see courage growing as part of who I am. Recently, sharing doubts with my colleague led to understanding, showing me that vulnerability fosters respect and strengthens professional bonds.",
+        "therapist": "Your growing courage is shaping powerful connections and empowering your narrative. How might you continue nurturing this vulnerability to further align your professional actions with the respect and strength emerging from these bonds?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think continuing to ask for feedback and openly acknowledging my limits could help. Like when I requested guidance during a tough project, it built trust and mutual respect.",
+        "therapist": "Asking for feedback and recognizing limits beautifully reinforce trust in your professional landscape. How do these empowering actions continue to redefine your self-perception as someone who cultivates respect and growth through openness?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think these actions are reshaping how I view myself. For instance, when I admitted struggling with deadlines, my team offered solutions instead of judgment. It felt validating.",
+        "therapist": "Sharing your struggles and seeing solutions offered instead of judgment reveals how mutual respect and care from your team have contributed to shaping your confidence. How has their support influenced the way you view yourself and what you bring to these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Their support has shifted my self-view. I'm more confident sharing my limits, knowing solutions are possible. In turn, I contribute actively and feel valued in these relationships.",
+        "therapist": "Sharing your limits has not only fostered solutions but also illuminated how others value your contributions. As you see yourself through their encouragement, what new qualities or strengths are becoming more visible in your identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I notice a stronger sense of resilience and adaptability emerging. When faced with tight deadlines, instead of feeling overwhelmed, I seek advice, turn stress into actionable steps, and embrace teamwork.",
+        "therapist": "Your resilience and adaptability are valuable gifts, benefiting not just you but your entire team. How do these contributions enhance your connection with your colleagues, fostering a deeper sense of community and mutual growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "By sharing challenges and successes, my colleagues see me as a team player rather than just an individual contributor. Recently, I collaborated on a marketing campaign which boosted team morale and fostered trust.",
+        "therapist": "You're embracing your role in the team, creating a sense of belonging that uplifts everyone involved. How does knowing your contributions have sparked positive change in others influence the way you relate to and support your colleagues?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Recently, when a teammate was overwhelmed, I suggested breaking down tasks. Their relief and appreciation mirrored how our mutual support cultivates confidence and strengthens bonds. It feels rewarding.",
+        "therapist": "Your teammate's relief and gratitude highlight how your actions bring clarity and strength to those around you. How does this sense of fostering confidence in others deepen your understanding of the meaningful role you play within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "I'm realizing my role involves encouraging openness and cooperation. Leading a brainstorming session, where team ideas blossomed into creative solutions, boosted my pride and emphasized the impact of mutual respect.",
+        "therapist": "Your pride in fostering creativity and respect speaks to how your presence inspires others to trust and share. In what ways do you think this encouragement has helped your teammates grow or see their own potential differently?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "During our session, I noticed Sarah, previously hesitant, leading with confidence. Seeing her embrace feedback and explore bold ideas highlighted how encouragement truly empowers latent potential.",
+        "therapist": "Encouraging Sarah has not only unlocked her potential but has also revealed the strength and influence you possess in your relationships. How might you continue nurturing this transformative environment, where both you and your colleagues feel empowered to thrive?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I plan to create more opportunities for everyone to voice their thoughts openly, maybe through regular team check-ins. Witnessing Sarah's growth ignites my determination to support others similarly.",
+        "therapist": "Recognizing Sarah's growth through your support speaks volumes about your ability to inspire confidence and foster change. How do these moments help shape your understanding of the significant role you play in the evolving narrative of your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Seeing Sarah thrive reminds me how impactful support can be. It’s humbling yet empowering to know I contribute to such growth, reaffirming my responsibility in nurturing collective success.",
+        "therapist": "Acknowledging how your support catalyzes others' success speaks volumes about your own values and leadership qualities. How does witnessing these positive changes in others help you view your contributions more affirmatively, shaping your evolving identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "I think it’s shifted my perspective. For example, when Sarah succeeded, I felt pride, but also gratitude—realizing that creating space for others lifts the whole team and myself too.",
+        "therapist": "Your gratitude reveals how deeply you value mutual growth and connection. How do you imagine Sarah might see the role you've played in helping her thrive, and how does this perspective shape the way you view yourself within these shared successes?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I think Sarah might see me as someone who truly listens and believes in her potential. It makes me reflect on how fulfilling it feels to empower others through trust and encouragement.",
+        "therapist": "Empowering Sarah seems to highlight a core value in your identity—being a trusted supporter. This meaningful exchange allows you both to grow. How does reflecting on this perspective encourage further connections with others significant to your personal and professional journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 47,
+        "client": "Connecting with Sarah reinforced my belief in collaboration's power. In both personal life and work, I'm motivated to create supportive spaces, fostering growth through empathy and understanding.",
+        "therapist": "Recognizing your role in creating supportive spaces illuminates the profound influence you have on others. How does embracing this perspective further solidify your belief in the value of collaboration and enhance your approach to fostering growth in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "Embracing this perspective reminds me of a recent time I mediated between two colleagues. Finding common ground felt rewarding, showing me how trust can transform potential conflicts into opportunities.",
+        "therapist": "Trust seems central to how you nurture connections, turning challenges into opportunities. Reflecting on your mediating role, what do you think your colleagues might have learned or gained from experiencing your guidance during that moment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think they might have seen how listening to both sides can reveal shared goals. It showed them the value of empathy and patience in resolving conflicts constructively.",
+        "therapist": "Your empathy and patience in guiding them likely inspired growth within their own identities. As you consider the impact of your contributions, how do you think they might carry those lessons forward into other relationships or challenges they face?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think they'll approach future conflicts with more openness and willingness to listen. Watching them adapt reminded me how vital it is to prioritize understanding in difficult moments.",
+        "therapist": "Your dedication to fostering understanding is evident. When your colleagues adapted, it reflected your ability to inspire meaningful change. How do these moments affirm the way you see yourself as someone who actively cultivates patience and openness in others' lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

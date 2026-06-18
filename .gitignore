@@ -144,6 +144,49 @@ ENV/
 env.bak/
 venv.bak/
 
+# Local runtime state
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+memory_chroma_db/
+sessions.db
+.pycache_check/
+
+# macOS / editor noise
+.DS_Store
+
+# Research secrets and local API configs
+api_key*.json
+*api_key*.json
+*.key
+
+# Generated evaluation outputs and logs
+int/simulation_output/
+
+# Remotion local demo project and outputs
+video_demo/
+
+evaluation/**/evaluation_results*/
+evaluation/**/analysis_results*/
+evaluation/**/logs/
+evaluation/**/*.log
+evaluation/**/*.xlsx
+evaluation/**/*.ipynb
+evaluation/**/alignment/
+data_processing/**/Baselines/
+data_processing/**/Baselines-long/
+data_processing/**/INT_EN_ESConv_50turns/
+data_processing/**/ESConv_processed_files*/
+data_processing/**/*.zip
+data_processing/**/*.xlsx
+data_processing/**/*.ipynb
+data_processing/**/original_data_from_dify_/
+data_processing/**/ESConv_process/
+data_processing/**/10dirs/
+data_processing/**/after_refine-more/
+data_processing/**/before_refine*/
+
 # Spyder project settings
 .spyderproject
 .spyproject
@@ -205,3 +248,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Local agent handoff log. It may contain machine-local paths or operational notes.
+交接文档.md
+int_sessions.db
+*.db
+
+# Simulation outputs (generated at runtime)
+simulation_output/
+
+# Node modules
+node_modules/

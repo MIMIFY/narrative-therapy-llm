@@ -1,0 +1,487 @@
+[
+    {
+        "round": 1,
+        "user": "hello",
+        "answer_final": "Hi, how are you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello, I’ve been feeling quite overwhelmed lately. It's like there's a storm inside my head. I'm here to talk about it and hopefully find some clarity.",
+        "therapist": "Navigating those turbulent feelings can be challenging. Your willingness to explore them is a powerful step toward understanding and clarity. What would feel most supportive for you as we unpack this together?"
+    },
+    {
+        "round": 2,
+        "user": "i feel anxious",
+        "answer_final": "That sounds rough, do you know what triggers your anxiety?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel anxious, like there's so much pressure to have everything figured out. Talking through it and getting some guidance would be supportive.",
+        "therapist": "Recognizing that pressure is a big step. It might be helpful to explore what this need for clarity means to you, and how it fits within your personal narrative. As we build trust here, we'll start making sense of those feelings together. What story would you like to uncover first?"
+    },
+    {
+        "round": 3,
+        "user": "I have a large test coming up for school",
+        "answer_final": "So it's the test anxiety that has been causing the stress.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel like I'm struggling under the weight of expectations. With a big test approaching, it magnifies that pressure to have my future all mapped out.",
+        "therapist": "It's important to acknowledge these expectations as a distinct entity affecting your thoughts. By understanding how this \"pressure\" operates, we can begin to redefine your experience on more comfortable terms. Which specific expectations feel most influential right now?"
+    },
+    {
+        "round": 4,
+        "user": "yes, definitely",
+        "answer_final": "I had a lot of anxiety before exams when I was in school, too.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I often feel like I must excel academically to secure a stable future. This pressure creates immense anxiety, especially with exams looming.",
+        "therapist": "Acknowledging the weight of academic expectations is crucial. Let’s explore how this story of pressure influences your path and envision possibilities beyond it. In what ways can we reshape these expectations to fit a future narrative that feels secure and meaningful for you?"
+    },
+    {
+        "round": 5,
+        "user": "how did you manage stress",
+        "answer_final": "I tried my best to get more sleep and I studied earlier so that I didn't panic at the last minute. That made it slightly less stressful.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reshaping expectations feels empowering. I wonder, how do others manage stress during these overwhelming periods? Understanding diverse strategies might help me adopt effective coping mechanisms.",
+        "therapist": "Empowering indeed. Let's draw inspiration from others who've managed stress effectively and see what resonates with your story. Small steps toward understanding these strategies can be transformative. Which strategy would you like to explore further in creating a nurturing narrative for yourself?"
+    },
+    {
+        "round": 6,
+        "user": "that is what I try to do, I also exercise to relieve the stress. the sleep part can be difficult",
+        "answer_final": "That is great! Exercise is supposed to help a lot with stress and anxiety.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm trying to embrace new strategies, including regular exercise, which does help with stress relief. Yet, getting enough restful sleep remains a challenge for me.",
+        "therapist": "Regular exercise is a great start. It’s challenging when restful sleep eludes us. Let's consider ways to create a narrative where rest becomes attainable and healing. What might make your nighttime routine more conducive to restfulness?"
+    },
+    {
+        "round": 7,
+        "user": "Do you have any suggestions to improve sleep the night before?",
+        "answer_final": "Many studies have shown that melatonin is a safe and effective sleep aid.. Boring podcasts are good for sleep, too.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I find calming bedtime rituals helpful, like reading or meditation, but I'm curious about any specific techniques that could improve sleep before important days.",
+        "therapist": "Calming bedtime rituals are beneficial. Crafting a narrative where sleep supports your wellbeing can be powerful. You might try visualizing positive outcomes for tomorrow while winding down. Would experimenting with this visualization enhance your approach to restful sleep?"
+    },
+    {
+        "round": 8,
+        "user": "I've tried melatonin - hit or miss. I haven't thought of podcasts - maybe I will try that",
+        "answer_final": "I can relate to the problems with sleeping and test anxiety. I know that if you try a few things to see what works for you, it will get better.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Visualization sounds promising. I've experimented with melatonin before with mixed results, so incorporating podcasts at bedtime might offer a new, calming dimension.",
+        "therapist": "Visualization and podcasts can be excellent ways to invite calm. It's inspiring how you're open to these methods for restful sleep. What aspects of podcasts soothe you, and how might they enhance your bedtime ritual?"
+    },
+    {
+        "round": 9,
+        "user": "thank you! luckily exams don't last forever",
+        "answer_final": "Good luck on the exams- you can do it! :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Listening to calming voices and stories is soothing, helping quiet my mind before big days like exams. Knowing they're temporary keeps stress at bay. How can visualization support this?",
+        "therapist": "Visualization can enhance the soothing effect by mentally creating a safe, serene space. Before exams, envision achieving calm and focus, anchoring those feelings to strengthen your narrative of resilience. What aspects of visualization resonate most with you?"
+    },
+    {
+        "round": 10,
+        "user": "thank you for your suggestions - which podcast do you recommend I try",
+        "answer_final": "I like \"Sleep with me\" and \"Anxiety Slayer\".",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, that makes sense. I enjoy guided visualizations that focus on peace and strength. Regarding podcasts, could you recommend any calming ones for bedtime?",
+        "therapist": "Listening to peaceful stories aligns beautifully with your goal of embracing calm and strength. Try podcasts like \"Sleepy\" or \"Nothing much happens.\" They tell soothing tales, perfect for easing into restful nights. What feelings do you hope to cultivate through these stories?"
+    },
+    {
+        "round": 11,
+        "user": "The names sound like they would be helpful, I will look into them - thanks!",
+        "answer_final": "You're welcome! Bye",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Those podcasts seem perfect for winding down. I hope to cultivate a sense of tranquility and reassurance before sleep. I'll look into them - thanks!",
+        "therapist": "Exploring podcasts is a wonderful step towards tranquility and reassurance. Embracing this narrative of calm before sleep supports your journey. How do you see these moments shaping your nights into restorative experiences?"
+    },
+    {
+        "round": 12,
+        "client": "I hope these calm moments will ease my racing thoughts, helping me drift off peacefully. My mind often wanders at night, and I long for that soothing silence.",
+        "therapist": "Racing thoughts can feel like their own entity, separate from your calm self. As you explore soothing strategies, you're reinforcing silence as a companion against this wandering mind. How does recognizing these thoughts as distinct influence your search for tranquility?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 13,
+        "client": "Recognizing my thoughts as separate entities helps me feel less overwhelmed by them. It shifts control back to me, allowing space for gentle acceptance and attempts at mindful redirection.",
+        "therapist": "Recognizing your thoughts as distinct entities is powerful, reclaiming control and inviting calm. It’s a process of understanding their influence and transforming those interactions into nurturing ones. What impact do you notice when giving yourself permission for gentle acceptance and mindful redirection?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "When I gently accept my thoughts, I feel less defensive, opening a pathway to clarity. Redirecting them mindfully often helps when sleepless nights are full of worrying whispers.",
+        "therapist": "Mindful acceptance seems to ease defensiveness, revealing clarity in those moments. This shift in control quiets the \"worrying whispers\" around sleep. How does transforming these whispers shape your experiences in other life domains like work or relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 15,
+        "client": "During work, this clarity helps me focus on tasks despite distractions. In relationships, it allows me to address issues thoughtfully, leading to deeper connections and reduced tension.",
+        "therapist": "Recognizing the role of clarity and understanding reshapes your interactions, both in work focus and relational depth. This supports your commitment to meaningful engagement. How does valuing thoughtful communication contribute to nurturing these connections in relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Valuing thoughtful communication fosters trust in my relationships. It brings a sense of warmth and understanding, particularly during disagreements with my partner, transforming conflict into constructive dialogue.",
+        "therapist": "Transforming conflict into constructive dialogue shows the profound impact of thoughtful communication in your relationships. This aligns with your values of trust and understanding. How do these moments reinforce your commitment to nurturing warm, supportive relationships even further?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "These moments remind me of a heated disagreement with my partner about priorities. By listening and expressing care, we realized our mutual goals, reinforcing my commitment to deeper connections.",
+        "therapist": "Moments of realizing shared goals through listening illustrate the powerful choice of connection over conflict. Your commitment to understanding honors your values deeply. How does naming these obstacles as separate encourage more meaningful exchanges with your partner?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Naming obstacles as separate allows us to approach them objectively, not defensively. For instance, when discussing finances, we visualize the issue, focusing on resolution together.",
+        "therapist": "Approaching obstacles like finances separately cultivates a supportive environment, promoting collaboration and shared goals. Recognizing these issues as external to your relationship strengthens mutual respect and clarity. What do you hope this objective approach continues to nurture in your relationship?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Approaching finances objectively nurtures ongoing trust and openness, enabling us to face issues calmly. Recently, handling unexpected expenses this way strengthened our partnership and mutual reassurance.",
+        "therapist": "Trust and openness shape your partnership, framing finances as a shared challenge. This nurtures mutual reassurance and calmness. In honoring this cooperative spirit, how might you continue to align unexpected hurdles with your hopes for togetherness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Facing unexpected hurdles with my partner, I consciously focus on remaining open and empathetic. Like when our car broke down, we jointly planned a budget without blame, fostering unity.",
+        "therapist": "Focusing on openness and empathy highlights your dedication to unity during challenges, such as managing unexpected expenses. This approach respects your values of support and cooperation. How do you see this mindset enhancing your partnership's resilience and alignment with mutual goals?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "This mindset fosters resilience by keeping communication open during challenges. When job insecurity loomed, we planned together, exploring options without panic, deepening our trust and adaptability.",
+        "therapist": "Planning together during job insecurity shows your commitment to staying united and proactive. Your choice to explore options calmly reflects an exception to panic, aligning with your preferred story of resilience. How might these experiences continue to inform and strengthen your future collaborations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Experiencing job insecurity taught us to value communication and trust. Now, in uncertain times, we remind each other of past resilience, which fosters confidence to handle whatever comes.",
+        "therapist": "Communication and trust serve as the backbone of your relationship, fostering resilience. How might these qualities continue to shape your preferred identity, reinforcing unity during challenges and bolstering shared confidence for navigating future uncertainties?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Regular conversations reinforce our bond, especially through late-night talks after stressful days. This builds confidence and security in facing the unknown together, easing my worries about the future.",
+        "therapist": "In prioritizing late-night talks, you embrace values of connection and trust, building a preferred narrative around resilience. How do these nightly conversations further embody the identity and relationship you're committed to sustaining?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "These conversations deepen our understanding and love, creating a safe space to express fears and hopes. Sharing worries about future parenting helps me feel less anxious and more hopeful.",
+        "therapist": "Engaging in conversations about fears and hopes fosters understanding and strengthens your commitment to each other. This narrative of support aligns with your values, offering clarity on future parenting. In this safe space you've nurtured, how do you envision continuing to grow together as partners and potential parents?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "We envision growing together by continuously supporting each other through both joyous and challenging moments, like our decision to attend parenting workshops and share dreams about raising confident kids.",
+        "therapist": "Your approach to attending parenting workshops and sharing dreams signifies a commitment to building your family's narrative. By focusing on nurturing confident children, you're expanding on actions that align with your values. What qualities do you wish to cultivate in your future experiences as parents?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "We hope to foster empathy and resilience in our children by creating an environment of unconditional love and support. Experiencing struggles together strengthens us, inspiring a nurturing household.",
+        "therapist": "Nurturing empathy and resilience shapes a strong foundation for your children's future. The unconditional love you offer aligns with your identity as caring, committed parents. How do you see these values reflecting in the everyday moments you share as a family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "In daily routines, these values guide us to celebrate small wins, like our daughter's first steps or a son's kindness. They reinforce trust and warmth, ensuring life's struggles are met with love.",
+        "therapist": "By celebrating those small wins, you're nurturing a sense of trust and warmth. This practice beautifully reinforces your commitment to love as a guiding force. How do these celebrations inspire the shared narrative of resilience you are building with your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Celebrating moments like when our daughter said \"please\" without prompting highlights her empathy. It reassures us that we're instilling important values and makes future challenges feel more manageable.",
+        "therapist": "Celebrating your daughter's empathy reinforces your family's commitment to fostering kindness. These moments beautifully align with the values you wish to pass on. How do these experiences shape your vision of being parents who guide and support through both challenges and triumphs?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Our vision is shaped by witnessing moments where our children act thoughtfully, such as sharing toys without prompts. It reassures us that we're providing them with strong moral foundations.",
+        "therapist": "Witnessing these thoughtful moments reflects the strong moral foundations you’ve cultivated. This vision speaks to your deep commitment to guiding your children with care and intention. How does this sense of alignment with your values enhance the joy and purpose in your parenting journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Experiencing these moments affirms our values. When our son comforted a friend after losing a game, it was a powerful sign that empathy truly guides us and fills our parenting journey with purpose and joy.",
+        "therapist": "Your son's compassion in comforting a friend illustrates the values central to your identity as nurturing parents. These experiences reveal how empathy is deeply rooted in your family narrative, enriching your journey. What other qualities might further support this evolving story of kindness and purpose?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "['Trust in each other and ourselves could enhance this story. When our daughter trusted us enough to admit her mistake, it showed growth in our relationship, filling me with pride.']",
+        "therapist": "Trust as an integral part of your story adds depth to your family's identity. This trust empowers growth and connection, contributing significantly to the nurturing environment you're building. How do these expressions of trust influence how you see your family’s evolving story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Trust in our family fosters openness. When our daughter admitted to losing her school report, it was vulnerable yet built a stronger bond and taught resilience through transparency.",
+        "therapist": "The moment your daughter showed vulnerability by sharing her mistake illustrates trust beautifully interwoven into your family story. As this openness strengthens bonds, it also invites resilience. How do these values continue to shape your family's collective identity and shared future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "These values help us navigate challenges as a united front. When my son stood up to defend his friend, it reinforced our identity as a supportive family. It fills me with hope.",
+        "therapist": "Embracing your family’s supportive identity fills your home with hope and resilience, enabling you to face challenges together. As you re-author this story, how might nurturing these values transform your family dynamics and future experiences?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "As we nurture these values, our family becomes more connected. When I see my children supporting each other, it’s heartwarming and builds a future where empathy defines us. This bond gives me hope and strength during uncertain times.",
+        "therapist": "The evolving bond within your family not only strengthens connections but also weaves a hopeful future where empathy prevails. How might you continue nurturing this supportive environment, allowing these values to flourish even more as your children grow?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "It's crucial for us to model these values through our actions, perhaps involving them in community activities. I feel this would reinforce our empathy-centered identity and strengthen their growth.",
+        "therapist": "Your commitment to modeling values through actions is vital for fostering your family's empathy-centered identity. Engaging in community activities can deepen these connections, enhancing growth and resilience. How might such experiences further align with the values you wish your children to embrace?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Engaging in community activities teaches empathy, shows them kindness beyond our family. I recall organizing a local food drive with them; it sparked joy and fostered understanding.",
+        "therapist": "Engaging in community work like the food drive deepens understanding and joy, shaping an empathetic identity. Reflecting on these moments, how have these experiences with your children influenced your perception of yourself as a parent?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I’ve realized how much they learn from my actions. Seeing them extend kindness taught me the impact of our shared values, reinforcing pride and hope in my parenting.",
+        "therapist": "The kindness your children show truly reflects the positive impact of your actions, creating pride and hope in your parenting journey. As you consider their perspective on these shared values, what qualities or influences from them enrich your view of yourself as a parent?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Seeing my children’s curiosity and empathy expands my view as a parent. A moment that stands out is their questions about the world during volunteering, sparking deeper understanding in us all.",
+        "therapist": "Your children’s curiosity and empathy have truly enriched your identity as a parent, reinforcing your meaningful contributions to their lives. As these interactions deepen mutual understanding, how might your ongoing engagement with them further shape the shared values you uphold?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Continuing these activities, like organizing park clean-ups, they grasp real-world empathy. Witnessing them lead initiatives touches me deeply, fueling my commitment to nurture this path.",
+        "therapist": "Engaging your children in activities like park clean-ups provides a meaningful connection, shaping their identities as empathetic leaders. Their initiatives reflect the impactful contributions you've made to them. How might you further support their journey in fostering these valuable qualities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Engaging in consistent discussions about their volunteering experiences allows them to process and internalize the impact. I've noticed they love storytelling, so we turn each event into a narrative.",
+        "therapist": "Turning their experiences into narratives not only helps your children process but also beautifully reinforces their sense of self. How do you see these storytelling moments shaping their identity and your connection with them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "My children's storytelling amplifies their confidence, sparking imaginative narratives that connect us. One story led to a heartfelt discussion about empathy and their role in our community.",
+        "therapist": "As your children share their narratives, you're fostering profound connections and exploring shared community values. Their confidence reflects your meaningful contribution to their lives. How do these moments reinforce your commitment to nurturing empathy and leadership in them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "Witnessing my children embrace these storytelling moments reinforces my commitment as I see them learn crucial life skills. During our last session, they discussed leading a book club.",
+        "therapist": "Your children leading a book club highlights their growth and your influential role in nurturing their skills. By recognizing their initiative, you celebrate the mutual journey of learning and empathy. What impacts do you hope this venture will have on their sense of leadership within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "As my children lead the book club, I hope it strengthens their confidence and sense of responsibility. Seeing them discuss topics passionately can build their leadership skills in meaningful ways.",
+        "therapist": "Your commitment to supporting your children as they embrace leadership roles like the book club reveals how much you value nurturing confidence and responsibility. How does their journey in cultivating these skills shape your own sense of growth and connection as a parent?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Seeing my children develop leadership skills inspires me to grow alongside them. Recently, after their book club discussion, I felt a deeper connection and a shared sense of achievement.",
+        "therapist": "Your children’s development in leadership truly illuminates your influence and reflects the bond you all share. This shared sense of achievement speaks to how your nurturing role enriches both their identity and yours. How does this reciprocal growth enhance the way you see yourself as a parent?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Seeing their growth makes me realize how crucial my guidance is. It deepens our connection, reminding me to remain patient and supportive. Their confidence fuels my sense of purpose.",
+        "therapist": "Your role in your children's growth beautifully shapes their emerging identities, while also reinforcing your own as a supportive guide. This mutual journey amplifies the values you cherish. How might these shared experiences further impact your family’s collective narrative and future connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "These shared experiences create a family narrative rooted in learning and connection. Witnessing them take charge pushes me to keep growing too, feeling proud and hopeful for our future.",
+        "therapist": "Your sense of pride in your family's evolving narrative is truly powerful. Reflecting on their growth enhances your identity and theirs. How do these experiences inspire further contributions to shape an even richer familial legacy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Seeing my children actively lead reminds me of the importance of embracing new challenges. It inspires me to explore fresh family traditions, like regular storytelling nights. This enriches our bonds.",
+        "therapist": "Embracing these new storytelling traditions allows your children's leadership to further shape your family's dynamic. By integrating these moments, you deepen mutual connections. How do you envision these fresh traditions impacting each family member’s identity and creating lasting bonds?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "The storytelling nights offer us a space to express individual and collective experiences, fostering understanding. Sharing tales of childhood memories has opened new pathways for empathy and closeness.",
+        "therapist": "Your storytelling nights beautifully capture the mutual impact your family shares, deepening empathy and connection. This space showcases your invaluable contribution to their lives. How does recognizing this reciprocity influence your understanding of the interconnected roles within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Recognizing this reciprocity deepens my understanding of our family dynamics. Last week, my youngest shared a personal story, sparking laughter and vulnerability, which reminded me of our strong, evolving bond.",
+        "therapist": "Sharing that moment of laughter and vulnerability reflects the warmth your youngest brings to your family. It's evident their influence nurtures an evolving bond for everyone. How has this understanding enriched each member's journey within your family’s shared narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Witnessing our youngest's open-heartedness reminds me that vulnerability fosters deeper connections. It encourages my eldest to share more and us adults to become better listeners, evolving together.",
+        "therapist": "Your youngest’s openness powerfully influences family dynamics, fostering an environment where everyone evolves. As you deepen as listeners, mutual contributions shape new relational identities. Reflecting on these transformations enriches your collective narrative, strengthening bonds further.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

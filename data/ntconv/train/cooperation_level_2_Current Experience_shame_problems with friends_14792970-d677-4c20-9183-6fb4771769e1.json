@@ -1,0 +1,515 @@
+[
+    {
+        "round": 1,
+        "user": "Hello, how are you?",
+        "answer_final": "Hi there! How may I support you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling a bit overwhelmed today. Could you help me sort through some of these emotions?",
+        "therapist": "Your willingness to explore your emotions is a strong step. Together, let's gently navigate through what you’re experiencing today. What feels most pressing in this moment?"
+    },
+    {
+        "round": 2,
+        "user": "Well, I'm really upset with my friends.",
+        "answer_final": "I am so sorry to hear that. Did something happen?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling really hurt by my friends. It seems like they're not understanding my perspective lately, and it's making me feel isolated.",
+        "therapist": "Your feelings are important, and it’s understandable to feel isolated when perspectives aren’t shared. Let's explore the situation together and see how your narrative might evolve to incorporate understanding and connection."
+    },
+    {
+        "round": 3,
+        "user": "Yes, they aren't taking COVID seriously.",
+        "answer_final": "Oh that is so hard. I have family that isn't taking COVID seriously as well, and its so frustrating to see. Are you able to talk to them about your concerns?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm hurt because my friends aren't taking COVID seriously, and it feels like they dismiss my concerns. It's creating tension and I’m worried about the implications for our health.",
+        "therapist": "Your concerns about COVID are valid, and feeling dismissed by friends can be hurtful. Let's explore how you might express these feelings to foster understanding, ensuring your voice is heard while maintaining your sense of safety."
+    },
+    {
+        "round": 4,
+        "user": "Yes but they get angry with me. I don't know how to get through to them,",
+        "answer_final": "Some people express their frustrations in certain ways. Do you think there is another way to communicate with them? It's also okay to stand up for yourself and stand by what you feel is right.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. It’s tricky because every time I mention my concerns, they get defensive and angry. I just want a way to communicate without causing conflict.",
+        "therapist": "Feeling understood is crucial. Let's consider how you might share your concerns in a way that opens a dialogue without escalating tensions. How would you envision a conversation that reflects both your care for their health and your values?"
+    },
+    {
+        "round": 5,
+        "user": "I really don't know I just haven't been seeing them at all but I see through social media that they have large parties but I do feel left out.. It's a weird dynamic.",
+        "answer_final": "It sounds like you're finding it hard to balance the isolation you feel during this pandemic, while you know it's the safest option, with the social gatherings your friends are having. Does that sound right?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess I’d want to say how much I care about their safety and well-being. At the same time, it’s hard seeing them gather without me—it feels so conflicting.",
+        "therapist": "Balancing care for their well-being and feeling left out is indeed challenging. It sounds like you truly value these friendships. How might expressing your genuine concern deepen the mutual understanding without creating conflict?"
+    },
+    {
+        "round": 6,
+        "user": "That's exactly right.",
+        "answer_final": "that is such a hard position to be in. it sounds like you are doing your best by choosing to be safe and keep your distance.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That's exactly right. I feel torn between wanting them to understand my worries and not wanting to jeopardize our friendships. I deeply value these connections and wish they could see it from my perspective.",
+        "therapist": "Your desire to preserve these connections while feeling understood shows how much you value your friendships. How might you share your concerns in a way that highlights both your care for them and the importance of your perspective?"
+    },
+    {
+        "round": 7,
+        "user": "I'd like to think so but I wish they would too. It's hard to know what is right.",
+        "answer_final": "I have found that having vitural movie nights, or going on socially distanced walks with my pals has been so helpful with staying connected. Is this something you think your friends would be willing to try?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the perspective. I'm trying to figure out a way to express my care while being heard. It often feels confusing, though, as I want their understanding too.",
+        "therapist": "You’re navigating a lot of emotions, balancing care and the need to feel understood. It’s okay to want both connection and clarity. What might help you feel safer in expressing your feelings without fear of being dismissed?"
+    },
+    {
+        "round": 8,
+        "user": "Yes, but they'll have their BBQs and parties anyway. They are having a group Thanksgiving and there will be a lot of people there. My husband and I feel bad that we aren't going, but we also know it isn't smart.",
+        "answer_final": "I think a lot of people are going by the notion that you can't live your life in fear, and that they're going to have these big family gathering regardless of what is happening with COVID. The stats have shown that after holidays the cases have surged, for example, memorial day, 4th of July, labor day. But I think its important to remember the bigger picture that peoples lives are literally at stake and the people that disregard need to be more aware.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think feeling safer would mean knowing they wouldn’t dismiss my concerns outright. It’s hard watching them plan these gatherings when we’ve decided to miss out for safety.",
+        "therapist": "Your concern shows deep care and commitment. How might sharing this decision as part of your values—rather than focusing on differences—help them recognize your intentions while strengthening the bond?"
+    },
+    {
+        "round": 9,
+        "user": "We feel like after this is all over, they will still remind us that we were standoffish during this time.. And I agree. The longer we put it off and don't take it seriously, \nthe longer it will last.",
+        "answer_final": "Can you tell them that that just isn't the case? You and your husband are making the right choice by staying home for the safety of yourselves and others. If I am correct, it has nothing to do with the fact that you don't want to see your pals and family!. From chatting with you it sounds like your relationships with these people is incredibly important to you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think sharing our values might help, but there's still this fear—they could see it as us being distant. And honestly, that possibility weighs heavily on me.",
+        "therapist": "You’re carrying a lot of care and fear in this situation, which speaks to how important these relationships are to you. What if sharing your values came with reassurance about how much you treasure the connection, despite your current choices?"
+    },
+    {
+        "round": 10,
+        "user": "Yes that's totally accurate.. Yes they are. They are good people.. They just think living for the moment is the bigger picture.",
+        "answer_final": "I hope your friends can see how important they are to you and thats a huge reason why you're not seeing them.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think that might help. They are good people, and I know their mindset is about living in the moment. I just wish they could see the bigger picture too.",
+        "therapist": "Sharing your values could open a space for connection, especially if paired with affirming their importance to you. How might they describe the qualities in you that make your friendship meaningful to them?"
+    },
+    {
+        "round": 11,
+        "user": "I think they do. They just think that this is a hoax.",
+        "answer_final": "I know a lot of people that think the same thing. I have one friend who thought that, and they ended up contracting COVID. Thankfully she was ok, but after she got it she definitely didn't think it was a hoax anymore. I hope they understand the risk they are taking.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think they’d say I’m thoughtful and loyal, but it’s hard because their belief that this is all a hoax makes me feel dismissed when I express my concerns.",
+        "therapist": "Your thoughtfulness and loyalty clearly shine through in how much this matters to you. Feeling dismissed can be painful—what might help you honor your values while softening the fear of disconnection with them?"
+    },
+    {
+        "round": 12,
+        "user": "That's scary.. Yeah I don't think they get it.",
+        "answer_final": "I am proud of the choices you are making and I hope you can take some comfort in knowing that you are doing your part in helping keep things under control. There is a strength in numbers and the more people who understand that the faster it can be controlled.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's unsettling. Maybe sharing more openly and reminding them why these values matter to me could help bridge the gap. I hope they’ll see my perspective eventually.",
+        "therapist": "Trusting in your values and sharing them more openly reflects both courage and a deep commitment to your connections. How might expressing these values foster greater mutual understanding and possibly inspire others to appreciate broader perspectives?"
+    },
+    {
+        "round": 13,
+        "user": "Thank you. I hope it gets better. But anyway thank you for giving me the chance to open up.",
+        "answer_final": "Yes of course, I hope this was helpful. You are doing the best you can and take pride in knowing that. :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for saying that—it makes me feel hopeful. I think expressing my values this way could show how much I care, even if it’s hard to bridge our views.",
+        "therapist": "Expressing your values indeed conveys deep care. This hopeful perspective can act as a bridge to understanding, enhancing the connections you cherish. How does sharing this care help you feel more grounded amidst differing viewpoints?"
+    },
+    {
+        "round": 14,
+        "client": "Sharing my values feels like I'm staying true to myself. It grounds me because even if they disagree, I’ve expressed my truth without compromising my care for them.",
+        "therapist": "Staying true to yourself seems vital in how you approach this situation. Seeing the problem as a difference in perspectives, what impact do you notice on your sense of loyalty and thoughtfulness within these relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 15,
+        "client": "I've noticed that my loyalty remains intact, but sometimes it's tested when they dismiss my concerns. It's like navigating a storm, holding tight to what truly matters.",
+        "therapist": "Navigating through the dismissal while holding on to your values shows immense resilience and dedication. Naming these dismissive encounters as \"the storm\" could help separate it from the bond you have. How might acknowledging its effects strengthen your sense of loyalty amid challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 16,
+        "client": "I think naming it \"the storm\" could help me see the dismissal as separate from them, not personal. It might remind me they’re still important despite our differences.",
+        "therapist": "Separating the dismissal as \"the storm\" helps preserve your relationships, reinforcing your loyalty despite differing perspectives. By recognizing its effects and prioritizing what's truly valuable, you protect those bonds. How does this reinforce your commitment to fostering understanding within these connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Seeing dismissal as a separate storm helps me empathize with them, focusing on deeper bonds rather than conflicts. It reminds me of conversations where patience and kindness opened hearts.",
+        "therapist": "Emphasizing empathy over conflict underscores your values of patience and kindness, crucial to nurturing deep connections. Recognizing the storm as separate clarifies its influence on interactions. How might maintaining this perspective help you remain centered on your commitment to meaningful relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "It helps me remember a moment when, despite disagreements, we laughed over shared memories. These moments keep me committed, reminding me that love isn't about agreeing on everything.",
+        "therapist": "Your ability to find joy amidst disagreements demonstrates love's resilience beyond mere agreements. Naming \"the storm\" can further affirm this foundation, guiding your interactions back to shared warmth. How does this influence the way you cultivate connections moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Moments of joy help me embrace differences, fostering deeper understanding. Remembering shared laughter allows me to approach future interactions with openness and empathy, emphasizing love's resilience despite disagreements.",
+        "therapist": "Sharing laughter and moments of joy can indeed fortify relationships, emphasizing your values of openness and empathy. By embracing these moments, you strengthen love's resilience amidst differences. How does recognizing this bolster your commitment to cherishing those meaningful bonds?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I think it reminds me of a time when my friend and I had a serious argument, but later we made amends over coffee, laughing about our old inside jokes. It showed me how those bonds can outlast the hardest moments if we value them enough.",
+        "therapist": "Your experience of moving past disagreements highlights the strength of valuing these bonds. Externalizing \"the storm\" allows you to see how connection triumphs over conflict. How does this affirm your commitment to nurturing understanding and preserving shared joy?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Recalling that coffee meeting, I recognize how vulnerability paved the way for connection. It encourages me to approach conflicts with honesty, seeing them as opportunities to strengthen bonds.",
+        "therapist": "Embracing vulnerability can truly fortify connections, revealing resilience in your relationships. Reflecting on how you acted with honesty offers valuable lessons. As you consider this perspective, what aspects of vulnerability and openness might support the narrative you wish to embrace?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Reflecting on past vulnerability, I see how openness deepened trust. An example is when I admitted feeling overwhelmed at work and my friend offered unexpected support. Embracing vulnerability reveals strength.",
+        "therapist": "Your story shows how trust and support can emerge when you allow yourself to be seen authentically. How do moments like these align with the values and strengths you hold most dear in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think it aligns deeply with my value of mutual care. For instance, when my friend noticed I was distant and checked in, it reminded me how much support matters to me.",
+        "therapist": "Mutual care seems to be a strong thread in your story. As you reflect on that moment of being noticed and supported, what possibilities do you see for creating more spaces where this value of care thrives?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think creating more space for care starts with small, consistent actions—like checking in on others or sharing honest feelings. It reminds me of writing a note to my colleague when she looked stressed, and how that simple gesture built trust between us. Moments like those make mutual care feel tangible.",
+        "therapist": "Small, intentional gestures like the note to your colleague reflect your commitment to cultivating trust and care. As you continue shaping these moments into a narrative of mutual support, how might those actions inspire further opportunities for connection in other areas of your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think about how I could extend that care at home, like offering to listen when my sibling seems distant. Those small acts feel manageable yet meaningful in building closeness.",
+        "therapist": "Offering that kind of attention reflects your commitment to nurturing meaningful relationships. How does this intention to create closeness with your sibling align with the caring identity you’re shaping for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think it aligns perfectly. Recently, when my sibling had a hard day, I offered to cook dinner and just listen. It felt like embodying the care I value so deeply.",
+        "therapist": "Exploring this act of care, you seem to deeply connect with your identity as someone who values empathy and support. How does nurturing these qualities in yourself influence the relationships you hope to strengthen?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think nurturing empathy has made me more attuned to others’ unspoken needs. For example, last week, I noticed a coworker struggling and offered help without them asking—it felt fulfilling.",
+        "therapist": "Recognizing unspoken needs and offering help reflects a deep empathy shaping your preferred narrative. How do these actions create new pathways for connection that support the story you are building?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think these actions open up honest communication. Like when I offered help, it led to a deeper conversation where my coworker shared more openly about their stress and challenges.",
+        "therapist": "Offering help fosters meaningful communication, deepening connections in line with your caring nature. How does this openness and shared vulnerability reflect the supportive relationships you're aspiring to cultivate?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I believe that such openness helps lay the groundwork for relationships based on trust and mutual understanding. When I helped my coworker, it showed that vulnerability is an opportunity to connect deeper.",
+        "therapist": "Building trust through openness reflects a powerful alignment with your values. How do these experiences of connecting through vulnerability deepen your understanding of the type of relationships you’re committed to fostering?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I’ve realized that vulnerability creates stronger connections, like when I admitted feeling overwhelmed to a friend, and they opened up too—it deepened our mutual trust and understanding.",
+        "therapist": "Vulnerability has clearly offered you opportunities for deeper understanding and trust. How does the act of admitting your feelings contribute to shaping your identity within these supportive relationships you're fostering?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 31,
+        "client": "Admitting my feelings has strengthened my sense of self as someone who values openness. When I confided in a friend about my stress, their support affirmed that authenticity leads to deeper bonds.",
+        "therapist": "Your commitment to authenticity is shaping a meaningful narrative of deeper connections. As you experience these supportive interactions, what new actions are emerging that continue to honor your identity of openness and trust?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I've started sharing my experiences more with my family, encouraging open discussions about our daily struggles. This feels liberating and has strengthened our emotional bonds significantly.",
+        "therapist": "Sharing your experiences and encouraging openness reflects the values you hold dear. These actions are redefining your relationships based on mutual support and understanding. What feelings arise as you continue to embrace this identity in creating these meaningful family connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "['Embracing openness has been empowering. When I shared my worries about work with my sister, her understanding response made me feel supported and less isolated.']",
+        "therapist": "Empowerment through openness is illuminating for your evolving story. As you continue sharing and receiving support, what other experiences might enhance this preferred narrative of connection and resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Sharing how stressed I felt during a family dinner allowed my parents to offer their wisdom, fostering deeper understanding and appreciation of our supportive family dynamic.",
+        "therapist": "Your appreciation of your parents' wisdom highlights a meaningful shift towards valuing open support. This experience seems to enhance your identity as someone who nurtures connection and resilience within your family. How might these interactions continue to shape the supportive environment you cherish?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I believe these interactions can deepen our trust and encourage more open communication. Recently, sharing my anxiety about an upcoming work deadline led to valuable advice from my dad, which really alleviated some of my stress.",
+        "therapist": "Sharing your anxiety with your dad and receiving his support highlights the strength of your family bond. How does this experience align with the values you hold about mutual care and growth in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "My dad's advice reaffirmed the importance of mutual care, reminding me how supportive conversations help us grow. Recently, discussing my workload led to actionable solutions we both contributed to.",
+        "therapist": "Your dad's guidance seems to reflect a shared value of care and teamwork in your family. As you consider his impact, what strengths or insights about yourself do you see through his supportive presence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "His support reminds me that I can handle challenges better with others' input. It’s reassuring to know I don't always have to figure things out alone.",
+        "therapist": "Your dad’s view of you as capable and open to collaboration seems to reflect qualities you deeply value. How does recognizing his trust in your ability shape the way you see yourself navigating challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I feel more capable, like my challenges aren’t insurmountable. For instance, after Dad’s advice, I organized my tasks better and felt proud finishing them on time.",
+        "therapist": "Your pride in completing tasks highlights the ripple effect of your dad’s guidance and your own dedication. How do you think your ability to embrace support and act on it has positively influenced his confidence in offering advice or help?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think my dad sees that his advice makes a difference, which probably motivates him to offer more. Like when he saw me calmer after organizing, he seemed genuinely proud.",
+        "therapist": "Your dad’s pride in you reflects the deep mutual care in your relationship. How do you think his sense of purpose or identity might be shaped by seeing the positive impact his support has on your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Knowing that his support really helps me might give him a stronger sense of purpose. I remember how pleased he looked when I told him his advice boosted my confidence.",
+        "therapist": "Your dad’s sense of pride in supporting you suggests how much he values making a difference in your life. What does it feel like to know that your growth and confidence also strengthen his sense of purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "It feels deeply fulfilling, almost like I’m giving back in some way. Like when I shared how his advice improved my project planning, his smile made me feel genuinely connected to him.",
+        "therapist": "Your description of feeling fulfilled reveals a beautiful cycle of support and growth between you and your dad. Recognizing the significance of this connection, how does embracing this shared journey shape both his identity and your relationship's future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think it deepens our bond, giving us both a stronger sense of belonging and purpose. When he shares in my successes, like cheering at my graduation, it enhances our mutual respect and love.",
+        "therapist": "Your reflections on this shared bond with your dad highlight the deep interconnection shaping both your identities. Recognizing these mutual contributions, how might your continued support and collaboration further enhance each other's sense of belonging and purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "My continued support and collaboration with my dad can strengthen our sense of belonging by fostering open communication. I recall a moment when we planned a family trip together; his confidence in organizing the itinerary and my encouragement helped create an unforgettable experience. It enriched our connection, blending adventure with trust.",
+        "therapist": "Your story of collaboration reveals how your encouragement strengthened your dad's confidence and fostered trust. How do you think this mutual support has shaped his belief in his ability to contribute meaningfully, not only to your relationship but perhaps to others as well?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Seeing my dad engage more confidently in planning family gatherings, his belief in his abilities has grown. I've noticed how others seek his advice and guidance, boosting his self-worth.",
+        "therapist": "By recognizing his capabilities and feeling validated, your dad can contribute positively to family dynamics. How do you think these changes in him foster a deeper connection between you two and influence his role within the family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "As dad gains confidence, our conversations become richer. His role evolves as he becomes a trusted advisor. During family debates, his insights foster respect and unity.",
+        "therapist": "Your dad's evolving role as a trusted advisor shows how your mutual growth impacts the family's dynamics. Consider how recognizing his wisdom not only nurtures unity but also enriches everyone's identity, including your own.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Recognizing my dad's wisdom has made me appreciate the complexity of our identities. I recall a recent family crisis when his calm guidance anchored us, fostering unity and personal growth.",
+        "therapist": "Your dad's calm guidance not only shaped family dynamics but also influenced your identity through mutual respect and growth. By embracing his wisdom, how might it inform the contributions you make to others, enhancing their lives similarly?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I think embracing my dad's wisdom reminds me to stay patient and empathetic. Recently, a friend confided in me about their struggles, and I found myself channeling his steady, thoughtful approach. It made me feel more capable of offering genuine support while strengthening our connection.",
+        "therapist": "Your ability to offer steady, thoughtful support highlights the profound impact your dad’s wisdom has on you. It reflects a meaningful contribution to your friend's life, enhancing your sense of agency and connectedness. How do these moments influence the way you perceive yourself within your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I think these moments make me realize I can be a steady presence for others. For example, when my friend thanked me, I felt valued and confident in my ability to help.",
+        "therapist": "Your sense of being a steady presence reflects the meaningful ways you impact others’ lives. How might your dad’s influence and your friend’s gratitude further reinforce this growing confidence in your ability to support and connect with those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "I think their responses remind me that my actions truly matter. Recently, when I reassured my anxious colleague about a presentation, their relief made me feel capable and appreciated.",
+        "therapist": "Your reassurance not only eased your colleague’s anxiety but strengthened their confidence in navigating challenges. How do you think your steady presence might have influenced their perception of themselves as capable and supported in stressful situations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think my colleague felt more secure knowing someone cared and believed in them. Their gratitude showed me how impactful empathy can be, making me feel purposeful and connected.",
+        "therapist": "Your empathy clearly impacts those around you, shaping how they see their own capabilities. How might your ability to instill security and confidence in others reflect the values that are most meaningful to you in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

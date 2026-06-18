@@ -1,0 +1,506 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hello, how are we doing today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I’ve been feeling a mix of emotions lately, and I’m not quite sure where to start. Maybe we can begin with figuring out what’s most pressing?",
+        "therapist": "You've taken an important step by acknowledging these mixed emotions. Let’s explore what feels most present for you right now—whatever comes to mind first is a good place to begin."
+    },
+    {
+        "round": 2,
+        "user": "I am alright, how are you doing?",
+        "answer_final": "I am doing swell. What's on your mind today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I guess what feels most present is this lingering heaviness—like a weight I can't pinpoint. It’s been hard to stay focused lately.",
+        "therapist": "That heaviness you’re feeling sounds important to acknowledge—it must take a lot of energy to carry something so unclear. Would you like us to gently explore what this weight might be connected to, or start by focusing on how it’s impacting your day-to-day?"
+    },
+    {
+        "round": 3,
+        "user": "I really want to ask how you are doing and what issues you are having, I have done like 5 of these on the supportive side. I have been getting migraines lately which is making my depression worse",
+        "answer_final": "How long has this depression been looming over you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think exploring where this heaviness comes from might help. Lately, I’ve been getting migraines, and they make it harder to shake off the depression—it feels like a vicious cycle.",
+        "therapist": "That cycle of migraines and depression sounds draining. Perhaps we can begin uncovering what this heaviness represents by exploring how it shows up in your life—what stands out most about its presence for you?"
+    },
+    {
+        "round": 4,
+        "user": "Pretty much my whole adult life, at least 12 years or so",
+        "answer_final": "I am sorry to hear that, you mentioned that you have been getting migraines lately though you have been depressed for a longer duration, lets try to pinpoint that cause first",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s been there most of my adult life—maybe 12 years or more. It shows up as this constant shadow, especially when I’m overwhelmed or physically drained, like with the migraines.",
+        "therapist": "That shadow seems to have been a persistent presence for you over the years, especially during those draining moments. What do you think has helped you manage or face it during times when it felt less overwhelming?"
+    },
+    {
+        "round": 5,
+        "user": "I honestly have a pretty good handle on the depression, lots of therapy. The migraines are making it hard to get anything done \nthough",
+        "answer_final": "Would you say that the migraines are a result of working?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve managed the depression with years of therapy and tools that work well. But the migraines disrupt everything—they drain me to a point where I can’t function properly.",
+        "therapist": "Migraines seem to have a way of pulling you away from the tools and balance you’ve worked so hard to build. If migraines could speak, what might they say about the role they play in disrupting your days?"
+    },
+    {
+        "round": 6,
+        "user": "I am honestly not sure, I have gotten one in my entire life before and 6 in the last month. I dont think that it is stress related",
+        "answer_final": "you'd be surprised as how much stress actually does to the mind itself. Has anything in your daily life, in the past month alone, changed that would lead to increased stress that you wouldn't normally experience?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m not entirely sure. They’re so recent—just one before in my life, then suddenly six last month. It doesn’t feel stress-related, but maybe something else is triggering them.",
+        "therapist": "Perhaps these sudden changes deserve some gentle curiosity. What do you think might be going on in your life or body lately that could invite this new pattern of migraines into your story?"
+    },
+    {
+        "round": 7,
+        "user": "Honestly not really, things are going well at work and life is actually going well",
+        "answer_final": "from where I am, most businesses require us to work form home. Is this true for you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Honestly, I’m not sure. Work and life have been smooth lately, which is why the sudden migraines feel so out of place—it’s like they came out of nowhere.",
+        "therapist": "It seems confusing when something like migraines appears unexpectedly in an otherwise smooth period. Have you noticed any shifts, even subtle ones, in your routines or surroundings that might hold a clue?"
+    },
+    {
+        "round": 8,
+        "user": "No I am stuck going into work, we are essential enough to stay open",
+        "answer_final": "Ah, I also know some essential workers who must physically attend work. I am lead to believe that the pandemic inadvertently causes a lot of stress in places that we don't commonly associate stress with. For example, wearing a mask everywhere for us in the United States can become a pain sometimes like when I forget it in the car or the house",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I can’t think of much except that work has stayed open—we’re considered essential. It’s been exhausting going in every day, even if things feel normal otherwise.",
+        "therapist": "Feeling exhausted despite things seeming normal must be so draining. What helps you stay grounded or find moments of relief amidst the demands of being essential at work?"
+    },
+    {
+        "round": 9,
+        "user": "Yes honestly covid has definitely been exhausting. masks have been mandatory here for quite some time so I am never without one",
+        "answer_final": "I don't blame you, its impossible to keep this composure especially with a pandemic breathing down our necks. When I worked, I found that smaller problems that wouldn't normally phase me began to have a greater effect when the pandemic hit. Thus my stress went up as a result and wearing a mask didn't help the problem",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Honestly, it’s been hard to stay grounded. COVID measures like masks are constant—never being without one feels draining, and the exhaustion just lingers after each shift.",
+        "therapist": "Wearing masks constantly and facing lingering exhaustion must take such a toll on your energy. How do you take care of yourself after those long, demanding shifts?"
+    },
+    {
+        "round": 10,
+        "user": "Honestly I wear a mask 8 hours a day and its not a big deal",
+        "answer_final": "Hmm I guess we all deal with the precautionary measure differently. Has your daily routine changed at all in the past month?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess the mask itself doesn’t bother me much—it’s just part of the job now. But unwinding after shifts is tough; I usually just crash on the couch.",
+        "therapist": "Unwinding sounds challenging, especially after demanding shifts. Have you ever explored or considered small ways to restore your energy, even briefly, beyond crashing on the couch?"
+    },
+    {
+        "round": 11,
+        "user": "Not much has changed",
+        "answer_final": "are you able to identify any change whatsoever? I ask since any imbalance our body and mind experience is sometimes enough to see a poor reaction, that may lead to things such as migraines",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've mostly stuck to the same routines—nothing’s really changed. Sometimes I think about trying something new, but I often feel too drained to actually do it.",
+        "therapist": "Considering how draining this feels, it seems the exhaustion has a way of keeping you stuck. If we were to look at this exhaustion as something outside of you, how do you think it’s influencing your ability to try new things or shift routines?"
+    },
+    {
+        "round": 12,
+        "user": "Yes its been surprising, I have talked to my doctor and he suggested I try to document my triggers so I will try to do that. Anyway I have to get going, You have been very helpful. Have a wonderful day!",
+        "answer_final": "Glad to know my advice is worth something, afterall I am not a doctor. Nice speaking with you!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That’s an interesting way to look at it. I think the exhaustion sometimes makes me avoid trying anything new because it feels easier to just stay in my comfort zone. My doctor actually suggested tracking triggers, so I’ll give that a shot—maybe it’ll help me understand this better.",
+        "therapist": "Exploring triggers could be a meaningful way to better understand this pattern. It seems like staying in your comfort zone has helped manage the exhaustion; what feels safe about that space for you right now?"
+    },
+    {
+        "round": 13,
+        "client": "It's safe because I know what to expect there. After a chaotic shift, curling up in that familiar spot feels grounding, even if it doesn’t fully recharge me.",
+        "therapist": "Finding grounding in that space makes a lot of sense, especially after chaos. If exhaustion keeps you from feeling fully recharged there, what do you think it might be taking away from your life outside of those familiar moments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "Sometimes I think it’s taking away my ability to really connect with others. I’ve caught myself canceling plans because even the thought of socializing feels overwhelming after work.",
+        "therapist": "Social exhaustion seems to be creating a distance from connections that matter to you. What do you think is most important about preserving those relationships, even as this exhaustion tries to interfere?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "I think it’s the sense of connection I fear losing. Like when I missed my best friend's birthday—it felt awful, but facing everyone after work just seemed impossible.",
+        "therapist": "Missing that birthday seems deeply tied to your value of connection. If exhaustion blocks these connections, how might reconnecting with small, manageable steps reflect the importance you place on these relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I think small steps could help. Like texting someone to check in, even when I’m tired—that might remind me how much I care and want to stay connected.",
+        "therapist": "Small steps like reaching out with a text could be powerful. It reflects your value of connection, even when exhaustion tries to interfere. How do you think nurturing these relationships might align with the care and commitment that seem so important to you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I think it would remind me why these relationships matter so much. Like when my sister sent me flowers after I canceled lunch—it showed me how loved I am, even when I’m struggling.",
+        "therapist": "Feeling that love, even in a moment of struggle, seems so deeply tied to how much you value connection. How might viewing the exhaustion as separate from you help protect those moments of care and closeness you hold so dear?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I guess seeing exhaustion as separate could help me feel less trapped by it. Like after work, I could focus on small joys—calling a friend or journaling about my day.",
+        "therapist": "Naming exhaustion as separate feels empowering—it acknowledges your agency. What makes those small joys, like connecting or journaling, feel like meaningful ways to stand by the values and hopes you hold for your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I guess those joys remind me who I am outside of exhaustion. Like journaling helps me see my thoughts clearly—last week, it helped me process a tough work interaction.",
+        "therapist": "Journaling seems to act as a space where you reconnect with clarity and resilience. How might these moments of connection with yourself guide you in resisting the grip exhaustion tries to hold on your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I think those moments remind me that I’m still capable of feeling grounded, even when everything feels heavy. Like last night, I wrote about my hopes—it felt calming.",
+        "therapist": "Writing about your hopes seems to reclaim space from the weight exhaustion carries. How does grounding yourself in these moments reflect the values or dreams that guide you through heavier days?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Writing about my hopes reminded me of how much I value growth and connection. Like wanting to build trust at work—last week I stayed late to help a teammate struggling with deadlines. It felt like living those values despite feeling drained.",
+        "therapist": "Valuing growth and connection despite feeling drained shows remarkable commitment to your principles. Staying late was an exception where exhaustion didn’t define you—how might this moment strengthen the trust-building path you’re creating in other areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Last week, I invited a coworker for coffee to discuss some challenges they were facing. It felt good to connect and show I care beyond just meeting deadlines.",
+        "therapist": "Inviting your coworker for coffee speaks to your deep commitment to connection and care. How might this action, rooted in your values, influence how you see yourself as someone who nurtures growth in relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think it showed me that I can contribute meaningfully even when overwhelmed. It felt fulfilling to connect genuinely with them, reinforcing my belief in relationships over mere efficiency.",
+        "therapist": "Your belief in relationships over efficiency seems to anchor you during challenging moments. How might this commitment continue shaping how you engage with others, even when exhaustion tries to take center stage?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think it pushes me to listen more deeply, like when a coworker vented about a personal issue last week. Offering support reminded me that presence matters more than solutions.",
+        "therapist": "Offering support in that moment highlights the care you bring to relationships. What possibilities might open if this focus on presence continues shaping how you respond—both to others and to yourself—amid challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think it could help me pause and be more patient with myself, like recognizing when I need rest instead of pushing through exhaustion. It might create space for self-kindness.",
+        "therapist": "Pausing for rest seems to reflect a growing respect for your needs. How might recognizing this self-kindness reshape moments where you typically feel pressure to keep going despite exhaustion?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think recognizing self-kindness might allow me to step away without guilt, like yesterday when I closed my laptop early. It felt strange, but also relieving to prioritize myself.",
+        "therapist": "Closing your laptop early reflects a powerful shift toward honoring your limits. What could it look like to bring more moments like that into your daily rhythm, supporting this emerging narrative of self-kindness?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think it could mean setting boundaries more intentionally, like declining non-urgent tasks after hours. It might feel uncomfortable at first, but necessary to protect my energy.",
+        "therapist": "Setting boundaries in that way reflects a deep respect for your well-being. How does this commitment to protecting your energy align with the values and intentions you hold for how you want to live and engage with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think it aligns because I value authenticity and showing up fully for others. Like last weekend, I postponed plans to rest, and it made my interactions more genuine later.",
+        "therapist": "Prioritizing rest to nurture genuine connections highlights a deep care for both yourself and others. How do you imagine this commitment to authenticity and balance could influence the way you continue building relationships or navigate challenges ahead?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think it could help me approach relationships more thoughtfully, like checking in with a friend recently instead of assuming they were fine. It felt rewarding to connect deeply.",
+        "therapist": "Connecting deeply in that way highlights your value of thoughtfulness and care. How do these choices to approach relationships more intentionally reflect the person you aim to be in your connections with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think it reflects the version of me who truly listens and values presence. Like recently, when I noticed a coworker seemed off and offered to talk, they really opened up.",
+        "therapist": "Offering that space to your coworker shows a deep commitment to being present and caring in relationships. What do these moments of true connection say about the values guiding how you want to engage with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think it reflects how much I value being a safe space for others. Like when my sibling confided in me about their struggles, I felt honored they trusted me.",
+        "therapist": "Offering that safe space for trust reflects a deep alignment with your values of care and presence. How does embracing this part of yourself shape the way you want to continue showing up in relationships moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think it encourages me to slow down and really notice when people might need support. Like last week, I sensed my friend was overwhelmed, so I checked in, and they seemed relieved.",
+        "therapist": "Slowing down to notice and offer support speaks to your care and attentiveness. How might continuing to act in this way, noticing others' needs, strengthen the relationships that matter most to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think it could deepen trust. Like when my partner was stressed about work, I really listened without rushing to fix things. They said it made them feel supported and heard.",
+        "therapist": "Listening with patience and offering support reflects the trust you’re nurturing. As you embrace this, how might your choice to be present in moments of stress continue shaping your relationships and create even deeper connections in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think being present during stressful times shows I genuinely care. Like when my friend panicked over a big decision, I listened, and they said it eased their anxiety.",
+        "therapist": "Your presence in these moments shows a deep commitment to care and support. How does being someone who offers this kind of reassurance align with the way you want to see yourself in relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think it reflects the kind of person I strive to be—someone reliable and attentive. Like last night, I comforted my friend over a tough breakup; they said it helped.",
+        "therapist": "Your actions show a strong commitment to being someone others can rely on during challenging times. How does recognizing this quality in yourself strengthen the identity you’re striving to live by?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think it reinforces my goal to be dependable. Like when my coworker opened up about family struggles, I gave them space to talk without judgment, and they seemed comforted.",
+        "therapist": "Being a dependable presence for others reflects values that seem deeply meaningful to you. Who in your life do you think might have influenced or inspired this quality of care and attentiveness in you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think my mom influenced me the most. She always put others first, like when she cared for my grandmother during her illness. Watching her taught me empathy and patience.",
+        "therapist": "Your mom’s influence seems to hold a special place in shaping who you are today. If she were here witnessing your care and empathy now, how do you imagine she would describe the person you've become?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "She’d probably say I’ve grown into someone thoughtful and kind, like her. I think she’d be proud of how I try to show up for others, even when it’s hard.",
+        "therapist": "Your mom’s pride seems deeply tied to the values you’ve embraced. As you reflect on your thoughtful contributions to others’ lives, what do you think these acts say about the kind of legacy you’re carrying forward from her?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think it shows I’m continuing her kindness and selflessness. Like when my sister needed help balancing work and her newborn, I stepped in often, just like Mom would have.",
+        "therapist": "Your actions seem to extend your mom’s legacy in ways that shape others’ lives too, like your sister. How do you think stepping in during these moments has influenced how your sister sees herself or her ability to manage challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I think it’s helped her feel more supported, like she doesn’t have to handle everything alone. She’s mentioned how much calmer and more capable she feels knowing I’m there.",
+        "therapist": "Your presence seems to have given your sister a sense of stability and confidence. What does it mean to you, knowing that your actions have helped her feel more capable and calm in such an important chapter of her life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "It means a lot to me. I remember comforting her after a sleepless night—just holding the baby so she could rest. Seeing her relief made me feel deeply connected to her.",
+        "therapist": "Your connection with your sister seems to have brought a profound sense of meaning to both of you. How do you think her experience of relief and support might be shaping the way she views relationships or asks for help now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think it’s helping her see that it’s okay to lean on others when she needs to. Like, recently, she opened up about her struggles with time management without hesitation.",
+        "therapist": "Your sister’s openness reflects a trust and safety you’ve helped cultivate. How do you think her growing comfort with leaning on others might also influence the way she connects with people in her own life moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I think she might become more open with friends, asking for help instead of isolating herself. She recently said she's learning to trust others more because of my support.",
+        "therapist": "Your support seems to have nurtured her ability to trust and connect more freely. What does it say about the kind of impact you’re having, knowing your care might ripple into other relationships in her life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think it shows that even small acts of care can leave lasting effects. Like when she told me she feels more hopeful now, it made me realize how meaningful my efforts are.",
+        "therapist": "Your care seems to reflect both your mom’s kindness and your own ability to shape hope for others. How do you think recognizing this mutual impact strengthens the way you view yourself in relationships like this one with your sister?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think it’s helped me see myself as someone dependable, someone who can create stability. When my sister thanked me for staying calm during her meltdown, it really stuck with me.",
+        "therapist": "You seem to embody a steadying presence for your sister, which speaks to your strength and care. How does knowing she sees you as dependable influence the way you value your own role in her life and others’ lives around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I think it makes me realize I’m a source of grounding for others. Like when a coworker vented about feeling overwhelmed, they said my calmness helped them refocus.",
+        "therapist": "Your calming presence seems to create pathways for others to find their strength and focus. How do you imagine your contributions might continue shaping the ways people around you grow or see themselves in challenging moments?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I think my steady presence helps others feel safe to open up. When a friend shared her fears about losing her job, my encouragement helped her focus on next steps calmly.",
+        "therapist": "Your encouragement seems to instill both clarity and courage in others during tough times. How do you think being this kind of anchor for people has shaped the way they trust themselves and take action when life feels uncertain?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think it helps them believe they're capable of handling things. Like when my friend started organizing her finances after we talked, she said my confidence in her inspired her.",
+        "therapist": "Your friend’s growth seems to reflect how your belief in her abilities fosters trust and resilience. How do you see these moments of connection influencing the story you tell about your own strengths in shaping others’ lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think these moments remind me that my actions, even when they seem small to me, carry weight for others. It’s made me value my role as a quiet supporter more.",
+        "therapist": "Your recognition of the weight your quiet support carries seems to deeply affirm the role you hold in others' lives. How do you imagine their acknowledgment of your impact might shape the way they see their own capabilities and worth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think their acknowledgment encourages them to see themselves through a kinder lens. Like when my cousin thanked me after we planned her move, she seemed more confident afterward.",
+        "therapist": "Your cousin's confidence seems to reflect the trust and reassurance you offer. How do you think witnessing these transformations has deepened your sense of purpose in the connections you nurture?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

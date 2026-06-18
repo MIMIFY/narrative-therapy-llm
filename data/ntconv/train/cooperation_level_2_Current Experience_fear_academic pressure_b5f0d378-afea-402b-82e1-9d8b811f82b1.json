@@ -1,0 +1,477 @@
+[
+    {
+        "round": 1,
+        "user": "hello",
+        "answer_final": "Hi there, how can I help you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling a bit overwhelmed lately. It's been tough juggling everything, but I'm hopeful to sort things out with your help.",
+        "therapist": "You're managing a lot right now. Let's explore which stories are most significant for you, and see how we can reshape them to create more balance. What would be the most helpful area to focus on first?"
+    },
+    {
+        "round": 2,
+        "user": "I would like some help with the problem I am facing",
+        "answer_final": "OK, sure. Can you tell me what the problem is? I'll do my best to help.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. I'm particularly struggling with time management and feeling constantly behind. Balancing work, family, and self-care seems impossible at times.",
+        "therapist": "You're carrying a lot on your shoulders, and it's understandable to feel overwhelmed. Let's uncover what currently dominates your time narrative and explore ways you can gently adjust this story to accommodate self-care, work, and family. What small change feels achievable to you?"
+    },
+    {
+        "round": 3,
+        "user": "Well I am going into my next college semester next month, and I am very frightened about a calculus class I have to take. It's an honors course and I am very worried that I will not do well",
+        "answer_final": "I can understand that. It must be an important exam for you. Do you enjoy calculus?. I'm terrible at anything with numbers, myself!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Honestly, as I approach the next semester, the honors calculus class is a significant worry for me. I'm concerned about balancing its demands with my current responsibilities. Maybe developing a study schedule or time-blocking could help alleviate this anxiety.",
+        "therapist": "Balancing responsibilities can feel overwhelming, especially with the challenges of an honors calculus class. Your idea of a study schedule and time-blocking is promising. What might your first steps look like in shaping this supportive structure?"
+    },
+    {
+        "round": 4,
+        "user": "I don't remember, I took an easy calculus course in high school but that was a couple years ago. I only got a B there, so I'm worried about taking an honors one. I have to take it for my degree goal",
+        "answer_final": "A B is a great result!. Are there any revision courses that you can access to help refresh your skills?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I remember high school calculus was challenging for me, only managing a B. This honors course feels daunting. Creating a schedule focusing on core concepts might help ease some of the pressure.",
+        "therapist": "You’re planning thoughtfully, drawing on past experiences with high school calculus. Let’s focus on your strengths and this new strategy to support you. How might focusing on core concepts within a structured schedule help shift your experience of the course?"
+    },
+    {
+        "round": 5,
+        "user": "I don't think so, the campus is closed due to the pandemic. There are a few online tutors but they are almost always busy",
+        "answer_final": "This pandemic has really made it difficult to get anything done hasn't it.. Do you know of anyone else who is looking to take the course that you got revise together with?. I always find it easier to work through things like this with someone else.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm considering seeking help with a tutor to tackle key concepts, but it's tricky since the pandemic closed the campus. Online tutors are busy, making it hard to find consistent support.",
+        "therapist": "You're resourceful in considering a tutor, recognizing the challenges of accessing consistent support. Your adaptability in focusing on key concepts is inspiring. What small adjustments could you make to integrate online resources effectively into your study plan?"
+    },
+    {
+        "round": 6,
+        "user": "Yes the pandemic has affected many of my friends and their families, very difficult these times are.. No, none of my friends are taking the class/ none of them have ever taken calculus",
+        "answer_final": "There seem to be some really good online courses out there. It might be worth sending out enquiries to a number of tutors, asking them to get in touch as soon as they are free, and in the meantime working through something online to help build up your confidence?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The pandemic indeed complicates things. I've considered online resources, but none of my friends have experience with calculus. Their struggles highlight how vital consistent support is now.",
+        "therapist": "Seeking consistent support during the pandemic can indeed be challenging, especially when friends face similar obstacles. What personal strengths and adaptive strategies might you rely on to explore online tutoring resources effectively for your calculus course?"
+    },
+    {
+        "round": 7,
+        "user": "That sounds like some good advice to me. Maybe I'll try working on it for my confidence like you said",
+        "answer_final": "I bet once you get into it again it will all come back to you. Sometimes getting started is the hardest part.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You've got me thinking. Maybe focusing on my ability to self-motivate and stay organized could help find suitable online resources. Trying it for my confidence sounds right.",
+        "therapist": "You're discovering valuable strengths within yourself, like self-motivation and organization, to navigate these challenges. How might embracing these qualities offer you the stability needed for confidence in your calculus journey?"
+    },
+    {
+        "round": 8,
+        "user": "I think you're right!. Do you believe in me? That I will pass well?",
+        "answer_final": "I think that if you got a B once, you can do it again, and if you really want it, which you clearly do, you can do anything! Aim for an A, you can do it!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing these strengths definitely feels empowering. I sometimes doubt myself, though. Do you think having faith in me makes a difference in passing with confidence?",
+        "therapist": "Having faith in yourself can indeed make a significant difference. It's inspiring to see you embrace your strengths. Trusting in them empowers you further; how might this faith transform the way you approach your challenges?"
+    },
+    {
+        "round": 9,
+        "user": "Thank you very much you've been very helpful. God bless you have a good day",
+        "answer_final": "And you too, good luck!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you! Embracing my strengths feels empowering, and I think having faith could really change how I face challenges. I truly appreciate your support; it makes a big difference.",
+        "therapist": "Your ability to embrace your strengths is indeed empowering, and having faith can transform how you face challenges. Continue nurturing this belief in yourself as it brings comfort and confidence. How do you envision applying this newfound faith in everyday situations?"
+    },
+    {
+        "round": 10,
+        "client": "I could apply this faith by tackling assignments methodically and reminding myself of past successes, which eases my self-doubt. Celebrating small victories boosts confidence daily.",
+        "therapist": "Your thoughtful approach to handling assignments highlights your strong self-awareness. Naming self-doubt as something separate can help you recognize its influence without defining you. How does it feel to view self-doubt as just one part of your journey, rather than your entirety?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 11,
+        "client": "Viewing self-doubt as a part, not my entirety, brings relief. Last week, overcoming exam stress reminded me that this self-awareness makes triumphs more tangible and powerful.",
+        "therapist": "Recognizing self-doubt as separate allows for relief and clearer focus on your strengths. How might this perspective help you navigate different areas of your life, such as relationships or work, as you’ve already experienced in overcoming exam stress?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 12,
+        "client": "Navigating work with this perspective means identifying what’s within my control, like setting achievable goals. In relationships, communicating my needs alleviates misunderstandings and brings relief.",
+        "therapist": "Exploring what's within your control is empowering. By externalizing self-doubt and communication needs, you’ve shifted its influence positively in work and relationships. Consider how much more space for positive experiences you've gained by pushing back against it.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "I realized that by setting personal boundaries at work, I've reduced stress. For instance, last week, I limited overtime and felt more refreshed and happier around friends afterward.",
+        "therapist": "By setting boundaries and limiting overtime, you've separated stress from who you are and prioritized your well-being. How does this shift resonate with your personal values of refreshment and happiness when nurturing friendships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Setting boundaries really aligns with valuing happiness and strong connections. By not overcommitting, I was more present and engaged with my friends during last weekend's gathering. It was refreshing.",
+        "therapist": "Your choice to set boundaries is a powerful act of aligning with values that hold deep personal significance. This engagement allows for true connection and presence. In what other areas of your life could this refreshing approach support these cherished values?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I think applying this approach in personal projects could nurture my creativity, without pressure or burnout. Last month, reducing time constraints on a hobby allowed deeper joy and exploration.",
+        "therapist": "By nurturing creativity in personal projects without pressure, you're honoring your commitment to joy and exploration. These values of creative freedom and enjoyment play a central role in your life. What further possibilities could emerge by embracing these values more consistently?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I could see myself feeling more balanced and motivated, perhaps dedicating time to explore photography—finding beauty in everyday moments without the rush, just like I did on last Sunday’s walk.",
+        "therapist": "Exploring photography while appreciating everyday beauty resonates deeply with your values of balance and presence. This choice is a testament to prioritizing creativity and peace over external pressures. How might dedicating time to this endeavor enhance your commitment to these values?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I think dedicating time to photography would reinforce my appreciation for life's simple joys. Last weekend, capturing a sunset brought such tranquility. I felt more centered afterward.",
+        "therapist": "Embracing photography as a way to connect with life's simple joys reflects your values of tranquility and centeredness. This commitment further separates stress from your identity. How does capturing these moments shape the way you view everyday experiences and cultivate presence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Capturing moments like the morning light streaming through leaves makes me feel anchored and connected to what's real. It transforms ordinary scenes into meaningful reflections of calm.",
+        "therapist": "Capturing these serene moments externalizes stress, creating a separate space for calm. By valuing tranquility and presence, you're reasserting your commitment to reality over overwhelm. What further possibilities does this anchoring of your experience open up in everyday life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Through this lens, I'm finding moments of clarity and gratitude amid chaos. Daily stressors feel lighter when I recall watching those leaves dance with the sunlight. It offers perspective.",
+        "therapist": "Capturing those dancing leaves reveals a pathway where clarity and gratitude shine through chaos. This perspective honors your values, making stressors more manageable. Reflecting on what this lighter feeling enables you to pursue within your commitments might deepen these valued experiences further.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Reflecting on the tranquility from photography makes work challenges feel less daunting. I recall pausing to watch a bird's shadow flicker, and it reconnected me with peace and purpose.",
+        "therapist": "Photography creates a peaceful sanctuary amidst work challenges, strengthening your connection to purpose and calm. This serenity, contrasted with stressors, holds significant value for you. How does this renewed sense of peace empower you in facing everyday obstacles more effectively?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "[\"Embracing photography enables me to step back, reassess challenges with a calmer perspective. It helps disentangle my thoughts, reminding me there's beauty beyond stress.\"]",
+        "therapist": "Stepping back through photography is your unique way of reshaping stress into appreciation. Your ability to reassess challenges reveals an important aspect of your identity, one rooted in calm reflection and beauty. How might this new narrative influence other areas of your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Photography’s lessons teach me patience and presence, impacting my interactions. Recently, listening more deeply in conversations brought connection I’ve missed. It shapes a kinder approach toward myself too.",
+        "therapist": "Exploring the connection and kindness photography brings into your interactions reveals deep values of presence and empathy. Recognizing this nurturing side supports a preferred identity rich in patience. How might embracing these qualities further enhance the meaningful relationships you desire?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I've noticed deeper connections with my friends when I share observations from photography, like capturing a sunset's shifting colors. It helps me open up, fostering more honest conversations.",
+        "therapist": "Sharing those observations reveals your openness and fosters honest connections. These interactions seem to reinforce the value you place on authenticity and community. Could integrating photography into other relationships bring about similar transformations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Photography's impact on my relationships has been profound. Capturing small, poignant moments has helped me see the world through fresh eyes. Sharing these experiences encourages deeper connections and reflection.",
+        "therapist": "Sharing poignant moments through photography reveals your ability to see life's beauty in fresh ways, nurturing deeper connections. It highlights a genuine part of your identity rooted in reflection and openness. How might these new insights guide the kind of relationships you wish to cultivate?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I want relationships grounded in authenticity and mutual understanding. A recent moment with my sister, as we marveled at stars, reminded me of how sharing simple wonders builds strong bonds.",
+        "therapist": "Your experience with your sister illustrates the power of simple shared moments to create authentic, meaningful relationships. This approach aligns deeply with your values. How might you continue to integrate these types of experiences into nurturing other connections in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Building authentic connections means being present in each moment. For instance, organizing stargazing nights or photography walks with friends helps us bond and appreciate simple wonders together.",
+        "therapist": "Organizing these meaningful activities not only strengthens your relationships but also enriches your own narrative of presence and authenticity. Consider how further immersing yourself in such experiences might deepen your connection with others and enhance your personal sense of fulfillment.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I've seen fulfillment grow through shared activities, like last week's photography hike. Watching my friends find joy in capturing fleeting light and shadows deeply touched me emotionally, feeling unity and peace.",
+        "therapist": "Sharing these experiences has enriched your sense of fulfillment, grounding relationships in unity and peace. It reflects the values you hold dear. How might these feelings guide you in crafting deeper connections that honor your commitment to authenticity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Sharing those experiences makes me think about how to bring this authenticity into everyday life, like sharing morning coffee routines or spontaneous evening walks, nurturing deeper bonds through ordinary moments.",
+        "therapist": "Your idea of integrating authenticity into everyday life is an admirable reflection of your core values. These small, meaningful moments, like coffee routines or evening walks, truly embody a life enriched by connection. How do you envision these activities shaping your sense of self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "These activities ground me, showing me how precious everyday moments are. They've shifted my self-perception to value simplicity and presence, reminding me I'm deeply connected to those I love.",
+        "therapist": "These everyday moments have beautifully enriched your sense of identity, valuing simplicity and presence. They reveal a commitment to authenticity and connection. How might these qualities continue to inspire the life story you are crafting for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I've been reflecting on how small acts of presence, like cooking with my partner or quiet reading with my dad, enrich my sense of belonging and inspire me to foster deeper relationships.",
+        "therapist": "Small acts of presence beautifully illuminate your values of connection and belonging. These experiences reflect your intention to nurture deeper relationships. Consider how these practices could continue to support the identity you aspire to build and sustain in your journey.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I strive to create more shared moments, like planning a garden picnic or enjoying slow weekend breakfasts, feeling fulfilled seeing joy in these small daily rituals with loved ones.",
+        "therapist": "Shared moments like these beautifully align with your intentions to nurture joy and connection. They speak volumes about your values and commitment to enriching relationships. As you explore this identity further, how might you ensure these meaningful rituals become lasting traditions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "These moments become lasting when we prioritize them, like setting a Sunday breakfast routine or planning seasonal picnics. It's about choosing connection over busyness and feeling valued through consistency.",
+        "therapist": "Choosing connection over busyness and valuing consistency indeed fosters a sense of belonging and fulfillment. Your initiative to create these routines shows strength in nurturing relationships. How do you see these traditions shaping your journey towards a more connected life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "These traditions ground me, fostering emotional closeness and making me feel truly seen. They're reminders of what's essential, reshaping my priorities toward relationships rather than external achievements.",
+        "therapist": "Reflecting on these grounding traditions opens a pathway for nurturing connections over achievements, enhancing emotional closeness. As you further reshape priorities, what small steps could reinforce this emphasis on meaningful relationships, weaving them more deeply into your evolving life narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I've started scheduling monthly dinners where we each bring a dish and share stories. It deepens bonds, and seeing their smiles affirms the choice to focus on connection.",
+        "therapist": "The warmth of these dinners creates a new chapter in your story, enriching bonds through shared experiences. This alternative narrative of connection rather than isolation has meaningful implications. How might this influence your future interactions and priorities with loved ones?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "I plan to invest more time in simple activities together, like a family hike. These experiences reinforce our connection, make everyone feel valued, and offer genuine happiness over superficial gains.",
+        "therapist": "Investing time in activities like family hikes showcases your dedication to fostering genuine happiness and valuing relationships. These actions resonate deeply with your internal values, crafting a narrative of connection. What aspects of these experiences do you find most fulfilling in shaping this new chapter of your identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "These hikes offer clarity and peace, away from daily distractions. Hearing my family's laughter, seeing the sun set over trails, it’s these moments where I feel truly connected and content.",
+        "therapist": "Connection during these hikes emphasizes mutual appreciation and tranquility. Through laughter and shared moments, your family's presence enriches your life and values. How does reflecting on their contributions further shape your identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Reflecting on their contributions, I realize how much their support and love weave into my sense of self. Each shared laugh or comforting moment brings clarity, reminding me what truly matters.",
+        "therapist": "Recognizing the role of your family's support and love paints a vivid picture of mutual connection, reinforcing who you are through their eyes. This nurturing self-image nurtures clarity in what you value. How does this acknowledgment shape your choices and actions moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "This acknowledgment fuels my desire to nurture relationships more deliberately. I'm committing to unplugged family weekends, focusing on shared activities that highlight joy and togetherness.",
+        "therapist": "Recommitting to unplugged family weekends beautifully honors the mutual impact you have on each other’s lives. These shared activities build a legacy of joy and connection. As you nurture these relationships, how does contributing to their happiness influence your sense of self?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Contributing to their happiness empowers me with a sense of purpose. After a hectic week, planning a tech-free Saturday picnic became our little sanctuary, fostering peace and deep connection.",
+        "therapist": "Creating sanctuary-like experiences with your family strengthens their sense of belonging and well-being. How do you think these meaningful contributions of time and effort have influenced your family's view of what shared happiness looks like?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "These experiences shifted their view towards appreciating simplicity and presence. Watching them laugh at a silly game or enjoying nature reminds us all that happiness isn't always grandiose.",
+        "therapist": "These shared moments of simplicity and presence with your family resonate deeply, enriching your mutual narratives. As you contribute to their joy, it’s clear you influence their understanding of happiness. How do these experiences reinforce who they are becoming?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "The joy of simple experiences seems to nurture resilience and appreciation in them. Watching my kids adapt, be kind, and find contentment even without extravagant plans has profoundly reinforced who they are becoming.",
+        "therapist": "You’re nurturing a powerful narrative within your family, enriching their ability to find strength in simplicity and kindness. As you witness their growth and adaptability, how has this reinforced the core values you wish to embody together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Watching them, I'm reminded of our shared values—empathy, gratitude, simplicity. Recently, while camping without gadgets, my kids marveled at the stars, reinforcing our focus on connection and presence.",
+        "therapist": "Embracing empathy, gratitude, and simplicity with your family truly shapes a rich relational identity. These shared values not only deepen your connection but help cultivate these traits in your children. What other experiences have highlighted or supported these values in your family life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "We started a gratitude jar where each person writes something they're thankful for daily. This simple act has increased awareness and appreciation in our family, even during tough times.",
+        "therapist": "Sharing in the gratitude jar nurtures a profound awareness in your family, strengthening your shared values. This collective act of appreciation shapes each family member’s understanding of gratitude and resilience. How do you see these practices contributing to who they’re becoming?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "The gratitude jar has cultivated mindfulness in us. My son, who once overlooked small joys, now writes about sunsets and kindness in others. It's encouraging them to notice and cherish the present.",
+        "therapist": "You’ve nurtured a sense of mindfulness in your family, helping them appreciate the beauty and kindness around them. This awareness significantly shapes your son's understanding of life's joy. How do these contributions to their mindfulness enrich who you all are becoming together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "These contributions build a foundation of awareness, shaping us into more present individuals. Our bond strengthens as we collectively reflect and cherish simple moments, like shared meals or sunsets.",
+        "therapist": "Your contributions create a beautiful tapestry of presence and connection within your family, strengthening everyone's relational identity. This shared mindfulness encourages a deeper awareness in each of you. How does witnessing their growth influence the way you perceive your own journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Witnessing their growth helps me focus on being more present and appreciative myself. I realize my own journey mirrors theirs, filled with simplicity and moments that matter most.",
+        "therapist": "Recognizing how your presence and values influence your family's growth is profound. Your mirrored journey enriches both you and them, highlighting the mutual impact you share. How do these reflections empower you to embrace and continue nurturing this meaningful simplicity in daily life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "Seeing their appreciation makes me mindful of the little joys, like morning coffee or my daughter's laughter. It encourages me to cultivate this awareness and pass it on.",
+        "therapist": "You bring a sense of presence and joy to your family's everyday experiences, cultivating appreciation and laughter. Recognizing this in yourself deepens your value to them. How do you see this mutual influence shaping your shared story together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I've seen our bond deepen through these shared reflections. Watching my son discover joy in simple acts, like playing with his dog, affirms how gratitude shapes our story beautifully.",
+        "therapist": "Your son's joy in simple acts truly enriches your family's story. Each reflection and act of gratitude strengthens relational ties, shaping how you all see yourselves through one another’s eyes. How might these shared joys further inspire the identity you want to nurture as a family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "We hope to cultivate a warm and attentive identity as a family. Watching my son play happily makes me realize these moments encourage us to be empathetic and supportive of each other.",
+        "therapist": "Acknowledging these moments nurtures your family's attentive and empathetic identity, reinforcing supportive relationships. Embracing such qualities not only shapes your journey but highlights the shared impacts on each member's personal growth. What specific contributions from each other do you see enhancing this warmth further?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Our shared efforts create a nurturing environment. My husband's patience, my daughter's kindness, and my son's enthusiasm make everyday interactions feel fulfilling and meaningful.",
+        "therapist": "Recognizing each other's unique qualities fosters a nurturing environment and enhances how you all view yourselves. Through your husband's patience, daughter's kindness, and son's enthusiasm, you're weaving a rich tapestry of identity. How might these shared traits inspire further growth in your family dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

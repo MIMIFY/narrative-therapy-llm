@@ -1,0 +1,524 @@
+[
+    {
+        "round": 1,
+        "user": "Hello, I've been really depressed lately and feel like there isn't anything I can do to break this feeling.",
+        "answer_final": "Can you tell me what happened?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi. It’s been tough lately—I wake up feeling empty, like everything’s heavy and hard to shake off. I just don’t see how to climb out of this.",
+        "therapist": "Your sense of heaviness is important to explore. Consider how this feeling interacts with your story and the choices you make. Reflecting on what anchors or lifts you can help illuminate pathways forward. What small moment today provided even a glimmer of relief?"
+    },
+    {
+        "round": 2,
+        "user": "November before Covid started I was diagnoses with CRPS (its a nerve issue that causes immense pain) and had to stop doing my activities like dance, then when Covid hit last March and we all had to isolate I have not been able to interact with people outside my immediate family.",
+        "answer_final": "So you suffered from a nerve issue pain and not being able to do the activities you like to do before Covid. Plus Covid made u not able to social with other people. Is that correct?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I noticed a small relief when listening to music today, even amidst the struggle with CRPS pain since November before Covid. Isolation has made it harder, but connecting through music feels soothing.",
+        "therapist": "Music seems to offer a gentle connection for you amidst the weight of CRPS and isolation. What does this soothing quality of music say about what matters most to you right now, even in challenging times?"
+    },
+    {
+        "round": 3,
+        "user": "Yes that is correct",
+        "answer_final": "I feel isolated as well after long time quarantine. It's like living alone in the forest.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, music brings a sense of peace and connection, reminding me of moments when pain isn't my whole world. It's crucial in finding small pockets of relief.",
+        "therapist": "Music seems to gently reconnect you to moments beyond pain, offering relief. Holding onto these pockets of peace is so valuable. What does this connection through music reveal about your inner strength during such isolating times?"
+    },
+    {
+        "round": 4,
+        "user": "I know I'm not alone and that's what makes it hard to reach out, because I don't want people to think that I think my problems are worse then there's.  It just seems like everyone was happy to find different ways to stay in touch when the lockdown all first started but the longer it goes on the less everyone seems to be trying to connect.",
+        "answer_final": "I bet there are lots of people feel the same as you do. But they are afraid of sharing the negative emotion to others as you do.. It seems that you don't want to bother others. You seem a very thoughtful person.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Music underscores the strength in embracing solace within chaos, highlighting that even in isolation, I'm capable of feeling deeply connected to something meaningful. I recognize the support network is vital but fearfully hesitate to burden others with my troubles.",
+        "therapist": "Music seems to remind you of your resilience and ability to find meaning despite isolation. Fearing burdening others shows how deeply you care for them—what might it look like to share just a small piece of your experience with someone you trust?"
+    },
+    {
+        "round": 5,
+        "user": "I just don't know what to do about it anymore. Yes, I don't like to bother others or let other people down",
+        "answer_final": "That will give yourself too much emotion burden for sure.. Have you visited a physician for suggestion of your pain relief?. Maybe yoga will be a more gentle way to replace dancing. What do you think?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sharing even a small piece feels overwhelming—I’m scared it’ll make things worse or push people away. But deep down, I wish I could let someone in.",
+        "therapist": "Your wish to let someone in speaks to a deep longing for connection despite your fears. What if sharing just a little, with someone you trust, could feel like an act of courage rather than burden?"
+    },
+    {
+        "round": 6,
+        "user": "It is a lot, I'm used to being the person that everyone comes to for help, but I am not very good at asking for help myself.  I have seen a doctor and they started my new medicine regimen but unfortunately there is no cure for this disease.  I was going to physical therapy but finished that right as Covid started.. Plus it does get better as the weather gets warmer so the winter has been hard, really looking forward to spring and summer for a little relief",
+        "answer_final": "I'm sorry to hear that no good medicine for your issue rite now.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sharing feels daunting since I'm often the helper. I started a new medicine, but there's no cure. Warmer weather brings relief—I'm eager for spring and summer's solace.",
+        "therapist": "Your eagerness for warmer weather speaks to your ability to find hope and comfort even amidst challenges. Being a helper can make sharing feel harder, but what might change if you allowed yourself a little of the care you so often give others?"
+    },
+    {
+        "round": 7,
+        "user": "I'd be open to doing Yoga once things open back up, but having this disease puts me in a high risk category so my interaction outside the home still has to remain limited until we develop some heard immunity.",
+        "answer_final": "I know. Sunshine is always best cure for a better mood. Did you try to maybe walk or drive around your neighborhood for some fresh air?. Oh, then drive around might be the only option",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think practicing yoga could be a nurturing step, helping me offer self-care despite health restrictions. I'm hopeful for increased connection when it's safer to interact outside.",
+        "therapist": "Practicing yoga sounds like a compassionate way to care for yourself within your limits. Your hope for connection when it’s safer shows your resilience and openness—how might nurturing this hopeful vision shape the steps you take today?"
+    },
+    {
+        "round": 8,
+        "user": "I'm hoping to get out and go for walks once the weather warms up, unfortunately right now there is still some snow on the ground and it's not quite warn yet being in the northeast",
+        "answer_final": "Ye. You did the right choice. Safety is always the first concern",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think nurturing hope today could look like planning for the warmer days ahead. I’m eager to take walks outside once the snow melts—it’s still chilly here in the northeast.",
+        "therapist": "Planning for warmer days and envisioning those outdoor walks feels like a grounding way to hold onto hope. How might you bring some of that future sense of ease into your present, even during these colder days?"
+    },
+    {
+        "round": 9,
+        "user": "I did take walks along the path in our development last summer so the cabin fever wasn't as bad as it seems to be with all the snow that basically kept me inside all of february",
+        "answer_final": "Does where you live have a online social activity group on FB or an app called Neighbors?. That could be a good way to communicate with others in a safe way.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I suppose I could try to capture that feeling by walking indoors or even doing light stretches near the windows, imagining last summer’s path. It’s harder, but not impossible.",
+        "therapist": "Encouraging this sense of possibility, even when it's challenging, can be powerful. As you imagine last summer’s path, perhaps consider how each small step indoors could nurture your resilience and hope. How might envisioning a joyful memory shift your present mood?"
+    },
+    {
+        "round": 10,
+        "user": "The local FB group is only full of everyone complaining about everyone else (seems when everyone is home things seem to get on peoples nerves more so then when people could get away from home consistently) but I've never heard of the app Neighbors, I'll have to look into that.",
+        "answer_final": "Give that a try. Maybe you will meet some friends there.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Imagining last summer's paths brings a sense of comfort and makes staying positive feel possible. I've noticed the local FB group is full of complaints lately, possibly because being home so much amplifies tension. Maybe I should explore Neighbors for a different community vibe.",
+        "therapist": "Exploring a new community vibe like Neighbors sounds promising, especially as connection feels important to you. What do you think a positive, uplifting space could bring to your sense of comfort or hope during this time?"
+    },
+    {
+        "round": 11,
+        "user": "I will definitely have to look into that",
+        "answer_final": "Sounds great. I'm glad you didn't give up seeking for solutions to make yourself feel better",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "A positive space could really uplift my mood and help break the monotony. I'll definitely have to look into Neighbors as it might provide the connection I’m craving.",
+        "therapist": "Seeking uplifting spaces like Neighbors might indeed create a refreshing break in your daily routine and foster the connection you desire. How might engaging with this community affect your journey toward nurturing hope and comfort during these times?"
+    },
+    {
+        "round": 12,
+        "user": "Getting someone else's perspective helps because like you recommending that app, there are things I don't know about out there so I appreciate that.",
+        "answer_final": "You are welcome! Glad I can help",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring different perspectives, like yours recommending Neighbors, feels enlightening. It offers new ways to foster connection and hope, which is vital for my emotional journey right now.",
+        "therapist": "Exploring new perspectives can indeed be invigorating, especially as they support your emotional journey. How might cultivating this sense of connection and hope in fresh spaces shape how you approach the coming days?"
+    },
+    {
+        "round": 13,
+        "user": "You did thank you, and I hope you have a good day and a great weekend and stay safe yourself!",
+        "answer_final": "You too. Have a great weekend!!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The thought of discovering new community spaces is uplifting. Connecting with positive environments helps me navigate each day with more hope and perspective. Thanks for your insights, wishing you a good day!",
+        "therapist": "Discovering new spaces indeed fosters hope and perspective. It's wonderful to see how these connections guide your journey. How might you bring this sense of upliftment into other areas of your life?"
+    },
+    {
+        "round": 14,
+        "client": "Engaging in uplifting spaces encourages me to bring more gratitude into my daily routine. I find myself reflecting on small moments of joy, like a morning cup of coffee or a friend's supportive message.",
+        "therapist": "Gratitude sounds like a gentle way to shift focus and reclaim small moments of joy. If we viewed tension or heaviness as external, how might this practice of gratitude affect the influence it holds over your daily experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 15,
+        "client": "Viewing heaviness externally helps detach from it, allowing gratitude to lighten my day. Moments like a call with an old friend or morning sunlight feel more vivid and grounding.",
+        "therapist": "Gratitude truly seems to bring brightness into your experiences. As you observe heaviness externally, where do you notice it having the most impact on your daily life, and how might these grounding moments counter its influence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 16,
+        "client": "The heaviness feels strongest during mundane tasks, like working alone or commuting. Grounding moments like sunlight through my window helps interrupt this monotony, bringing warmth and reflection.",
+        "therapist": "Exploring how the heaviness intrudes on routine tasks highlights its unwelcome influence. Those grounding moments of warmth and light provide powerful contrasts, infusing reflection into your day. How can these moments be expanded or integrated even more consistently to weaken the grip of monotony?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 17,
+        "client": "I've thought about starting a small morning ritual, like stepping outside with my coffee to feel the fresh air and sun. Simple moments like that could set a calming tone.",
+        "therapist": "Exploring a morning ritual like that shows a commitment to nurturing calmness and presence. How does this reflect the values or hopes you’re prioritizing as you redefine the space heaviness occupies in your day?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I'm prioritizing balance and presence—values I’ve overlooked while feeling weighed down. A morning ritual reflects my hope to embrace simplicity and create intentional moments that anchor me.",
+        "therapist": "Prioritizing balance and presence highlights your journey towards intentional living, reinforcing your values of simplicity. Exploring these anchoring moments strengthens the shift from heaviness to clarity. What new ways might arise that further illuminate these core commitments in your daily experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I’ve considered journaling brief reflections on what brought balance each day, like a deep breath before stressful moments. It might clarify patterns and deepen my awareness of presence.",
+        "therapist": "Journaling could create a rich space to notice how balance flows through your day. How does this idea of uncovering patterns align with the values of presence and intentionality you’re committed to nurturing?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "The idea feels empowering. Recently, I noticed how hurried mornings worsen my tension. Journaling might help me reflect and slow down, aligning with the balance I crave.",
+        "therapist": "Journaling could truly honor your desire for balance, creating room to pause and reflect amidst tension. How might naming that hurried feeling as something outside yourself shift the way you approach those mornings?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think naming that hurried feeling could create some distance, like acknowledging it's a passing state rather than letting it define me. It reminds me of last week—I was rushing to leave the house and felt overwhelmed, but pausing for just one deep breath before stepping out helped me feel slightly more grounded. Maybe recognizing those moments sooner could prevent the spiral.",
+        "therapist": "Naming the hurried feeling and pausing for a breath shows your ability to disrupt its grip. What does this choice reveal about your capacity to create steadiness, even in overwhelming moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think it shows I have the ability to ground myself, even when everything feels chaotic. Like last week, I noticed tension building while stuck in traffic, and instead of spiraling into frustration, I just unclenched my hands on the wheel and focused on steady breaths. It didn’t fix everything, but it gave me a moment of calm in the storm.",
+        "therapist": "Grounding yourself amidst chaos reflects strength and alignment with your values of calm and balance. How might embracing those moments of calm redefine your relationship with challenges and further deepen this preferred narrative of steadiness?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think embracing calm helps me see challenges less as threats and more as opportunities to practice resilience. Like when an unexpected deadline came up, I prioritized tasks calmly instead of panicking.",
+        "therapist": "Embracing calm as an act of resilience highlights your commitment to approaching challenges with strength and intention. How might this growing narrative of calm and clarity further affirm the identity you're shaping for yourself in these moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think it helps me see myself as someone capable of handling stress without losing control. Like yesterday, when a friend canceled plans last minute, I felt frustration bubbling up. But instead of reacting impulsively or internalizing it, I reminded myself that their reasons might be valid and shifted my focus to doing something nurturing for myself instead—reading a book with tea. It felt like reclaiming my emotional space rather than letting the situation define my mood.",
+        "therapist": "You’re actively reclaiming your emotional space with thoughtful choices that reflect resilience and self-care. What does this act of shifting focus to nurturing yourself say about the kind of relationship you want with your emotions during challenging moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think it shows I want a relationship with my emotions that's less reactive, more intentional. Like when my coworker criticized my work harshly, I processed the hurt but chose to respond calmly.",
+        "therapist": "Choosing calm and intentionality in those moments shows how deeply you value balance and self-respect. How does seeing yourself act in alignment with these values strengthen the identity you’re shaping for handling challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Seeing myself act with calm and intentionality reinforces my belief that I can stay centered under pressure. Like last month, balancing a work project and family obligation felt overwhelming, but I compartmentalized tasks and reminded myself to focus on one step at a time. This gave me clarity to address both without being consumed by anxiety.",
+        "therapist": "Your ability to compartmentalize and stay focused under pressure speaks to a growing trust in your own steadiness. How might these steps you’ve taken serve as a guide for navigating future situations where anxiety threatens to take over?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think these steps remind me that breaking things down into smaller pieces gives me clarity. Like last weekend, hosting a big family gathering felt overwhelming, but focusing on each task—prepping food, setting up—helped me feel in control and enjoy the process more. It showed me anxiety doesn’t have to run the show.",
+        "therapist": "Breaking tasks down into smaller, manageable steps reflects your commitment to clarity and balance. How does seeing yourself navigate overwhelming situations in this way align with the person you’re becoming in moments of challenge?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think it aligns with someone who strives for steadiness and growth. Last week, juggling childcare while finishing a report felt daunting, but prioritizing step-by-step kept me grounded.",
+        "therapist": "Prioritizing step-by-step reflects your steady pursuit of balance and growth, even in demanding moments. What deeper values or intentions do you think guide this way of approaching challenges with resilience and grounded focus?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think it’s rooted in valuing calmness and purpose. When my partner and I had an argument about finances last month, I focused on listening first before expressing my perspective calmly.",
+        "therapist": "Valuing calmness and purpose in moments of conflict shows a powerful commitment to fostering understanding. How do these values shape the way you see yourself building meaningful relationships, even when challenges arise?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think they help me approach conflicts with care. For example, when a close friend canceled plans last-minute recently, I felt disappointed but focused on understanding her reasons instead of reacting impulsively.",
+        "therapist": "You’re showing a genuine effort to honor care and understanding even when disappointment surfaces. How do you imagine these thoughtful responses could continue shaping the way you engage with relationships in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think continuing this approach could help me build deeper trust in relationships. For example, last week, when my sibling was upset with me, I calmly validated her feelings first, which softened the tension and opened space for a better conversation.",
+        "therapist": "Your calm validation seems deeply tied to your value of trust and understanding. How do these choices, rooted in care, affirm the identity you wish to embody within your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think these choices affirm that I want to be someone who prioritizes connection and empathy. For instance, when my colleague struggled with deadlines, I offered support instead of judgment.",
+        "therapist": "You’re nurturing connection and empathy not just through your values, but also through your actions—like offering support to your colleague. How might this way of showing care inspire or deepen other relationships you’re building in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think it could help others feel more supported and understood. Like last weekend, when my friend seemed distant, I asked if she was okay instead of assuming or withdrawing.",
+        "therapist": "Your choice to reach out with care seems to reflect the trust and understanding you want in your relationships. How do moments like this strengthen your sense of being someone who nurtures connection even during emotional distance?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Moments like that make me feel more aligned with the person I want to be. Last night, when my dad seemed distracted on our call, I gently asked if he was okay. It felt good to show concern without pressuring him, even though I sometimes worry about overstepping.",
+        "therapist": "Showing care and honoring boundaries seems deeply tied to who you strive to be. How does balancing concern with respect for others' space reflect the values and identity you're committed to growing into?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think it reflects my commitment to being present and considerate. For instance, when my coworker recently looked overwhelmed, I quietly left her a kind note instead of interrupting.",
+        "therapist": "Your thoughtful actions, like leaving the note, reflect a deep commitment to fostering care and respect. How do these gestures of quiet kindness align with the larger story you’re shaping about yourself as someone who values meaningful connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think they show that I want to be someone who notices small things about people. Like yesterday, I offered my neighbor help with her groceries because she looked tired.",
+        "therapist": "Your care for noticing the small things carries a quiet power. Who in your life might have influenced this attention to detail and thoughtful presence you bring into moments like helping your neighbor?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think my grandmother influenced me most. She’d quietly notice when someone needed help, like baking extra bread for a struggling neighbor. It left such a lasting impression on me.",
+        "therapist": "Your grandmother’s quiet acts of care seem to echo strongly in how you approach connection and kindness. If she could see the way you’ve carried forward these values, how do you imagine she might describe or recognize your efforts?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "She might say I have her quiet strength—that I notice without intruding, like when I offered a new neighbor directions last week after seeing her look lost and frustrated.",
+        "therapist": "Your grandmother's quiet strength seems deeply alive in you, shaping how you respond to others with care. What does it feel like to see yourself through her compassionate and perceptive eyes?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 39,
+        "client": "It feels comforting, like she’d be proud of the small ways I try to make a difference. It reminds me I’m capable of giving even when I feel uncertain.",
+        "therapist": "Feeling her pride within you seems to strengthen your sense of purpose. How do these small, thoughtful acts you offer others shape the difference you see yourself making in their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "It feels small but meaningful. Like when I returned someone’s lost wallet last week, their gratitude reminded me how even tiny efforts can create unexpected relief or joy for others.",
+        "therapist": "Returning the wallet and witnessing that gratitude reflects a generous presence you offer others. How do these moments deepen your understanding of your capacity to bring relief or joy to those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "I think those moments remind me that small actions can ripple outward. Like helping a coworker organize files recently—I didn’t expect it, but it visibly eased her stress.",
+        "therapist": "Helping your coworker ease her stress reflects how your actions influence others in meaningful ways. How do you think these small, supportive gestures might have shaped how she now sees herself in the workplace or her ability to manage challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think it gave her a moment of clarity, like she wasn’t alone in juggling everything. It made me feel good, too—like my effort genuinely mattered to someone.",
+        "therapist": "Your effort seems to have offered her more than relief—it created a sense of connection and support. How might moments like these deepen the bond you share or shape how she sees herself in her ability to handle challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I think it strengthened trust between us. After that, she felt comfortable asking me for advice on another task, and I realized how my support could foster teamwork.",
+        "therapist": "Your support seems to have helped her feel more capable and connected. How does knowing you’ve strengthened trust and encouraged teamwork shape the way you see your own contributions in relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think it showed me how small actions build a foundation of trust. Like when my friend recently confided in me—it made me feel valued and dependable in relationships.",
+        "therapist": "Your friend trusting you with something personal highlights the safe space you’ve created for others. How might this sense of being valued and dependable inspire new ways for you to strengthen trust in your relationships moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think it could inspire me to be more consistent in showing up for people—checking in without them asking, like when I surprised a friend with coffee during their busy week.",
+        "therapist": "Showing up with thoughtful gestures like surprising your friend builds a foundation of mutual care. How might these moments where you’ve eased burdens or offered kindness inspire how others see themselves within their relationships with you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I think they might feel supported, like they can rely on me during tough times. When I brought coffee to my friend, they said it reminded them they weren’t alone.",
+        "therapist": "Your actions seem to nurture a sense of belonging for others. How do you think this ability to make people feel less alone influences the role you hold in their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I think it makes me someone they trust deeply. Like when my coworker opened up about their struggles after I stayed late to help them—it felt meaningful, like I mattered.",
+        "therapist": "Your coworker’s trust reflects the significant role you’ve played in their journey. How does recognizing your impact on their sense of safety and openness shape your understanding of your own values in relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think it shows me how much I value being reliable and creating emotional safety for others. When my coworker thanked me, I realized how fulfilling connection feels.",
+        "therapist": "Your coworker’s gratitude highlights how your reliability has shaped a sense of safety for them. Who else in your life might see you through a lens of trust and support because of the way you’ve shown up for them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "I think my sister sees me that way. When she was overwhelmed planning her wedding, I helped her organize things. She later told me it made everything feel manageable.",
+        "therapist": "Your support has undeniably influenced your sister’s ability to navigate challenges confidently. As you recognize the meaningful impact you've had on her life, how might this deepen your own sense of purpose and reinforce your value in nurturing relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I realize nurturing relationships gives me a sense of fulfillment. When I organized my sister's wedding details, seeing her relieved smile made me feel purposeful and valued.",
+        "therapist": "Building purposeful connections and feeling valued highlights your relational identity’s positive effects. Considering how your nurturing has shaped who your sister has become, how might her reliance on you illuminate deeper aspects of yourself that you cherish?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

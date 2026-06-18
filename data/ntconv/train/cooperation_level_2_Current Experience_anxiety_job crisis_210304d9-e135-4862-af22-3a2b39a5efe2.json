@@ -1,0 +1,470 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello. What would you like to discuss today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been feeling overwhelmed lately, like there's just too much on my plate. It's hard to shake this constant worry that I'm not doing enough.",
+        "therapist": "Feeling overwhelmed can truly weigh heavily on one's mind. It's important to acknowledge that tackling everything at once isn't necessary. Which parts of your life have been most significant to you lately, where you'd like to find some relief or perspective?"
+    },
+    {
+        "round": 2,
+        "user": "Hi my company laid off 10% of the workforce yesterdsy and I'm worried \nI. I'm next",
+        "answer_final": "My goodness. I know that's very difficult to handle. Are you feeling anxiety?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. Honestly, work has been a huge source of stress lately. My company laid off 10% of the workforce yesterday, and now I can’t stop worrying if I’m next.",
+        "therapist": "You’re facing some real uncertainties with the recent layoffs. Feeling worried is natural in such situations, especially when your job feels at risk. How might focusing on what remains stable for you provide some comfort and balance?"
+    },
+    {
+        "round": 3,
+        "user": "Yeah, I'm really nervous about what's happening. Based on who they let go, I think I'll be next because of tenure and experience level.",
+        "answer_final": "So would it appear that they are laying off the people who have been there the shortest time first?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm definitely feeling nervous about the situation, especially given my tenure and experience level. Finding stability feels challenging but trying to focus on my core skills could help.",
+        "therapist": "You’ve shown resilience in focusing on your core skills amidst uncertainty. Can identifying and nurturing these strengths bring you closer to a sense of stability and calm during challenging times?"
+    },
+    {
+        "round": 4,
+        "user": "Well it's a mix of tenure and department. They also furloughed another 10% of the workforce as well so we're 20% smaller now",
+        "answer_final": "I know this is a terrible time to be laid off from your job. Do you feel that you have a contingency plan if you are one of those who is laid off?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think nurturing my strengths might help, but the sudden downsizing—especially losing 20% of the workforce—has shaken confidence in the company’s stability. It’s hard not to worry.",
+        "therapist": "Trusting your core strengths could offer some grounding in this uncertain situation. Despite the company's instability, focusing on areas where you have control might help ease some worry. How can these strengths support you through this transition period?"
+    },
+    {
+        "round": 5,
+        "user": "No and we are in a worse position. My wife was laid off from her job 3 months ago. I'm the only breadwinner right now",
+        "answer_final": "Oh my goodness. Will either of you be able to claim unemployment while you search for new jobs? My brother was recently laid off and he's considering out of state options to hopefully find a job sooner. While that's certainly not an option for everyone, his unemployment is helping to keep his family afloat.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's been tough knowing we're relying solely on my income right now. My wife's job loss added pressure, making me feel like my role is stretched to its limits.",
+        "therapist": "The pressure you're experiencing is understandable, given the circumstances. Recognizing your role’s limits might be an opportunity to clarify priorities or seek support elsewhere. How can acknowledging these boundaries empower you to find relief or resilience?"
+    },
+    {
+        "round": 6,
+        "user": "Yeah my wife filed and we just started getting it but it's nowhere what she was making of course. But yeah we can at least pay the electric bill and stuff.",
+        "answer_final": "Ok, well that's one small thing to help. Are you a renter or owner? As there are a few programs available to help with mortgage payments.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You're right; setting priorities has been crucial lately. My wife started receiving unemployment benefits, which helps a bit. We can cover essentials like the electric bill.",
+        "therapist": "Your resourcefulness in setting priorities during difficult times reflects strength and adaptability. How can nurturing these abilities further enhance your family's resilience and stability right now?"
+    },
+    {
+        "round": 7,
+        "user": "I'm an owner. What kind of programs?",
+        "answer_final": "Check on the government page for your state. It's usually your state.gov  an example is Utah.gov. Google it. Most states have aid available but a lot of people just aren't aware of it.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I am committed to adapting by exploring various programs that offer financial literacy or career development. Balancing immediate needs while planning for the future seems crucial now.",
+        "therapist": "Your proactive approach is inspiring. Committing to programs that enhance financial literacy or career development shows a strong focus on growth and adaptability. How might these steps help you maintain balance between immediate and future needs, further supporting your family's resilience?"
+    },
+    {
+        "round": 8,
+        "user": "oh ok that's a good point. I will definitely go look for it after this discussion",
+        "answer_final": "I hope you can find the assistance you need. Is there anything else you'd like to discuss?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That's insightful; exploring these programs could really help balance immediate and future needs. I'll definitely research this further right after our session.",
+        "therapist": "Exploring these programs shows your dedication to building stability and growth for your family. Taking this step reflects your strength and commitment. What’s one small action you might take today to move closer to that balance you’re seeking?"
+    },
+    {
+        "round": 9,
+        "user": "yeah how can I make more money on the side?. it's sort of why I'm here but it is so hard finding anything good",
+        "answer_final": "As there are a lot of people who've lost their jobs the pickins' are quite slim. But being as the holiday season is upon us. I do knwo there are several stores hiring for seasonal help. Also, Amazon is hiring for customer services reps to work from home I've heard.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think today I can start by looking into local part-time opportunities or freelancing options online. It's overwhelming, though—it feels like most leads just fall short.",
+        "therapist": "Your willingness to take steps, even when it feels overwhelming, shows resilience. Exploring options like part-time or freelance work might lead to unexpected opportunities. What small shift could make today’s search feel less daunting for you?"
+    },
+    {
+        "round": 10,
+        "user": "oh cool, that's good to know. Well, I appreciate all your help. I hope you and your family stay safe during the holidays!",
+        "answer_final": "If it's in your area Instacart is also hiring shoppers and delivery drivers. Is that something you might be able to do?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks, that means a lot. Maybe focusing on just one or two platforms for freelancing today could ease the stress. And I truly appreciate your support through this—it helps more than I can say.",
+        "therapist": "Your focus on manageable steps, like narrowing your search to one or two platforms, is a thoughtful way to ease the stress. What would it feel like to celebrate even small progress today as part of your journey forward?"
+    },
+    {
+        "round": 11,
+        "client": "It might feel like a small win—something tangible to hold onto. Even applying somewhere or creating a profile could remind me I’m not stuck, that I’m moving forward.",
+        "therapist": "Your idea of creating profiles or applying feels like reclaiming power from that stuck feeling. If we were to call this sense of being “stuck” something separate from yourself, what name would fit its role in holding you back?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "I’d call it “the fog”—it feels heavy and blurry, like I can't see clear paths forward. It often shows up when decisions overwhelm me or progress seems elusive.",
+        "therapist": "Naming it 'the fog' gives clarity—it’s separate from you, not a part of who you are. How has the fog shaped your choices or relationships lately, and what strengths might help you gently clear it away?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "The fog has made me pull back from friends—I don’t want to burden them. I’ve avoided decisions, like ignoring emails about job leads. Maybe my persistence could help clear it.",
+        "therapist": "Your persistence shines through, even in challenging times. When the fog pushes you to retreat or avoid decisions, what’s one way you might use that persistence to reconnect—with yourself, your friends, or even those job opportunities?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "I've been avoiding calls from a friend who keeps checking in. Maybe persistence means answering next time, or replying to those emails just to break the cycle of avoidance.",
+        "therapist": "Your idea of answering that call or replying feels like a powerful move against the fog. What does persistence in reconnecting or breaking avoidance say about the values or hopes guiding you right now?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Persistence reminds me I value connection and growth, even when it feels hard. Last week, I nearly called my friend back but froze—maybe it's time to follow through.",
+        "therapist": "Following through on that call could be a step toward honoring your values of connection and growth. How might reclaiming this moment from the fog reflect the kind of person you’re committed to becoming?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I think reclaiming it shows I want to be someone who doesn’t give up on people, or myself. Even small steps—like that call—mean I’m trying, and that matters.",
+        "therapist": "Reclaiming these moments highlights your commitment to connection and resilience. What about this value of not giving up feels most important to who you are or the life you’re building?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I think not giving up proves to myself that I’m capable of sticking with things, even when it’s messy. Like when I struggled through a tough college class and passed—I want more moments like that, where effort beats the fog.",
+        "therapist": "Proving your ability to stick through challenges shows a commitment to resilience and growth—it’s an empowering part of who you are. How might leaning into this determination reshape your relationship with the fog or create new opportunities for those \"effort beats\" moments you hope for?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I think leaning into that determination could mean setting small, tangible goals, like tackling one email or calling my friend back. Even minor wins feel like progress through the fog.",
+        "therapist": "Tackling small goals like that shows a powerful step in lessening the fog’s grip. What makes these moments of effort and progress so meaningful for the life you’re striving to build?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Tackling small goals feels meaningful because it proves I’m capable of moving forward. Like when I cleaned my desk last week—it reminded me I can create clarity amidst chaos.",
+        "therapist": "Tackling those small goals like cleaning your desk feels like a victory over the chaos. What does this clarity say about the kind of balance or direction you want to create in your life moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Clarity reminds me I crave steadiness, not chaos. When I organize small spaces, it feels symbolic—like I'm preparing room for growth in life, beyond physical clutter.",
+        "therapist": "Creating room for growth feels deeply connected to the steadiness you value. If chaos had less influence in your life, what kind of space—literal or emotional—might emerge for the hopes and commitments most important to you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think emotional space would emerge—space to breathe and feel calmer. Like when I decluttered my desk, it felt like untangling my mind; I could focus better afterward.",
+        "therapist": "Exploring that sense of untangling and focus, what do you notice about your ability to create emotional clarity? How does this reflect the way you’re shaping your story beyond the pull of chaos?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I notice that when I deliberately create emotional clarity, like journaling through anxious thoughts, it feels like reclaiming control. It reflects a shift toward self-compassion and purpose.",
+        "therapist": "Reclaiming control through self-compassion and purpose sounds deeply aligned with who you’re becoming. How might this growing relationship with clarity and care guide the way you respond to life’s uncertainties moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think it would help me pause before reacting, like when my plans fell apart last week—I took a walk to clear my head instead of spiraling into frustration.",
+        "therapist": "Pausing like that shows such intention in caring for yourself. When you chose the walk, what strengths or values do you think guided you toward that calming response instead of frustration?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think patience and self-awareness guided me. Instead of drowning in the chaos, I reminded myself that stepping away could help me find perspective, and it really did.",
+        "therapist": "Your ability to step away for perspective speaks strongly to your commitment to patience and self-awareness. How do you see these qualities shaping the way you define yourself in moments of uncertainty or challenge?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think patience and self-awareness help me redefine challenges as temporary rather than permanent. Like when I lost a job, they pushed me to focus on possibilities instead of defeat.",
+        "therapist": "Your focus on possibilities shows a deep trust in your ability to navigate change. As you continue shaping this story of resilience, what small actions might further anchor patience and self-awareness in future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think pausing to journal when I feel overwhelmed could anchor these qualities. Writing helped me unpack my feelings last month during a tough family conflict and gain clarity.",
+        "therapist": "Journaling seems to reflect your deeper commitment to seeking clarity and honoring your emotions. How does this practice reinforce the person you’re becoming in navigating challenges with care and purpose?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Journaling feels like giving myself permission to slow down and understand what I’m feeling. It reminds me that I can approach challenges thoughtfully, not reactively, like when resolving a miscommunication at work recently.",
+        "therapist": "Journaling seems to reflect a deliberate practice of honoring your thoughtful, intentional side. How does this way of approaching challenges affirm the kind of person you most want to be in these moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think it shows me as someone who values understanding over reacting. Like when a friend misjudged me recently, journaling helped me untangle my hurt before speaking calmly to them.",
+        "therapist": "Your response to that situation reflects a strong commitment to valuing understanding in your relationships. How does this approach align with the kind of connections you want to foster with those who matter most to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I want connections built on trust and mutual understanding. Like when my sibling confronted me about being distant, I explained my stress instead of shutting down, which brought us closer.",
+        "therapist": "Your choice to share your stress with your sibling seems to reflect courage and a deep care for the relationship. As you continue fostering these connections, what possibilities do you see for further nurturing trust and mutual understanding in similar moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Sharing my vulnerabilities more often could nurture trust. Like recently, I admitted to a friend that I feared failing at work—it deepened our connection and sparked supportive conversations.",
+        "therapist": "Sharing your vulnerabilities seems to reflect a commitment to deeper, authentic relationships. How do you see this openness aligning with the values or intentions that guide how you want to show up for others and yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think openness aligns with my value of building genuine connections. For example, when I shared my fear of being a disappointment with my mom, it strengthened our understanding and closeness.",
+        "therapist": "Openness clearly resonates with your value of fostering genuine relationships. How might building on moments like sharing with your mom further shape the connections you’re striving to cultivate, not just in this relationship but across others important to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Sharing vulnerabilities like with my mom inspires me to be more open with friends struggling with personal challenges. Being vulnerable together builds strong emotional connections and fosters mutual support.",
+        "therapist": "Recognizing the power of vulnerability highlights your intention to cultivate genuine support among those you care about. How might further embracing this openness shape the strong, trusting bonds you envision building within these relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Embracing openness helps me create more honest, meaningful bonds. When I shared doubts with my colleague recently, we formed a partnership in overcoming work challenges together.",
+        "therapist": "Openness seems to be an empowering aspect of your narrative, facilitating authentic collaboration at work. How might continuing to express these honest interactions help you develop further meaningful relationships and strengthen your preferred story of support and connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 34,
+        "client": "Continuing these honest interactions encourages a culture of openness, much like when my manager appreciated my proactive feedback during team meetings. It affirmed our mutual trust and respect, strengthening connections at work.",
+        "therapist": "Building this culture of openness through your actions and feedback showcases a strong commitment to your values of trust and respect. How do these positive outcomes at work reinforce the identity you wish to nurture both professionally and personally?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Building this trust and respect at work has boosted my confidence. Like when I took the lead on a project, it felt rewarding to see colleagues rallying behind my vision.",
+        "therapist": "Exploring the impact of leading with confidence appears to resonate deeply with your values of trust and respect. How might these experiences in leadership reinforce your emerging identity both at work and in other areas you cherish?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Leading has indeed given me a sense of achievement. Outside of work, I've begun volunteering at a local community center. It feels fulfilling and aligns with who I’m becoming.",
+        "therapist": "Volunteering shows how much you value contributing to a greater good. Reflecting on this, are there individuals or moments that helped inspire this sense of fulfillment and shaped your drive to make meaningful impacts in both your work and community life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I've been inspired by my grandmother's dedication to helping others. She’d always find time to volunteer despite her busy life, and that taught me the value of giving back.",
+        "therapist": "Your grandmother's dedication seems to reflect how deeply she valued helping others. How do you think she might see the ways you’re now giving back and carrying forward that same spirit of contribution in your own life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "My grandmother would be proud, I think. When I help organize workshops at the center, I feel her spirit guiding me. It’s like continuing her legacy of care.",
+        "therapist": "Your efforts seem to honor her values beautifully, carrying forward her legacy in your own unique way. How might your actions now not only reflect her guidance but also contribute something uniquely yours to those you’re helping?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think my energy and creativity add a personal touch. For example, I recently designed interactive activities for teens at the center, and seeing their engagement was incredibly rewarding.",
+        "therapist": "Your creativity seems to have made a real difference in the teens’ experiences. How do you think this energy and engagement might be shaping who they are becoming or how they see themselves through their participation?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I think it helps them see their potential. Like, after a workshop on creative writing, one teen shared her story and felt proud of expressing herself.",
+        "therapist": "Your creative contributions seem to give teens the courage to see themselves in new ways. What might it say about who you are becoming, as someone whose efforts inspire others to recognize their potential?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I guess it shows I'm growing into someone who cares deeply about impact. Seeing that teen’s pride made me feel like I’m truly helping others discover their worth.",
+        "therapist": "Your caring impact seems profound, as you’ve not only touched others’ lives but affirmed your sense of agency. In envisioning how this nurtures mutual growth, what do you imagine when reflecting on the legacy and stories being written through these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "I imagine those teens growing into confident individuals, capable of inspiring others too. The thought that I might be sparking that change fills me with hope and fulfillment.",
+        "therapist": "Seeing how your efforts inspire these teens seems to highlight the deeply connected and impactful person you’ve become. What does this mutual exchange of hope and confidence reveal about the values you’re passing on through these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I think it's a shared journey of growth and empowerment. Recently, when a teen expressed gratitude for my guidance, it reinforced my belief in supporting others to unlock their potential.",
+        "therapist": "Your belief in supporting others seems to foster an environment of empowerment and gratitude. How might these expressions of gratitude also affirm your identity and connection to your grandmother's legacy, further enhancing your impact?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I feel it honors my grandmother's legacy of resilience and kindness. Her ability to uplift others resonates with me when teens express gratitude. It assures me that I'm following in her footsteps.",
+        "therapist": "Your connection to your grandmother's legacy seems deeply meaningful, bringing her kindness and resilience into your work with teens. Embracing this shared journey, what else might you discover about the strengths you've inherited from her in supporting others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "I think I've inherited her ability to listen deeply and connect with others. When a teen shares their struggle, it reminds me of conversations with grandma, feeling seen and heard.",
+        "therapist": "Embracing your grandmother's legacy of deep listening seems to be shaping a meaningful part of your identity. How might seeing yourself through her eyes—capable, compassionate, and connecting with others—inspire your continued growth and ability to uplift others in their stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 46,
+        "client": "Seeing myself through her eyes, I realize the importance of compassion. It's her nurturing spirit in moments where teens openly share their struggles that prompts my growth and empathy.",
+        "therapist": "Seeing your grandmother's nurturing spirit in your interactions emphasizes a shared bond. How do you envision these values shaping the narratives teens build as they carry forward their newfound confidence and compassion into their own lives and connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I envision teens embracing kindness in their friendships, maybe organizing peer support groups. Witnessing their growth, knowing they're spreading positivity like my grandma did, fills me with pride and hope.",
+        "therapist": "Witnessing the positive ripple effect of your guidance creates a profound connection between your identity and theirs. This nurturing lineage seems to continue as these teens organize peer groups, perpetuating compassion. How do you think this shared vision may expand their capacity for mutual care and support?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "It might foster deeper connections among them. Recently, during a peer session, I noticed how quickly they opened up to support each other, mirroring that nurturing spirit.",
+        "therapist": "Your role in fostering those connections has clearly shaped a safe and compassionate space for them. As they embrace this nurturing spirit, what possibilities do you see for their personal growth or the support they might extend to others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think they’ll grow more confident in expressing empathy and tackling issues together. Last week, a teen offered advice on coping with anxiety, inspiring others to share strategies.",
+        "therapist": "You’re nurturing a space where empathy blossoms into action, inspiring growth in those teens. How do you think your grandmother would view the ripple effects of her spirit reflected in their shared kindness and confidence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think she’d be proud, seeing her compassion ripple outward. Like last week, a teen shared his struggle, and another simply said, “I’ve got your back.” It felt profound.",
+        "therapist": "Your grandmother’s spirit seems deeply alive in the way you inspire these teens to show care and solidarity. How does knowing you’ve created a space where trust and support thrive shape your own sense of value and connection to her legacy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

@@ -1,0 +1,462 @@
+[
+    {
+        "round": 1,
+        "user": "Hello. I'm looking for some help.",
+        "answer_final": "Good Morning! would you like to tell me whats going on?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I’ve been feeling overwhelmed lately and could really use some support to figure out what’s going on. It feels like everything is piling up at once.",
+        "therapist": "Feeling overwhelmed can be so consuming. Let’s take a moment to unpack what’s been feeling most pressing for you lately—what feels like it’s calling for the most attention right now?"
+    },
+    {
+        "round": 2,
+        "user": "I have a big test coming up for a college class and I am very anxious about it.",
+        "answer_final": "you seem really concerned about a big test coming up and its making you feel anxious.  is that correct?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Honestly, my biggest worry right now is this huge college test coming up. I’ve been studying nonstop, but the anxiety about whether it’s enough is overwhelming.",
+        "therapist": "It takes a lot of strength to stay so dedicated under pressure. What would it look like for you to feel a little more balanced while preparing—maybe something that eases the weight of this anxiety just a bit?"
+    },
+    {
+        "round": 3,
+        "user": "Yeah exactly. I feel like my future depends on getting a good grade on this test.",
+        "answer_final": "just from chatting with you, I can feel how anxious you are.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess balancing could mean taking breaks or doing something relaxing, but it’s hard to focus on that when the pressure feels tied to my future and success.",
+        "therapist": "You’ve been carrying such heavy expectations, especially with the pressure tied to your future. What if taking a moment for yourself wasn’t about stepping away from success, but about building strength to face it with more clarity and ease?"
+    },
+    {
+        "round": 4,
+        "user": "I've been studying every day for weeks but I still can't help but feel really anxious. I don't know what to do. It's messing with my sleep schedule.",
+        "answer_final": "your doing your best and continuing to try hard!. it's great that you are working so hard to pass this test.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That’s an interesting way to put it. I guess I’ve been so focused on doing more that I haven’t thought about pausing to recharge. The anxiety is constant, though—it’s even keeping me up at night, like my brain just won’t shut off from worrying if I'm doing enough.",
+        "therapist": "Pausing to recharge can be hard when anxiety feels nonstop, yet it sounds like you recognize the importance of balance. How might creating small, intentional moments of calm help ease the mental pressure tied to doing enough?"
+    },
+    {
+        "round": 5,
+        "user": "I'm trying my best I'm just worried it won't be enough.",
+        "answer_final": "deep breaths can help people calm down. Can you try and take a few deep breaths?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve never really thought about small intentional moments—maybe I could try meditating or even stepping outside briefly to breathe. It feels like no matter how much effort I put in, the worry of falling short is always there. That fear makes it hard to truly relax.",
+        "therapist": "Taking small intentional moments, like meditation or stepping outside, sounds promising. That fear of falling short holds such weight—what would it mean for you to give yourself permission to embrace even small victories during this time?"
+    },
+    {
+        "round": 6,
+        "user": "Yes, I can try to do that more often.",
+        "answer_final": "how confidant do you feel with the material?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think embracing small victories could help ease some of the pressure. Maybe if I celebrate little progress, it’ll feel like I’m moving forward instead of being stuck in worry.",
+        "therapist": "Embracing small victories shows a lot of resilience. As you notice those moments of progress, how might they start to shift your experience from feeling stuck to recognizing your efforts and growth more fully?"
+    },
+    {
+        "round": 7,
+        "user": "I'm fairly certain I have most of it memorized but what happens if I freeze up and forget during the test?",
+        "answer_final": "I feel the same way when I am taking a big exam! Try to remember to breath and not be so anxious that will only cause you to forget everything you studied.  You seem very intelligent and I know you can do this!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think noticing progress could help, but the fear of messing up still lingers—like during tests, even if I know the material, freezing up feels like a real risk.",
+        "therapist": "Freezing up can feel overwhelming, especially when you’ve worked so hard to prepare. What would it be like to explore the moments where your effort shines, even amidst fear, and allow that to build a sense of confidence over time?"
+    },
+    {
+        "round": 8,
+        "user": "Thank you! Do you think taking a practice exam would help?",
+        "answer_final": "yes I think a practice exam would be a great way to put you at ease and help you work on anything you might need to freshen up on.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think focusing on moments where I’ve succeeded could build my confidence. Maybe taking a practice exam could help me see those strengths clearly and feel more prepared.",
+        "therapist": "Focusing on those moments of success and practicing intentionally could be empowering. How might celebrating even small achievements after a practice exam begin to reshape the way you approach challenges like this?"
+    },
+    {
+        "round": 9,
+        "user": "Ok, I will try that out. I appreciate talking to you I feel better already.",
+        "answer_final": "it was very nice speaking with you today.  Good luck! remember deep breaths and I know you'll be just fine.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You're right. Celebrating small achievements could really help boost my confidence and lessen the fear of making mistakes. I think I'll try a practice exam soon, and afterward, I'll focus on acknowledging my strengths. Thanks for your support—talking with you has already made me feel a bit more optimistic.",
+        "therapist": "Celebrating those small achievements is a meaningful step forward. It’s inspiring to see your commitment to trying new approaches. How might this optimism you’re feeling right now help guide you as you take that next step with the practice exam?"
+    },
+    {
+        "round": 10,
+        "client": "I think the optimism helps me feel less trapped by fear. I’ll aim to approach the practice exam calmly, maybe remind myself it’s a step to learn, not to prove.",
+        "therapist": "Taking on that perspective of learning rather than proving can empower you in dealing with the fear. By seeing Fear as an outsider that gets in your way, how could you redefine its role as you prepare for this exam?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 11,
+        "client": "I guess I could see Fear as more of a signal—not something to block me, but something reminding me to prepare and focus. It might help me stay alert rather than overwhelmed.",
+        "therapist": "Fear as a signal can certainly shift its influence on you. As you reflect, in what other areas of your life has Fear tried to hold power, and how might this new perspective help you approach those situations differently?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 12,
+        "client": "I think Fear shows up most in conversations where I feel judged—like speaking up in meetings. Maybe reframing it as a push to prepare better could ease that anxiety.",
+        "therapist": "Fear does seem to influence those moments where judgment feels close. As you consider its impact, what makes it so important for you to lessen its grip in situations like speaking up in meetings?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "I think it's important because staying silent feels like missing chances to contribute or connect. Once, in a meeting, I held back an idea and later saw someone share it confidently. That stung—I don't want Fear to keep stealing those moments.",
+        "therapist": "Fear has certainly taken moments that seem deeply connected to your value of contributing and connecting. How could reclaiming those missed chances align with the person you hope to be in these situations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "I think reclaiming those chances would help me feel authentic—like I’m honoring my ideas instead of hiding them. It’d also show others that I value contributing openly, despite doubts.",
+        "therapist": "Reclaiming those chances ties beautifully to your values of authenticity and openness. As Fear tries to block those moments, how might you remind yourself of the strength found in honoring your ideas and the connections you want to create?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I think reminding myself why I value sharing could help, like recalling times my input sparked good discussion. Maybe visualizing that outcome could quiet the Fear a little.",
+        "therapist": "Visualizing those positive outcomes could be a powerful way to counter Fear’s presence. How does holding onto those moments of contribution connect with the sense of authenticity you’re working toward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Holding onto those moments reminds me I can be both vulnerable and impactful. I recall once nervously sharing an idea, and the team actually built on it—it felt real, like I mattered.",
+        "therapist": "The way Fear steps in seems at odds with your desire to feel both impactful and authentic. What does it mean to you, personally, to claim space for your ideas in those moments, despite the vulnerability involved?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Claiming space for my ideas feels like breaking through a heavy fog. I remember once pitching a risky idea—I felt exposed, but their encouragement made me see my own value.",
+        "therapist": "Naming Fear as that heavy fog offers clarity—it’s not you but something influencing your space to contribute. How does aligning with the value of seeing your own worth help you resist its pull and honor what matters most in those moments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Aligning with my worth means I can reflect on past affirmations, like when my idea led to a successful project launch. It reinforces that contributing is part of who I am.",
+        "therapist": "Reflecting on affirmations like that project launch truly reinforces your sense of worth. How might acknowledging these moments more consciously help you stand firmer against Fear when it tries to overshadow your value?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think consciously recalling moments like that project launch might act as an anchor. When Fear hits, I could mentally replay those successes to remind myself it’s worth pushing through.",
+        "therapist": "Replaying those successes as anchors feels deeply tied to your commitment to honoring your contributions. What would it mean for Fear’s influence if you consistently reminded yourself of how much those moments reflect your true values?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Replaying those moments could weaken Fear’s grip. Like when I proposed that budget strategy, hearing the team's excitement reminded me my ideas hold weight—I’d feel steadier focusing on that.",
+        "therapist": "Reclaiming your steadiness through these reflections feels deeply aligned with your values of contribution and authenticity. What possibilities might emerge in your life if Fear’s grip continues to loosen as you anchor more firmly in these affirmations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "It might open doors to speak up more freely, like suggesting creative solutions or initiating discussions. I’d feel less intimidated, maybe even excited about sharing ideas without hesitation.",
+        "therapist": "Exploring those possibilities brings new dimensions to your story of resilience and creativity. How does the excitement of sharing ideas freely feel connected to the steady confidence you’ve been cultivating in moments like proposing that budget strategy?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "The excitement feels like it stems from those moments when my ideas were validated, like during that marketing overhaul. It’s as if each success adds a layer of confidence.",
+        "therapist": "Each success truly seems to honor your value of courage and belief in your ideas. How might continuing to build on this layered confidence shape the way you see yourself as someone who influences meaningful change?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think continuing to build on this confidence would help me trust my instincts more. Like when I suggested restructuring our workflow—it led to smoother collaboration, and it felt empowering.",
+        "therapist": "Building that trust in your instincts aligns so well with your values of leadership and innovation. How might this growing sense of empowerment shape the way you want to show up for future opportunities or challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think this empowerment would help me take calculated risks more comfortably. Like pitching that unconventional partnership idea last quarter—I’d feel braver to explore uncharted paths like that again.",
+        "therapist": "Your willingness to explore uncharted paths seems to amplify your sense of courage and possibility. As you continue shaping this empowered story, what do you envision unfolding from your next brave step forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I envision presenting a fresh project idea—a cross-team initiative to address inefficiencies. It excites me but feels nerve-wracking. Still, stepping forward would mean trusting my voice.",
+        "therapist": "Taking that step to trust your voice could open doors to even greater collaboration and innovation. As you envision presenting this idea, what small actions might help ground your confidence in the moment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think rehearsing my pitch and visualizing a positive reaction from the team could help. Reflecting on past successes, like the workflow restructure, might also steady my nerves.",
+        "therapist": "Rehearsing and reflecting on those wins reflects your dedication to preparation and growth. How does this commitment to thoughtful planning reflect the kind of leader you aspire to be in moments like these?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I aspire to be a leader who inspires trust through careful preparation. Like during the last strategy meeting, my thorough approach reassured the team and led to stronger decisions.",
+        "therapist": "Your thorough preparation seems to play a vital role in how you earn trust as a leader. As you envision future opportunities, how might this trusted, deliberate approach influence the way others see themselves contributing alongside you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think my approach helps others feel confident in voicing ideas, knowing their input is valued. For example, colleagues often cite my thoroughness as reassurance during challenging projects.",
+        "therapist": "Your ability to encourage others to share their voices highlights a commitment to fostering collaboration and trust. How do you see this value shaping the kind of environment you want to create in future projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I’d like to create an environment where ideas are explored without fear of judgment. I remember feeling inspired when a junior colleague shared an overlooked solution during our brainstorming session—it strengthened teamwork.",
+        "therapist": "Your commitment to creating a judgment-free space speaks deeply to your value of fostering teamwork and trust. What guiding principles might help you sustain this collaborative environment as part of your identity moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think prioritizing empathy and active listening would be essential. Like when tensions rose during a tight deadline, staying patient helped diffuse stress and keep the team unified.",
+        "therapist": "Staying patient and prioritizing empathy clearly align with your commitment to unity and understanding. How does this reflect the kind of leader or team member you most aspire to be in creating spaces where people feel valued and connected?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I aspire to be someone who leads by example, showing respect and understanding. During a recent conflict, mediating calmly helped others feel heard and defused tensions effectively.",
+        "therapist": "Your calm mediation during conflict reflects deep respect for others and a strong commitment to understanding. How do these qualities, rooted in your values, continue to guide the leader you’re becoming?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think these qualities shape how I approach conflicts and decisions. Recently, listening carefully to two team members resolved a disagreement and strengthened mutual respect between them. It felt rewarding.",
+        "therapist": "Your thoughtful listening seems to create pathways for trust and resolution. As you reflect on that rewarding moment, what steps might you take to keep nurturing this ability in future situations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think I can nurture this by practicing patience and staying curious about differing perspectives. For example, asking more questions helped me understand a teammate’s unique approach recently.",
+        "therapist": "Practicing patience and curiosity reflects a thoughtful and intentional approach to building understanding. How do you see these actions shaping the kind of relationships you want to foster in your team moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think these actions could foster relationships built on trust and respect. Recently, a teammate opened up about personal struggles after noticing my genuine curiosity in their perspective.",
+        "therapist": "Your curiosity and genuine care seem to invite deeper trust and connection in your relationships. How do these moments reflect the values you want to uphold as part of your identity within your team?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think these moments reflect how much I value creating safe spaces for others. Once, a teammate thanked me for letting them vent without judgment. It felt humbling.",
+        "therapist": "Creating safe spaces seems deeply aligned with your values of empathy and understanding. How do you envision these moments shaping not just your relationships, but the broader legacy you'd like to cultivate in your personal and professional life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I hope these moments inspire others to feel valued and heard. Once, during a challenging project, fostering open dialogue helped the team stay united despite immense pressure.",
+        "therapist": "Your approach to fostering open dialogue seems to create a ripple effect, helping others feel heard and valued. Who in your life has inspired this commitment, helping you cultivate these qualities of leadership and understanding?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I’d say my father inspired this. He always listened deeply, even during difficult times. Once, when I was overwhelmed by exams, his patience grounded me and reminded me to focus.",
+        "therapist": "Your father’s patience seems to have left a lasting impression on you, shaping the grounded way you support others. If he were to see how you’ve embraced these qualities, how do you think he would describe the person you’ve become?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "My dad would probably say I’ve grown into someone who truly listens, like he did. He’d be proud of how I make others feel seen, even when things get tough.",
+        "therapist": "Your father’s pride in your ability to truly listen seems like a mirror reflecting your own impact on others. How does recognizing this shared quality between you and him deepen your understanding of the connections you nurture today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think it reminds me how much presence matters. When I truly listen, like my dad did, I see others relax and open up. It strengthens trust and connection.",
+        "therapist": "Your presence creates a space where others can grow and connect more deeply with themselves. How do you think your ability to truly listen might have shaped who your teammate or others have become through these shared moments?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I think it gave them a sense of safety and confidence. For example, one teammate later mentioned feeling brave enough to share ideas they'd normally hold back, which felt meaningful.",
+        "therapist": "Your teammate’s bravery reflects the trust and safety you nurtured. How do you imagine their courage in that moment might ripple outward, influencing how they now navigate other challenges or relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I imagine it gave them a little more confidence to step forward in other situations. They later led a meeting, something they used to avoid, and seemed so proud afterward.",
+        "therapist": "Your role in fostering their confidence appears deeply impactful. Seeing them step into leadership might also reflect how your encouragement nurtures growth. How does knowing this influence how you view your own ability to shape meaningful connections with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think it shows me that even small moments, like listening or offering encouragement, can leave lasting marks. It makes me feel hopeful about the connections I can build.",
+        "therapist": "Your insight about the lasting marks of small moments reflects your gift for uplifting others. As you recognize this, how does it enrich your understanding of the ways you’ve shaped who they’ve become and how those interactions might shape you in return?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I think it shows me how interconnected we are. For instance, seeing my teammate lead that meeting made me feel proud and capable, reminding me that encouragement goes both ways.",
+        "therapist": "Your recognition of this shared growth highlights the meaningful exchange between you and your teammate. How do these moments of mutual encouragement deepen your understanding of the role you play in shaping collective confidence within your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think it helps me see how my actions create a ripple effect. When I encourage someone, they often pass that confidence on to others, which feels deeply rewarding.",
+        "therapist": "Your recognition of this ripple effect highlights how your encouragement becomes a gift that keeps giving. What does it feel like to know that your actions have not only shaped others but also allowed their growth to shape and inspire you in return?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I feel humbled and inspired by it. For example, seeing my teammate lead confidently made me reflect on how vulnerability and support can truly transform both them and me.",
+        "therapist": "Your reflection shows the depth of connection you’ve created. In what ways do you think your teammate’s growth and confidence might reflect their view of you as a source of support or inspiration in their life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I think their confidence reflects how much they value my support. Once, they mentioned how my belief in them made them trust their own abilities more—it felt deeply meaningful to me.",
+        "therapist": "Your belief in them seems to have opened new possibilities for their confidence and growth. How does knowing the lasting impact of your support on someone else deepen your understanding of your own strengths and values?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "I think it reminds me that I can be a steady, uplifting presence for others. Once, I saw someone push through self-doubt because of my encouragement—it made me feel purposeful.",
+        "therapist": "Your encouragement seems to foster both trust and transformation in others. How does knowing that you’ve helped someone overcome self-doubt influence the way you see your own capacity for meaningful connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think it makes me realize how much I thrive on building those connections. Once, a friend told me my advice gave them the courage to speak up—it felt profound.",
+        "therapist": "Building connections like this seems to reflect your role as a catalyst for others’ growth. How do you think your ability to encourage courage in those around you shapes their perception of who they are becoming?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think it shows them they're capable of growth. One colleague once said my encouragement made them see possibilities they hadn’t considered before—it felt fulfilling to witness that shift.",
+        "therapist": "Your encouragement seems to reveal new paths for others, reshaping what they believe is possible. What does it say about your unique way of connecting with people that their growth often begins with your belief in them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think it shows I focus on seeing potential in people, even when they don’t see it themselves. Once, a quiet teammate shared an idea after I encouraged them—it was inspiring.",
+        "therapist": "Your ability to see potential in others shapes their confidence and growth, influencing how they view themselves. How do you think these moments of encouragement reflect the legacy of connection you’re building in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

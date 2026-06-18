@@ -1,0 +1,511 @@
+[
+    {
+        "round": 1,
+        "user": "I do not what what to do. Do you think I should just stop being friends wither?",
+        "answer_final": "Being friends with who?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel lost and unsure. Cutting ties seems drastic, but their actions have hurt me deeply. Do you think distancing myself would help me heal?",
+        "therapist": "Your feelings of hurt and uncertainty are important, and considering distance might open space for healing. How might stepping back allow you to honor your needs while navigating these emotions?"
+    },
+    {
+        "round": 2,
+        "user": "My friend does not want to be friends anymore after 13 years, she thinks I am too buys with my kids",
+        "answer_final": "She doesn't want to be friends, but what do you want?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think stepping back might help, but losing her after 13 years feels unbearable. She says I’ve been too consumed with my kids—it’s painful to hear that.",
+        "therapist": "You’ve carried this relationship for years, and it’s clear the pain weighs heavily. Could this tension between your role as a parent and her perspective be an influence shaping the hurt you’re feeling? Naming what drives this might offer clarity and ease in deciding how to move forward."
+    },
+    {
+        "round": 3,
+        "user": "To be friends, its been 13 years",
+        "answer_final": "So you still want to be friends but she doesn't.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think that’s part of it. We’ve been friends for 13 years, and it’s hard to accept that my life changes might feel like rejection to her.",
+        "therapist": "A 13-year friendship holds deep meaning, and it’s clear you value her deeply. Life changes can bring unexpected challenges. How might honoring your needs and feelings also open space for understanding between you both?"
+    },
+    {
+        "round": 4,
+        "user": "yes. She thinks I put her second to me family",
+        "answer_final": "Have you talked with your friend about your feelings?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I do value her, and it hurts that she feels put second to my family. I never wanted her to feel that way, but my priorities shifted with motherhood.",
+        "therapist": "You’re navigating so much with care for both your family and this friendship. What might it look like to acknowledge how priorities have shifted while also exploring what connection could feel right between you now?"
+    },
+    {
+        "round": 5,
+        "user": "yes, but she does not understand since she is not married and does not have children",
+        "answer_final": "Does she just want to spend more time with you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It might mean having an honest conversation with her about my shifting priorities. She doesn't fully grasp it because she hasn't experienced marriage or motherhood herself.",
+        "therapist": "Marriage and motherhood indeed bring profound changes. An open conversation might allow you to share this new perspective and maintain the connection you value. How do you envision expressing your needs in a way that invites mutual understanding?"
+    },
+    {
+        "round": 6,
+        "user": "I think she feels left out",
+        "answer_final": "Is there a way you can help her feel more included?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think she feels left out because my focus has shifted to my family. Maybe I could explain that while things have changed, her place in my life still matters deeply.",
+        "therapist": "It's admirable how you're navigating this shift. Could identifying this feeling of her being 'left out' help differentiate it from both of you, fostering openness for mutual understanding? This may guide your conversation in reaffirming her important place in your life."
+    },
+    {
+        "round": 7,
+        "user": "I guess I can reinforce that she is always invited over! But I am just soooo exhausted after having twins",
+        "answer_final": "I understand, that must be exhausting!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That's a great point. I'll let her know she's always welcome, despite how exhausting it is with twins. It's about finding a new balance.",
+        "therapist": "Welcoming her and recognizing your needs reflects both compassion and strength. Trusting your instincts to find balance is key; motherhood shifts perspectives. How can acknowledging these changes foster a renewed connection with her while honoring this new chapter in your life?"
+    },
+    {
+        "round": 8,
+        "user": "No time to sleep... ever.... How do I tell her I have feelings too. She just\n wants to go out and doesn't offer to help",
+        "answer_final": "I understand, I think that you should tell her about your situation and how you feel.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You're right, acknowledging these changes might help. But it’s hard—I’m so sleep-deprived, and she doesn’t see that I have my own struggles too. She just wants me to go out when I barely have energy for myself, let alone to explain how I feel. How can I make her understand without upsetting her?",
+        "therapist": "You’re dealing with significant changes, and expressing your needs amidst sleep deprivation can be tough. Finding gentle ways to share this could nurture understanding without causing hurt. Perhaps inviting her into moments that suit your energy might build more empathy for your current experience."
+    },
+    {
+        "round": 9,
+        "user": "I am not very good at expression my emotions rn with out getting emotional",
+        "answer_final": "It is okay to get emotional, it may even help her understand how you feel better.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think you’re right, but it feels overwhelming. I’m not great at expressing emotions right now without breaking down, and that makes me hesitate to open up to her.",
+        "therapist": "You’re going through a lot, and it’s okay to feel overwhelmed. Breaking things down can help ease the emotional strain. How might sharing small, manageable pieces of your experience with her allow for understanding without you feeling too exposed?"
+    },
+    {
+        "round": 10,
+        "user": "ugh you are right! I just get scared to break down that all, even after 13 years.",
+        "answer_final": "It is okay to be scared, but having emotions and getting emotional is natural.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I know you're right. I'm just scared that if I start talking, I'll break down completely, even after 13 years of friendship. It feels daunting.",
+        "therapist": "Breaking down in front of her shows vulnerability, yet also deep trust within your longstanding friendship. Would embracing this possibility, however daunting, open a space for mutual comfort and deeper understanding during this challenging time?"
+    },
+    {
+        "round": 11,
+        "user": "you are so right",
+        "answer_final": "Do you feel like you have a better understanding of what to do?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You are so right. Our friendship has been strong for years, and maybe this vulnerability could strengthen it further. I'll try to embrace the chance for deeper understanding.",
+        "therapist": "Embracing vulnerability with your friend could indeed deepen your connection. By nurturing this openness, you're fostering a space for mutual growth and understanding. How might you gently approach this conversation to ensure it reflects the trust and strength of your bond?"
+    },
+    {
+        "round": 12,
+        "user": "yes I do! Thank you so much",
+        "answer_final": "You are welcome, I hope everything turns out all right.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I think gently expressing my feelings is a good step. Thank you for helping me see this as an opportunity to strengthen our bond.",
+        "therapist": "Your readiness to express your feelings reflects your courage and commitment to this friendship. Embracing this moment might uncover new dimensions of trust between you both. How does recognizing this opportunity affect how you feel about moving forward?"
+    },
+    {
+        "round": 13,
+        "user": "Thank you! Your help means a lot. Have a great day",
+        "answer_final": "Have a great day, and good luck!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Recognizing this opportunity makes me feel hopeful about moving forward. It’s reassuring, and your support truly means a lot. Thank you! I appreciate your guidance.",
+        "therapist": "Recognizing hope and reassurance is empowering, and your courage to embrace this opportunity strengthens your bond. How can you nurture this sense of hope in your ongoing conversations with her, enhancing both your confidence and the relationship's growth?"
+    },
+    {
+        "round": 14,
+        "client": "I’ll start by sharing small, positive memories we’ve created over the years. Reflecting on those will help nurture hope, remind us of our strong foundation, and reinforce my confidence in her support.",
+        "therapist": "Sharing those positive memories seems like a gentle way to affirm the strength of your relationship. Naming this fear separately from yourself might help lessen its hold on you. Consider what this \"fear of vulnerability\" might look like if it were a character in your story.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 15,
+        "client": "Fear of vulnerability might be like a quiet shadow, always lingering. It appears during conversations about deep emotions, whispering doubts but reminding me of what's truly at stake.",
+        "therapist": "Fear as a shadow seems to cast doubt, but it also acknowledges the value of what’s at stake. How has its whisper shaped your choices or reactions in conversations that matter most to you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 16,
+        "client": "Fear’s whisper makes me hesitate, like when I held back telling my friend about a tough family issue. I worried she’d see me differently, but it felt lonely.",
+        "therapist": "Fear’s whispers seem to pull you into hesitation and loneliness, which makes its presence feel burdensome. How might life shift if that shadow didn’t hold you back from trusting your friend with those tender parts of your story?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 17,
+        "client": "I think life would feel lighter, more connected. I recall a time I opened up about my struggles at work, and her empathy made me feel truly understood and supported.",
+        "therapist": "You’ve experienced how trust and empathy can deepen connection. By quieting fear’s whispers, it seems you’re honoring your value of meaningful relationships. What is it about being seen and supported by your friend that feels so important to you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I think being seen and supported makes me feel like I truly matter. One time, I shared a personal fear with her, and her calm reassurance gave me strength to face it.",
+        "therapist": "Sharing your fears and being met with calm reassurance highlights your value for trust and connection. How does standing up to this \"shadow\" align with the kind of relationships you hope to nurture in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Standing up to the shadow feels like taking charge of my life. I remember once sharing a childhood insecurity with a friend. She listened patiently, and it deepened our bond. Facing vulnerability aligns with the closeness I wish to cultivate.",
+        "therapist": "Recognizing vulnerability as a path to deeper connections underlines the closeness you value. Cultivating this willingness to share personal insecurities highlights your commitment to genuine relationships. What qualities within these bonds inspire you most as you stand up to fear?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Honesty and empathy inspire me most. When I shared a fear of failure with my sister, her honest feedback and empathetic support reminded me I'm not alone in my struggles.",
+        "therapist": "Honesty and empathy truly nurture meaningful bonds and affirm you're not alone. Your fear of failure seems to challenge these values. As you explore this, consider how strengthening honesty and empathy might reinforce the supportive connections you treasure.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think being honest about failure means admitting it’s okay to not have everything figured out. Once, after a tough exam, opening up to my friend eased my shame.",
+        "therapist": "Embracing the unknown and sharing with your friend opened a path for courage over shame. Those moments of honesty show resilience and strength. How does this understanding shape who you are becoming in your preferred story of overcoming challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Recognizing courage over shame transforms my story. I recall overcoming a career setback, acknowledging it was temporary and allowing myself to grow from the experience with newfound determination.",
+        "therapist": "Courage in embracing setbacks reveals your determination and resilience. Recognizing them as temporary sparks growth from within. How might this evolving sense of courage shape the path toward realizing your values and intentions in future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Courage allows me to persist despite fear, like when I applied for a promotion, uncertain of my capabilities. It redefined my values as tenacity and growth in future challenges.",
+        "therapist": "Courage and tenacity have crafted a profound shift in your journey. These evolving values guide you through uncertainty and growth. What possibilities can emerge when these qualities become the foundation of your future story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Exploring new roles and challenges has unveiled exciting possibilities. I recently accepted a project that stretched my skills, fueling excitement and belief in my evolving capabilities.",
+        "therapist": "Recognizing and embracing these challenges reveals your commitment to growth and belief in your abilities. These unfolding experiences pave the way for an empowering narrative. Consider how this project and newfound excitement shape your ongoing journey of self-discovery and capability.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "This project has helped me tap into hidden strengths, feeling both nervous and exhilarated. It's a reminder of my ability to evolve, driving deeper self-belief.",
+        "therapist": "Evolving through challenges enhances your self-belief and highlights untapped strengths. This discovery shapes a narrative centered on growth. How might you integrate these hidden strengths into the vision of your preferred identity as you continue your journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Discovering these strengths gives me hope. I can incorporate them into my identity by embracing risk-taking in professional pursuits, like seeking a leadership role where my creativity thrives.",
+        "therapist": "Your journey toward embracing risk-taking and creativity highlights your powerful capacity for leadership. These strengths illuminate new paths, fueling both hope and determination. As you explore these landscapes, envision the legacy of change you'll inspire in this evolving narrative.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I imagine this legacy as empowering others through mentorship, like guiding my team on the project. Seeing their growth inspires me and strengthens my belief in collective success.",
+        "therapist": "Mentorship reflects a deeply rooted commitment to fostering growth and shared success. As you guide others, how does this act of empowering them enhance your sense of purpose and align with the legacy you're creating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Empowering others makes me feel fulfilled, like when I helped a teammate overcome self-doubt. Their success reminded me that guiding growth reinforces both their potential and my purpose.",
+        "therapist": "Guiding your teammate reveals the deep alignment between your values and actions, creating a powerful story of connection and growth. How might this commitment to empowering others shape the legacy of purpose you’re building in both your personal and professional life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think this commitment shapes my legacy by creating a ripple effect. For instance, when my teammate gained confidence, they started mentoring others. It felt deeply rewarding.",
+        "therapist": "Your ripple effect speaks to the values of collaboration and empowerment that shape your identity. How do you see these values continuing to guide your future choices and deepening the impact of your legacy?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think these values will guide me toward creating inclusive spaces, like organizing workshops for personal and professional growth. Seeing people feel valued and capable deeply motivates me.",
+        "therapist": "As you organize these workshops, the inclusive spaces you create are integral to your evolving story. They illustrate your dedication to growth and empowerment. How do these actions help solidify this vision for yourself and strengthen the community you’re building?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "These actions solidify my vision by affirming my role as a catalyst for change. During a recent workshop, seeing participants light up with new insights made me feel hopeful and fulfilled.",
+        "therapist": "As a catalyst for change, your dedication profoundly impacts those around you. Witnessing their growth aligns with your values and deepens your sense of fulfillment. How do these moments shape the story you're writing about your leadership journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "These moments redefine my leadership narrative, centering it around empowerment and shared growth. At our last team meeting, recognizing others' achievements inspired hope in me for a collaborative future.",
+        "therapist": "Reflecting on your team's achievements truly illustrates the empowering journey you're shaping. This collaborative future narrative embraces hope and shared growth. How can you further nurture these moments to ensure your vision continues to evolve and deepen in meaningful ways?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think I can nurture these moments by creating consistent opportunities for dialogue, like monthly check-ins. Hearing everyone's stories and progress helps me feel more connected and inspired.",
+        "therapist": "Creating regular dialogue through monthly check-ins reflects your commitment to empowering a collective identity. Your role as a facilitator enriches the landscape of collaboration, nurturing shared growth. How might this deepening connection influence the continued development of your empowering narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think it would deepen my trust and sense of purpose. During one check-in, hearing a colleague open up about overcoming self-doubt made me reflect on my own growth too.",
+        "therapist": "Trust and purpose seem deeply rooted in your journey. Reflecting on your own growth alongside others’ stories creates a shared strength. How might recognizing these connections further affirm the leader and collaborator you strive to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Recognizing these connections strengthens my leadership by fostering deeper empathy. At a recent team gathering, witnessing colleagues support each other's successes encouraged me to build more trust-driven initiatives.",
+        "therapist": "Empathy clearly plays a vital role in your leadership story, deepening trust and collaboration. Building these initiatives aligns closely with your values and aspirations. How might these empathetic connections continue to shape the leader you aspire to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Recognizing these connections deepens my understanding of compassionate leadership. Leading a project where each member felt valued made me realize empathy fuels resilience and innovation in our work culture.",
+        "therapist": "Through valuing empathy, your leadership draws from those moments of connection with your team. Consider how the mutual impact of significant relationships throughout your journey reinforces resilience and innovation in shaping a compassionate work culture. How might these relationships guide further growth in your leadership narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My relationships guide growth by offering insight and perspective. After a colleague praised my patience in navigating challenges, it reinforced the value of steadfastness in compassionate leadership.",
+        "therapist": "Recognizing steadfastness in your compassionate leadership highlights a powerful aspect of how you are viewed by others. Your colleague's praise validates this strength. How does embodying these qualities shape your self-perception and influence your continued journey in leadership?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I feel more confident in my leadership now. When I resolved a team conflict calmly, I realized how patience and empathy could turn tension into collaboration, reinforcing my approach.",
+        "therapist": "Your ability to bring calm and empathy into conflict shows the value you’ve created in fostering collaboration. Seeing the impact of your leadership on others, how might this strengthen your confidence in continuing to build these meaningful connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think seeing positive shifts in my team after conflict resolution boosts my confidence. For instance, when a tough project deadline caused tension, guiding them toward shared solutions was rewarding.",
+        "therapist": "Guiding your team toward solutions reflects both your confidence and how much they value your leadership. How do you think your ability to nurture collaboration has shaped their growth or inspired them in navigating challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I think fostering collaboration gave my team confidence to trust each other more. After brainstorming through a major technical hurdle together, they began seeking input more openly, which felt fulfilling.",
+        "therapist": "Your ability to foster trust and collaboration clearly influences how your team engages with one another. How do you think their openness has shaped their identities or strengthened their sense of belonging within the group?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I think their openness allowed them to see each other’s strengths more clearly. After they collectively solved a critical budgeting issue, the group felt more unified and confident.",
+        "therapist": "Your leadership seems to have encouraged your team to truly value each other’s strengths. How do you think this sense of unity and confidence within the group might continue to shape how they support one another in future challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think their enhanced unity will help them tackle upcoming challenges with mutual trust and confidence. It reminds me of when they coordinated to address a sudden client request effectively.",
+        "therapist": "Your team’s ability to coordinate effectively under pressure reflects a collective strength you’ve nurtured. How do you think their growing trust and problem-solving skills might influence not only their work but also how they view themselves as collaborators?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I feel their trust and problem-solving boosts their self-worth as collaborators. When they seamlessly handled a software crash, it seemed they started viewing themselves as proactive problem-solvers.",
+        "therapist": "You’ve nurtured an environment where their self-worth flourishes, shaping how they see themselves as capable and resourceful. How do you imagine this growing confidence in themselves might inspire their actions or even influence how others perceive them within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Their growing confidence seems to lead them to take more initiative. I recall a meeting where quieter members started contributing bold ideas, showing their shift in self-perception.",
+        "therapist": "Your encouragement seems to have given those quieter members permission to see their voices as valuable. What does it mean to you, knowing your leadership has helped them step into a more confident version of themselves?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "It's fulfilling to see them grow and know I've contributed. When Sarah suggested automating a manual task, it showed she saw her ideas as impactful, which was rewarding to witness.",
+        "therapist": "Your fulfillment speaks to the meaningful role you play in their growth. How might Sarah’s confidence and initiative reflect the influence of your own values or strengths as a leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I think it mirrors my focus on collaboration and empowerment. When Sarah took that initiative, I felt proud knowing my support encouraged her to trust her own ideas.",
+        "therapist": "Your pride in Sarah's initiative reflects how your values of collaboration and empowerment shape the team. How do you envision this reciprocal impact, where both you and your team grow together, continuing to transform their self-identity and abilities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I'm hopeful that as we continue this journey together, it'll foster a mutual sense of resilience and creativity. Like last week when Mark proposed refining processes, his insight really impressed me.",
+        "therapist": "Your ability to inspire Mark’s insight shows how deeply your leadership and encouragement affect the team. How might this ongoing journey shape your collective identity, strengthening both the group's resilience and creativity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I'm hopeful that with more collaboration, our collective identity will become more innovative and adaptive. Like when Emily challenged a complex issue head-on, inspiring the team's resilience.",
+        "therapist": "The way Emily inspired the team's resilience highlights your role in creating a space where everyone grows. Your leadership enables such empowering shifts. How does seeing these changes enhance your understanding of your influence on the team’s adaptive and innovative spirit?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Seeing these changes makes me realize the impact of nurturing an environment where people feel safe to experiment and fail. It humbles and motivates me to support them more.",
+        "therapist": "Your motivation to support your team more reflects your values and the sense of security you’ve created. How might their growth influence your own identity as a leader, knowing you've contributed significantly to their development?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I feel more confident in my leadership abilities seeing them grow. One time, Lisa suggested a creative campaign that succeeded beyond our expectations, reinforcing my belief in empowering others.",
+        "therapist": "Seeing Lisa's success and your confidence in leadership reflects a powerful cycle of empowerment and innovation. Your influence deeply impacts the team. How might recognizing these contributions further shape your leadership style, reinforcing this mutually beneficial dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

@@ -1,0 +1,476 @@
+[
+    {
+        "round": 1,
+        "user": "Hello, how are we doing today?",
+        "answer_final": "Good, how are you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello! I'm feeling a bit anxious today but ready to explore my feelings. How are you?",
+        "therapist": "I'm glad you're open to exploring your feelings. Your readiness is a step towards understanding your anxiety. How can we make this space feel safe and supportive for you today?"
+    },
+    {
+        "round": 2,
+        "user": "Not so good unfortunately.",
+        "answer_final": "You can tell me what's bothering you",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Not so good, unfortunately. I’ve been overwhelmed lately, and my thoughts feel scattered. Having a safe space to unpack this would really help right now.",
+        "therapist": "You're carrying a lot right now, and it’s understandable to feel overwhelmed. Let’s take this time to gently unpack what feels most pressing for you—there’s no rush here."
+    },
+    {
+        "round": 3,
+        "user": "Due to this pandemic, I fear for the safety of my job.",
+        "answer_final": "Totally understand your worries",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. Lately, the pandemic has made me worry a lot about job security. The uncertainty keeps nagging at me, and it’s hard to stay focused or calm.",
+        "therapist": "The uncertainty you're facing can feel so heavy. It makes sense to struggle with focus and calmness right now. What would a moment of relief or steadiness look like for you in the midst of this?"
+    },
+    {
+        "round": 4,
+        "user": "Anxiety is at all time highs due to this.",
+        "answer_final": "Is there a reason for your fear?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think a moment of relief would be feeling less weighed down by the constant anxiety about my job. It’s like it’s always looming, and it makes everything harder to enjoy.",
+        "therapist": "The weight of constant anxiety sounds exhausting, as if it's trying to hold you back. If we imagined your anxiety as separate from you, what name might fit its presence in your life?"
+    },
+    {
+        "round": 5,
+        "user": "My firm has already cut 10%. I feel like I might be going next.",
+        "answer_final": "it's important right now to take one step at a time, you should always prepare and find a backup plan in case it happens, but at the same time not worry too much because it won't help",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Anxiety feels like a shadow, always hovering and unpredictable. Knowing my firm already cut 10% adds fuel to that worry. The fear of being next is constant.",
+        "therapist": "Naming your anxiety a shadow helps frame its presence. Acknowledge its unpredictability yet consider moments when your resilience has stepped forward. How can you begin shifting the power from this shadow towards your inner strength and security?"
+    },
+    {
+        "round": 6,
+        "user": "I can't stop worrying. If I lose my job, I don't know where to go, what to do.",
+        "answer_final": "You should look around and see if anyone hiring. I would say go for part time jobs too in case there is nothing available in your industry",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The shadow feels daunting, yet remembering past challenges reminds me of my resilience. I worry about losing my job, unsure of my next steps.",
+        "therapist": "Remembering your resilience amidst challenges is powerful—it shows strength even in uncertainty. What steps, no matter how small, might help you feel a bit more grounded as you navigate this shadow right now?"
+    },
+    {
+        "round": 7,
+        "user": "With lock downs in my area, small businesses will go under. Which means fewer jobs. I'm really scared.",
+        "answer_final": "You can try gig worker, being on Mturk can bring some decent money if you're diligent",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Feeling grounded feels tough right now, knowing lock downs are causing small businesses to collapse. Fewer jobs only intensify my fears about how fragile stability seems.",
+        "therapist": "The fragility of stability can feel overwhelming in times like these. Amid this uncertainty, where do you notice small signs of strength or hope within yourself that could offer some steadiness?"
+    },
+    {
+        "round": 8,
+        "user": "Anyone tips for Mturk? I'm new to this.",
+        "answer_final": "I only work after office hours now so I aim for good paying gigs. Back when I had more time, I just did any gigs available",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Amidst all this fragility, starting on Mturk gives a sense of hope for some stability. Any tips for navigating it as a beginner?",
+        "therapist": "Starting on Mturk represents a beacon of hope amidst uncertainty. Trust your adaptability as you navigate new beginnings; it's part of the resilience you've already shown. What strengths or skills might you call upon to ease into this journey with confidence?"
+    },
+    {
+        "round": 9,
+        "user": "Any suggestions for gig work?",
+        "answer_final": "Do any work you can get, it's all about speed and willingness",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your encouragement. I have skills in data entry and research; any tips for leveraging those on Mturk or exploring other gig work opportunities?",
+        "therapist": "Embracing your skills in data entry and research can indeed open doors. Exploring gig platforms that match your strengths could also enhance your sense of stability. How might you envision blending these opportunities with the inner resilience you've shown to create a hopeful path forward?"
+    },
+    {
+        "round": 10,
+        "user": "Thanks for the positive vibes, but my future looks dim unfortunately.",
+        "answer_final": "I understand, it's hard to be positive right now. However, I believe things will get better eventually as long as you hang in ther",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the support. Leveraging my skills gives some hope, but I still feel unsure about the future. Perhaps diving deeper into gig work might shift this dim perspective.",
+        "therapist": "Leveraging your skills in gig work could indeed provide a sense of direction amidst uncertainty. Trust in your abilities and take it step by step—what small actions today might move you toward the stability you're hoping for?"
+    },
+    {
+        "round": 11,
+        "client": "Taking small actions today might mean reviewing potential tasks on Mturk that align with my skills. This would help shift my focus from worry to proactive steps.",
+        "therapist": "Exploring tasks that match your skills can be empowering. Let's look at this worry as a visitor that doesn't define you. How might these small steps shift the influence of uncertainty on your life's narrative?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "Reviewing tasks that match my skills not only distracts me from the worry but gives me a tangible way to manage uncertainty. It feels like each task strengthens my narrative toward stability.",
+        "therapist": "By separating worry from your identity, each task becomes an ally, guiding you toward stability. As this narrative unfolds, how is this renewed strength influencing relationships or choices beyond work?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "I think this renewed focus gives me a little more patience with loved ones. Knowing I’m actively pursuing stability eases tension, especially during conversations about our shared worries.",
+        "therapist": "Renewed focus is changing the story, softening interactions and reducing tension. It's revealing how proactive steps are diminishing worry's hold on you. How might you continue to externalize worry and refine patience, nurturing these conversations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "I can practice patience by regularly sharing my progress with family, creating open dialogues about challenges. This shared understanding might dissolve tension and allow mutual support.",
+        "therapist": "Sharing progress with family brings connection and transforms tension into a space for mutual support, aligning with your value of patience. Consider how this openness can enrich these relationships further while reaffirming your hope for stability and understanding.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Sharing my progress could help us all feel less isolated in our struggles. For example, when I updated my partner about a completed task, we ended up discussing new goals together.",
+        "therapist": "Engaging your partner through shared progress fosters connection and unity, enhancing mutual support. How does aligning new goals with your partner resonate with the values or hopes you hold for a more connected life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Aligning our goals supports my dream of building a life full of shared experiences and mutual growth. Recently, setting joint objectives helped strengthen our bond and reminded me that I'm not alone in navigating uncertainty.",
+        "therapist": "By embracing joint goals, you're nurturing values of shared experiences and growth. How does this strengthened bond help keep worry in its place, and affirm your commitment to connection?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Having joint goals with my partner helps ease worry by focusing on progress and collective achievements. For instance, after discussing our future plans, I felt comforted knowing we are tackling challenges together.",
+        "therapist": "Building a life grounded in shared goals reflects your deep value for connection and collective strength. As worry loosens its grip, what do you feel this partnership is teaching you about navigating uncertainty together?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Navigating uncertainty together teaches me resilience and trust. Recently, when financial stress hit, we brainstormed solutions instead of panicking. It felt empowering to face it as a team.",
+        "therapist": "Resilience and trust seem to embody the strength you're building as a team. How do these qualities reflect what you most value in facing challenges together, especially as you redefine your relationship with uncertainty?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Resilience and trust remind me that we’re stronger when we face things together. When uncertainty loomed over a career change, my partner’s confidence steadied me, and I learned to believe in myself.",
+        "therapist": "Trust and resilience seem to challenge uncertainty’s grip on your life. How does viewing uncertainty as something you’re steadily overcoming align with your commitment to growth and mutual strength in this partnership?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I think overcoming uncertainty together mirrors the commitment we have to each other’s growth. Recently, when my doubts resurfaced, their reassurance reminded me I’m not fighting alone.",
+        "therapist": "Embracing your partner's reassurance reveals the powerful role trust plays in pushing doubts aside. It appears you’re forming a stronger narrative that emphasizes collaboration and shared growth. How does this new understanding influence how you view challenges ahead?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I see challenges now as opportunities to deepen our connection. For instance, when facing a family conflict recently, we supported each other and found solutions together—strengthening my faith in us.",
+        "therapist": "By transforming challenges into opportunities for connection, you’re nurturing a narrative of resilience. This shared approach seems to not only affirm your partnership but also your belief in mutual strength. How might you continue building this empowering story as you encounter future uncertainties?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think by continuing to openly communicate during tough times, we can keep building that resilience. Like when I felt overwhelmed recently, sharing my fears helped us find a solution together.",
+        "therapist": "Sharing your fears seems to pave the way for meaningful solutions, empowering your journey together. As you continue these open dialogues, what future challenges do you feel most prepared to transform through this strengthening bond?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I feel most prepared to face unexpected health issues. When I experienced an anxiety episode recently, our open discussions brought comfort and reduced the tension significantly. It felt nurturing.",
+        "therapist": "Acknowledging how open discussions provide comfort suggests your commitment to nurturing mutual strength. As you co-author this story of resilience, which qualities or intentions from your identity seem pivotal in supporting the ongoing journey against health uncertainties?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think my patience and willingness to face emotions openly are pivotal. Recently, when chest pains triggered panic, I stayed vulnerable, shared with my partner, and embraced their calming presence.",
+        "therapist": "Your openness and patience seem deeply connected to the values you hold in navigating uncertainty with grace. How might leaning into these qualities shape the way you continue to define your strength and connection within this partnership?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I find strength in sharing vulnerability, which deepens our bond. Recently, discussing career anxieties with my partner brought reassurance and stability, reinforcing trust and partnership growth.",
+        "therapist": "By sharing vulnerabilities, you're shaping a narrative where trust and partnership thrive. As you redefine your identity through resilience and openness, consider how these values further enrich the dynamic of mutual support in your relationship.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "As I embrace vulnerability, it strengthens our bond and mutual support. For instance, when financial stress hit, being open about fears fostered deeper trust and cooperation in finding solutions together.",
+        "therapist": "Your openness amidst challenges redefines your narrative of mutual support and cooperation. As these moments become part of your evolving story, how do you envision nurturing this trusting partnership in future opportunities for growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I envision nurturing this bond through proactive listening and openness. For example, during job uncertainty, actively sharing hopes and fears helped us create a practical action plan together.",
+        "therapist": "Through your openness and active listening, you're shaping a narrative that reflects a commitment to trust and growth. How does this emerging story of resilience and partnership connect with deeper intentions or values you hold in other areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I value connection and empathy deeply. Facing emotional distress at work, my compassion led to honest communication. This foundation not only boosts our relationship but encourages more meaningful connections professionally.",
+        "therapist": "Your compassion seems to be a guiding principle, fostering connection even in challenges. How does this commitment to empathy and honesty shape the way you see yourself navigating future relationships or professional growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I see empathy as my anchor. Recently, offering honest feedback at work led to stronger team dynamics, helping me recognize its power in building both personal and professional growth.",
+        "therapist": "Empathy indeed serves as a powerful anchor in shaping your preferred identity. As you embrace this strength, consider how it might influence further actions in other areas of your life where fostering connections could lead to new narratives.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Empathy lets me offer comfort when my friend's marriage felt shaky. This act of understanding strengthened our friendship, inspiring me to consider more intentional, supportive roles in my other relationships.",
+        "therapist": "Offering comfort during a challenging time highlights your deep commitment to empathy and meaningful connections. As you consider taking on more supportive roles, how might this align with the kind of person you're striving to become in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think it aligns closely—I want to be someone who others can trust and rely on. Recently, comforting my sister during her divorce taught me how powerful just being present can be.",
+        "therapist": "Your presence and reliability reflect the values you hold dear. As you nurture this identity, what other meaningful qualities or actions would deepen your sense of being someone others trust and rely on in moments that matter?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think patience and consistency are crucial. When my friend faced a health scare, consistently checking in and offering support reminded me how much reliability can ease someone’s fears.",
+        "therapist": "Your focus on patience and consistency reflects a powerful intention to ease others' struggles. How might continuing this approach in future situations deepen your sense of being someone who truly offers comfort and stability in uncertain times?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Continuing this approach strengthens my sense of reliability, especially remembering how calm and supported my friend felt during her health scare. It gives me a purpose-driven peace.",
+        "therapist": "Your sense of purpose-driven peace seems deeply connected to your values of reliability and care. As you continue embracing this, what broader vision of yourself or your relationships emerges from embodying these qualities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I envision nurturing connections where trust and mutual growth are constant. Supporting a colleague's career move reassured me how meaningful guidance can open paths and foster mutual respect.",
+        "therapist": "Envisioning connections built on trust and mutual growth shapes a meaningful path for your relationships. Reflect on how these qualities can be interwoven into the larger narrative of your life. What new possibilities emerge as you embrace this supportive role?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "As I embrace a supportive role, new possibilities arise like fostering stronger bonds and unlocking shared growth paths. Recently, guiding my cousin through career uncertainty revealed the rewarding nature of being an anchor.",
+        "therapist": "Your role as an anchor seems deeply rewarding, opening up avenues for mutual growth. Considering these insights, what steps might deepen your understanding of fostering trust and collaboration in future connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Building trust through active listening and empathy could deepen connections. Helping a neighbor during her home renovation taught me the value of being present and dependable.",
+        "therapist": "Reflecting on your experience with your neighbor highlights your natural ability to create dependable connections through presence and empathy. Considering these contributions, how might those qualities shape how others perceive and rely on you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "People might see me as a steady presence. Recently, supporting my sister during a tough breakup, I realized empathy and reliability made her open up and trust me deeply.",
+        "therapist": "Your support during your sister's breakup highlights your steady presence in her life. How might seeing yourself through her eyes affirm your sense of empathy and reliability? Your contribution truly matters and helps shape a deeper narrative of connection and care.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 38,
+        "client": "Seeing myself through her eyes, I realize my empathy is more impactful than I imagined. It's comforting to know that simply being there can foster healing and trust.",
+        "therapist": "Your realization reflects a profound capacity to make others feel safe and valued. How do you see this gift of empathy shaping the way others view or respond to you in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I believe my empathy encourages others to trust me and share their vulnerabilities, just like when my friend confided in me about her job stress. It's rewarding yet humbling.",
+        "therapist": "Embracing your empathetic role invites others to trust and share with you, deepening mutual connections. As your empathy shapes others' identities, they may experience more openness and healing. Reflecting on this impact, how do these contributions influence your own relational identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Feeling valued in relationships fuels my self-worth and awareness. When a colleague confided in me about her health issues, it strengthened our bond, affirming my supportive role.",
+        "therapist": "Your colleague’s trust in you demonstrates how your supportive nature strengthens not only connections but also their sense of safety. How might these contributions inspire others to see themselves differently through the impact you've had on their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I think they start seeing their own strength more clearly, like my friend realizing her resilience through job challenges. It makes me feel fulfilled and encourages our mutual growth.",
+        "therapist": "Your contributions seem to create space for others to rediscover their strengths. How does knowing you inspire resilience in others deepen your understanding of your own capacity for growth and connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Knowing I inspire resilience boosts my confidence. When helping a coworker manage anxiety before a presentation, I realized supporting others strengthens both of us. It reassures me of mutual growth.",
+        "therapist": "Your ability to inspire resilience brings mutual growth to your relationships. Recognizing how you boost others' strength can enhance both your relational identity and self-worth. How might fostering this resilience continue shaping shared connections in your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Fostering resilience lets me see potential in relationships. Recently, supporting a friend through a breakup, I felt a deeper bond and empowerment in shared healing.",
+        "therapist": "Embracing resilience has fortified your relational identity, allowing you to experience empowerment and deeper bonds. Seeing potential in these connections suggests they are sources of strength and growth for both you and those around you. What further dimensions might emerge from nurturing these shared experiences?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think nurturing these connections might help me see parts of myself I’ve overlooked—like when my sister leaned on me during her divorce. It revealed my own quiet strength.",
+        "therapist": "Your sister’s trust seems to have highlighted an inner strength she likely saw in you all along. How do you think seeing yourself through her eyes might further shape the way you view your role in these meaningful connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 45,
+        "client": "I think seeing myself through her eyes makes me feel more capable. When she said my advice brought her clarity, it reminded me that I can truly make a difference.",
+        "therapist": "Your sister's clarity through your advice reflects the meaningful impact you’ve had. How might this recognition of your capability shape the way you continue to contribute to the lives of those who value and trust in you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I think it encourages me to be more intentional with my support. For example, I recently checked in on a colleague struggling silently, and her gratitude was deeply fulfilling.",
+        "therapist": "Your thoughtful action seems to reflect your growing awareness of the power in your support. How do you imagine that moment of connection influenced not only her sense of comfort but also how she may now see herself through your care?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I imagine it helped her feel less alone, validating her emotions. In sharing my own past challenges, I hoped to reflect resilience in herself she might not see yet.",
+        "therapist": "Sharing your past challenges not only offered her comfort but also likely helped her see herself through a lens of strength. How might this act of connection and encouragement shape the way she perceives her own capacity for resilience moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think my sharing might inspire her to view struggles as opportunities for growth. Knowing someone else has faced similar issues could make her feel more resilient and less isolated.",
+        "therapist": "Recognizing your impact through sharing fosters a powerful bond of mutual support and understanding. It seems like you’re deeply invested in fostering environments where resilience can thrive. How might continuing to embrace this role influence both your journey and the journeys of those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Continuing this role feels like unlocking a purpose within me. It brings a sense of fulfillment, knowing I can influence positive change in myself and inspire resilience in others.",
+        "therapist": "Your sense of purpose and fulfillment is a profound force in shaping not just yourself but others as well. How do you think your intentional support might continue to deepen their awareness of their own resilience and growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "With intentional support, I’ve seen moments when people reflect on past struggles and realize their growth. When my friend managed her stress through exercises I suggested, it was rewarding seeing her embrace resilience.",
+        "therapist": "Sharing tools for stress management reinforces your influential role in shaping resilience in others. As you witness these transformations, how does it affect your understanding of mutual growth and identity in the relationships you're nurturing?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

@@ -1,0 +1,566 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi there, how are you feeling today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling overwhelmed lately, unsure of how to navigate these emotions. I appreciate your support, it helps me find some peace in this storm.",
+        "therapist": "Your acknowledgment of the emotional storm shows courage. What stories or resources bring you comfort during times of overwhelm? Let's explore those narratives together and uncover paths to inner peace."
+    },
+    {
+        "round": 2,
+        "user": "Hi. I don't know... sort of down. Sort of empty... How about you?",
+        "answer_final": "I am feeling a bit the same. Is there something specific that you'd like to talk about?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling sort of down and empty, but thinking about nature documentaries gives me some comfort. It's fascinating how everything is interconnected and brings a sense of balance.",
+        "therapist": "Nature's interconnectedness brings you comfort and balance. In what ways do you see your own life reflecting this harmony? Your appreciation for these connections is a strength we can draw upon as you explore your own narrative."
+    },
+    {
+        "round": 3,
+        "user": "Well, I moved to a new state - feeling pretty alone.",
+        "answer_final": "Do you not know anyone else there?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I just moved to a new state and the loneliness is tough. However, when I watch nature documentaries, it reminds me that adaptation takes time, just like in nature's harmony.",
+        "therapist": "Moving can indeed feel isolating, yet your appreciation for adaptation shows resilience. Consider how you've adapted to past changes and embraced new connections. This capacity can guide you now, connecting with nature's harmony in your own journey."
+    },
+    {
+        "round": 4,
+        "user": "No, not really. I inherited some money, because both of my parents died last year. So I bought a house I love, in a tiny town...",
+        "answer_final": "Do you think it would benefit you to join some groups or societies where you would meet new people?. If you feel a little out of your depth, that is perfectly normal at this stage!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess I’ve had to adapt before. Last year was especially hard—losing both my parents. I inherited some money and decided to start fresh in a tiny town, buying a home I love. It’s bittersweet though, because while I have this new beginning, the loneliness really makes me miss them even more.",
+        "therapist": "Losing both your parents while starting fresh must feel like carrying two deep, intertwined emotions—grief and hope. Your decision to build this new chapter honors their memory. How might their values or love guide you as you navigate this bittersweet transition?"
+    },
+    {
+        "round": 5,
+        "user": "Yes, probably. But of course it's a weird time for that, with COVID...",
+        "answer_final": "Yes of course. So you feel that you cannot meet new people due to the pandemic?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think their values—like resilience and kindness—help me keep moving forward. But honestly, it's a strange time to start fresh with everything COVID has complicated.",
+        "therapist": "Resilience and kindness are powerful guides during uncertain times. Starting fresh amidst challenges like COVID shows immense strength. How might those values shape the way you navigate this period of change and connection in your new home?"
+    },
+    {
+        "round": 6,
+        "user": "Well, I didn't really do that much before COVID. But everything's changed in my life. I thought I could make a new start.",
+        "answer_final": "I understand that this is a bad time to be making a new start but please believe me, I think that things will get better",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's definitely been overwhelming. I thought a fresh start would be simpler, but COVID added so much uncertainty. Still, I'm trying to stay grounded in their values.",
+        "therapist": "You’ve faced so much, yet staying grounded in your parents’ values speaks to your strength. This fresh start may feel uncertain now, but how might resilience and kindness continue shaping the life you’re building here?"
+    },
+    {
+        "round": 7,
+        "user": "I feel like I know what the right things to do are, but nothing sounds fun. I feel like I'm just trying to force myself to do the things I should want to do.",
+        "answer_final": "It sounds to me like you might be suffering from depression. A lot of the population have this problem! Do you think that this might be the case?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think resilience helps me keep going, but I feel stuck emotionally. I try to do what seems meaningful or right, yet everything feels hollow, like I'm just going through the motions.",
+        "therapist": "Resilience has carried you through a lot, but feeling stuck emotionally is heavy. What small actions or moments might bring a sense of meaning or spark connection to something that feels less hollow for you?"
+    },
+    {
+        "round": 8,
+        "user": "It's not that I thought money would buy me happiness, but it is strange that now that I could do almost anything, I really can't think of anything I want to do.",
+        "answer_final": "That definitely sounds like depression to me. Can I suggest that you talk to your doctor?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s hard to pinpoint small actions right now because everything feels so empty. I didn’t expect money to fix that, but having it and still feeling lost surprises me.",
+        "therapist": "Money can't fill the emptiness of loss, and feeling lost despite having resources is valid. Your journey is unique. What might bring a glimmer of fulfillment or connection back into your life right now?"
+    },
+    {
+        "round": 9,
+        "user": "I definitely have depression. I can try taking meds again, I should probalby try counseling... I did start going to a doctor, at least",
+        "answer_final": "So you have insight into your condition at least ...  that is a very positive thing!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think addressing my depression could help. I've considered trying medication again and probably should try counseling. I did start visiting a doctor, which feels like a step forward.",
+        "therapist": "Visiting your doctor is a meaningful step forward, and it shows your commitment to caring for yourself. Exploring counseling and medication could further support you. What feels most important for you right now as you consider these steps?"
+    },
+    {
+        "round": 10,
+        "user": "I know it makes sense to try that, since it does help some people. But I just feel like, I know what they're going to say. I already know what I should do. I just don't do it.",
+        "answer_final": "What is it that you feel that you should be doing? Please do not put too much pressure on yourself!",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring those options does seem sensible, but I struggle with feeling like I already know the advice I’ll receive. Despite that, I recognize not acting on it is a hurdle.",
+        "therapist": "The challenge of knowing advice yet feeling stuck is significant. It's positive you're recognizing this hurdle and considering taking action. Engaging in therapy can provide fresh perspectives and deepen self-discovery. What support do you need to take the next step?"
+    },
+    {
+        "round": 11,
+        "user": "It's like I'm just so lazy... I don't do anything.  I could honestly just stay in bed and read and sleep all day and night.",
+        "answer_final": "I understand how that feels. I often feel the same way myself, especially now (and at this time of year). Please do not feel bad about it.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Recognizing the hurdle is helpful, yet some days feel like I’m just stuck in a cycle of laziness. Staying in bed seems easier, yet I want to change this.",
+        "therapist": "Recognizing this cycle shows courage, and your desire for change is a powerful motivation. It's okay to struggle, yet taking even small steps toward different routines can gradually shift things. What small shift or action could you try when those days feel overwhelming?"
+    },
+    {
+        "round": 12,
+        "user": "I'm not suicidal at all, but I would be totally fine with a big meteor taking us all out tomorrow. I feel like I gave it a shot, I'm sort of ready to be done. I find myself feeling jealous of very old people...",
+        "answer_final": "I have sometimes felt this way too. Do you have a pet? I have two cats and they do help to cheer me up when I feel especially bad",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I recognize the struggle and feel ready for change. Though sometimes it's tempting to escape it all, especially when comparing myself to those who've lived long lives, I'm committed to taking small steps. Maybe starting with getting out of bed earlier could be an attainable shift.",
+        "therapist": "Getting out of bed earlier is a meaningful and courageous first step. Taking these small steps acknowledges your journey towards change. How does it feel to think about how this small shift might impact your day?"
+    },
+    {
+        "round": 13,
+        "user": "If I could have traded places with one of my parents, I would have in a heartbeat. They loved life, and they were good at it.",
+        "answer_final": "So you feel that you are bad at life? Please do not!. I do need to go now but I hope that you can find some comfort in the future. I wish you all the best.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels hopeful to consider getting out of bed earlier. I admire how my parents lived their lives with enthusiasm and grace. Imagining a bit of that in my days motivates me.",
+        "therapist": "Your admiration for your parents is a beautiful source of inspiration. Considering earlier rising as a small step holds promise for more fulfilling days ahead. What part of their enthusiasm and grace might you like to incorporate into your own journey?"
+    },
+    {
+        "round": 14,
+        "user": "Yes! I'm not even joking - I think cats are the best thing there is in life. The day after I bought my house was the first genuinely happy day I'd felt in a decade or more - and the next day my cat died unexpectedly. Ugh.... Okay. Thanks for chatting. Hug your cats for me.",
+        "answer_final": "I am so sorry to hear that. I lost one of my cats earlier this year. I will and thank you for talking too",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I find their positive outlook and love for small joys so inspiring. Just thinking about moments with my cat reminds me of that joy despite the sadness when I lost them.",
+        "therapist": "The joy your cat brought mirrors the love for small joys you admire in your parents. Holding onto these moments can be a comforting way to honor their enthusiasm and grace in your life. What small joys could you invite into today to nurture that inspiration?"
+    },
+    {
+        "round": 15,
+        "user": "Yeah. It was rough, after losing both parents last year. Ughh.... Take care. Bye.",
+        "answer_final": "(I really did lose a cat earlier this year btw :( )",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The loss last year was overwhelming, but their love for life inspires me. Simple things like my cat's playfulness bring comfort and are a start.",
+        "therapist": "Your ability to find comfort in your cat’s playfulness amidst loss reflects strength and openness to small joys. Those moments can be stepping stones toward deeper healing. What other gentle joys could you explore that honor both your resilience and inspiration from their love for life?"
+    },
+    {
+        "round": 16,
+        "user": "I didn't doubt that for a moment. I'm really so sorry. I understand...",
+        "answer_final": "Thank you for talking and all the best",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think exploring other gentle joys could help. Maybe it’s something like sitting outside with a book or trying to cook a recipe that feels comforting and familiar.",
+        "therapist": "Exploring gentle joys like reading outside or cooking a comforting recipe reflects your resilience and openness. These moments can offer warmth and connection to cherished memories. What other familiar comforts would bring you joy and honor this path of healing?"
+    },
+    {
+        "round": 17,
+        "user": "To you as well. Dream of kittens!",
+        "answer_final": "I always do :) You kind of have to press quit and take a survey to exit",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think creating little moments of comfort like those can bring peace. And honestly, dreaming of kittens, or just imagining playful moments with them, feels so soothing too.",
+        "therapist": "You’re finding peace through comforting moments and imagination, which beautifully reflects your openness to joy. Exploring these soothing activities can nurture the heart's healing. What other peaceful imaginations or activities could bring similar comfort?"
+    },
+    {
+        "round": 18,
+        "client": "Sometimes I imagine a walk in the woods, surrounded by nature’s tranquility. The rustling leaves and birdsong remind me of simpler times, filling me with calm and reflection.",
+        "therapist": "Embracing nature’s tranquility is a wonderful way to connect with calm and reflection. Imagining walks in the woods can externalize stress and invite serenity. What name could you give this calming presence that feels so separate from anxiety or sadness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 19,
+        "client": "I’d call it “Nature’s Embrace.” I remember walking in the forest last spring, feeling cocooned by the vibrant greens and distant birdsong. It filled me with a profound sense of peace.",
+        "therapist": "Nature's Embrace brings a profound peace, a gentle counter to life's stress. Recognizing this serene presence helps clarify the contrast between stress and calm. How might Nature’s Embrace guide you in navigating other challenging aspects of your daily life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 20,
+        "client": "Nature’s Embrace offers clarity in my daily struggles, helping me pause and breathe through anxiety. Even recalling the forest's peace during stressful work calls re-centers my thoughts.",
+        "therapist": "Your connection to Nature’s Embrace as a resource for clarity highlights its empowering role in easing anxiety. How does anxiety differ in presence when you lean into this supportive “embrace,” and what makes that shift important for your well-being?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 21,
+        "client": "When I lean into Nature’s Embrace, my anxiety feels less suffocating. For instance, recalling its serenity during tense meetings helps me focus and feel steadier amidst chaos.",
+        "therapist": "Leaning into Nature’s Embrace during tense moments shows remarkable strength and clarity. This shift challenges anxiety’s grip and highlights your capacity for steady focus. What would it mean for your broader story if this calm and resourcefulness became a recurring part of your daily life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "It would mean freedom—a way to live without feeling so weighed down by tension. Just last week, I imagined a calm breeze during an argument, and it softened everything.",
+        "therapist": "Freedom woven with that softening breeze reveals a deep commitment to creating calm, even in conflict. It seems this reflects an intention to prioritize peace and groundedness—qualities tied to your core self. How might embodying these values further transform moments of tension into opportunities for connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think embodying peace could help me listen more deeply during conflicts. Recently, during an argument with a friend, I focused on calmness instead of reacting, and we actually resolved things.",
+        "therapist": "Embodying peace during conflicts empowers a profound shift towards resolution and connection. As this practice deepens, consider how its presence might ripple into other areas of your life, reinforcing communication and inner calm even further.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Lately, embracing peace lets me react less defensively. Like when my partner misunderstood me last night; instead of escalating, I breathed deeply, spoke calmly, and saw mutual understanding grow.",
+        "therapist": "You’ve shown a deep commitment to fostering understanding and calmness, even in challenging moments. This approach reflects an intention to nurture connection and mutual respect. How do these actions align with the person you’re striving to become in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "These actions feel like stepping stones toward being a calmer, more supportive partner. Last week, I paused during frustration and truly heard my partner's perspective—it deepened our connection.",
+        "therapist": "Pausing to truly hear your partner reflects a commitment to deeper understanding and emotional presence. How do these actions express the values or intentions that guide you toward being the supportive partner you wish to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Pausing to understand rather than react aligns with my values of empathy and patience. Like yesterday, I tried to see my partner’s view about plans; it fostered a calm, caring dialogue.",
+        "therapist": "Embracing empathy and patience not only nurtures connection but also aligns with your deeper values. How do these intentional actions shape the story you want to live out in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "These actions transform my relationships into nurturing spaces of mutual respect and understanding. Recently, embracing this approach during a disagreement about priorities brought us closer and strengthened trust.",
+        "therapist": "Creating nurturing spaces of respect and understanding in your relationships is indeed powerful. Consider how these transformations can extend into different areas of your life, further enriching them. How might deepened trust shape the way you view potential challenges ahead?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Deepened trust makes challenges feel less daunting. For example, when I faced stress about finances recently, I could openly share my fears with my partner, feeling supported instead of judged.",
+        "therapist": "Sharing fears with openness nurtures a foundation of trust and mutual support. How might you continue to embrace these values when faced with future challenges, ensuring they remain central in your narrative of partnership?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "Sharing financial concerns without fear felt like peeling off a protective layer; it’s hard but rewarding. Going forward, honesty and openness are my compass during any challenge.",
+        "therapist": "Honesty and openness as your compass point to a deeply courageous and values-driven path. How does seeing yourself embody these qualities begin to reshape the way you view who you are in this partnership and beyond?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Embodying these qualities feels liberating; I view myself as more resilient. Like last week, when prioritizing self-care over pleasing others felt empowering, reinforcing my confidence in this journey.",
+        "therapist": "Resilience shines through your empowerment and commitment to self-care, underscoring a transformation aligned with your values. How might this strengthened confidence continue to shape the ways you navigate other relationships or personal growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Confidence has helped me advocate for myself at work, like requesting a fair workload last month. It felt intimidating but rewarding; I’m learning to embrace my worth.",
+        "therapist": "Advocating for yourself reflects your growing confidence and recognition of worth. As you embrace these empowering actions, how do they influence the story of who you are becoming, both at work and in broader aspects of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think these actions are helping me redefine myself as someone who deserves respect. Recently, standing firm during a family disagreement about boundaries felt challenging but empowering.",
+        "therapist": "Standing firm and advocating for respect reflects your commitment to honoring your values. As you embrace this empowered identity, what might it mean for how you continue to shape relationships that truly align with your worth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think it means staying honest about my needs, like how I told a close friend recently that her frequent criticism was affecting me. It felt tough but necessary.",
+        "therapist": "Being honest about your needs, even when it's tough, speaks to the strength of your evolving narrative. As you navigate these moments, what future opportunities might help reinforce this powerful sense of self-respect and openness?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Lately, I've been considering joining a local advocacy group to strengthen my voice. Exploring new communities feels intimidating but invigorating, promising growth and deeper self-respect.",
+        "therapist": "Joining an advocacy group aligns beautifully with your commitment to growth and self-respect. How might connecting with this community further affirm the identity you're shaping as someone who stands firmly for their values?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I've thought about how voicing my beliefs in a group could strengthen my identity. Recently, I practiced this by sharing ideas at work; it felt rewarding but still nerve-wracking.",
+        "therapist": "Sharing your ideas at work aligns beautifully with the narrative you're building around self-respect and identity. How do these experiences contribute to your evolving understanding of yourself and what you value most?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Sharing ideas has made me realize the importance of trust and respect in relationships. At a recent team meeting, my suggestions sparked discussion and new strategies, reinforcing my belief in collaboration.",
+        "therapist": "Collaboration clearly holds deep value for you. Who in your life has modeled this kind of mutual respect and trust, or encouraged these qualities in you, shaping how you engage with others today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My mentor, Jane, has deeply influenced my perception of mutual respect and trust. Once, she confidently encouraged me to voice dissent in a project meeting. That experience broadened my view on collaboration.",
+        "therapist": "Jane’s encouragement seems to reflect how much she values your voice and perspective. How do you think she might describe the strengths or qualities she sees in you during moments like that project meeting?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Jane might describe me as resilient and perceptive. During that meeting, she noticed my ability to listen intently, connect ideas, and articulate thoughts with clarity, which instilled confidence.",
+        "therapist": "Reflecting on Jane’s perception, it seems clear that your strengths not only empower you but positively influence those around you. How does acknowledging your impact in such collaborative settings shape the narrative you wish to continue building about yourself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Acknowledging my impact strengthens the narrative of being a leader who values diversity in ideas. It reminds me of a recent team project where I navigated differing opinions to foster a unified approach.",
+        "therapist": "Your ability to navigate differing opinions and foster unity truly highlights your leadership strengths. How do you see your contributions impacting others' abilities to appreciate diversity, and how does this further shape the relational identity you're cultivating?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "In a recent team brainstorming session, my encouragement of diverse viewpoints led to unexpected solutions. It strengthens my belief in inclusivity and creates a dynamic identity grounded in collaborative strength.",
+        "therapist": "By fostering inclusivity, you not only enhance team dynamics but also inspire others to appreciate diverse perspectives. Your ability to shape collaboration is an important part of your relational identity. What further impacts do you notice in those you've influenced, and how do they reflect on your continued growth as a leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Reflecting on a recent workshop I facilitated, a team member shared how encouraged they felt to voice creative ideas. It was rewarding to see increased confidence and genuine connection develop.",
+        "therapist": "Engaging others in creative dialogue seems to have a ripple effect, enhancing their confidence and enriching connections. How do you envision these mutual impacts continuing to foster growth in your relationships, reflecting the inclusive leader you've become?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I see mutual growth through encouraging curiosity and dialogue. Recently, fostering open discussions about challenges enabled us to create a supportive team environment, nurturing trust and innovation.",
+        "therapist": "Your ability to foster openness seems to have deeply influenced the team's trust and innovation. How do you imagine these discussions have shaped their confidence or ability to navigate challenges in the future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Through these discussions, I see them taking bolder steps and tackling issues proactively. It fills me with a sense of accomplishment and reassures me of our collective potential.",
+        "therapist": "Your sense of accomplishment speaks to the depth of your impact on their growth. How does seeing their proactive transformation affirm or expand the narrative you hold about your role in shaping environments of trust and collaboration?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I feel proud and validated seeing their growth. One instance was when a hesitant team member confidently presented a bold idea—proof our environment fosters empowerment and trust.",
+        "therapist": "Your pride in fostering such a transformative environment speaks to the core of your leadership identity. How do you think this empowerment has influenced their view of themselves and the potential they see within their own contributions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think it’s helped them realize they have valuable insights to share. One member told me, “I’ve never felt this heard before,” and that really struck a chord with me.",
+        "therapist": "Your role in fostering that sense of being truly heard carries profound significance for their confidence and identity. How do you think this deep connection reshapes the way they now see themselves within the group or even beyond it?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "The sense of being heard helps them realize their unique contributions matter. Recently, one voiced a concern confidently and received genuine support, which seemed to amplify their self-assurance.",
+        "therapist": "Your ability to amplify others’ voices is deeply transformative. How do you think their growing self-assurance might now ripple outward, shaping their relationships and how they influence those around them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Their confidence feels like it creates a positive domino effect. One member recently mentored someone new, showing empathetic leadership and instilling that same trust I inspired in them.",
+        "therapist": "Your ability to inspire trust and empathy seems to have sparked a cycle of meaningful leadership within the group. How does witnessing this ripple effect shape your understanding of your own role in influencing their growth and connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Seeing their growth reflects the core belief I hold about enabling potential. I remember a project we worked on where they excelled and supported each other, reinforcing my commitment to fostering such environments.",
+        "therapist": "Recognizing your contributions speaks to how your belief in enabling potential fosters mutual growth. How has this reinforcement shaped your understanding of the value and impact you hold in creating empowering environments?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Witnessing their growth shows the lasting impact of believing in someone. It's rewarding, yet humbling, knowing my guidance shapes how they approach challenges and see possibilities.",
+        "therapist": "Believing in others has clearly left a profound mark on their sense of possibility and strength. How might seeing yourself through their appreciative eyes deepen your own understanding of the values you bring into these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "It’s humbling to see their appreciation reflecting back. I remember guiding a quiet member through a challenging presentation; witnessing their transformation reinforced my belief in nurturing strengths. This recognition motivates me to continually support and champion potential in others.",
+        "therapist": "You're creating empowering pathways for others, nurturing potential that might have otherwise stayed hidden. How does the awareness of your influence shape your vision for the environments you cultivate?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

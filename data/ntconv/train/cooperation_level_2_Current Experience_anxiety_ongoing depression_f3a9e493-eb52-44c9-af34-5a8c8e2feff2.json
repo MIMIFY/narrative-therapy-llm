@@ -1,0 +1,467 @@
+[
+    {
+        "round": 1,
+        "user": "I am having a very anxious day today",
+        "answer_final": "Hello! I am here to help, could you please tell me what the issue is?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling anxious today. It's like a weight on my chest. I've tried calming techniques, but it feels persistent and overwhelming right now.",
+        "therapist": "Anxiousness can feel quite overwhelming, almost like it's shaping the narrative of your day. I'm here to support you through this experience. What small acts or moments have you noticed that offer a bit of ease or relief?"
+    },
+    {
+        "round": 2,
+        "user": "My mother in law is sick with COVID and my husband, when he contracted COVID from her, got terminated from his job.",
+        "answer_final": "I can see why you feel anxious, I would be too given the situation.. When did your mother in law got sick with COVID?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been trying to focus on little moments with my husband, like watching a show or cooking together. It's tough though, with my mother-in-law sick and his job situation.",
+        "therapist": "You're balancing a lot right now, finding moments with your husband shows resilience. How do you see these shared experiences with him influencing the way you're navigating through these challenging times?"
+    },
+    {
+        "round": 3,
+        "user": "Yeah, it's just really stressful and I am over anxious about it.. Right before Thanksgiving, she is elderly and has cancer, she is finally feeling better though.",
+        "answer_final": "Cancer is already a hard enough disease to fight against. My aunt is a cancer survivor. I am sure your mother can make it too.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Those moments with my husband feel like brief reprieves from the stress. With his mom sick, and Thanksgiving around the corner, I sometimes get overwhelmed with anxiety. Still, there's comfort knowing she’s starting to feel a bit better.",
+        "therapist": "Finding comfort in your husband's moments can be grounding amidst the anxiety. Navigating family illness and upcoming events adds pressure, yet recognizing small positives like his mom feeling better offers hope. How do these changes shape the story you’re telling yourself about managing during this busy time?"
+    },
+    {
+        "round": 4,
+        "user": "She is a fighter.",
+        "answer_final": "From my knowledge, people usually recover from COVID after 2 to 3 weeks, you might consider having a doctor see your mother if she is still struggling.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Despite all the stress, I feel optimistic when I see her spirit. She truly is a fighter, and that's inspiring to me as I navigate these challenges.",
+        "therapist": "Your mother-in-law's spirit truly embodies resilience and seems to be a beacon of inspiration for you. As you embrace this strength, how does it influence your own journey through these challenges?"
+    },
+    {
+        "round": 5,
+        "user": "Yeah, she went again the other day. She is doing quite a bit better. He said because of underlying conditions it may take her longer, but she is doing great. That was encouraging.",
+        "answer_final": "There are substantially more people recovering from covid each day despite the number of infected growing exponentially. I am sure that, with the proper care, your mother in law will make it, and so will your husband.. I am sure he will be able to find a new job soon as new business start to open, even if it's a temporary one.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's inspiring to see her fight through everything. My husband said recovery might be slow due to her conditions, yet seeing improvement encourages me to stay hopeful and patient.",
+        "therapist": "Your mother-in-law's determination is a testament to resilience, and it's encouraging that you find hope in her progress. How do you see this sense of patience and optimism shaping your experience as you support her through recovery?"
+    },
+    {
+        "round": 6,
+        "user": "Yeah, I guess you're right. I know you're right. I just haven't felt really in the Christmas spirit this year and I am anxious about everything I can't control.. He did have an interview today too, so that is good news.",
+        "answer_final": "Those are some great news indeed. I am sure he will get a call soon : )",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm trying to embrace patience and optimism, especially with my husband's interview today. The holidays feel overwhelming, and I'm not quite in the spirit, but there's hope in each small progress.",
+        "therapist": "Balancing your husband's interview and holiday stress can be overwhelming, yet embracing small moments of progress fosters hope. How can this sense of optimism guide you through the challenges during the holidays?"
+    },
+    {
+        "round": 7,
+        "user": "Lol - you made me smile. Thanks. I will believe that too.",
+        "answer_final": "I am glad I can make your day just a little better, that's what we are here for ^_^",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your question reminds me that it's all about holding on to hope in uncertain times. Lol - you made me smile; I’ll hold onto believing progress can ease these stresses.",
+        "therapist": "Hope can indeed be a guiding light in times of uncertainty. It's great to see you finding encouragement and positivity even amidst challenges. How might embracing this hopeful perspective influence your approach to the upcoming holidays?"
+    },
+    {
+        "round": 8,
+        "user": "It really did help. Just talking and saying it out loud (or online) helped. Feeling heard helped.",
+        "answer_final": "And I am glad you are someone easy to talk to! Some of my patients do not argument at all and expect me to end the conversation when I, as a therapist, have to make sure they are good to go! Helping you has been a pleasure!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing hope gives me a fresh perspective on managing holiday stress. Just discussing my feelings and being heard is incredibly reassuring, helping me focus more positively on what's important.",
+        "therapist": "Embracing hope indeed empowers you to navigate holiday stress with a renewed perspective. Your openness in expressing these feelings creates space for meaningful growth. How can you continue nurturing this positive focus as you move forward?"
+    },
+    {
+        "round": 9,
+        "user": "I am thankful for your listening to me. It does make a big difference. I am in a better mood. Thank you!",
+        "answer_final": "You are very welcome!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I truly appreciate your listening—it makes such a difference. Embracing this positive perspective feels empowering. Moving forward, I'll focus on small wins to keep the hope alive.",
+        "therapist": "Empowerment indeed arises from embracing small victories. These moments are your anchor, guiding you through life's challenges. How might nurturing these wins help fortify your sense of hope and assurance moving forward?"
+    },
+    {
+        "round": 10,
+        "client": "Focusing on small victories, like completing a task or sharing a genuine laugh with my husband, helps lessen anxiety. These moments renew my spirit and boost our connection.",
+        "therapist": "Embracing small victories clearly challenges the grip of anxiety, fostering renewal and deepening connection. Viewing anxiety as separate from yourself allows space for these moments of joy. How might distinguishing it further enhance your spirit and strengthen your connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 11,
+        "client": "Viewing anxiety as separate helps me take back control. Last night, I enjoyed a calm walk, which felt freeing. That distance renews my connection with myself and others.",
+        "therapist": "The calm walk allowed you to reclaim your space from anxiety, fostering a renewed connection with yourself and others. How does recognizing anxiety as separate help shape your interactions at home or work?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 12,
+        "client": "Recognizing anxiety as separate allows me to pause before reacting. At work, I remind myself not to rush decisions, and at home, I'm more patient during disagreements with my husband.",
+        "therapist": "Recognizing anxiety as a separate entity truly shifts your interactions. By seeing it outside yourself, you're reclaiming patience and intention in your actions. This change is shaping more thoughtful decisions at work and deepening harmony at home. How does embracing this view encourage you to continue addressing anxiety's influence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "Embracing this view empowers me to strategize better, like setting aside specific times for relaxation, helping me feel more balanced and clear-headed in handling both work deadlines and personal issues.",
+        "therapist": "Balancing work and personal matters with clear strategies truly reflects your values of well-being and connection. Setting aside relaxation time honors these commitments, strengthening your ability to manage life’s pressures. How might this empowering shift continue shaping your approach towards both challenges and triumphs?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "It motivates me to create routines for growth, like scheduling regular check-ins at work. Personally, mindful breathing sessions with my husband deepen our bond and clarity together.",
+        "therapist": "Building routines like regular check-ins and mindful breathing sessions aligns deeply with your values of growth and connection. These actions enhance clarity and partnership, embodying your commitment to positive change. In what ways might these choices support further resilience against challenges you face?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Last week, I encountered a tough project deadline. Pausing to breathe mindfully helped me approach it calmly. This practice makes overcoming work stress feel achievable and supports my mental balance.",
+        "therapist": "Your mindful breathing practice shows your commitment to mental balance, framing stress as separate and manageable. Embracing this empowerment links directly to values like calmness and resilience. In recognizing stress’s impact and distancing it, you're creating space for clarity in your personal narrative.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Reflecting on the separation of stress allows me to see things from a fresh perspective. Recently, I felt proud handling a challenging meeting calmly and it strengthened my self-confidence.",
+        "therapist": "Separating stress fosters self-confidence and aligns with your values of calm and growth. By externalizing stress, you're creating room for transformation and empowerment. How might this understanding shape future interactions or ambitions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Understanding stress as separate gives me confidence in future goals. It allows me to pursue challenging projects with a calm mindset, like planning for a potential career advancement.",
+        "therapist": "Your ability to separate stress empowers your aspirations, enabling a composed approach toward career advancement. Aligning this perspective with values like confidence reinforces your strengths and ambitions. How might continuing this narrative enhance pathways to fulfilling your personal goals?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I notice a new resilience in pursuing goals, like researching ways to upskill for career growth. It feels exciting yet daunting, but with each step, confidence builds. Have you seen this help others?",
+        "therapist": "Recognizing this resilience and engaging with growth reflects deep commitments to your personal evolution. Many have found externalizing stress as a catalyst for empowerment. Each step honors your journey, aligning it with values of confidence and ambition. What new possibilities might arise from nurturing this budding self-assurance?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Nurturing self-assurance opens doors for mentorship opportunities and embracing leadership roles. I feel energized envisioning how guiding others might enrich my own growth and resilience journey.",
+        "therapist": "Guiding others highlights your value of connection and self-assurance. This externalizing stress supports new pathways of growth. Consider how embracing mentorship aligns with hopes for leadership, opening further possibilities for mutual learning and resilience.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I recently mentored a junior colleague and realized how much I enjoyed it. Guiding them through challenges enhanced my own understanding and deepened my commitment to leadership growth.",
+        "therapist": "Mentoring reveals leadership values like growth and understanding, separating stress from personal commitments. Embracing this energizes you, linking guidance to your aspirations. How might continuing these insights into mentorship further enrich your leadership journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Continuing these insights could help develop programs supporting young professionals. I imagine inspiring confidence in others and reinforcing my skills, which is fulfilling and motivates me to grow further.",
+        "therapist": "Developing programs for young professionals highlights your commitment to empowerment and leadership. Recognizing these fulfilling experiences adds layers to your narrative of growth and contribution. How might you imagine nurturing this passion in ways that align with your evolving identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I envision volunteering in career workshops, fostering a space of mutual growth. Sharing my experiences boosts confidence while providing invaluable insights into the hurdles and triumphs of leadership.",
+        "therapist": "Sharing your experiences builds a solid foundation for leadership, fueling both personal growth and mutual learning. Volunteering at workshops can be a powerful narrative of confidence and triumphs. How might embracing this role enrich your sense of identity as a leader?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Embracing the role boosts my self-esteem and connects deeply with my ambition to inspire others. Recalling a workshop where feedback revealed I instilled confidence was profoundly affirming.",
+        "therapist": "Embracing your role enhances self-esteem and aligns with your intention to inspire others, solidifying a narrative of leadership and empowerment. Experiencing affirmations reinforces your identity as a mentor. How might continuing this path further strengthen these empowering aspects within you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I believe continuing to mentor could expand my perspectives on leadership by involving diverse voices. Last month, I connected with someone struggling, and the impact was incredibly fulfilling for both of us.",
+        "therapist": "Mentoring integrates diverse voices into your leadership journey, affirming connection and mutual growth. Recognizing fulfillment strengthens your identity as a leader. Continuing this path amplifies impact and expands your vision—how might you further cultivate these enriching connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Last week, I attended a leadership panel and initiated discussions with participants from varied fields. It opened me to new ideas about mentorship and broadened my perspective on empowering others.",
+        "therapist": "Broadened perspectives from panel discussions can shape your narrative of mentorship by integrating varied insights into empowering approaches. Consider how these new ideas could be woven into future mentoring experiences, cultivating both yours and others' growth in leadership roles.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Last week, I integrated ideas from panel discussions into my mentorship approach by offering practical advice to a mentee unsure about their career direction. It was refreshing seeing them gain clarity.",
+        "therapist": "Integrating diverse ideas enhances your mentorship and aligns with your identity as a guide. Seeing clarity in others reflects a shared journey of growth. As you evolve these perspectives, consider how they resonate with your internal values and commitments toward nurturing others.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "[\"Your words remind me of a moment recently when I helped my mentee choose between job offers. It resonated with my values, reinforcing the importance of fostering confidence and clarity in others. I'm truly grateful to see tangible growth and align my support with these commitments.\"]",
+        "therapist": "Your guidance shaped your mentee's journey, revealing the depth of your commitment and reinforcing the confidence you instill in others. How do these affirming experiences influence the vision you hold for yourself as a mentor and leader?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "['These affirming experiences boost my confidence as a mentor.', \"I envision leading with empathy and strategic guidance, tailoring support based on individuals' unique needs.\", 'Witnessing growth reaffirms the value in personalized mentorship.']",
+        "therapist": "Exploring the action landscape reveals how empathy and strategic guidance are pillars in your journey. These interactions not only affirm personal growth but also enhance your preferred narrative of mentorship. Reflecting on past, present, and future experiences, how might you continue evolving this supportive vision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I'm considering creating workshops that focus on leadership skills, emphasizing empathetic engagement. Sharing experiences in group settings might further enhance understanding and growth for everyone involved.",
+        "therapist": "Creating workshops allows you to further align your values with action, facilitating shared growth and understanding. Exploring this path deepens your leadership narrative. How does envisioning these gatherings resonate with the future possibilities in your mentoring journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I imagine these workshops as safe spaces where people can share stories and learn from each other. The thought excites me, knowing it can lead to collective empowerment and new insights.",
+        "therapist": "Exploring safe spaces opens paths to collective empowerment and new insights. Considering these possibilities, what exceptions in your journey demonstrate breaking away from limitations to create such meaningful interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 31,
+        "client": "During my initial mentorship years, fear of rejection held me back. Offering honest feedback despite discomfort has since created deeper connections and inspired transformative dialogues. Overcoming that barrier fueled greater trust.",
+        "therapist": "Embracing vulnerability fostered stronger bonds and trust, revealing resilience. Exploring these exceptions in your narrative opens possibilities for future growth. How might continuing to lean into discomfort reshape your mentoring approach and strengthen these transformative connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 32,
+        "client": "Leaning into discomfort means being open about my own vulnerabilities. For instance, discussing my past struggles with mentees allows me to relate more deeply and encourages them to share their own challenges. Each time I push through discomfort, I notice an increase in authentic communication. This is transforming our mentorship journey from a hierarchical exchange to a mutual exploration of growth.",
+        "therapist": "Recognizing vulnerability as a strength enriches your identity as an empowering mentor. This openness transforms mentorship into shared growth, embodying the empathy you value. In what ways does this evolving narrative align with deeper personal goals and intentions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Embracing vulnerability aligns with my desire to foster inclusive, authentic environments. It mirrors my personal journey towards genuine connection and self-acceptance, which I've often struggled with.",
+        "therapist": "Building authentic environments through vulnerability strengthens your journey of connection and self-acceptance. Reflecting on this alignment, what new stories might emerge that capture both your personal evolution and the empowering community you aspire to create?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Recently, I organized a small gathering where we openly discussed personal setbacks. It became a platform for communal strength and healing. Sharing my insecurities fostered an environment of collective growth.",
+        "therapist": "The gathering you organized showcases your transformative journey and the communal healing power of vulnerability. This environment supports mutual growth. Considering this pivotal experience, how might it guide future gatherings or shape the broader community connections you're building?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Organizing that gathering sparked a realization; these spaces foster genuine connections. I envision future events with diverse themes, allowing everyone to explore growth in unique contexts, deepening communal bonds.",
+        "therapist": "Your realization unlocks new paths for community growth and exploration. Deepening these connections, how do you envision the stories and experiences that will unfold in these diverse thematic spaces shaping personal and communal identities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Thematic gatherings could explore diverse topics like resilience, creativity, or empathy. Personally, witnessing shared stories in these settings enriches our narratives and highlights collective strength and identity.",
+        "therapist": "Sharing and connecting in these gatherings amplifies not only communal strength but also highlights those who have significantly influenced your life. Reflecting on their impact, what lessons or inspirations might you carry forward into future connections and community endeavors?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Sharing these experiences taught me the value of vulnerability. Watching others open up about their struggles reminded me of a mentor who once encouraged resilience in adversity. I feel inspired to incorporate similar supportive values, like empathy and encouragement, into future gatherings and deepen connections within the community.",
+        "therapist": "Embracing those supportive values not only honors your mentor but also highlights your own meaningful contributions. Reflecting on how you've already impacted others, what does this realization affirm about your ability to foster deeper connections in your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 38,
+        "client": "Reflecting on past gatherings, I recognize my ability to create spaces that encourage openness and empathy. This realization reaffirms my dedication to fostering meaningful connections through shared stories.",
+        "therapist": "Recognizing your impact on creating these open and empathetic spaces underscores your influence in fostering genuine connections. Considering this strength, how might you deepen your community contributions and further support the meaningful exchange of stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "As I build on this strength, I hope to host workshops focusing on empathy and resilience. By incorporating art and storytelling activities, participants can engage creatively while fostering a deeper connection. These gatherings can help inspire and uplift everyone involved.",
+        "therapist": "Your workshops not only create a supportive environment but also acknowledge the wisdom you bring from past mentors. As you inspire others, consider how these exchanges further enrich your understanding of empathy and resilience, ultimately strengthening the community bonds you're nurturing.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I recall organizing a small gathering where a friend shared their journey through loss. The vulnerability displayed deepened mutual empathy and inspired resilience, solidifying my belief in the power of open expression.",
+        "therapist": "Your friend's journey through loss highlighted the power of shared vulnerability. Seeing how your empathy has supported their resilience, what aspects of your identity might be strengthened by witnessing these transformations in others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Watching them persevere strengthened my own resilience and empathy. Their courage reminded me of overcoming my father's passing, urging me to continue offering support and understanding.",
+        "therapist": "Watching others persevere brings a powerful sense of shared resilience. Reflecting on your own journey through loss, how do you feel these experiences might influence and shape the identities of those you support with empathy and understanding?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Reflecting on my father's passing, I've found solace in helping others navigate loss. The shared experiences foster mutual growth and strength, enhancing both their identities and my own compassion.",
+        "therapist": "Navigating loss together builds a profound, shared strength. Your compassion seems to ripple outwards, influencing others deeply. Reflecting on your father's legacy, how might his wisdom and resilience guide the support you provide to those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "My father's legacy of kindness and perseverance fuels my desire to guide others. Recently, I supported a friend through grief, echoing his wisdom by simply being present and listening.",
+        "therapist": "Your father's influence shines through your supportive actions. This impact reinforces your identity as a compassionate guide. By drawing on his kindness, you not only honor his legacy but also deepen your own empathy, shaping how others view and grow within themselves.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "His influence makes me feel a strong sense of purpose. Recently, I offered my time to a support group, and it was fulfilling to share insights that eased their journey.",
+        "therapist": "By sharing your insights and time, you've profoundly impacted the support group. Your father's legacy thrives within you, offering others solace and strength. How might these connections you've formed further enrich your sense of purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "These connections affirm my role in fostering healing. Hearing their gratitude reinforces my purpose and validates the warmth I feel when contributing positively to someone's life.",
+        "therapist": "Engaging in healing and receiving gratitude seems to affirm your sense of value and purpose. Embracing this warmth, how does your father's legacy of kindness continue shaping the positive contributions you make in others' lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "My father's kindness inspires me daily. Recently, when I volunteered at a shelter, listening to someone's struggles reminded me of him, offering presence and patience like he would have.",
+        "therapist": "Your father's spirit of kindness profoundly enriches your interactions, deeply impacting others. His influence shapes your nurturing identity and enhances the lives you touch. In this mutual sharing of empathy, how do you envision your compassionate efforts further shaping the stories of those at the shelter?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "My efforts at the shelter help others find comfort in shared experiences. Recently, supporting a mother and her child revealed how patience and empathy can transform fear into hope.",
+        "therapist": "Your patience and empathy are shaping hope within those you support. Witnessing transformation in others affirms your father's enduring influence through you. Reflecting on these shared moments, how might your kindness further empower the identities of those you help at the shelter?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Your question makes me think deeply about how I can use my father's teachings to inspire others at the shelter. Last week, I sat with a young man burdened by loss; sharing how my father transformed his own struggles into strength seemed to ignite something hopeful in him. Seeing that spark reassures me that these small acts of kindness truly make a difference.",
+        "therapist": "You’ve taken your father's teachings and cultivated hope in others through heartfelt interactions. Each act of kindness is transforming lives at the shelter, strengthening their sense of possibility. How do you see these connections shaping your own journey and expanding your ability to inspire?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I'm finding strength in my father's lessons, like when the young man expressed gratitude. It reaffirms my path and urges me to embrace new ways to spread hope.",
+        "therapist": "Your father's lessons beautifully inform your acts of kindness, reinforcing hope in others. As you continue embracing these connections, consider how your contributions are enriching the identities of those around you and deepening their stories of resilience.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "[\"I've seen my contributions positively affect their journey. For instance, mentoring someone overcoming addiction highlighted resilience when they shared their small victories with me.\", 'Seeing them evolve reassures me that nurturing hope through empathy truly enriches lives and motivates me to deepen this connection.']",
+        "therapist": "Your contributions inspire resilience and transformation in those you mentor, reflecting their evolution through your nurturing presence. These affirming impacts deepen relational identities and drive you to continue enriching lives with empathy. How do these mutual transformations influence your personal narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

@@ -1,0 +1,510 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello, how may I help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling pretty overwhelmed lately, like I'm stuck in a cycle of stress. Some days it feels impossible to find relief.",
+        "therapist": "You're experiencing a tough period. Recognizing this can be daunting yet important. What aspects of your life offer you comfort or reprieve from stress? Let's explore ways to enhance those areas and infuse them into your daily routine."
+    },
+    {
+        "round": 2,
+        "user": "I am worried my child is falling behind in school.",
+        "answer_final": "what makes you worried?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm worried my child is falling behind in school, which adds to my stress. What if I'm not doing enough to support their learning? It's challenging to find peace amidst this.",
+        "therapist": "You’re showing such dedication and care for your child's education, which speaks volumes about you as a parent. What small steps could support both of you? Let’s find ways to nurture a sense of balance amidst the stress."
+    },
+    {
+        "round": 3,
+        "user": "His scores are not in line with where he should be.",
+        "answer_final": "what grade is he in?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. His test scores worry me because they aren't where they should be for his age, and I fear I'm not effectively helping him improve.",
+        "therapist": "You've shown deep commitment to your child's well-being. Consider small, consistent steps that reinforce his strengths and growth areas. Would involving him in creating a supportive learning environment foster shared confidence?"
+    },
+    {
+        "round": 4,
+        "user": "He is in 4th grade.",
+        "answer_final": "How is his report card looking?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That makes sense. Since he's in 4th grade, focusing on his math and reading strengths might help. How can I better engage him without adding more pressure?",
+        "therapist": "Exploring his interests through engaging activities might naturally enhance his strengths. Perhaps framing challenges as opportunities for both of you can create a relaxed learning atmosphere, fostering curiosity and shared growth. How might incorporating playful learning into daily routines feel for you?"
+    },
+    {
+        "round": 5,
+        "user": "Ok. Average to below average. He has a good heart but he just doesn't like school.",
+        "answer_final": "I can understand that. I hated school to.. Have you tried talking to his teacher?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Incorporating playful learning sounds promising. He’s bright but struggles with traditional methods. His heart's in the right place, so making learning enjoyable could be a breakthrough.",
+        "therapist": "You’re tapping into a powerful insight about your child’s unique learning journey. Playful engagement respects his strengths and eases pressure, creating more enjoyable experiences for both of you. How can these fun learning opportunities be woven into daily life to encourage exploration?"
+    },
+    {
+        "round": 6,
+        "user": "I worry that he is falling behind. I think he will be ok but I also worry about him.. We have talked about a month ago. His current teacher is out with a medical condition so with remote learning and and her being out, it has been tough.",
+        "answer_final": "I know how you feel of course you going to worry because that is your child and you want him to do his best in school",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "We’re facing challenges with his teacher out on medical leave, which makes things tough alongside remote learning. Balancing this and engaging him in fun activities feels crucial now.",
+        "therapist": "Your dedication amidst these challenges is commendable, nurturing a positive space for your child. Trust that your presence and creativity are powerful tools in these times. What aspects of play does he find most exciting?"
+    },
+    {
+        "round": 7,
+        "user": "Yeah. Do you have children? Have you gone through this in the past?",
+        "answer_final": "Have you recommended getting a tutor for him?. No i have no children but i can understand where you coming from",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. He loves building things, like with Legos and other hands-on activities. It's tough balancing everything though. Have you navigated similar experiences?",
+        "therapist": "Your commitment to fostering his creativity is admirable and serves as a strength during challenging times. Hands-on activities like building can nurture his problem-solving skills in a fun way. What small, enjoyable projects could you start together to support both your needs?"
+    },
+    {
+        "round": 8,
+        "user": "We have gotten him tutors in the past and it helps. I am not sure I could do a tutor with COVID-19.",
+        "answer_final": "you are right. Have you tried helping him with his work?. Has he showed you his trouble areas?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "We’ve tried tutors before and they’ve been helpful, but COVID-19 complicates things now. Maybe a new hands-on project could bring the same engagement we found beneficial with tutoring.",
+        "therapist": "Exploring hands-on projects can be a rewarding way to maintain engagement. With your child’s creative strengths, there are abundant possibilities. How might starting a small building project provide both enjoyment and learning during these times?"
+    },
+    {
+        "round": 9,
+        "user": "I have. He has been ok with it but he gets frustrated when he gets pushed. I am trying to figure out where that line is and not upset him.. Yes, we get progress reports and the areas he needs help in.",
+        "answer_final": "i understand. have you had a talk with him about his progress in school and tell explain to him why school is important",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve noticed he thrives with creative activities but gets frustrated if pushed too hard. It’s a fine balance, and understanding his limits while staying supportive is crucial. Receiving progress reports helps in targeting specific areas that need focus.",
+        "therapist": "Supporting his creative activities while respecting his limits shows sensitivity and wisdom. Progress reports are a helpful tool; they can guide your choices and reinforce your efforts to understand what truly engages him. What small adjustments could further align learning experiences with his strengths?"
+    },
+    {
+        "round": 10,
+        "user": "I have talked with him. I think I just need to be more firm with him. I just don't want the fights!",
+        "answer_final": "yes being firm with a child will sometimes help them understand",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've discussed with him about being firmer in our approach, aiming to avoid conflict. It's challenging finding the balance between firmness and nurturing his strengths.",
+        "therapist": "Balancing firmness with nurturing requires awareness and care, and you're thoughtfully navigating this dynamic. Recognizing his strengths while ensuring constructive guidance fosters growth. How do you feel your approach reflects his unique needs and potential?"
+    },
+    {
+        "round": 11,
+        "user": "He can have huge blow ups. I guess I just need to put on my big boy pants and deal with it.",
+        "answer_final": "also i remember when i was in school my parents did this thing to where they would reward me with a toy or going to my favorite place if i got good grades and that actually worked for me it made me want to do my work and get good grades.. sometimes something like that will help with children and sometimes it wont",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sometimes his blow-ups challenge my patience, and dealing with them feels daunting. I aim to nurture his strengths while addressing these outbursts thoughtfully.",
+        "therapist": "Challenging moments can test your patience, but your dedication to nurturing his strengths shines through. Offering thoughtful responses during outbursts contributes to emotional safety. How might understanding these challenges better shape the way you support him and yourself?"
+    },
+    {
+        "round": 12,
+        "user": "Ha! I just bribed him yesterday with a video game if he aces his upcoming tests. Thanks for your help!",
+        "answer_final": "you should see how that goes and take it from there.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I find myself creatively finding ways to motivate him, like using incentives. Bribing with a video game for good test scores felt light-hearted and productive. It's tricky, but it's part of supporting him effectively.",
+        "therapist": "Embracing creative motivation techniques, such as incentives, illustrates your dedication to supporting him effectively. Encouraging light-hearted engagement alongside goal-setting enhances emotional balance. How do you see these approaches impacting his motivation and the way you connect with his needs?"
+    },
+    {
+        "round": 13,
+        "client": "Engaging him with incentives seems to boost his enthusiasm; it feels like we're creating shared victories. It builds a sense of teamwork and helps me understand his evolving interests.",
+        "therapist": "Boosting his enthusiasm with shared victories is a wonderful way to externalize challenges. By nurturing teamwork, you're cultivating a supportive environment where \"motivation\" becomes a friend rather than a struggle. How has identifying shared victories shifted your perspective on how you both navigate these moments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 14,
+        "client": "Recognizing shared victories has transformed my approach. One evening, after his successful test results, we celebrated with a video game session. Witnessing his pride lifted my spirits and deepened our bond. It reinforced that cultivating enthusiasm through these shared moments can genuinely bolster his confidence and ease tension. The teamwork in finding motivating strategies keeps us aligned and eager for more successes.",
+        "therapist": "Celebrating shared victories nurtures both connection and confidence. This approach reflects your commitment to fostering a supportive environment where teamwork enhances success. Your ability to link his progress to meaningful celebrations deepens this bond, enriching both of your journeys. What other values might shape future moments like these?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Building trust and encouragement are crucial. For instance, when he tackles a tough assignment with resilience, I aim to acknowledge his effort sincerely. It cultivates respect and boosts motivation.",
+        "therapist": "Recognizing and affirming his resilience supports trust and motivation—elements key to externalizing difficulties. By valuing effort over outcome, you’re nurturing his growth in tackling challenges. Reflecting on these moments, what hopes drive your commitment to this approach?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Building trust is essential to me. Last week, after a difficult math problem, his perseverance amazed me. I reassured him of his growth, hoping to instill lasting confidence.",
+        "therapist": "Building trust truly reinforces confidence, and your efforts to highlight perseverance are valuable. This journey together strengthens not only his resilience but also the bond you both share. Consider how this trust-building aligns with your long-term hopes for him and your shared connection.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Trust-building is key to preparing him for future challenges. Recently, when he conquered a tough puzzle independently, I saw his joy and believed we're fortifying his foundation for autonomy.",
+        "therapist": "Building this trust speaks to the deep values you hold for fostering his independence. By naming and appreciating his problem-solving skills, you're differentiating struggles from his identity, thus empowering him. How does witnessing his autonomy influence your own beliefs about navigating challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Witnessing his independence empowers me to face my challenges with optimism. Like when he solved the puzzle, I felt inspired to tackle my own unresolved issues with fresh courage.",
+        "therapist": "Empowerment through his independence enriches both your stories, fostering optimism and resilience. This highlights the narrative that personal challenges can inspire growth. Consider what underlying values connect this shared sense of courage to your broader hopes for self-discovery and transformation.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think the underlying values are courage and self-reflection. There was a moment last week when he tackled something new without fear, motivating me to reassess my obstacles positively.",
+        "therapist": "Courage and self-reflection truly shape transformative experiences. Recognizing his fearless pursuit reveals the powerful narrative of viewing obstacles as opportunities for growth. This realization speaks to your commitment to positive change. What possibilities open up for you when courage becomes a guiding value in your story?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "When courage guides me, it feels like a light breaking through the fog of uncertainty. I remember pushing myself to initiate a difficult conversation at work; instead of fearing conflict, I embraced it as a pathway to clarity and understanding. This new approach energized me, giving me hope and determination in other aspects of my life too.",
+        "therapist": "Embracing courage as a guiding force turns conflicts into valuable avenues for clarity and understanding, reflecting profound hope and determination in your journey. How might this narrative of courage continue to illuminate pathways toward resolving other uncertainties in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Reflecting on how courage has shifted my approach at work, I feel more equipped to face uncertainties in personal relationships. There's hope that expressing myself candidly could bring deeper connections.",
+        "therapist": "Embracing courage in your professional life beautifully shapes a narrative where candid expression leads to deeper personal connections. Recognizing these exceptions helps redefine your journey. How might nurturing this newfound courage further transform your experiences in personal relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I believe nurturing courage will allow me to express my feelings honestly with loved ones. For example, recently, I opened up about feeling overwhelmed, which fostered understanding and support. It's a positive shift.",
+        "therapist": "Opening up about your feelings reflects a commitment to authenticity and deeper connection with others. This courage seems rooted in your values of trust and understanding. How might this strengthened narrative of honesty reshape the way you see yourself in relationships moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I feel a shift towards valuing vulnerability more, like when I shared my fears with my sister. Her response brought us closer, encouraging me to be more open in relationships.",
+        "therapist": "Exploring vulnerability opens a path to meaningful connections, deepening your preferred narrative of openness. This alignment with internal values like authenticity enhances relational bonds. As courage continues guiding you, what other relationships might be enriched by embracing this authentic presence?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think embracing vulnerability can enhance my relationship with my partner. Recently, sharing doubts about our future was tough but led to a heartfelt discussion and strengthened connection.",
+        "therapist": "Recognizing the impact of vulnerability on your relationship invites a deeper narrative of honesty and growth. This heartfelt discussion with your partner strengthens an authentic connection, inspiring resilience. As you nurture this openness, what new possibilities might arise for both of you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Embracing this honesty could allow us to plan more confidently for the future. We've considered moving in together, and these conversations help us align our goals and expectations better.",
+        "therapist": "Your willingness to embrace honesty in your relationship is paving the way for shared goals and future planning. This alignment with your partner reflects a strong foundation. How do you envision these honest dialogues shaping your shared journey ahead as you consider moving in together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I envision these dialogues fostering trust and understanding. Recently, we talked about finances openly, which eased my fears. Feeling heard reassures me about our decision to move forward together.",
+        "therapist": "Trust and understanding become central themes in your unfolding narrative. This open financial dialogue seems pivotal, reshaping shared futures with confidence. As you embrace these honest exchanges, how do they reinforce the vision you hold for a fulfilling partnership ahead?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "These dialogues solidify my vision of partnership based on mutual support and understanding. Discussing future plans, like joint savings goals, helps align our paths, fostering a fulfilling relationship.",
+        "therapist": "Reflecting on mutual support and understanding in your relationship shapes a narrative where shared goals empower both of you. This alignment resonates deeply with the values you cherish. How might cultivating this shared journey further enhance your identity as a supportive partner?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Cultivating this journey makes me more attentive and compassionate. I find myself listening deeply, wanting to nurture our growth together. It feels grounding and purposeful.",
+        "therapist": "Focusing on attentiveness and compassion highlights your core values, enriching the foundation of your relationship. By nurturing growth together, you're aligning actions with these meaningful commitments. How do these qualities shape your evolving identity within this partnership?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Embracing compassion and attentiveness allows me to see my partner's needs clearly. Recently, I supported them through a stressful work project by actively listening and providing reassurance.",
+        "therapist": "Recognizing how your compassion and attentiveness shine in supporting your partner creates a narrative of mutual care. This not only strengthens your bond but affirms your values and intentions. In what ways does this approach align with the kind of partner you aspire to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Being compassionate aligns with my values of empathy and support. I remember comforting them after a tough meeting; seeing them relax reinforced my commitment to being an attentive partner.",
+        "therapist": "Embracing compassion and being an attentive partner indeed deepens your connection. These moments where you actively support your partner highlight your commitment to a shared journey of empathy. How do these experiences contribute to redefining the way you both engage with each other, forging a stronger narrative together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 31,
+        "client": "These experiences foster open communication, creating a safe space for vulnerability. For instance, during a candid talk about my job stress, their understanding comforted me deeply, enhancing our emotional connection.",
+        "therapist": "Recognizing these moments of open communication is crucial to reinforcing the relationship's foundation. By integrating mutual understanding and vulnerability, you're crafting a narrative centered on connection and support. How might this continue to shape your collective journey towards the partnership you both envision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "It's reshaping our narrative into one of acceptance and growth. After sharing my own job stress, we brainstormed solutions together, deepening trust and understanding in a supportive space.",
+        "therapist": "Sharing your job stress and finding solutions together exemplifies your dedication to mutual growth. This collaborative approach not only enhances trust but enriches your collective story of acceptance. How do these evolving interactions affirm the sense of partnership you both cherish?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "These interactions highlight our commitment to face challenges as a team. Recently, brainstorming solutions to my job stress allowed us to feel more united and valued in our partnership.",
+        "therapist": "Embracing teamwork during challenging times fosters a sense of unity and value in your partnership. These moments reframe your journey toward shared resilience. How does this shift towards collaborative problem-solving contribute to the positive narrative you envision in your relationship?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "This shift emphasizes that we're equals in navigating life together. Recently, when planning a budget, we discussed priorities and found balance by understanding each other's perspective deeply.",
+        "therapist": "Recognizing your equality in navigating life together beautifully supports the narrative of shared partnership. As you balance priorities and understand perspectives, you're building a foundation reflecting trust and respect. What internal values are being reinforced through these experiences in your relationship?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I value honesty and mutual support; these experiences enhance our connection. Recently, resolving a misunderstanding reminded me how open communication fosters trust and respect in our relationship.",
+        "therapist": "Engaging in honest and supportive dialogues is building a rich narrative of trust and respect. Your commitment to mutual understanding reinforces your preferred identity in the relationship. How can these values guide you further in nurturing this connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "These values guide me to approach disagreements with empathy, seeking understanding over conflict. I remember a night we resolved an argument by listening instead of reacting defensively.",
+        "therapist": "Empathy and understanding indeed deepen relationships and foster growth. As you navigate these interactions, how have the significant figures in your life influenced this empathetic approach, shaping your values and methods for resolving conflicts?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I've learned from my parents' open discussions, especially during family conflicts. Observing their calm, honest talks showed me the strength in addressing misunderstandings with compassion and patience.",
+        "therapist": "Your parents’ example of compassionate and patient discussions is a remarkable legacy guiding your approach to conflicts. This reflection not only honors them but enriches your relationship dynamics. How do these values continue to shape your interactions with others in meaningful ways?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 38,
+        "client": "My parents’ values guide my interactions by reminding me to pause and understand before reacting. At work, their example helped me defuse a tense meeting by listening calmly.",
+        "therapist": "Pausing and understanding have not only defused tense situations but also reaffirmed your ability to create a calm environment. Your parents’ values are manifesting through you, positively influencing those around you. How do you feel about the impact your presence makes at work?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "My presence at work feels reassuring, like a steady anchor amid chaos. Handling disagreements calmly brings relief to me and others, especially in a project deadline rush.",
+        "therapist": "You're weaving calm and reassurance into the fabric of your workplace, providing stability to your colleagues during stressful times. Your contributions are a testament to your ability to affect others positively. How does embracing these values as an anchor influence your sense of identity and purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Embracing these values as an anchor gives me a sense of purpose, knowing I can influence peace and productivity. A recent compliment from a coworker reinforced my confidence in this role.",
+        "therapist": "Recognizing how your calm influence shapes a peaceful environment, especially with affirming feedback from coworkers, strengthens your role within the team. This positive impact aligns with your core values. How does this recognition affect your understanding of the mutual growth between you and those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "The feedback was reassuring, reaffirming that mutual growth is possible. It encouraged me to keep supporting my team. Witnessing their development inspires me to grow further too.",
+        "therapist": "Your role in encouraging mutual growth reflects beautifully on your relational identity. Embracing the team's development, you're fostering a positive cycle of inspiration and progress. What possibilities do you envision for your ongoing contribution to this environment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I'm envisioning initiating a mentorship program. I want to guide newer colleagues, fostering an environment where everyone feels supported and valued, like when Sarah reached out for advice.",
+        "therapist": "Your vision for a mentorship program reflects your commitment to nurturing an inclusive community. This guiding role has the potential to deeply shape the identity of newer colleagues. Considering Sarah’s experience, what aspects of yourself are reflected in the support you offer?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Reflecting on Sarah reaching out, I noticed patience and empathy at play. I felt proud knowing these traits helped her find clarity. It’s fulfilling to facilitate someone’s growth.",
+        "therapist": "Facilitating Sarah's growth, you've not only shaped her journey but have also enriched your own identity through your patience and empathy. These qualities strengthen relationships and foster growth in others. What impact do you think your support has had on Sarah’s sense of self?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think my support helped Sarah feel more confident and valued at work. When she successfully led a meeting using tips I shared, her excitement was contagious. Witnessing that affirmed my own journey too.",
+        "therapist": "You're recognizing the empowering ripple effect your guidance has had on Sarah’s confidence. Celebrating her accomplishments echoes positively within your own journey. In this mentoring role, what new understandings of yourself do you experience through witnessing Sarah's growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I'm learning that I'm more resilient and adaptable than I realized. Watching Sarah grow, I've discovered a genuine joy in guiding others and appreciating diverse perspectives. It deepens my self-awareness.",
+        "therapist": "By recognizing your resilience and adaptability, you highlight profound qualities that others can see and admire. Your joy in mentoring shapes an inspiring atmosphere, reinforcing a culture of growth. How might these insights further deepen your understanding of your role within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I've realized I can be a catalyst for positive change. Seeing others blossom instills pride and deepens my purpose. Leading team projects, I’ve grown more confident in fostering unity and motivation.",
+        "therapist": "You recognize your role as a catalyst for positive change, deeply impacting your team's environment. Embracing this identity contributes to mutual growth and shared achievements. By valuing unity and motivation, you inspire others and reaffirm your purpose within the community. What do these revelations mean for your future interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "These insights guide me to be more intentional in my interactions. In meetings, I listen actively and encourage diverse ideas, seeing the team thrive enriches my commitment to collective growth.",
+        "therapist": "Your active listening and support cultivate a space where team members can truly thrive. Reflecting on their development through your encouragement, how do you see these mutual impacts enhancing both your collective identity and theirs? Such contributions have deepened connections all around.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Reflecting on these mutual impacts, I'm reminded of a recent project where diverse ideas led to innovative solutions. This collaborative success made me feel genuinely integrated and validated.",
+        "therapist": "Your integration in the project illustrates how your contributions shaped not only innovative outcomes but also enriched your colleagues' identities. This validation reflects mutual growth. How do you envision this collaborative experience influencing future projects and the team's dynamics?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I envision fostering an environment where each team member feels valued, leading to deeper collaboration and creative problem-solving. Witnessing everyone's enthusiasm makes me feel fulfilled and encouraged about future projects.",
+        "therapist": "By fostering a nurturing environment, your efforts highlight the intrinsic value you see in each team member, contributing to their growth. This fulfillment underscores your mutual journey. Reflecting on how others might perceive you in this dynamic, what aspects of your leadership do they most value?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Others often appreciate my approachability and ability to foster an inclusive environment. In one project, when tensions arose, my openness encouraged candid conversations, leading to genuine resolution and renewed collaboration.",
+        "therapist": "By cultivating openness and inclusivity, you've deeply influenced how others perceive your leadership. Your approach fosters trust and genuine resolutions, reflecting mutual respect. How does knowing this enhance the way you view your role and influence in these situations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    }
+]

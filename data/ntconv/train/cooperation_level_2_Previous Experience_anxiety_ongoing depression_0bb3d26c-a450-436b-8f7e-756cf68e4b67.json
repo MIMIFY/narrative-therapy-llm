@@ -1,0 +1,492 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello, how can I help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling a little unsure, but I'm willing to open up and explore what's been weighing on me. It feels like a lot has been building up inside lately.",
+        "therapist": "You're showing courage by choosing to explore what's been building up. Your willingness creates space for positive change. Let's begin unraveling the layers and find pathways that honor your unique experiences. What's one thing you'd like to unpack today?"
+    },
+    {
+        "round": 2,
+        "user": "I'm having a hard time each day, but today especially. I keep having anxiety attacks that come on suddenly and intensely.",
+        "answer_final": "I understand you keep experiencing anxiety attacks.. Is there any common cause for the attacks?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for creating this space. Today, I'd like to talk about these sudden anxiety attacks. They're overwhelming and often hit me when I'm not expecting them.",
+        "therapist": "Your openness is appreciated as you navigate through these unexpected anxiety attacks. Let's explore their impact on your daily life and how we can reshape the narrative around them. What is a moment or situation where these feelings often arise?"
+    },
+    {
+        "round": 3,
+        "user": "None that I have figured out yet, they just seem to come on out of nowhere",
+        "answer_final": "Is there any specific stimuli that takes place just before or within an hour prior to the attacks?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I haven't identified any specific triggers yet, but these attacks feel like they come out of nowhere. Sometimes just sitting at home or even during simple activities can bring them on.",
+        "therapist": "Anxiety attacks seem to have a way of intruding into the calm moments of your life, almost as if they were unexpected visitors. Let's name this feeling and explore how we might shift its presence, starting with when you feel most settled."
+    },
+    {
+        "round": 4,
+        "user": "Any stimulation triggers me really, a lot of noise, lights, but mostly my thoughts are very loud",
+        "answer_final": "You are not alone, a lot of people experience anxiety attacks due to physical stimuli.. Have you looked into mindfulness exercises or meditation?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Honestly, any stimulation triggers me—loud noises, bright lights—but especially my own thoughts. They can feel overwhelming and chaotic sometimes.",
+        "therapist": "You're facing challenges from both external stimuli and your own thoughts, which sounds tough. Let's work together on finding calming strategies that honor your need for peace. How does it feel to start identifying and naming these overwhelming sensations?"
+    },
+    {
+        "round": 5,
+        "user": "I feel so alone though, it doesn't bring me any comfort to know that other people have them. yes, and they do help, but there are days that it doesn't matter what I do, and today is one of them",
+        "answer_final": "I have experienced Anxiety myself and meditation helped me for the most part, I also found that I wasn't sleeping enough and being tired made my attacks longer.. Are you sleeping okay at night?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s hard because even naming these feelings doesn’t ease the loneliness they bring. Some days, like today, it feels like nothing helps—no matter what I try.",
+        "therapist": "Your struggle with loneliness is deeply valid, especially when it feels relentless. Even in those harder moments, can we explore the possibility of uncovering something small—a thought or action—that might offer you even a brief sense of connection or relief?"
+    },
+    {
+        "round": 6,
+        "user": "I'm getting plenty of sleep, and I do practice meditation, maybe not as often as I should, I meditate five minutes per day",
+        "answer_final": "I would suggest trying Mindfulness exercises for at least 15 minutes every day and see if that helps.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I do try to manage with meditation, practicing it daily, even if just for five minutes. Those moments bring brief comfort amidst the chaos.",
+        "therapist": "Meditation seems like a small anchor you've created within the chaos, offering moments of comfort. What do those brief moments reveal about what you need to feel more grounded in your day-to-day life?"
+    },
+    {
+        "round": 7,
+        "user": "I'll see if that helps, I'm really low on energy right now because it just takes so much out of me",
+        "answer_final": "I understand, Sometimes the Mindfulness exercises help me get more productive sleep.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's tough to even think about what I need. Those moments of calm give me a glimpse, but I'm so drained, it feels like all my energy is sapped away.",
+        "therapist": "Those moments of calm you've created are valuable glimpses into what you might need. While energy feels limited, your ongoing dedication shows strength. Could reflecting more on those glimpses deepen the connection to your sense of resilience?"
+    },
+    {
+        "round": 8,
+        "user": "I try to do mindfulness before bed, but I'm always too tired. I think it would be better if I did them in the afternoon at some point, did you use guided meditation?",
+        "answer_final": "I did, ASMR guidance seems to help me most, but I happen to be ASMR sensative, perhaps you are as well? They seem to help with my anxiety as well.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reflecting on those moments does sound helpful. I’ve tried mindfulness before bed, but exhaustion gets in the way. Maybe switching to afternoons could help; do guided meditations work better for you?",
+        "therapist": "Trying afternoons sounds like a thoughtful adjustment, especially if evenings feel draining. Guided meditations can be very supportive—what draws you to trying those specifically? Let’s explore what resonates most in these moments of calm."
+    },
+    {
+        "round": 9,
+        "user": "Are those the videos on youtube where the sound is enhanced? Those are soothing",
+        "answer_final": "Yes, Kind of like whispers, almost like Bob Ross on those old painting videos.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think it's the soothing tones and soft music that draw me in. Those enhanced sounds, like the ones in YouTube videos, really help settle my mind.",
+        "therapist": "The soothing tones and soft music seem to create a sense of calm for you amidst exhaustion. It’s worth exploring more moments like these—what else helps deepen that comfort or offers relief when energy feels low?"
+    },
+    {
+        "round": 10,
+        "user": "Just talking about my anxiety has helped a lot actually, and I do enjoy bob ross, hadn't thought of that as therapeutic but it makes sense",
+        "answer_final": "I am glad I could be helpful.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Talking about my anxiety here has definitely brought some relief—it’s surprising how much that helps. I also enjoy watching Bob Ross; his calm presence feels unexpectedly therapeutic now that I think about it.",
+        "therapist": "Talking about your anxiety and connecting with calming presences like Bob Ross shows how deeply attuned you are to finding comfort. That unexpected therapeutic relief feels significant—what might it mean to embrace these moments more intentionally in your daily life?"
+    },
+    {
+        "round": 11,
+        "user": "Yes, thank you for your help. Take care now!",
+        "answer_final": "Be Well!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing those moments intentionally could mean finding pockets of peace throughout my day, which seems really beneficial. Thank you for your insight and support. Take care!",
+        "therapist": "Embracing those moments of peace sounds like a compassionate step toward nurturing yourself. How might these pockets of calm, woven into your day, reflect the care and value you’re extending to your own well-being?"
+    },
+    {
+        "round": 12,
+        "client": "I think weaving in these moments could show I’m starting to prioritize myself—like pausing for a short walk after work or savoring morning coffee instead of rushing.",
+        "therapist": "Prioritizing yourself this way feels like a meaningful step toward loosening anxiety’s grip. If we were to see anxiety as something outside of you, how might it react to these small, peaceful rebellions you’re planning?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 13,
+        "client": "Anxiety would probably feel threatened, like it’s losing its grip. I imagine it might try to creep back in during quiet moments, but these peaceful actions could remind me I’m stronger.",
+        "therapist": "Anxiety does indeed try to regain control during quiet times, yet by fostering these moments of peace, you're actively reclaiming your strength and space. What does the idea of showing resilience against anxiety mean for the choices you make each day?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "Showing resilience against anxiety means embracing small actions that honor my need for calm. Like journaling after breakfast, savoring gratitude, or acknowledging quiet moments as valuable allies.",
+        "therapist": "Journaling, gratitude, and valuing quiet moments reflect a deep commitment to your well-being. What values or hopes do these small yet powerful actions connect to in the life you want to cultivate?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "These actions connect to my hope for a life that feels balanced and intentional. I want to feel less rushed—like taking time to breathe deeply while the sun sets, appreciating calm instead of tension.",
+        "therapist": "Embracing these intentions and valuing calm reflect your dedication to living purposefully. By viewing anxiety as separate, you're strengthening your ability to choose serenity over tension. How does prioritizing this sense of balance support the life you wish to create?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Prioritizing balance helps me imagine a life where I’m present—like recently, I paused during a sunset. It felt grounding, almost like reclaiming moments anxiety often steals.",
+        "therapist": "Reclaiming those moments shows how deeply you value presence and balance. How does grounding yourself in experiences like the sunset align with the kind of relationship you'd like to build with anxiety moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Grounding myself, like during a sunset, feels like asserting control over my mind. I aim to acknowledge anxiety's presence without letting it dictate how I experience peaceful moments.",
+        "therapist": "Grounding through sunset moments emphasizes your resilience, illustrating a commitment to embrace peace. You’re skillfully creating boundaries with anxiety. What principles or personal beliefs underpin your decision to let these tranquil experiences guide you instead of anxiety?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I believe in nurturing stillness and gratitude. Recently, noticing the vibrant colors of leaves on a walk, I felt deeply connected to my surroundings, choosing to honor these gentle moments over chaos.",
+        "therapist": "Embracing stillness and gratitude creates a powerful stance against chaos. You're honoring those tranquil moments over the noise of anxiety, highlighting your core values. How might these guiding principles continue shaping your journey toward a more connected, intentional life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think these principles push me to slow down and notice what truly matters. Last week, I stayed off my phone during a rainy evening, just listening—it felt freeing.",
+        "therapist": "Choosing to listen to the rain reinforces your commitment to valuing presence over distractions. You're reclaiming freedom from the grasp of anxiety, anchoring in moments that resonate deeply with you. How might nurturing these connections continue supporting your values of stillness and balance?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Embracing moments like listening to rain shows me the beauty in slowing down. These connections remind me to focus on what truly fulfills me, reinforcing my path toward calm and contentment.",
+        "therapist": "Observing rain has helped you cultivate fulfillment and calm, distancing from anxiety's influence. This aligns with your values of contentment and presence. By recognizing these external moments' importance, how might this shift strengthen your commitment to nurturing tranquility in everyday life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think it strengthens my awareness to seek more moments like that—a walk without music, watching birds from my window—reminding me calm is within reach when I slow down.",
+        "therapist": "Slowing down seems to offer you not just calm, but a clearer connection to what fulfills you. As you continue seeking these moments, what values or intentions would you say are guiding this emerging narrative of presence and grounding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think kindness and curiosity guide me most. For example, sitting by the water recently, I let myself wonder about its movement instead of letting anxious thoughts consume me.",
+        "therapist": "Your curiosity and kindness shape a powerful story of choosing connection over anxiety. As you sit with wonder by the water, what vision of yourself feels most alive in these moments of thoughtful presence?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I envision myself as more peaceful and attuned, like someone who listens instead of rushes. Watching the ripples felt grounding—almost like I was rediscovering simplicity within myself.",
+        "therapist": "Your connection to simplicity reflects a deep value of being present and intentional. This peaceful, attuned version of yourself—how does it shape the way you want to engage with your world moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think it makes me want to move through the world more gently, like appreciating small details—smiling at strangers, taking time to sip tea instead of rushing my mornings.",
+        "therapist": "The image you painted of moving gently through the world resonates deeply with your evolving narrative. Recognizing and cherishing small details builds a life of meaningful experiences. How might this mindful approach shape future moments, creating a rhythm that harmonizes with your values?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I imagine feeling more connected and present. Recently, watching sunrise, each color filled me with gratitude. It's these moments guiding my life gently towards a more fulfilling path.",
+        "therapist": "Your sense of gratitude and connection at sunrise embodies a shift towards presence and fulfillment. As you cultivate this alternative narrative, consider how these experiences might shape your decisions and interactions daily. Embrace these changes as intentional steps on your path.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I can see these changes in small choices, like prioritizing calm interactions at work and cherishing moments with friends. Gratitude feels more accessible when I allow myself this perspective shift.",
+        "therapist": "Embracing these changes invites deeper connectivity and presence, revealing gratitude in small choices. Your attentiveness at work and with friends nurtures this preferred story. How do these choices reflect the identity you're crafting, one rooted in calm and mindful engagement?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "These choices affirm a self that values balance and presence. At work, I find myself pausing before responding, allowing for calmer interactions. With friends, I relish conversations, savoring every laugh and shared experience.",
+        "therapist": "Pausing before responding and savoring time with friends exemplify your commitment to balance and presence, aligning beautifully with your values. As you nurture this identity, what further intentions or commitments do you envision embracing to deepen this preferred narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I've started journaling each morning, capturing thoughts and setting intentions to guide my day. It feels grounding and clarifies my path. With friends, initiating deeper conversations brings connection.",
+        "therapist": "Journaling and fostering deep conversations highlight your commitment to a path of clarity and connection. These actions not only reflect inner values but also strengthen your sense of self. How do you see this journey shaping your relationships with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "This journey deepens connections, allowing for authentic dialogues. Last week, a conversation with a colleague became unexpectedly personal; it felt uplifting and strengthened our bond.",
+        "therapist": "This bond-building moment with your colleague seems to mirror the values you hold dear—authenticity and connection. How do these experiences reinforce the identity you're crafting, one rooted in deeper presence and meaningful relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I notice my eagerness to engage deeply with others now, which feels fulfilling and genuine. Like at lunch, sharing stories led to unexpected empathy. These moments build authenticity.",
+        "therapist": "Your eagerness and genuine connection reflect an alternative story of openness and empathy. These moments highlight your capacity for meaningful interactions. What strengths or values do you think are guiding these shifts in how you connect with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 31,
+        "client": "I think my values of empathy and understanding are really guiding this shift. At a recent family gathering, I actively listened to my sister's struggles, which brought us closer.",
+        "therapist": "Your values of empathy and understanding clearly enrich your relationships, as seen with your sister. This active listening opens pathways to deeper connections. How might these guiding principles influence your approach in future interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "In future interactions, I'll prioritize genuine empathy, fostering an atmosphere where others feel truly heard and understood. This reflects my recent progress in actively seeking deeper connections.",
+        "therapist": "Your commitment to fostering genuine empathy is powerful and transformative. As you move forward, what small actions or choices might help solidify this atmosphere of understanding in your interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think pausing before responding could help me listen more deeply. Like when my friend shared a tough decision recently, staying quiet let her feel safe to open up.",
+        "therapist": "Pausing before responding seems to bring an intentional depth to your connections. In creating this space, you’re building trust and fostering understanding. How might incorporating this practice in future moments enhance the story of empathy you’re shaping?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Pausing gives me space to really see others, like when my friend was sharing about her breakup. It helped me notice her pain and offer comfort rather than advice.",
+        "therapist": "Your choice to pause and offer comfort shows a deep alignment with your values of empathy and care. How does recognizing this capacity for presence and understanding shape the way you see yourself in relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Recognizing this makes me see myself as someone who genuinely supports others. Like when my coworker vented about stress, I stayed present, which seemed to ease her anxiety.",
+        "therapist": "Your presence during those moments highlights your genuine care and commitment to others. How does embracing this supportive identity inspire the way you’d like to continue showing up in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think it inspires me to be more intentional in noticing when someone needs that support. Like last week, I checked in on a quiet colleague, and he opened up.",
+        "therapist": "Embracing this intent to notice others shows how your empathy influences those around you. Considering past interactions, what qualities or actions from others have inspired your supportive approach? Recognizing these contributions can deepen understanding of the impact mutual connections have on shaping your identity.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think back to my sister's patience when I felt overwhelmed. She listened without rushing me, and it reminded me how meaningful that quiet support can be for someone.",
+        "therapist": "Your sister's patience shines through as a significant influence in your life, illustrating her deep care. How does reflecting on her support shape the way you see your role in others' lives, and perhaps inspire the nurturing qualities you bring into your relationships now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think her patience taught me the value of being present without trying to fix things. Like when my friend was grieving, I sat with her quietly, and it felt right.",
+        "therapist": "Your ability to offer that quiet presence during your friend's grief reflects the depth of empathy you've developed. How does knowing this aspect of yourself reinforce your understanding of the positive impact you have on others’ lives and their stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "It reassures me that being there for others is meaningful. When my brother struggled with job loss, just knowing I could provide a safe space felt deeply rewarding.",
+        "therapist": "Your ability to create a safe space for your brother speaks volumes about the trust and support you offer. How do you imagine your presence during his difficult time may have shaped how he sees himself or approaches challenges now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I imagine it helped him feel less isolated, knowing someone truly cared. When he opened up about his fears, I felt grateful to be that steady presence for him.",
+        "therapist": "Your actions brought a meaningful shift to your brother's sense of connection and support, which surely impacts his self-view. How does recognizing this influence deepen your appreciation for the way you contribute to others' lives, including your own identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Seeing the impact of my presence makes me appreciate being a source of comfort. It reinforces my identity as empathetic, encouraging me to stay patient and understanding in every relationship.",
+        "therapist": "You’ve shown how empathy shapes the relationships you value, building trust and comfort. How does seeing yourself through the eyes of those you’ve supported influence the way you approach your own needs and self-care within these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "I realize my needs deserve equal attention; it reminds me of times I overlooked my own stress while supporting others. I'm learning to balance by also valuing self-care.",
+        "therapist": "As you acknowledge your value in others’ lives, embracing self-care becomes vital to sustain your empathetic identity. Reflect on ways you might further nurture this balance, preserving the strength and reassurance you offer those around you.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 43,
+        "client": "Reflecting on this balance makes me think about hiking. In nature, I find peace and recharge my energy, which ultimately lets me support others even more effectively.",
+        "therapist": "Hiking seems to reflect your ability to restore yourself, enabling you to show up fully for others. Considering the peace it brings you, how might this connection with nature strengthen your sense of identity as someone who both supports and values mutual growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Hiking reminds me of a time I supported a friend. We climbed together, pausing often for reflection. The shared effort mirrored our emotional journey, deepening mutual understanding and trust.",
+        "therapist": "Your journey with your friend demonstrates how shared experiences can create profound connections. How do you think your presence during that climb contributed to shaping how your friend sees themselves or approaches challenges now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "My presence gave them courage to face fears they once avoided. I recall them saying later that the climb taught them resilience and how support can make tough paths easier.",
+        "therapist": "Your presence not only helped your friend discover resilience but also invited them to see their own strength in connection with others. How has witnessing this transformation shaped your understanding of the lasting impact you have within relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Witnessing their transformation made me realize how being present can plant seeds of change. It’s humbling and reminds me that even small actions can leave deep impacts.",
+        "therapist": "Your reflections show a profound understanding of the value your presence brings to others. How do you think these seeds of change you've planted in others have, in turn, influenced how you see yourself and your place in their stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Planting those seeds has made me feel both valued and reflective. I often wonder if my actions truly stay with people or if they fade over time. It’s a mix of fulfillment and uncertainty.",
+        "therapist": "Your mix of fulfillment and uncertainty reflects how deeply you value connection. What would it be like to see yourself through the eyes of those you've supported, imagining how they might carry forward the resilience you helped nurture?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "It’s a powerful thought. I imagine they’d see me as someone who believed in them when they struggled. Remembering one friend now, they said my encouragement felt like a lifeline.",
+        "therapist": "You’ve cultivated a space of hope and belief for others, serving as a vital support during challenging times. How might acknowledging this ability influence how you perceive your own journey, particularly in moments when you're seeking encouragement or strength?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 49,
+        "client": "I think acknowledging it reminds me that strength often comes from connection. In my toughest times, recalling how I've supported others helps me believe I can navigate challenges too.",
+        "therapist": "Recalling your impact highlights the mutual exchanges in your relationships, where strength and support flow both ways. How might viewing yourself as a source of empowerment for others transform how you approach your own resilience-building journeys?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "It encourages me to focus on the positives when feeling overwhelmed, remembering how my presence lifted others during hard times. One moment stands out: helping a friend before their major exam.",
+        "therapist": "Connecting back to your encouragement before your friend's exam shows your powerful influence in lifting others. How does embracing this role, recognizing their success linked to your support, reshape the way you see yourself in nurturing resilience, not only for them but also for yourself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

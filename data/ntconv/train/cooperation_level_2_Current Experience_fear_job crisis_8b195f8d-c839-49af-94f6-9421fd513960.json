@@ -1,0 +1,555 @@
+[
+    {
+        "round": 1,
+        "user": "Hi there, could I ask you for some help?",
+        "answer_final": "hi! how are you doing today?. of course! Whst's up?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, I'm feeling overwhelmed and need some guidance. I've been struggling with anxiety lately, and it's affecting my daily life. Can you help me explore this?",
+        "therapist": "You're not alone in this, and it's courageous to reach out. Together, we can unravel how anxiety is impacting your life. What's a small step we can take today to begin understanding and easing this overwhelming feeling?"
+    },
+    {
+        "round": 2,
+        "user": "Well not too great really. I am on furlough from my job because of the lockdown.",
+        "answer_final": "how long ago did that happen?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your support. My anxiety spiked after being furloughed due to lockdown. It's challenging, but maybe talking about finding a daily routine could help ease some stress.",
+        "therapist": "I'm glad you're open to finding solutions. Establishing a daily routine might indeed bring some structure and comfort amidst the uncertainty. What small changes can we start with to ease your transition during this challenging time?"
+    },
+    {
+        "round": 3,
+        "user": "It has been happening for most of 2020. I briefly returned to work but now I am furloughed again! What should I do?",
+        "answer_final": "have you filed for unemployment or are you getting paid through your work?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve been going through this since 2020, and returning to furlough was frustrating. Establishing a structured morning routine sounds manageable; starting my day off right might bring more stability.",
+        "therapist": "Experiencing frustration over such an extended period is tough. Creating a morning routine could be a grounding anchor for you. How might integrating comforting rituals or activities into your mornings influence your day?"
+    },
+    {
+        "round": 4,
+        "user": "I get a certain amount of my salary but it is not enough to pay for all my expenses. Additionally I am feeling really bad about the fact that I can't leave home very often.",
+        "answer_final": "not being able to go anywhere is hard. we are all feeling that right now. is it that you are feeling money woes or being cooped up - which bothers you most?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Integrating comforting rituals could definitely bring some relief to my mornings. Financial worries due to insufficient salary make things harder, and feeling stuck at home adds to the stress.",
+        "therapist": "Navigating financial stress and feeling confined at home is understandably overwhelming. Your plan to incorporate comforting rituals is a positive step. How could these rituals be a source of empowerment and relief during this challenging time?"
+    },
+    {
+        "round": 5,
+        "user": "I think it is a combination of both but - perhaps mostly the money worries. It would be ironic if we were to be made homeless at a time when we're not legally supposed to be outside for very long!",
+        "answer_final": "indeed. you mentioned that the salary you are getting doesn't cover everything. is it not covering houseing expenses?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Comforting rituals could help create a small sense of control amidst uncertainty. The fear of homelessness due to money issues weighs heavily, especially when venturing outside is restricted.",
+        "therapist": "The fear of homelessness sounds incredibly daunting. Let’s consider how these comforting rituals can serve as a shield, allowing you some respite and clarity amidst financial challenges. How might naming these challenges as separate entities help in reducing their overwhelming presence?"
+    },
+    {
+        "round": 6,
+        "user": "We can just about scrape by on our mortgage but we were really struggling on other monthly expenses and are worried that some of them might not be paid by the bank.",
+        "answer_final": "it's very scary and stressful! when i have faced a money crisis i have paid mortgage first, car second and then talked to utilities and explained the situation, woudl that help",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Naming the challenges could help create distance from them. While we manage to keep up with the mortgage, juggling other bills stresses us out. I'm anxious about missing payments.",
+        "therapist": "Naming those financial stressors could indeed provide some distance and relief. It’s understandable to feel anxious, yet by focusing on what you can control with these rituals, perhaps there's room to discover new pathways of managing your current situation."
+    },
+    {
+        "round": 7,
+        "user": "I have not really thought about reaching out to any of the people that we have to pay because I am afraid that they might not be sympathetic. Do you think it would be a good idea?",
+        "answer_final": "i think that most people understand that there are many people in a huge crunch right now. i don't see that it woudl hurt to talk to them and be honest",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I see what you mean. While managing what I can, reaching out to creditors might be an option I've overlooked. Though I'm anxious about their response, should I consider it?",
+        "therapist": "Reaching out to creditors can indeed be a proactive step, and it's natural to feel anxious about it. By framing this as an opportunity to explore potential solutions, you may find it empowers you. What supportive actions or rituals could help ease that anxiety during this process?"
+    },
+    {
+        "round": 8,
+        "user": "I suppose that I probably do not have anything to lose - all that they can say is that they won't help us!",
+        "answer_final": "and in that case you are no worse off",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I realize now there's little to lose by reaching out. Even if they can't help, it's worth trying. Deep breathing or a calming tea ritual might ease my anxiety.",
+        "therapist": "Recognizing the value in reaching out is a powerful realization. These self-soothing rituals like deep breathing and tea can truly support you as you navigate this step. How might incorporating these moments of calm help you feel more grounded and prepared?"
+    },
+    {
+        "round": 9,
+        "user": "This is very true. It does help to realise that I am not the only person in this position right now!",
+        "answer_final": "what have you been doing at home now that you aren't working to keep busy?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Incorporating these calming rituals can definitely help me feel more grounded and focused. It’s reassuring to know others are in similar situations, which makes it feel less isolating.",
+        "therapist": "You're not alone in facing these challenges, and using calming rituals is a meaningful step toward grounding yourself. How can you lean into this sense of connection with others as a resource during difficult times?"
+    },
+    {
+        "round": 10,
+        "user": "I have been keeping in touch with friends and family on social media. It is a lifeline but I would still really prefer to be back out there at work!",
+        "answer_final": "i agree! there's nothing like real interaction. it's good that you are keeing in touch with people, many people are feeling isolated right now",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Connecting with friends and family online is incredibly comforting. They offer encouragement, yet I long for the social interactions at work, which really energize me and make me feel purposeful.",
+        "therapist": "Your desire for social interactions reflects the importance of meaningful connection, and it’s heartening to hear online connections offer comfort. Embracing this longing for purpose is vital—consider how these feelings might guide your actions towards finding fulfilling experiences beyond virtual spaces."
+    },
+    {
+        "round": 11,
+        "user": "Do you think that this situation is going to be over anytime soon? It would really make a difference to me to think that it was.",
+        "answer_final": "the 1918 spanish flu pandemic was followed by the roaring 1920's -- so i think if history repeats itself we will be good!. seriously though, the vaccine news is quite encouraging",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm hoping that the current situation improves soon, as it's challenging without social interactions at work. It would give me something to look forward to and help renew my sense of purpose.",
+        "therapist": "Embracing the hope for change shows your resilience in challenging times. These work interactions clearly energize and fulfill you. How can this hope sustain and guide you as you navigate the current situation?"
+    },
+    {
+        "round": 12,
+        "user": "Well yes but the twenties were followed by the Great Depression - I am not sure how encouraging that is :D. This is true - perhaps with the vaccine we can get back to normal sooner than later.",
+        "answer_final": "LOL  hopefully people will stop being mask stubborn and the vaccines will get us back to a modified normal within the next year",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reflecting on historical challenges reminds me of resilience, despite the tough times. The possibility of vaccines gives me hope, guiding my anticipation for revitalizing those energizing work interactions soon.",
+        "therapist": "Recognizing your resilience and hope amidst challenges is inspiring. How can you nurture these qualities to support yourself as you anticipate renewed social interactions at work?"
+    },
+    {
+        "round": 13,
+        "user": "I always wear a mask when I leave the house - it is the sensible thing to do!",
+        "answer_final": "you are absolutely right! i don't understand the resistance to mask wearing. it's baffling. i'm so glad you are staying safe",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I try to nurture resilience by focusing on safety measures like wearing a mask, which feels sensible and reassuring. It helps me look forward to safer work interactions.",
+        "therapist": "Focusing on safety measures demonstrates your commitment to resilience and well-being. How might nurturing this practice further enhance your readiness for meaningful work interactions in the future?"
+    },
+    {
+        "round": 14,
+        "user": "Quite! Do people really want to be infected? Does it hurt them so much to wear a mask and socially distance? I can get back to work sooner (and so can we all) if everyone adheres to recommendations.. You have helped me to see that there might be an end in sight to this - thank you very much.",
+        "answer_final": "we have a real wave of ignorance going on right now, total denial of reality and it's frustrating",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It really feels like taking these safety steps empowers me. Wearing a mask and social distancing seem simple, yet they're crucial for our return to fulfilling work interactions.",
+        "therapist": "Empowerment through safety actions beautifully reflects your commitment to well-being. It’s rewarding to see these steps lead towards more fulfilling work interactions. In what ways do these feelings of empowerment influence other areas of your life?"
+    },
+    {
+        "round": 15,
+        "user": "Perhaps things will be better come January ... you never know :)",
+        "answer_final": "fingers crossed!!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Empowerment certainly extends beyond work; it inspires confidence in daily interactions. I'm hopeful that January will bring further positive changes to all aspects of life.",
+        "therapist": "Empowerment is indeed transformative. Your confidence shines in daily interactions, paving the way for positive changes ahead. As January approaches, this optimism can guide your journey towards a fulfilling future. What supports do you envision boosting this empowerment?"
+    },
+    {
+        "round": 16,
+        "user": "On that note, thank you so much for cheering me up .. best wishes!",
+        "answer_final": "you are absolutely right  this will not last forever",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your uplifting words. Your encouragement makes me feel more hopeful about the future. I'm looking forward to embracing supportive relationships and healthy habits to boost my empowerment.",
+        "therapist": "Your openness to embrace supportive relationships and healthy habits is inspiring. How might these practices deepen your empowerment and positivity as you move forward?"
+    },
+    {
+        "round": 17,
+        "client": "Focusing on staying connected with friends through weekly calls and dedicating time to cooking nutritious meals have both been uplifting. They help instill a sense of accomplishment and joy.",
+        "therapist": "Your commitment to uplifting actions creates valuable moments of accomplishment and joy, portraying how you creatively manage challenges. What name might you give the challenges you've been navigating that reflects their role separate from your identity?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 18,
+        "client": "These challenges feel like 'shifting sands'—constantly changing, yet helping me build resilience and adaptability. They're separate from who I am, but integral in shaping my growth.",
+        "therapist": "Recognizing 'shifting sands' as separate from yourself strengthens your resilience and adaptability. How do these evolving challenges affect different areas of your life, like relationships or work? This exploration might further illuminate their roles in your journey.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 19,
+        "client": "It’s affected my ability to connect deeply at times, but these challenges push me to communicate more openly and seek understanding, strengthening both work bonds and friendships.",
+        "therapist": "As you navigate the 'shifting sands', your proactive approach in seeking understanding is admirable, strengthening bonds along the way. Reflecting on how this fortifies connections, what might be some new possibilities or positive changes that could arise from embracing this openness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 20,
+        "client": "Through embracing openness, I've felt more connected and empowered. Open conversations have led to deeper friendships, like when I shared my struggles and received genuine support from my closest friend.",
+        "therapist": "Recognizing openness as a path to empowerment beautifully aligns with your values of connection and support. As you externalize 'shifting sands', how might this understanding further guide your commitment to nurturing these meaningful relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "['Nurturing these relationships means prioritizing time for those who matter, like setting aside Sundays for walks with friends.', 'These shared moments foster authentic connections and replenish my sense of belonging.', 'Their support during recent challenges has strengthened my trust and helped ease the emotional burden.']",
+        "therapist": "You’ve demonstrated remarkable resilience by prioritizing nurturing connections, creating exceptions to challenges. Considering this empowered narrative, how might it inspire further ways to integrate supportive practices into your everyday life and deepen your preferred story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Reflecting on my resilience encourages me to share gratitude openly. Writing notes of appreciation to friends for their support could deepen our bonds further and brighten my daily life.",
+        "therapist": "Reflecting your commitment to gratitude highlights its vital role in your relationships. Acknowledging support through appreciation notes enriches this narrative of resilience. How might integrating this practice align with your deeper values, enhancing both self-awareness and connection with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I deeply value authenticity and connection. Sharing gratitude aligns perfectly, reminding me of the warmth friends provide. It's helped when feeling isolated, bridging gaps with heartfelt appreciation.",
+        "therapist": "Reflecting on your authenticity and connection values, gratitude seems to beautifully amplify these elements within your narrative. This intentional sharing bolsters your sense of community. How might further embracing gratitude empower other areas where you seek deeper connection or resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Embracing gratitude could transform how I approach challenges. At work, appreciating colleagues openly might foster collaboration and support during stressful projects, reducing my sense of isolation.",
+        "therapist": "Recognizing gratitude's transformative power is inspiring. As you consider embracing it more deeply at work, it sounds promising for enhancing collaboration and support. Reflecting on your experiences so far, what other actions might reinforce this empowering narrative of connection and resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Reflecting on recent projects, I've realized sharing small victories with my team builds mutual respect and encourages unity. Seeing everyone's efforts recognized can alleviate stress, creating a more supportive environment.",
+        "therapist": "Building mutual respect through shared victories beautifully enhances your work environment. This collective recognition resonates with your values of authenticity and connection. How might integrating more moments like these in different areas of your life support an even broader landscape of collaboration and fulfillment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Integrating shared victories in personal life could mean celebrating small achievements with family. A simple dinner, sharing our accomplishments could strengthen bonds, making home a nurturing sanctuary.",
+        "therapist": "Celebrating personal achievements with family strengthens bonds, aligning with your value of connection. Such acts nourish your identity and cultivate a nurturing sanctuary. As you nurture this supportive environment, how does this reflect your deeper intentions toward building resilience across other life dimensions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Recognizing achievements in family builds resilience through love and security. I've felt stronger facing tough times, knowing I can rely on them. It's comforting, empowering.",
+        "therapist": "Celebrating resilience within your family fosters a comforting sense of security and empowerment. These moments of mutual reliance provide a solid foundation against challenges. Consider reflecting on how these supportive experiences might shape other narratives you wish to cultivate further in your life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 28,
+        "client": "Reflecting on those family moments, I've felt inspired to build stronger friendships. Recently, organizing a picnic allowed us to celebrate personal milestones. It deepened our connections and brought immense joy.",
+        "therapist": "Celebrating milestones with friends beautifully aligns with your values, enhancing joy and connection. It speaks to your commitment to nurturing relationships. Reflecting on this growth, consider how this renewed sense of unity might further develop your identity across other cherished areas.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Reflecting on my recent friendships, I'm hopeful about applying this unity at work. I plan to initiate group lunches where we share personal accomplishments. This idea gives me a renewed sense of purpose and eagerness.",
+        "therapist": "Your vision of fostering unity through group lunches highlights your dedication to connection and encouragement. It aligns beautifully with your value of collaboration. How might these intentional actions further reflect the identity you're shaping in both work and personal spaces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Fostering unity at work reflects my desire for stronger connections. I've seen firsthand how shared lunches cultivate trust, creating a space where colleagues feel heard and appreciated.",
+        "therapist": "Your commitment to cultivating trust through shared lunches reveals your deep value for meaningful connection. This initiative mirrors the supportive, authentic environment you've cherished at home. How does this vision align with other key aspects of the identity you're embracing?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "['This vision resonates with my goal to nurture empathy in all areas of life. I remember organizing a volunteering event, feeling united and purposeful as colleagues collaborated beyond work tasks.', 'The energy there affirmed my belief in connection as a driving force, reinforcing my commitment to fostering these experiences across various spheres.']",
+        "therapist": "Your reflection on nurturing empathy reveals how central connection is to your evolving identity. Embracing collaboration, both in volunteering and beyond, reinforces this commitment. How might these experiences inform your future steps toward deepening connections in other areas?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "These experiences reinforce my belief that genuine connection starts with listening and empathy. Recently, I plan to host informal coffee chats at work, encouraging open dialogue and understanding.",
+        "therapist": "Hosting coffee chats beautifully supports your narrative of connection, offering a platform for genuine listening and empathy. As you nurture these conversations, consider how they align with other meaningful outcomes in your life. How do these gatherings reflect your broader vision for fostering understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "These coffee chats represent my desire to create spaces for honest communication. They remind me of an art class I attended, where open critique fostered deeper creativity and collaboration.",
+        "therapist": "Creating spaces for communication echoes the creativity and collaboration from your art class, reinforcing a powerful narrative of honest interaction. Consider how these experiences might further enhance your ability to nurture creativity and understanding across different life areas.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "These experiences teach me that genuine interaction leads to trust and innovation. In other areas, I hope to organize creative workshops where we explore ideas together, much like my art class.",
+        "therapist": "Your insights about trust and innovation as outcomes of genuine interaction paint a vibrant picture of your evolving narrative. Organizing creative workshops offers an exciting path forward. How might embracing these unique outcomes shape the way you want to approach new opportunities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "As I embrace these outcomes, I'm excited to approach opportunities with an open mind. Recently, planning a team project felt more like crafting art, blending ideas freely.",
+        "therapist": "Embracing opportunities with creativity aligns beautifully with your narrative of open-minded collaboration. This artistic approach in team projects reflects a unique ability to blend ideas, nurturing both innovation and trust. How might you further enhance these dynamics within your new roles or environments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think by actively encouraging team members to share their unique perspectives, we can cultivate richer dialogues and foster creative solutions. Recently, I noticed when one team member shared a novel idea, it sparked enthusiasm and opened up new paths for us all.",
+        "therapist": "It's wonderful to see how your leadership encourages others to share unique perspectives, fostering a collaborative spirit. Reflecting on this experience, who in your life might have taught or inspired you to value these kinds of rich, dialogic interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My grandmother inspired me. Her kitchen was a hub of lively discussions, where ideas and laughter flowed freely. It taught me to appreciate the power of listening.",
+        "therapist": "Your grandmother's lively kitchen discussions seem to have deeply shaped your appreciation for listening and understanding. Her belief in open dialogue must have shown you a warm view of your potential. How might this perspective from her encourage you as you foster environments of trust and creativity today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "My grandmother's influence encourages me to prioritize inclusivity and value each team member's voice. Recently, in a brainstorming session, this led to vibrant exchanges that ignited innovation.",
+        "therapist": "Your grandmother’s legacy of inclusivity lives on in your actions. This commitment to valuing every voice fosters vibrant innovation and reflects how deeply her teachings impact you and your team. How does recognizing this influence help affirm your own sense of contribution in the lives of others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Recognizing her influence affirms my commitment to inclusivity and sharing ideas. I recall a project where diverse input created innovative solutions, boosting the team’s confidence and mutual respect.",
+        "therapist": "Your actions continue the legacy of inclusivity and collaboration your grandmother taught you. In what ways have you noticed your commitment positively affecting others, reflecting this legacy in their lives and creating environments where everyone thrives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "In a recent project, I saw team members feeling more valued and engaged when they knew their ideas were heard. It warmed my heart to witness such growth and respect.",
+        "therapist": "Your warmth in witnessing growth and respect reflects the legacy of inclusivity you uphold. How do you imagine these experiences may have inspired your team members to carry forward what they’ve learned into other areas of their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I believe their enhanced sense of worth and communication skills could influence personal relationships, sparking open discussions. Seeing them flourish makes me hopeful about positive ripple effects.",
+        "therapist": "Reflecting on these ripple effects, it seems your contributions have significantly shaped your team's sense of self and belonging. This influence shows how interconnected lives can nurture mutual growth. Consider how embracing this role deepens your understanding of relationships and their power to foster identity transformation.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I've witnessed firsthand how open discussions encourage identity growth. Recently, a colleague shared personal insights during our meeting, leading to a team bond strengthened by genuine understanding and mutual support.",
+        "therapist": "Your role in facilitating open discussions has evidently nurtured both individual and collective identity within your team. Seeing genuine connections forming highlights the profound impact of your efforts. How might these strengthened bonds shape how you and others perceive and develop meaningful relationships moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I feel these bonds might inspire us to be more open and supportive in other areas of life. Recently, seeing a colleague navigate a tough time, I felt compelled to offer help.",
+        "therapist": "Your inclination to support your colleague demonstrates the strength and empathy of those bonds. This mutual openness can truly enrich personal relationships. How do you perceive the contributions you've made will resonate in shaping others' paths, creating deeper relational connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "During a tough project phase, I noticed how listening to others' struggles brought us closer. Offering support felt rewarding and reassured me of our shared journey's strength.",
+        "therapist": "The way you've supported others clearly reinforces your role in cultivating connection and trust. This shows your impact on their journey and personal growth. How do you feel these experiences will guide both you and them in fostering resilient relationships in the future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "These experiences have taught me that being vulnerable and offering support builds stronger ties. Witnessing their gratitude deepened my belief in the importance of empathy and genuine connection.",
+        "therapist": "Your deepening belief in empathy and genuine connection underscores the remarkable impact you're having on others. This approach enriches lives beyond mere interactions. How does witnessing gratitude shift your self-view within these relationships, fostering a sense of personal agency and purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "Witnessing gratitude shifts my view, making me feel valued and integral to others' journeys. When a colleague thanked me for simply listening, I realized the power of just being present.",
+        "therapist": "Your recognition of being valued resonates deeply, showing the importance of presence and active listening. Reflecting on how your colleagues see you can expand this meaningful sense of connection and purpose. How might embracing this view reshape your interactions with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 47,
+        "client": "I believe embracing this view encourages deeper engagement with others. For instance, during team conflicts, I noticed my calm presence fosters constructive dialogue and helps resolve misunderstandings efficiently.",
+        "therapist": "Your ability to create a calming presence during conflicts clearly impacts your team's dynamics positively. This calmness not only shapes their interactions but also affirms your vital role in guiding effective communication. How do these contributions reflect on your own sense of identity and purpose within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I feel like a mediator, supporting harmony and growth. An incident where my calmness resolved a heated debate made me realize my strength lies in encouraging unity and understanding.",
+        "therapist": "Your role as a mediator reveals how significant your contributions are to fostering harmony. Embracing these strengths can deepen your understanding of personal impact and agency. How do you see your mediation skills influencing your self-perception and relationships with those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "My mediation skills make me feel more confident, enabling smoother dialogues and deeper connections. Recently, during a tense meeting, I facilitated a compromise that left everyone satisfied and relieved.",
+        "therapist": "Acknowledging your mediation skills clearly contributes to the team's cohesion and unity. Feeling more confident and valued in these moments truly highlights the strength of your presence. How do you envision nurturing this role to further enrich both your own and others' experiences within these interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "I'm considering organizing regular check-ins and workshops on communication strategies. It excites me to think about helping colleagues develop their skills while also enhancing my understanding of conflict resolution.",
+        "therapist": "The excitement you feel in fostering growth within your team underscores the significant role you play. By facilitating these workshops, you're not only helping others grow but also affirming your identity as a nurturing force. How might this initiative further impact the sense of community among your colleagues?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

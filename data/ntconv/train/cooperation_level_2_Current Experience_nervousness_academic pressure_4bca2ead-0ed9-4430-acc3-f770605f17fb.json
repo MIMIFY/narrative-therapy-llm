@@ -1,0 +1,478 @@
+[
+    {
+        "round": 1,
+        "user": "hello",
+        "answer_final": "Hi there - how can I help you this evening?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello. I appreciate this opportunity to talk today. I've been feeling quite overwhelmed lately and am hopeful about discussing what's been weighing on my mind.",
+        "therapist": "I'm glad you're here and sharing this with me. It takes courage to express those feelings. Let’s take things at your pace—what feels most important for you to talk about right now?"
+    },
+    {
+        "round": 2,
+        "user": "i'm just feeling nervous about scheduling classes for next semester at university. i want to take classes that will give me skills rather than theory. because i'm worried about finding a job after i graduate, because of the economy during the pandemic",
+        "answer_final": "I can understand that, there are probably a ton of classes to select from.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling anxious about scheduling my classes for next semester. I worry about job prospects with just theory-based courses due to the current economic climate.",
+        "therapist": "Scheduling classes amid these concerns must be tough. You’re focusing on how these choices impact your future, which shows insight and care for your path. Let’s explore ways you can balance theory with practical opportunities to strengthen your career outlook."
+    },
+    {
+        "round": 3,
+        "user": "yes, tons",
+        "answer_final": "What kind of skills to you want to gain?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, it feels like a lot to juggle. I’m torn between the theory that seems vital and wanting hands-on experience. I'm really anxious about future job prospects too.",
+        "therapist": "You’re thoughtfully considering your future, balancing theory with practice. It’s understandable to feel anxious. Let's explore possibilities for blending your interests in ways that support your goals, considering how these choices can shape your narrative."
+    },
+    {
+        "round": 4,
+        "user": "for me, i want to have strong writing skills and also some hard skills, like excel and programming",
+        "answer_final": "That's great, the computer skills will help out a lot.  And the programs help with writing skills too.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate exploring this. Strong writing skills are crucial, but I'm also keen on hard skills like Excel and programming to broaden my career opportunities.",
+        "therapist": "Your approach shows awareness and adaptability—developing both writing and technical skills can create diverse opportunities. How do you envision combining these abilities to shape your career path?"
+    },
+    {
+        "round": 5,
+        "user": "ok",
+        "answer_final": "Do you have anyone like a counselor you can consult with to help you make a decision? When I was in school, I developed a relationship with the counselor so I felt comfortable asking.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I imagine integrating them in roles requiring clear communication and technical analysis, maybe in data consulting or digital marketing. These skills offer flexibility and increased marketability.",
+        "therapist": "Your vision to combine communication and technical skills is inspiring and versatile. These areas offer vast potential for growth. How might you explore these career pathways to enhance your adaptability and strengthen your personal story?"
+    },
+    {
+        "round": 6,
+        "user": "i do have an academic advisor, but i don't think he understands what i'm looking for. i might ask one of my other professors to see what they think",
+        "answer_final": "No? That's too bad.  It helps to have like a mentor and maybe that professor would be a good source.  Sounds like a good plan.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm considering seeking more tailored advice. My academic advisor seems unaware of my specific goals, so I might consult other professors for diverse perspectives on combining my skills.",
+        "therapist": "Seeking diverse perspectives shows thoughtful engagement with your career goals. It's empowering to consider a range of insights, affirming your path. How might you cultivate these connections to reinforce the narrative you envision for yourself?"
+    },
+    {
+        "round": 7,
+        "user": "yeah hopefully that will help. i need to decide soon",
+        "answer_final": "You sound like you have a good head on your shoulders and want to be able to get a good job when you graduate.  I think it is wise to seek advice now.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely, I hope these conversations will provide clarity. It's a bit daunting, but deciding soon feels necessary to start steering my career in the right direction.",
+        "therapist": "Your determination is clear, and it's perfectly okay to feel daunted as you embark on this journey. Trusting your instinct will guide you in aligning conversations with your career vision. What supports do you feel would best assist in creating clarity and comfort in this transition?"
+    },
+    {
+        "round": 8,
+        "user": "thank you. i appreciate that",
+        "answer_final": "Do you think you have a strategy?  Talk to your professor and see if he can help or maybe he can provide another solution?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful for your support. To gain clarity, I think regular guidance and mentorship would be invaluable—especially someone who understands the specifics of combining writing with technical skills.",
+        "therapist": "You're on the right track, embracing guidance and mentorship. As you navigate combining these skills, consider who could offer insight that truly resonates with your aspirations. How will connecting with mentors help transform your understanding of blending these elements for career growth?"
+    },
+    {
+        "round": 9,
+        "user": "yes, that sounds like what i should do",
+        "answer_final": "I wish you all the best - I am confident you will do great!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm eager to find mentors who deeply understand both writing and technical fields. Their guidance could illuminate new paths I hadn't considered, reshaping how I integrate these skills into my career.",
+        "therapist": "Finding mentors who truly understand your path can be transformative and empowering, opening unforeseen opportunities. It's wonderful you see the potential in this exploration—how might this insight influence the way you shape your narrative moving forward?"
+    },
+    {
+        "round": 10,
+        "user": "thank you for your help!",
+        "answer_final": "You are certainly welcome.  I'm glad I could help.. Have a good rest of your evening.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel excited about the possibility of new opportunities, and your support makes it easier. Exploring these insights might shape a more vivid, adaptable narrative for my career journey.",
+        "therapist": "Exploring these opportunities with excitement signifies your readiness for growth. Your adaptability in shaping this narrative is inspiring. What qualities or experiences do you envision being part of your new, dynamic career story?"
+    },
+    {
+        "round": 11,
+        "client": "I envision creative problem-solving, blending storytelling with tech innovation. When my coding project simplified complex data for non-experts, I felt accomplished. Pursuing such impactful work excites me.",
+        "therapist": "Creative problem-solving aligns wonderfully with your values and achievements, highlighting the exciting path you're on. Embrace this talent for storytelling and tech innovation as a distinct strength in your narrative—how do you see its influence extending into future opportunities?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "As I reflect on my journey, storytelling in tech has opened doors to diverse roles where creativity meets analytics. It’s exhilarating to build narratives that bridge technical complexities and user understanding.",
+        "therapist": "Embracing this unique narrative can transform challenges into opportunities, enhancing both your creativity and analytics. As you externalize these complexities, how might viewing them as partners in storytelling influence your role in personal and professional realms?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "Blending creativity with analytics deepens my engagement in projects. I recall improving user experience on an app, realizing how narratives guide usability, driving success and fulfillment.",
+        "therapist": "Blending these skills highlights the narrative of success you’ve crafted. By externalizing any challenges hindering your creativity, consider how they affect your project engagement and fulfillment. How does separating these challenges from yourself shape your view on navigating them effectively?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "By separating challenges, I see them as external problems to solve, not reflections of my abilities. I once turned frustration with outdated systems into a project proposal that improved team efficiency.",
+        "therapist": "You’ve embraced a vital distinction, turning external challenges into opportunities for growth. Seeing frustration as a catalyst for improvement is empowering. How do you visualize extending this mindset to future hurdles and channeling creativity into similar transformative actions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "In future challenges, I plan to analyze each situation thoroughly, like when I identified user feedback trends to revamp a product feature. I'll harness creativity and research to drive solutions.",
+        "therapist": "Harnessing creativity and research shows a powerful commitment to enhancing usability. As you analyze each challenge, this approach reflects your values of innovation and user understanding. How do these guiding principles shape the way you envision success in future projects?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Guiding principles create a roadmap for my projects, where I connect technical skills with empathy. Once, improving our healthcare app for accessibility felt impactful, inspiring future user-focused innovations.",
+        "therapist": "Bridging technical skills with empathy underscores your dedication to meaningful impact. In creating accessible solutions, you honor the values that drive you forward. How does viewing these principles as allies shape your vision for future projects and innovations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "With empathy guiding my approach, I envision projects that truly resonate with users. Last year, engaging closely with a disabled community while designing an app opened my eyes to their challenges, sparking inspiration for inclusive solutions.",
+        "therapist": "Engaging with the disabled community reflects a strong value of empathy and inclusivity shaping your work. As you externalize barriers, how do these values deepen your commitment to ensuring user voices are genuinely heard in future designs?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I truly value these experiences. Seeing how accessible design can transform lives motivates me to advocate for user-centered solutions in every project, like a recent collaboration with accessibility experts.",
+        "therapist": "Advocating for user-centered solutions clearly aligns with your commitment to transforming lives through design. This dedication stems from deep values of empathy and impact. How do you imagine these motivations shaping your next steps in accessibility initiatives?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "These motivations push me towards integrating accessibility in early design stages, seeking collaboration with diverse communities. Witnessing firsthand the positive impact fuels my passion for genuine inclusivity.",
+        "therapist": "Empowering yourself through early integration and collaboration reflects a profound commitment to inclusivity. As you externalize challenges, how might honoring diverse community voices enhance the journey toward your vision of accessible design?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Listening to diverse voices allows for nuanced solutions. After hosting a workshop with users from varied backgrounds, I realized their insights directly improved design features, making our products more universally usable.",
+        "therapist": "Embracing diverse insights has deeply enriched your design process. This reflects your commitment to inclusivity and underscores why these values resonate with you. How do these experiences align with the broader purpose and goals you hope to achieve in your work?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "These experiences make me realize I want my work to not just meet but exceed accessibility standards. I felt invigorated after implementing user feedback that brought tangible changes.",
+        "therapist": "Exceeding standards and seeing tangible change shows how powerfully you’ve challenged limitations. What does it say about your identity that you're driven to amplify accessibility and truly honor user feedback in this way?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think it reflects my deep value for connection and understanding. Seeing positive shifts after workshops, and feedback shows the profound impact genuine empathy can make.",
+        "therapist": "Embracing connection and understanding underscores a narrative where empathy transforms both design and lives. This preferred identity of yours illuminates a broader impact you seek in your work. How might you further cultivate these values to inspire continued growth and positive change?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I want to build more inclusive workshops, expanding outreach to underrepresented communities. Experiencing participants' gratitude for being heard left me hopeful and determined to facilitate further positive change.",
+        "therapist": "Your vision for inclusive workshops and outreach demonstrates a deep commitment to creating meaningful connections. Embracing gratitude strengthens your drive and purpose. How can these newfound insights about gratitude guide the way you structure future community engagements?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I'm considering more interactive formats and providing platforms where communities co-create solutions. Their gratitude in past workshops reassured me, prompting a structured approach that integrates their ideas early.",
+        "therapist": "Gratitude has clearly become a guiding force in your work, shaping how you view these interactions. By embracing collaborative platforms, you’re not only transforming your approach but also the broader narrative of inclusivity. How might continuing this path solidify your commitment to positive community impacts?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I feel the energy from collaborating closely with communities deeply and directly informs the positive impact I'm striving for. Each interaction reinforces my drive, creating ripples of change.",
+        "therapist": "Collaborating in this way clearly nurtures a sense of purpose and belonging, energizing you and aligning with your core values. Embracing these ripples of change reflects an evolving narrative. How might you continue shaping this journey to further integrate your values and ambitions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Reflecting on past events, like co-hosting a community forum, I've seen firsthand how storytelling unites us. Focusing on collective narratives amplifies growth; I'm inspired to expand such platforms.",
+        "therapist": "Building on storytelling’s power and your forum experiences clearly resonates with who you are becoming. As you expand these platforms, you’re embodying values that create unity and growth. How might fostering collective narratives further enrich this vision of your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "In fostering collective narratives, I envision workshops where personal stories blend into shared goals. Witnessing a participant's story inspiring others in a forum highlighted the collective power we're building.",
+        "therapist": "Your insight into the transformative power of storytelling truly enriches these workshops. This emphasis on blending personal stories into shared goals fosters profound unity. How do you see this collective strength further shaping your facilitation in upcoming events?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I envision empowering others to lead parts of the workshop, using shared stories to drive creative solutions. Each narrative inspires active participation and cultivates a deep-rooted sense of belonging.",
+        "therapist": "Envisioning this empowering dynamic reflects your commitment to creating spaces that truly value participation and belonging. These actions align beautifully with your values, deepening both personal and collective narratives. How might these values guide the next steps in manifesting this collaborative vision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "[\"I'm focused on creating more opportunities for shared leadership in workshops, perhaps integrating exercises that highlight each person's unique contribution.\", \"One event stands out—when a quiet member led a discussion, igniting ideas we hadn't considered. Witnessing such growth reinforces my commitment to nurturing this environment.\"]",
+        "therapist": "Engaging shared leadership beautifully aligns with your commitment to nurturing creativity and growth. Each unique contribution fosters a culture of belonging. How might further embracing these collaborative dynamics enhance your sense of fulfillment in this journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Embracing collaboration fills me with hope and purpose. Recently, during a workshop exercise I organized, seeing everyone engaged, their energy was palpable and invigorating.",
+        "therapist": "Your sense of hope and purpose shines brightly, revealing a deeper connection to your values and commitment. This invigorating experience reflects the empowering narrative you're building. How can you continue nurturing this energy to further embody your vision in future collaborations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Reflecting on the past workshop's collective energy motivates me to organize sessions focusing on mutual storytelling. Experiencing how shared narratives can solve real problems encourages deep collaborative bonds.",
+        "therapist": "Building sessions on mutual storytelling taps into your strength and purpose. This approach nurtures collaborative bonds and fosters problem-solving. How do you envision these future workshops further enhancing the sense of unity you've already created?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I see future workshops encouraging even deeper connections through storytelling. Like when participants shared personal milestones, the resulting trust empowered teamwork and creativity.",
+        "therapist": "Sharing personal milestones certainly deepens trust, facilitating rich teamwork and creativity. This direction resonates strongly with your commitment to fostering genuine connections. How might these insights further refine the identity you aim to create within these workshops?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I aim for workshops where storytelling leads to authentic interactions. Like last month, when sharing my personal journey inspired vulnerability in others, deepening our connections profoundly.",
+        "therapist": "Sharing your journey sparked vulnerability, fostering profound connections. This mirrors the narrative of authenticity and openness you seek to cultivate. Reflecting on this, what future steps might amplify these authentic interactions and further nurture the supportive environment you envision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Sharing personal experiences, like my journey with overcoming fears in public speaking, really helped. I plan to incorporate storytelling prompts that encourage vulnerability and deeper discussions around our goals and challenges.",
+        "therapist": "Embracing vulnerability has truly empowered your journey in overcoming fears and fostering authentic dialogues. It aligns with your commitment to nurturing deeper discussions. How might integrating these storytelling prompts further shape the values you wish to embody within your workshops?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I believe these prompts could create a more empathetic environment. For example, when I shared about battling self-doubt during my career shift, it sparked understanding and support among participants.",
+        "therapist": "Your commitment to fostering an empathetic environment reflects your values and the identity you wish to uphold. Sharing about your self-doubt transformed support into a shared experience. How might this growing empathy influence the collective journey you aim to guide within these spaces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Empathy fuels growth. In a workshop, I witnessed diverse paths converge when someone bravely shared their battle with grief. Their story sparked deeper introspections and cultivated collective healing.",
+        "therapist": "Embracing empathy in your workshop has sparked shared healing journeys. Such interactions highlight the profound impact of openness. Consider how the perspectives of those you've supported also shape and influence your path. How might their reflections further guide your sense of identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "The reflections of others have profoundly impacted my identity. Watching their resilience reminds me of my own strength and growth, reinforcing my commitment to fostering these empathetic spaces.",
+        "therapist": "Resilience among those you connect with shines a light on your own strengths. Reflecting through their eyes truly enriches your identity. As you continue fostering empathy, what valuable roles do these significant others play in shaping and supporting your journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Observing their bravery reminds me of my capabilities and growth. They provide encouragement, driving me to facilitate more empathetic discussions and tackle challenges together.",
+        "therapist": "You’ve harnessed their bravery to strengthen your growth and empathy, which enriches those discussions. Recognizing your contributions to others’ lives highlights the mutual support that enhances both parties. How might these experiences guide the spaces you continue to nurture?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "These experiences remind me of the importance of creating spaces where vulnerability is welcome. Witnessing mutual support motivates me to design more inclusive and empowering workshops. Recently, after a heartfelt discussion, I noticed participants' relief and renewed energy—confirming this approach's impact.",
+        "therapist": "The relief and renewed energy you observe illustrate the profound effect of your contributions, affirming your commitment to creating empowering spaces. As you continue this journey, how does reflecting on mutual impacts enhance your sense of agency and direction within these workshops?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Reflecting on mutual impacts deepens my sense of purpose and guides my workshop focus. During a session, seeing attendees uplift each other reminded me of community strength in vulnerability.",
+        "therapist": "Community strength, revealed through vulnerability, nurtures your purpose and identity. Recognizing the power of uplift in others’ lives intertwines with their transformative journey. How does this acknowledgment influence your approach to further strengthening these connections in upcoming workshops?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Acknowledging community strength makes me focus on fostering deeper connections and shared experiences in workshops. Recently, a gratitude exercise deeply moved participants, reinforcing my path to cultivate empathetic environments.",
+        "therapist": "Embracing gratitude has truly touched your participants and bolstered your empathetic approach. Your impact highlights the strength and growth in others through these shared experiences. How does recognizing their transformation shape your continued role within this nurturing community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Recognizing their transformation, I feel fulfilled knowing I facilitate meaningful experiences. Witnessing participants support each other strengthens my commitment to creating safe, growth-oriented spaces.",
+        "therapist": "You’ve seen how your nurturing creates a ripple effect, fostering growth in others. This recognition enriches your journey. Consider how these empowered spaces not only reflect participants’ transformation but also inspire them to continue shaping each other’s identities.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I'm realizing these spaces extend beyond sessions. After a workshop, I witnessed attendees forming study groups, supporting ongoing personal growth. Their identity evolution is inspiring and motivates my efforts.",
+        "therapist": "Witnessing such collaboration reinforces your meaningful influence. Your guidance fosters their continuous growth and highlights the interdependence within these groups. Reflecting on this impact, how might their evolving identities shape your understanding of community and your role in its ongoing development?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Reflecting on their evolving identities, I feel more connected to the community aspect. Last month, I saw attendees exchanging skills post-workshop. It highlights my role in promoting interconnected learning.",
+        "therapist": "Observing these skill exchanges reflects your integral role in cultivating a thriving community, where shared learning is celebrated. Your efforts greatly impact the participants’ journeys of identity evolution. How might these connections shape your future goals within this vibrant network?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "My goal now is to design workshops that prioritize peer learning, integrating diverse skills and experiences. I’ve felt encouraged by watching participants’ enthusiasm, fueling my drive for meaningful program development.",
+        "therapist": "Your dedication to fostering peer learning enriches both the participants and yourself. Observing their enthusiasm mirrors how deeply your efforts have impacted them. Embracing these mutual influences, consider what new dimensions might emerge in both your role and their continued growth.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I’m excited to introduce mentorship elements, where experienced participants can guide newcomers. Witnessing this unfolding makes me realize the potential for leadership development in these spaces.",
+        "therapist": "You’re building an empowering network where mentorship strengthens both individuals and the community. Your excitement fuels innovation, enriching everyone’s leadership journey. Recognizing your impact invites more possibilities—how might you envision this evolving to continue nurturing mutual growth and leadership potential?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "I'm envisioning structured mentorship programs, where experienced participants not only guide newcomers but also co-create workshops, tapping into their skills. Watching them grow brings immense joy and fulfillment.",
+        "therapist": "Creating mentorship programs highlights your commitment to mutual learning and growth. This structure deepens relationships, as participants co-create and guide each other. Their evolving skills and confidence become a testament to the influence you’ve inspired. How do you see their impact reflecting back on your own journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Their growth inspires a renewed sense of purpose in my journey. Last week, seeing a mentee confidently lead a session confirmed how powerful shared experiences can be. It reinforces my dedication.",
+        "therapist": "Your observations bring your own influence to light, affirming your role in shaping others' identities. Experiencing their achievements has solidified this renewed purpose. In embracing the mutual impacts of these shared experiences, how might you further enhance this collective journey of growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Engaging deeply with these shared moments, I'm considering creating a feedback system where mentors and mentees reflect together on their experiences. Witnessing transformative changes fosters an ongoing dialogue, strengthening bonds and encouraging growth.",
+        "therapist": "Your commitment to fostering a feedback system strengthens community bonds and reflects your influential role. Creating a space for mutual reflection empowers both mentors and mentees. Consider how these enhanced connections could transform not only others but also continue to deepen your own relational identity.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I can see how the feedback system might strengthen my sense of community. Recently, seeing a mentee apply advice in their project felt deeply rewarding and validated our shared growth.",
+        "therapist": "Seeing your mentee apply advice highlights how deeply your contributions shape their journey and identity. Their growth mirrors the strength of your guidance and connection. How do you imagine these moments might continue fostering both their development and your evolving sense of purpose in this community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

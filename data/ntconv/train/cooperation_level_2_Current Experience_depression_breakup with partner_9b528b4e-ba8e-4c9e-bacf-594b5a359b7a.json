@@ -1,0 +1,534 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hi, how are you doing?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, I'm feeling a bit overwhelmed with everything going on right now, but ready to dive into it and sort through these emotions.",
+        "therapist": "Let's explore those feelings of overwhelm together. It's commendable that you're ready to face these emotions. As we navigate this, remember your resilience in these challenging times. How might telling your story help you in understanding these emotions?"
+    },
+    {
+        "round": 2,
+        "user": "I am doing fine. How are you?",
+        "answer_final": "I'm doing alright. Is there anything bothering you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for the encouragement. Sharing my story might bring some clarity. Right now, it feels like everything is moving too fast, and I'm struggling to keep up.",
+        "therapist": "You’re taking a courageous step by sharing your story. It can be challenging when life feels this fast-paced. As we build on your narrative, we can work to slow down these emotions and find where you feel most grounded. What part of your story would you like to start with?"
+    },
+    {
+        "round": 3,
+        "user": "Yes..  I recently broke up with my partner",
+        "answer_final": "Oh no, that must be hard.. I've definitely been there before, it can really hurt.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think the breakup with my partner is where I'd like to start. It’s been tough, and it feels like everything changed so quickly. I’m grappling with a mix of loss, confusion, and trying to understand what went wrong. I’m hoping to make sense of this upheaval.",
+        "therapist": "You've shown great courage by opening up about this experience. Breakups can feel chaotic and unsettling, bringing many emotions to the surface. Let's explore how these changes have impacted your narrative. Which part of this journey feels most important for you to express now?"
+    },
+    {
+        "round": 4,
+        "user": "I am extremely depressed after that..",
+        "answer_final": "That makes sense. How long were you guys together?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I am feeling extremely depressed after the breakup, grappling with a profound sense of loss. I want to explore why this has hit me so hard emotionally and understand its impact.",
+        "therapist": "Recognizing the depth of your feelings after the breakup is an important step. This can be a powerful opportunity to explore and reframe how you relate to this sense of loss. How would you describe the impact this experience has had on your personal story so far?"
+    },
+    {
+        "round": 5,
+        "user": "We have been together for last 2 years.",
+        "answer_final": "Oh wow, two years is a long time",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Being together for the last 2 years, it felt like we were building a future. This breakup has unraveled that dream, leaving me feeling disoriented and questioning what's next.",
+        "therapist": "You’re feeling the profound impact of dreams unraveling, and it’s understandable to feel disoriented. Let's gently explore how this experience might shape your path forward. Is there a part of yourself or your story that feels steady amidst this change?"
+    },
+    {
+        "round": 6,
+        "user": "Yes.. we had out ups and downs during the time..",
+        "answer_final": "It sounds like it might not have been the most healthy relationship while it was going on, but it can still really hurt when something like that ends.. I went through something similar with an unhealthy relationship that needed to end, but it still hurt for a long time after",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, despite the ups and downs during those two years, we had a deep connection. Reflecting on that steadiness now is tough but perhaps can bring some comfort or insight.",
+        "therapist": "Your reflection on that deep connection is meaningful. It's natural to seek comfort and insight from what felt steady. As you hold onto this aspect, consider how it might inform your present journey and perhaps guide new beginnings."
+    },
+    {
+        "round": 7,
+        "user": "I did not see this was coming.. happened all on a sudden..",
+        "answer_final": "Oh no, being taken by surprise like that can't be pleasant at all.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I thought our future was secure; everything changed so suddenly. It’s hard reconciling the deep connection we had with the abruptness of the end. Exploring what comes next feels daunting.",
+        "therapist": "You’re facing the challenge of sudden change, and that’s understandably daunting. Your awareness of this deep connection is important. Let’s honor that part while gently exploring what might bring you a sense of possibility in moving forward."
+    },
+    {
+        "round": 8,
+        "user": "No it was not.. now I am in depression and don't know how to get out of it.",
+        "answer_final": "I'm sorry to hear that. Do you have friends you can talk to? Spending time with friends can be a good distraction, and give you people to rant to who know you best.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It really wasn’t just a breakup for me; now, I'm feeling deeply stuck in depression. Figuring out how to emerge from it seems overwhelming, yet necessary.",
+        "therapist": "You’re navigating profound feelings of being stuck, acknowledging this need for emergence. Trust in exploring these emotions may reveal paths toward healing. How might this understanding help you uncover small steps to restore your sense of movement forward?"
+    },
+    {
+        "round": 9,
+        "user": "I cannot think of anyone I can share my feeling with...",
+        "answer_final": "It sounds like you're feeling pretty alone right now",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm realizing I can't think of anyone to share my feelings with. It adds to the stuck feeling, like I'm alone in this struggle. Finding small steps seems difficult but essential now.",
+        "therapist": "You’re feeling the weight of isolation in your journey. Building connections, even small ones, can be meaningful. How might we begin creating a support network that feels safe and comforting for you?"
+    },
+    {
+        "round": 10,
+        "user": "Yes, I am..",
+        "answer_final": "You could take the opportunity to try and take up a new hobby. I know it sounds dumb, but finding something to put your energy into could really help",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I am open to exploring ways to build connections. Perhaps starting with small steps, like joining a support group or reconnecting with old friends, could gradually lessen this isolation.",
+        "therapist": "Connecting with others is a powerful step. Reaching out to support groups or reconnecting with old friends can open doors to renewed connections and belonging. What possibilities might arise as you engage in these small steps?"
+    },
+    {
+        "round": 11,
+        "user": "I am into playing musical instruments.. you think I should pick that up again?",
+        "answer_final": "That sounds like a great idea! That's an awesome skill and sounds like it would be fun to get back into.. What instruments do you play?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m considering picking up playing musical instruments again. It used to bring me joy and connect me with others. Do you think revisiting that could help lessen the isolation?",
+        "therapist": "Playing music again could be a wonderful way to find joy and connection. How do you feel about reintroducing it into your life as a step toward alleviating isolation? Exploring this could offer meaningful opportunities for engagement."
+    },
+    {
+        "round": 12,
+        "user": "I play flute.. I guess I will start it again.. thanks for the suggestion.",
+        "answer_final": "Yeah no problem!. I know it's tough now, but I think after some time you'll start feeling better.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I used to love playing the flute; it connected me with others through music. Starting again feels promising, offering moments of joy and potential for shared experiences.",
+        "therapist": "Playing the flute again offers a bridge to joy and shared experiences, nurturing your connections. How might embracing music reshape moments of isolation into spaces for connection?"
+    },
+    {
+        "round": 13,
+        "user": "I hope so.. I feel better talking to you.. thanks again..",
+        "answer_final": "It was great talking to you too :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing music again does feel promising, offering a sense of relief. I appreciate our discussions; they provide comfort and make these steps seem achievable.",
+        "therapist": "Embracing music again offers relief and a path to shared joy. Our conversations are a testament to your courage and resilience. How might this newfound connection with music continue to enrich your journey?"
+    },
+    {
+        "round": 14,
+        "user": "Have a good day..",
+        "answer_final": "You too!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring music offers a chance to rekindle joy and self-discovery. I'll contemplate further steps today with a hopeful mindset. Thank you for your guidance.",
+        "therapist": "Embracing music opens paths to joy and self-discovery, offering renewed hope. How does this idea resonate with the steps you're considering? Your reflections are both thoughtful and inspiring."
+    },
+    {
+        "round": 15,
+        "client": "Music does resonate with me, offering a familiar comfort. I remember connecting deeply during my last performance and feeling at ease in those shared moments. I'll revisit those feelings.",
+        "therapist": "Reviving those connections through music can externalize isolation as a distinct challenge. Your performance memories offer rich ground for reconnecting deeply. As you revisit these feelings, how does this shift shape your relationship with the idea of isolation?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 16,
+        "client": "Exploring those memories redefines isolation for me. In the past, I felt embraced by the audience's energy during performances. Reflecting on that warmth lessens today's loneliness.",
+        "therapist": "Embracing those memories externalizes isolation as an entity separate from you, shaped by past shared energies. By engaging in these experiences again, you're aligned with values of connection and joy. How does this warmth empower you in your commitment to re-engage?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "This warmth fuels a gentle courage to face solitude. I remember feeling alive, exchanging glances with other musicians, cherishing that bond. Revisiting this helps embrace present moments.",
+        "therapist": "The vitality you felt during performances offers a vivid counter to solitude, highlighting your deep value for connection. By revisiting these bonds, how does this renewal support your current journey toward embracing present moments with courage and warmth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Renewing those bonds draws from a poignant rehearsal where music felt boundless, much like being with trusted friends. That experience helps embrace today's moments courageously.",
+        "therapist": "Your connection with music during rehearsals highlights your commitment to courage and friendship. This deeper understanding of the bonds you've felt reinforces these values. How might this boundless energy you've experienced guide your journey forward, embracing solitude with newfound strength?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "The boundless energy helps me view solitude as a space for reflection, inspired by times I crafted melodies alone at midnight. It instills hope and appreciation for peaceful moments.",
+        "therapist": "Solitude, redefined through midnight melodies, becomes a source of reflection and hope. This connection with music underlines values of tranquility and self-discovery. How might you nurture these peaceful moments further to align with your aspirations for crafting positive experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Solitude guides me to early morning walks, a serene ritual. In the stillness, I envision new compositions reflecting sunrise hues, merging nature's rhythm with my creative flow.",
+        "therapist": "Early morning walks offer solitude that nourishes your creativity and aligns with values of peace and reflection. Merging nature's rhythms with your music strengthens your commitment to these moments. Embracing this ritual, what new inspirations or shifts in perspective are you beginning to notice?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "On these walks, I feel more present, noticing how sunlight filters through the trees. This inspires melodies that capture subtle beauty. It helps me see solitude as a creative ally.",
+        "therapist": "Your ability to see solitude as a creative ally shows strength and adaptability. Embracing these walks, and their inspiration might invite new possibilities into your musical journey. How does viewing solitude in this light influence your overall sense of creativity and personal growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Viewing solitude as an ally deepens my creativity, fostering more deliberate, reflective compositions. A sunrise walk sparked a piano piece evoking gentle dawn transitions, marking personal growth.",
+        "therapist": "Embracing solitude has allowed your creativity to blossom, transforming introspective moments into beautiful compositions. This journey seems to be nurturing a preferred identity centered around intentional reflection and artistry. How do these experiences further enrich your understanding of yourself as both a creator and an individual?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I feel my creativity expands through reflection, grounding my identity in musical storytelling. Recently, crafting a composition captured my joy at dawn's colors, enhancing self-discovery and purpose.",
+        "therapist": "Embracing musical storytelling as a part of your identity, and finding joy in dawn's colors, deepens your commitment to self-discovery and creativity. This exploration seems to be leading you toward a fuller expression of purpose. How do these discoveries inspire actions that reflect your growing sense of self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "The melodies inspired by dawn's beauty prompt me to start each day with intentional reflection. Recently, composing music reflecting autumn hues deepened my appreciation for nature's fleeting moments, further fostering self-awareness.",
+        "therapist": "Reflecting on each day's beginnings seems to deepen your connection with both nature and creativity. As you explore autumn’s hues musically, consider how this appreciation for transient beauty might influence the way you experience everyday life and connections.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Reflecting on life's fleeting moments sharpens my awareness of their beauty. Like the other day, watching leaves fall reminded me to cherish our family dinners even more.",
+        "therapist": "Your reflections seem to be fostering deeper connections and appreciation for family time, grounding your alternate narrative in cherished moments. Embracing life's fleeting beauty can shape meaningful relationships and decisions. How does this perspective guide your interactions and choices within your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "[\"Embracing life's fleeting beauty encourages me to prioritize meaningful family moments. I recently initiated weekly game nights, enhancing our bonds and creating joyful shared memories.\"]",
+        "therapist": "Your decision to create these shared family experiences reflects a powerful commitment to fostering connection. This emerging identity of valuing meaningful moments seems aligned with your internal values. How do these interactions support the values and intentions guiding your preferred narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Connecting with my family through these moments brings me joy and fulfillment. It reaffirms the value of presence, love, and genuine engagement in our lives. These shared experiences deepen mutual understanding, nurturing empathy within us.",
+        "therapist": "Experiencing joy and fulfillment in these family moments strengthens the values guiding your narrative. You're actively nurturing presence and empathy, which contribute to mutual understanding. How does this reflection shape your vision for future interactions within your family story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Reflecting on these moments, I envision us exploring new activities together, like weekend hikes or cooking new dishes. It inspires a future where each connection feels authentic and enriching.",
+        "therapist": "Envisioning these new activities with your family enriches your narrative, nurturing meaningful connections. These shared experiences could create deeper bonds and joyous memories. It's exciting to consider how such initiatives might evolve into traditions that strengthen your family's story. What specific feelings do these future adventures bring up for you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Reflecting on our possible adventures fills me with a sense of anticipation and warmth. The thought of laughing while cooking together or breathing in the fresh air during hikes evokes feelings of joy, connection, and hope. It's like envisioning a future where each moment becomes an opportunity to strengthen our bonds and build lasting memories.",
+        "therapist": "Embracing anticipation and warmth from envisioning these shared moments highlights your commitment to building joyful connections. Each activity you plan nurtures the values central to your identity, strengthening family bonds. How might these experiences enrich your family narrative and affirm what truly matters to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Reflecting on these plans, I feel excited about creating memories that highlight love and shared growth. Last week, my son’s delight at mastering a new recipe affirmed our bond's strength.",
+        "therapist": "Delighting in your son's accomplishment connects beautifully with your family's values of love and shared growth. Each new memory nurtures these bonds further, affirming the identity you treasure. How does this affirmation influence your ideas about future family interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "My son's achievement inspires me to explore new activities, like visiting local museums and participating in community events. I feel hopeful about the lasting impact of our evolving bonds.",
+        "therapist": "Exploring local museums and community events seems to weave new threads into your evolving narrative, encouraging discovery and strengthening bonds. Your hopefulness is a powerful guide for action. How might embracing these activities influence the legacy you wish to leave through your family’s story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Reflecting on our experiences, I envision creating a legacy rooted in exploration and learning. Recently, discovering a hidden art gem with my family sparked joy and curiosity.",
+        "therapist": "Embracing this legacy of exploration and learning unfolds exciting chapters for your family's story. The joy in discovering new art invites ongoing curiosity and growth. How might integrating such adventures deepen the essence of your family’s preferred narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Reflecting on our art discovery, I felt a surge of joy seeing my kids engaged. Exploring together fosters curiosity, blending learning with fun, enriching our family's story with vibrant memories.",
+        "therapist": "Engaging with art seems to deepen your family’s narrative of curiosity and learning. This vibrant approach reinforces your identity as a nurturing force, fostering connections through shared joy. Consider how these enriching experiences might reflect and enhance the values at the heart of your family's evolving story.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Experiencing those moments with my family not only enriches our bonds but also reinforces values of curiosity and togetherness. I remember feeling pure delight as my kids discussed their interpretations of the artwork.",
+        "therapist": "Sharing in your children's interpretations reflects a lively and imaginative family identity. This delight points to curiosity and togetherness shaping your narrative. How might you continue weaving these elements into the story of who you are becoming as a family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Last weekend, we painted pottery together. Watching my children choose colors and designs felt meaningful, fostering creativity and conversation. I want more of these shared activities that spark imagination.",
+        "therapist": "Painting pottery together nurtures a creative and conversational space, building the imaginative fabric of your family's story. Encouraging these shared activities strengthens your vision of a curious and connected family. How might weaving more of these experiences enrich the narrative you wish to construct?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "It would deepen our connections and enhance our learning. I felt a surge of warmth last weekend, seeing my kids proudly display their pottery, making me cherish these moments even more.",
+        "therapist": "Connecting through these creative moments, you and your children celebrate mutual contributions to each other's sense of creativity and joy. Their pride becomes an uplifting mirror for both their identity and yours. How might embracing these connections influence the values you're nurturing in your family story?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "These connections nurture a sense of wonder and openness in us. When I see my kids express their ideas freely, it solidifies the importance of encouraging individuality and togetherness. During these moments, I feel an overwhelming gratitude that enhances our family story by weaving in resilience and curiosity.",
+        "therapist": "Recognizing the powerful impact of encouraging individuality within your family strengthens your narrative of resilience and curiosity. You offer a profound gift of openness, cultivating an environment where your children feel valued. How might these contributions continue shaping the inspiring story you are co-creating together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 38,
+        "client": "It's truly heartening to see our story evolve. Recently, my daughter confidently shared a poem she wrote, expressing herself in ways I'd never anticipated. It highlights the growth we experience.",
+        "therapist": "Sharing her poem brings warmth and affirmation to your daughter's evolving identity, influencing both her personal growth and your connection as a family. How might fostering such expressions deepen the relational stories of identity within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 39,
+        "client": "I think encouraging her creativity will empower her and strengthen our bonds. Her courage in sharing reveals a safe space for growth and connection, enriching our shared journey.",
+        "therapist": "Embracing and encouraging your daughter's creativity indeed nurtures a deep sense of empowerment for her and enhances your family's bonds. Your support in this safe space significantly contributes to her confidence. How does recognizing this impact motivate you to continue shaping these experiences together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Recognizing this impact motivates me to create more safe spaces for expression. Whether it's through art, storytelling, or simply chatting over dinner, I feel inspired to nurture their individuality and bolster our connections. It drives me to actively seek out activities that promote openness and shared joy.",
+        "therapist": "Empowered by your efforts to nurture safe spaces, you're profoundly shaping how your children see themselves and their roles within the family. Consider how these shared moments of expression might also illuminate aspects of your own identity that are cherished in this relational dynamic.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Reflecting on these shared moments, I've realized how much value I place on vulnerability. Last week, when I opened up about my own struggles during dinner, my kids responded with understanding and empathy, which helped alleviate some of the heaviness I was feeling. Their reactions reinforce the importance of mutual trust and support in our family.",
+        "therapist": "Your openness has truly become a guiding light for your children, reflecting the value you place on vulnerability. Their empathetic response suggests they see you as a source of courage and honesty, reinforcing the trust you’ve built together. How does their empathy deepen your sense of self within this family dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 42,
+        "client": "Their empathy reinforces my belief in the strength and openness of our family. During hard times, like when I faced job uncertainty, they listened without judgment, which profoundly grounded me.",
+        "therapist": "You're enriching your family narrative with empathy and openness. Their understanding in times of job uncertainty highlights the mutual support you've fostered. How might this shared strength continue nurturing your identity and encouraging theirs, as they learn to express compassion and resilience through witnessing your experiences?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Witnessing my experiences, like openly discussing challenges during my job search, is an opportunity for them to learn compassion and resilience. Their genuine responses reinforce a shared foundation of trust. Recently, I shared a particularly tough rejection, and their comfort transformed that moment into a lesson of collective strength.",
+        "therapist": "The trust and comfort exchanged in those moments not only fortify your family’s bond but also shape their emerging sense of empathy. This strengthens their capacity to handle life's challenges with compassion. How does recognizing this shared growth affect the way you view your collective journey as a family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Recognizing this growth makes me see our journey as one of mutual empowerment. Last night, we had an open conversation about future dreams, and the optimism and unity we felt was deeply reassuring.",
+        "therapist": "Mutual empowerment shines brightly in your family's journey, reinforcing each other's dreams and aspirations. Your role in fostering this connection is vital and transformative. This shared optimism affirms the strength you all bring to one another's lives, crafting a narrative rich with support and love.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "Thank you. I feel a profound sense of fulfillment seeing my kids uplift each other. Recently, when my eldest helped his younger sibling with schoolwork, it underscored our bond's strength.",
+        "therapist": "Your children’s actions beautifully mirror the values of support and understanding you've fostered. Their ability to uplift each other is a testament to your nurturing influence. How does witnessing their growth deepen your sense of connection with them and impact your own understanding of family unity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Seeing my kids support one another, like when my eldest helped his brother during a challenging project, fills me with pride. It strengthens our family unity and deepens my gratitude for these bonds.",
+        "therapist": "Recognizing your role in nurturing such a supportive environment is truly powerful. Your presence and guidance have enabled your children to reflect this unity. How does acknowledging your influence in their relationships enhance your sense of self within the family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "Recognizing my influence makes me appreciate the nuances of my family's dynamic. A recent family meal discussion about everyone's aspirations solidified my role in fostering ambition and support.",
+        "therapist": "The appreciation you feel for your family's dynamic, particularly through open discussions, highlights the positive impact you've made. Seeing yourself as a source of ambition and support reflects your strength. How might embracing this role further nurture the aspirations and bonds within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "Embracing this role allows me to inspire more meaningful conversations. When we discussed setting realistic goals last weekend, I felt more connected and motivated by our shared dreams.",
+        "therapist": "Your ability to inspire such impactful discussions truly reinforces the positive influence you have on your family's identity. It's evident that your efforts foster an environment where shared dreams thrive. How do you envision nurturing these connections further as your family’s journey continues?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I plan to continue nurturing these connections by creating more opportunities for shared experiences, like family game nights and open forums for discussing hopes, fears, and achievements. It helps reinforce our support system.",
+        "therapist": "By creating shared experiences and open forums, you not only strengthen your family’s support system but also shape how each member perceives themselves and others. Your role in this nurturing space adds layers to their identities, highlighting growth. What new aspects of yourself have emerged from these interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Recently, I've realized my capacity for deep listening and empathy. During a family conversation about challenges, I listened patiently without judgment, fostering trust and understanding.",
+        "therapist": "Your empathy and listening have clearly deepened your family's trust and connection, reinforcing how much they value your presence. Embracing this nurturing aspect reveals the strength you bring into their lives. How does recognizing your impact affirm your own sense of purpose within the family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

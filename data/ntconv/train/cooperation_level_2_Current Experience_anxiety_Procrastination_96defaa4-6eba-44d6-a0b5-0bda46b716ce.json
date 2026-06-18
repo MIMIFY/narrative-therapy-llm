@@ -1,0 +1,541 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi , can I help you today? Would you like to share anything?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling overwhelmed. Sometimes it's hard to see past the difficulties I'm facing right now. There's an inner storm, and I feel a bit lost.",
+        "therapist": "You’re navigating through a tough time, and feeling lost in that inner storm is valid. Let’s explore ways to find some calm within. What small steps might help create a sense of peace amidst this overwhelming situation?"
+    },
+    {
+        "round": 2,
+        "user": "yes",
+        "answer_final": "Do you have anything specific on your mind?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, finding small moments of calm sounds helpful. Sometimes just taking a deep breath or stepping outside briefly can lighten the load. I'll try focusing on those small actions.",
+        "therapist": "It's great that you're considering those calming actions. How might you integrate these peaceful moments more consistently into your day to create a sense of stability and comfort amidst the current challenges?"
+    },
+    {
+        "round": 3,
+        "user": "My wife is having medical issues and is unable to help me",
+        "answer_final": "Oh, it seems like you are feeling alone, is that correct?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I could use those moments for myself, but it's challenging because my wife has medical issues. Supporting her often makes finding personal calmness feel out of reach.",
+        "therapist": "Finding calm can be challenging while supporting your wife. Perhaps identifying brief, intentional moments for yourself will nurture both your own well-being and the strength you offer her. What small step might offer mutual benefit without feeling overwhelming?"
+    },
+    {
+        "round": 4,
+        "user": "I need help on so many things",
+        "answer_final": "Do you have a list of things in any order?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think finding moments of calm that both help me support her and care for myself could be beneficial. Maybe something as simple as a quiet walk together or breathing exercises could be mutual.",
+        "therapist": "Quiet walks or shared breathing exercises sound like nurturing ways to support each other. How might these moments reinforce your connection and provide a needed respite amid challenges?"
+    },
+    {
+        "round": 5,
+        "user": "The support of my wife has become very clear to me",
+        "answer_final": "That sounds very difficult for you and great job reaching out here today.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Supporting my wife has become increasingly vital. Quiet walks could not only deepen our bond but also serve as peaceful moments away from the chaos, helping me feel grounded.",
+        "therapist": "Quiet walks indeed offer grounding moments, enhancing both your connection and personal well-being. How do these shared experiences foster strength and resilience as you support each other through difficult times?"
+    },
+    {
+        "round": 6,
+        "user": "I am not lonely, just needing a way to be independent.",
+        "answer_final": "I can telling that you are very worried but also very capable because you have taking the time to search for some support.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "While I don't feel lonely, I crave moments to regain independence. These shared experiences can help nurture resilience without losing my sense of self in the process.",
+        "therapist": "Embracing these shared experiences seems to help you find balance between connection and independence. How might acknowledging this craving for independence inform the small, meaningful steps you take together?"
+    },
+    {
+        "round": 7,
+        "user": "W@ould like to know what to do to be more independent.",
+        "answer_final": "Well, I used to feel the same way and I would take the time to call a close friend and spend time with my dogs everyday. Is that something you could do too?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Acknowledging my need for independence allows us to find ways that I can step back and care for myself, even as we continue to share those meaningful experiences together.",
+        "therapist": "Acknowledging your need for independence while sharing meaningful experiences seems like a valuable way to maintain self-care. As you explore these moments, how does this balance nurture the personal growth and support both of you seek?"
+    },
+    {
+        "round": 8,
+        "user": "Support in the community is not evident, would like to find associations.. What would you do.",
+        "answer_final": "That is very forward thinking and a great idea. A local church group can often support you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm finding this balance helps us both grow, but community support feels lacking. I wonder if joining local associations could connect us with others sharing similar experiences.",
+        "therapist": "Joining local associations seems like a promising way to find community support and share experiences with others. How do you envision this connection fostering growth and enhancing your sense of belonging?"
+    },
+    {
+        "round": 9,
+        "user": "Travel is a problem for Church involvement.",
+        "answer_final": "I understand, I have noticed that people who reach our for help as you have will attract people to them. Have you looked into an online church community?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think local associations could be wonderful, but I'm concerned about travel being a barrier to engaging more deeply with the Church community. Finding nearby opportunities is important.",
+        "therapist": "Traveling can indeed be a challenge. Seeking nearby opportunities might bring connection and fulfillment within the Church community. What local groups or activities could offer that connection while being easily accessible for you both?"
+    },
+    {
+        "round": 10,
+        "user": "There are issues with people at church.",
+        "answer_final": "Yes, I agree that it is hard to find people who can help and not cause more harm. Online communities on reddit have specialized groups for people with your situation too.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your suggestion. I'm concerned that my existing issues with some people at the church might make seeking local opportunities challenging. Any ideas on navigating this?",
+        "therapist": "Considering these challenges, your feelings are completely valid. Perhaps focusing on finding welcoming environments within or outside the church community could provide a sense of comfort. What aspects of new opportunities might feel safe and supportive for you?"
+    },
+    {
+        "round": 11,
+        "user": "Need support that is meaningful and compasionate.",
+        "answer_final": "Yes, I agree. Having time to sit down and write out your thoughts and feelings can sometimes help too. Maybe you can journal your feelings this week.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I need support that's both meaningful and compassionate. Maybe smaller groups or personal connections could provide that safe space, helping navigate any lingering issues within the church community.",
+        "therapist": "Consider exploring those smaller groups or personal connections. They could indeed offer the meaningful support and compassion you seek while providing a safe space to address any issues within the church community. What qualities in these connections would feel most comforting to you?"
+    },
+    {
+        "round": 12,
+        "user": "I will keep looking. there has got to be help.",
+        "answer_final": "Yes, you have started your journey today and I am very proud of you expressing and identifying your problems. Great first step.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful for your guidance. I'll focus on exploring these smaller groups, hoping to find meaningful help with kind-hearted people who understand and share similar struggles.",
+        "therapist": "You're taking a positive step by seeking smaller, compassionate groups. Trust in this path and the connections you'll build. Your openness to explore can lead to healing and support with others who truly understand your journey. What small action might you take first to begin connecting?"
+    },
+    {
+        "round": 13,
+        "user": "The need to continuen is clear, something has got to be available.",
+        "answer_final": "Yes, please use writing to list your feelings and problems this week and check back with us regularly. We are happy to help and always here for you. Thank you very much.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm determined to continue exploring these options. First, I'll research local support groups or reach out to someone in the church I trust who might guide me towards available resources.",
+        "therapist": "Your determination is inspiring. Exploring these options with trusted guidance shows commitment to your growth. Finding those supportive connections can create meaningful change and understanding for you. What quality are you looking for in a local group or resource?"
+    },
+    {
+        "round": 14,
+        "user": "Things like appointments are required, how do you get to them?",
+        "answer_final": "You can reach out anytime or day and we will assist you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your support. I need a group that's flexible with scheduling, understanding of my commitments and accessible so attending appointments won't feel overwhelming or unmanageable.",
+        "therapist": "You're prioritizing your needs wisely, aiming for flexibility and understanding in support. Finding groups that offer ease amidst your commitments is crucial. What would make this search feel less overwhelming?"
+    },
+    {
+        "round": 15,
+        "user": "Thanks for your help. You have good suggestions.",
+        "answer_final": "You're welcome, Bye.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your suggestions are really helpful. To make this search less overwhelming, I could prioritize groups close by and maybe start with online forums or discussions to ease into it.",
+        "therapist": "You've got a great plan with easing into online forums and local groups. Prioritizing convenience can help manage your commitments without feeling overwhelmed. What type of discussions or connections would you like to explore first in these spaces?"
+    },
+    {
+        "round": 16,
+        "user": "Bye",
+        "answer_final": "If you don't need anything else, you can kindly, end and finish for today. Thanks.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your guidance. I'm curious about discussions on coping strategies and personal stories of resilience. I'll start exploring these topics.",
+        "therapist": "Your interest in coping strategies and stories of resilience reflects a strong desire for growth. Exploring these topics can truly empower you. In what ways do you hope these discussions will inspire your journey?"
+    },
+    {
+        "round": 17,
+        "client": "I'm hoping to gain new coping techniques and hear personal stories that resonate with my struggles. Connecting with others who've navigated similar paths could fuel my determination to move forward.",
+        "therapist": "Your desire to gain coping techniques and connect with relatable stories highlights your readiness for change. Imagine what new possibilities might unfold as you continue this journey of learning and sharing within these supportive spaces.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 18,
+        "client": "I'm hopeful. Recently, a friend shared her journey with similar struggles, which sparked a new sense of motivation in me. Her resilience showed that change is achievable despite obstacles.",
+        "therapist": "Your friend's journey is a powerful reminder of what can be achieved, and it's wonderful that it ignited new motivation in you. Let's explore how this sense of resilience and hope might alter the impact of challenges in various parts of your life. How do you envision this spark influencing your daily experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 19,
+        "client": "This spark could lead to exploring new hobbies or daily habits that foster positivity, like yoga or journaling. It might also encourage me to tackle work tasks with fresh confidence.",
+        "therapist": "Your decision to embrace activities like yoga or journaling opens new paths to resilience, highlighting a strong separation from challenges. This proactive approach reduces the negative impact of obstacles on your confidence and energy. As you nurture these positive habits, what other areas might benefit from this renewed focus?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 20,
+        "client": "With this new focus, my relationships might improve as I practice patience and empathy. Additionally, creatively engaging in painting could deepen my self-expression and emotional awareness.",
+        "therapist": "Focusing on patience, empathy, and creativity could transform challenges into opportunities for growth. By externalizing obstacles, you're recognizing your commitment to nurturing relationships and self-expression. How does this align with what you truly value in life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "It aligns deeply with my values of connection and creativity. Recently, painting helped me express buried emotions, and patience improved my listening skills, making conversations more meaningful.",
+        "therapist": "Your creativity and patience highlight powerful steps in reshaping your story. Through painting and attentive listening, you're expanding your connection with yourself and others. How might these developments help you redefine your journey ahead, reflecting a narrative filled with authenticity and strength?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "As I've embraced these changes, I feel a deepening sense of belonging and purpose. Recently, painting revealed hidden emotions, fostering healing and strengthening my resolve to nurture meaningful connections.",
+        "therapist": "Your painting journey and its emotional revelations beautifully illuminate the strengths you're cultivating. This sense of belonging aligns with your core values, nurturing your resolve for meaningful connections. How might these creative expressions further solidify the identity you aspire to embrace?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Painting has uncovered emotions I never fully understood, deepening my self-awareness. By embracing this creative process, I'm constructing an identity rooted in authenticity and openness to emotional exploration.",
+        "therapist": "Embracing painting reveals deep layers of your inner world, shaping an authentic narrative rich in emotional exploration. This creativity aligns with your values and intentions. How might this emerging identity enhance the meaningful connections you aspire to nurture further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Painting's revelations made me aware of my vulnerability and courage. Recently, sharing these works with friends led to deeper bonds, fostering empathy and understanding in our conversations.",
+        "therapist": "Embracing vulnerability through your paintings has profoundly shaped your relationships, creating empathy and deeper understanding. This courage is a significant strength, enhancing connections with others. How do these insights inform the next steps in nurturing your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Understanding my vulnerability has motivated me to share more openly. For instance, at a recent art gathering, discussing my process brought unexpected mutual support and connection. It's shaping my identity toward deeper authenticity.",
+        "therapist": "Sharing your journey with others has strengthened your authentic self and fostered valuable connections. This exploration of vulnerability highlights your evolving identity. What intentions might guide you as you continue building these meaningful relationships and nurturing authenticity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I intend to be more present in my relationships, sharing my thoughts and emotions without fear. A recent conversation about my art brought mutual vulnerability that was deeply bonding.",
+        "therapist": "Sharing your thoughts and emotions openly is a powerful commitment to nurturing relationships authentically. Your bonding conversation is a testament to the transformative potential within vulnerability. How might these moments guide you in creating deeper connections with others in your journey ahead?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "These moments encourage me to embrace vulnerability more, like when I shared my insecurities about an unfinished piece with a friend. It sparked understanding and deeper trust in our relationship.",
+        "therapist": "Embracing vulnerability is fostering deeper trust, significantly shaping your relationships. Your courage to share insecurities opens pathways to understanding. How do you envision continuing to cultivate this openness and further reinforcing your connections in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I envision prioritizing honest communication, addressing topics I've previously avoided, like discussing fears in relationships. Sharing a recent artistic block showed me how openness strengthens bonds and ignites collaboration.",
+        "therapist": "Honesty and openness in your communication beautifully align with your intentions for deeper relationships. These courageous steps are building a narrative of strength and connection. How might these changes enrich the kind of collaborative community you aspire to create around your art?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "These changes inspire me to foster a community where feedback is shared openly and ideas flow freely. Recently, brainstorming with fellow artists on a new project felt energizing and empowering.",
+        "therapist": "Your journey toward openness is creating a vibrant artistic community rooted in trust and collaboration. As you navigate this energizing space, how does this mutual empowerment align with your evolving vision for creative expression and personal growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Exploring this empowering community aligns with my vision to inspire through art. Recently, sharing creative challenges fostered genuine support, uplifting my journey of personal growth and collaboration.",
+        "therapist": "Your commitment to inspiring through art and fostering genuine support highlights a valued identity of collaboration and growth. This enriching journey reflects your dedication to both personal and community flourishing. How does this new narrative influence the way you envision your role within your artistic community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "My role now feels like a facilitator, connecting others and encouraging shared creative exploration. Supporting fellow artists brings fulfillment, as we share our challenges and triumphs together.",
+        "therapist": "Facilitating and nurturing shared exploration deeply enriches your journey. Your openness to embrace creative collaboration highlights resilience against past apprehensions. How can these empowering moments shape the ongoing narrative of connection and creativity within your community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 32,
+        "client": "These empowering moments invite continuous dialogue and exploration. Recently, organizing an art workshop enriched our discussions, sparking new ideas. I feel encouraged to host more collaborative events.",
+        "therapist": "Celebrating these moments of dialogue enriches your role as a connector, inviting collaborative growth. Hosting more events embraces your values of connection and creativity. How might this evolving identity influence your commitments to both personal exploration and the community's future endeavors?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Hosting these events sharpens my vision for inclusive art spaces. Each gathering strengthens my belief in shared storytelling's power, urging me to explore deeper connections and personal growth pathways.",
+        "therapist": "Your dedication to inclusive art spaces highlights a commitment to meaningful connections. These gatherings resonate with your passion for storytelling. As you navigate these pathways of growth, consider how these events could further influence your future initiatives and personal journey.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "My art space gatherings cultivate genuine connections, igniting passion for collaboration. These events inspired a series focusing on mental health awareness, fostering empathy through shared storytelling and expression.",
+        "therapist": "Your commitment to mental health awareness through art highlights a profound dedication to empathy and shared storytelling. As you nurture these connections, consider how this evolving series can enrich both your community and personal exploration.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "The art series has pushed me to open dialogues about personal struggles in safe spaces. It's deeply fulfilling, fostering compassion while encouraging my own understanding and healing journey.",
+        "therapist": "Your ability to cultivate compassion in safe spaces demonstrates resilience and intention. These meaningful dialogues reveal a valued identity rooted in empathy and healing. As you foster these connections, consider how this narrative influences your vision for personal growth and community engagement.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I’ve noticed a ripple effect; creating safe spaces sparks growth beyond art. It's rewarding, yet challenging as I navigate my own healing journey alongside. How can I balance fostering others' growth while ensuring mine continues?",
+        "therapist": "Embracing the ripple effect highlights the meaningful contributions others have in your journey. Reflect on those who’ve influenced your values and supported your growth. As you nurture these connections, consider how their perspectives can guide your balance between fostering community growth and personal healing.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Reflecting on key influences, like my mentor in art therapy, reminds me to prioritize self-care. A recent retreat offered new insights, fostering growth and balance. Feeling hopeful about the journey ahead.",
+        "therapist": "Reflecting on your mentor’s influence and the retreat insights seems empowering, offering guidance for self-care. As you consider how they view you, recognize their belief in your capabilities, embracing both growth and balance on your journey ahead.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Reflecting on my mentor's influence reminds me of the insights gained at the retreat. Those sessions shifted my perspective, boosting my confidence and reaffirming self-care's role in nurturing growth.",
+        "therapist": "Reflecting on how your mentor and retreat shaped your growth highlights your valuable contributions to others’ lives. By prioritizing self-care, you're modeling empowerment and resilience. As you continue this journey, consider how these new perspectives influence your approach to fostering community connections.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "The retreat highlighted moments when I prioritized everyone else over myself, which I'm working on adjusting. My mentor's reminders echo in my daily routine, fostering a healthier balance.",
+        "therapist": "Balancing self-care with supporting others is indeed transformative. Reflecting on how your dedication influences those around you reveals meaningful connections. Consider how integrating your mentor's wisdom into daily life can deepen this evolving sense of balance and agency.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Reflecting on meaningful connections, I recall a recent art workshop where participants shared their healing stories. Applying my mentor’s advice, I balanced my support with self-care, fostering mutual growth.",
+        "therapist": "Balancing support and self-care in the workshop reflects your thoughtful influence on others' healing. Your ability to foster mutual growth likely enriched participants' stories, impacting their journeys too. How do you see these experiences shaping their perspectives as they move forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "The workshop helped participants view vulnerability as strength, encouraging openness. Sharing my journey alongside theirs created a collective empathy, and I felt a deep sense of connection and renewed purpose.",
+        "therapist": "Exploring vulnerability in the workshop likely cultivated powerful transformations. How do participants see you contributing to this shared journey? Your ability to connect deeply seems pivotal in reinforcing their sense of collective empathy and purpose, highlighting your influence on others' growth and identity.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Reflecting on participants' feedback, they valued how I openly shared my struggles and triumphs. It fostered a safe space for everyone to be more vulnerable and authentic.",
+        "therapist": "Sharing your journey with such openness enabled others to find strength in vulnerability, and it truly reflects the powerful role you play. Recognizing how your experiences shape their authenticity highlights mutual influence. How might embracing this shared empathy further strengthen your community relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Sharing my vulnerabilities helped build genuine trust, which I see reflected in others who share their stories too. This bond makes me feel hopeful about creating a supportive community.",
+        "therapist": "Sharing your vulnerabilities to nurture genuine trust has surely influenced others. This mutual bond contributes deeply to creating an empathic community. In considering how these connections evolve, how do you see this experience further shaping the identity of those involved?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "The experience brought participants' individuality into focus, revealing their unique stories and strengths. I see our collective vulnerability enriching each person's sense of identity, building resilience.",
+        "therapist": "The collective vulnerability seems to enhance each person's resilience, shaping their identity beautifully. Your contributions deeply impact participants by embracing and valuing their uniqueness. How do you see your role evolving within this enriched community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I imagine my role growing as a mentor, guiding others through their journeys with empathy. Listening to diverse stories recently taught me patience and deepened my understanding of each person.",
+        "therapist": "Your emerging role as a mentor truly underscores your positive impact and agency within the community. Embracing patience and understanding enriches this journey. How might those you've guided perceive their growth through your empathetic mentorship?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "Feeling appreciated for my guidance and genuine listening, participants express newfound courage in tackling challenges. Their growth—like Jane overcoming self-doubt—fills me with warmth and hope.",
+        "therapist": "Embracing warmth and hope as you mentor others reflects the deep influence you've had. Your genuine guidance has clearly encouraged growth in those you support. Seeing how your contributions shape their journeys, how does that deepen your understanding of your own identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Mentoring has made me realize the depth of empathy and listening in shaping identity. For instance, when helping Mike open up about his fears, I felt my own resolve strengthen.",
+        "therapist": "Mentoring seems to have enriched both your and Mike's identity. Your growing empathy appears to inspire courage in those you support. How does this shared transformation affirm your sense of belonging within the community you've helped build?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Sharing transformation has solidified my role and connectedness within the community. Watching Megan conquer her anxiety through our sessions reinforced my sense of purpose, filling me with fulfillment.",
+        "therapist": "Your sense of purpose and fulfillment within the community is significant. Supporting Megan through her journey not only enriches her identity but deeply affirms your role. How do you see this shared transformation influencing future interactions or guidance within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "The shared transformation fuels my commitment to fostering a nurturing environment. Witnessing progress—like Tom finding his voice—empowers me, hoping for richer connections and deeper support networks.",
+        "therapist": "Your commitment to nurturing transformation undeniably enhances community connections and support. Observing individuals like Tom finding strength through your guidance undoubtedly influences their identity. Reflecting on this impact, how might these connections reshape the landscape of community relationships in the future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Community relationships might flourish as people share and validate their experiences. Helping Sam openly discuss past traumas showed me the healing power of collective empathy and mutual respect.",
+        "therapist": "Exploring these profound connections with Sam truly highlights the significant role your empathy plays. Recognizing this influence likely reinforces your own sense of belonging. How might acknowledging these contributions continue to shape the supportive, empathetic community you're nurturing?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

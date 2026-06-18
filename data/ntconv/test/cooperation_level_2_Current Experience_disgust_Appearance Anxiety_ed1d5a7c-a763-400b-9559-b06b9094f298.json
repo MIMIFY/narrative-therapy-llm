@@ -1,0 +1,567 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello there, how are you feeling today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve been feeling overwhelmed lately, like I’m juggling too many things at once. It’s exhausting, and I’m not sure how to slow it all down.",
+        "therapist": "You’re carrying a lot right now, and it’s understandable to feel this way. If you could imagine one step that might make things feel just a little lighter, what would that look like for you?"
+    },
+    {
+        "round": 2,
+        "user": "I am feeling a bit sad and down",
+        "answer_final": "I am sorry to hear that. Do you want to tell me about it?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel sad and a little stuck, but maybe slowing down by setting smaller goals or asking for help could make things easier. It’s hard to decide where to start.",
+        "therapist": "You’re exploring thoughtful ways forward, which shows strength even in feeling stuck. Would breaking things into smaller steps or reaching out for support feel manageable right now? It’s okay to start small and take the time you need."
+    },
+    {
+        "round": 3,
+        "user": "I hate the way I look. Everytime I look in the mirror I cry",
+        "answer_final": "I see. Can you be more specific? A lot of people are insecure about their looks you know.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. It feels hard to break things into steps when my self-image weighs me down so much. I hate how I look, and seeing myself often brings me to tears.",
+        "therapist": "You’re carrying deep pain around your self-image, and that takes a toll. What do you think keeps this narrative about yourself so powerful? Together, we can begin to look at it differently and make space for other stories about who you are."
+    },
+    {
+        "round": 4,
+        "user": "When I look in the mirror, I think Im the ugliest person in the world sometimes",
+        "answer_final": "How old are you if you don't mind my asking? This is a common thing among young people.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sometimes it’s the smallest things—like a passing comment or the way clothes fit—that make the narrative spiral. I feel stuck in this belief, like it won’t ever change.",
+        "therapist": "That spiral must feel exhausting and heavy. What might it be like to notice even small moments where you feel differently about yourself, or when those beliefs loosen their grip, even briefly?"
+    },
+    {
+        "round": 5,
+        "user": "I am 32",
+        "answer_final": "I see. Well can you tell me what specific part of  your appearance do you hate? Maybe it could be altered?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m 32, and I can’t recall many moments where those beliefs about myself feel lighter. It’s hard to see myself differently, but I’d like to find those moments.",
+        "therapist": "You’ve taken a meaningful step by expressing a desire to find those moments. What do you think might help create just one small experience where you see yourself differently, even for a moment?"
+    },
+    {
+        "round": 6,
+        "user": "I hate everything when I see my reflection. I just feel fat and ugly",
+        "answer_final": "Well, I have been overweight and I know it sucks. Perhaps you could join a weight loss group?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m not sure how to create those moments. Seeing my reflection just overwhelms me with shame and disgust—it feels like everything wrong with me is staring back.",
+        "therapist": "You’re carrying so much pain in how you see yourself, and that’s a lot to hold. What if we gently explore one small way to feel safe with your reflection—not to change it, but just to ease some of the heaviness?"
+    },
+    {
+        "round": 7,
+        "user": "I have been working out and eating better. Even though I am losing weight, I still feel horrible",
+        "answer_final": "Well you should be proud of the progress! Maybe buy yourself some new clothes?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve tried working out and eating healthier, and while I’m seeing changes in my weight, I still can’t escape this awful feeling when I look at myself. It’s like nothing external can touch the way I feel inside.",
+        "therapist": "You’ve been trying so hard to make changes, yet that inner weight remains, and that’s incredibly tough. What if we gently explored how this feeling might shift—not through external change but by questioning the story it holds about you?"
+    },
+    {
+        "round": 8,
+        "user": "That is a good idea, maybe that will help",
+        "answer_final": "Or have a new haircut or something :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That makes sense. I’ve never thought much about the story behind these feelings, but maybe exploring it could help me understand why they feel so overwhelming.",
+        "therapist": "Exploring that story could bring new understanding and relief. What might it feel like to unpack the ways these feelings have shaped how you see yourself, at a pace that feels safe for you?"
+    },
+    {
+        "round": 9,
+        "user": "I like that idea too, I will give it a try",
+        "answer_final": "Is it just your weight that bothers you about your appearance?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I like that idea—it feels hopeful. Maybe unpacking those feelings could help me understand why they’ve stuck so deeply and how I might begin shifting them. I’m willing to try.",
+        "therapist": "Exploring how these feelings have stuck can be empowering. What name or description might fit this feeling, as something outside of you, so we can begin understanding it on its own terms?"
+    },
+    {
+        "round": 10,
+        "user": "No, I just dont like looking at myself in the mirror. I just feel ugly and gross",
+        "answer_final": "I have a feeling that other people do not feel that way about you :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess it feels like this shadow clinging to me, reminding me of everything I hate when I see myself. It’s heavy, and it pulls me into feeling ugly and gross.",
+        "therapist": "That shadow feels like it carries so much weight in your life. What if we began imagining ways to loosen its grip—what would safety or even a small bit of peace from it look like for you?"
+    },
+    {
+        "round": 11,
+        "user": "That is kind of you to say, thank you. You have helped me quite a bit today, I appreciate it",
+        "answer_final": "I think a lot of people do see themselves in a much worse light as others see them :) It's a human thing.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Safety might look like seeing myself without that shadow constantly dragging me down—maybe feeling okay in my own skin, even for just a moment. You've given me hope for that. Thank you, truly—I appreciate your help today.",
+        "therapist": "Feeling even a small moment of ease in your own skin is a powerful step toward reclaiming peace from that shadow. What possibilities might emerge if that sense of safety begins to grow?"
+    },
+    {
+        "round": 12,
+        "user": "Very true, thank you for the perspective",
+        "answer_final": "So, what sort of clothes do you think you are going to buy? :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That’s an encouraging thought. If safety grows, maybe I’d start seeing myself in a kinder way, free from that shadow’s grip. It feels hopeful imagining that possibility.",
+        "therapist": "Imagining that possibility can be empowering—it’s the start of reshaping how you see yourself. What small, kind action toward yourself might feel achievable and safe as you begin exploring this shift?"
+    },
+    {
+        "round": 13,
+        "user": "Possibly a new dress or two",
+        "answer_final": "Sounds like a great idea. I bought a fantastic maxi dress recently. Very flattering for those of us carrying an extra pound or two",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Perhaps treating myself to a new dress—a way to feel fresh and see myself differently, even in something as small as how I choose to show up each day.",
+        "therapist": "Choosing a dress feels like such a gentle, meaningful step toward seeing yourself differently. What would it be like to let that choice reflect not the shadow, but the kind hope you're cultivating now?"
+    },
+    {
+        "round": 14,
+        "user": "I love flowy dresses for that reason. do you do anything else when you are feeling bad about yourself?",
+        "answer_final": "I like a nice facemask and a bubble bath, do you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’d feel like I’m honoring the part of me that wants to feel lighter. I love flowy dresses for that—they help me feel more free. What helps you when you’re feeling weighed down?",
+        "therapist": "Honoring that lighter, freer part of you sounds so powerful. Those flowy dresses reflect that freedom beautifully. When I feel weighed down, small acts of kindness to myself often help—what else might nurture that sense of lightness for you?"
+    },
+    {
+        "round": 15,
+        "user": "I like doing my makeup and getting dressed up, even if I have nowhere to go",
+        "answer_final": "That is a good thing to do .. great for the self esteem. Maybe buy some new jewellery too?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think putting on makeup and dressing up helps me feel more myself, even if it’s just for me. It creates a sense of care and adds a little brightness to my day.",
+        "therapist": "Dressing up and applying makeup feels like a loving gesture toward yourself, bringing brightness and connection to your sense of care. What would it mean to hold onto that intention of self-kindness as you move through your days?"
+    },
+    {
+        "round": 16,
+        "user": "I like the idea of pampering myself. That is something I don't do too often. and I need to do it more. Perhaps I will feel better then",
+        "answer_final": "You need to indulge yourself from time to time :) Get yourself a nice bottle of wine too. Though maybe not chocolate :D",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think holding onto self-kindness means actively making space for it. Pampering myself feels unfamiliar but necessary—maybe buying that dress or enjoying quiet moments could help me reconnect with care.",
+        "therapist": "Pampering yourself, even if it feels unfamiliar, speaks to your desire for care and connection. Buying that dress or embracing quiet moments could be gentle acts of self-kindness. What feels most inviting to start with as you nurture this space for yourself?"
+    },
+    {
+        "round": 17,
+        "user": "Haha, yes, perhaps not those :)",
+        "answer_final": "Anyway I hope you are feeling a little better now ! Thank you for talking!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Haha, yes, perhaps not the quiet moments just yet—I think starting with that dress feels more inviting. It’s a small step, but one that feels tangible and exciting.",
+        "therapist": "Starting with the dress sounds like a wonderfully tangible way to honor your care for yourself. How does it feel to let this excitement guide you toward creating moments of lightness and self-connection?"
+    },
+    {
+        "round": 18,
+        "user": "Thank you, you too!",
+        "answer_final": "(I can't press quit my end so you have to first :))",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels uplifting, like a small spark of hope. I’m excited to let that joy lead me, even in little ways—it’s a nice reminder to prioritize myself more.",
+        "therapist": "That spark of hope feels so meaningful—it reflects your care for yourself and your readiness to prioritize joy. Taking even small steps, like embracing what excites you, can create space for more uplifting moments in your life."
+    },
+    {
+        "round": 19,
+        "client": "I guess those small steps remind me of how I used to enjoy visiting thrift shops. It was calming, finding unique pieces that felt like little treasures—it brought me peace.",
+        "therapist": "Visiting thrift shops seemed to nurture a sense of discovery and calm for you, almost like reclaiming moments of peace. Could reconnecting with that activity help loosen the grip of anything weighing on you now?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 20,
+        "client": "Reconnecting might help. I remember finding a vintage jacket once—it felt like uncovering a story. That quiet joy might ease the heaviness I’ve been carrying lately.",
+        "therapist": "Reconnecting with that joy feels like a way to loosen the heaviness and create space for something lighter. How has this weight affected your ability to find those peaceful moments in other parts of life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 21,
+        "client": "It’s made it harder to enjoy small things. Even reading, which used to be my escape, feels distant now—I can’t seem to focus, and it leaves me feeling empty.",
+        "therapist": "Exploring thrift shops seemed to bring you peace and joy once, much like reading used to. What strengths or qualities within you allowed those moments of calm and focus, even briefly? Perhaps they could guide your reconnection with activities that matter to you now.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think it was curiosity and patience. Back then, I enjoyed the process, letting myself get lost in the search without pressure. Lately, I’ve lost that ease—it feels forced.",
+        "therapist": "Curiosity and patience seem to reflect your ability to find meaning in calm exploration. What possibilities might emerge if you nurture those qualities again, allowing them to guide you toward ease rather than force?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I guess nurturing those qualities might mean giving myself permission to slow down. Like taking a walk, noticing details around me—the colors of leaves, the sound of wind—without expectations.",
+        "therapist": "Giving yourself permission to slow down creates space for deeper connection with the present. As you explore those small moments, what might they reveal about the kind of rhythm or peace you'd like to bring into your everyday life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think I’d want a rhythm that feels unhurried, like taking time to savor my morning coffee or listening to the rain. Those little pauses feel grounding, but I’ve forgotten how.",
+        "therapist": "Savoring pauses seems like a gentle way to rebuild that unhurried rhythm you value. What could be one small action today—a pause or mindful moment—that reconnects you with this grounding sense?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I could sit by the window with a cup of tea, watching the trees sway. Just letting myself notice without rushing—it might remind me how to slow down.",
+        "therapist": "Finding that moment by the window could be a quiet act of reclaiming ease. As you let yourself slow down, what possibilities might open for creating more grounding pauses like this throughout your day?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think creating pauses could mean intentionally stepping away from work midday to breathe or stretch. It’s rare, but when I’ve done that, it felt surprisingly refreshing.",
+        "therapist": "Taking midday pauses for breathing or stretching could be small yet meaningful steps toward embracing a slower rhythm. What possibilities might emerge if you intentionally weave these moments into your daily routine, gradually anchoring yourself in that refreshing sense of ease?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I might start with a short walk at lunch, away from screens. Recently, I’ve felt trapped in my routine, like I'm drowning in deadlines—it’s draining me emotionally.",
+        "therapist": "A walk at lunch seems like a meaningful step toward breaking free from feeling trapped. How might these small pauses honor your values of balance and care, shifting your routine to reflect what truly matters to you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Sometimes I feel like my days revolve around reacting to demands, not what truly matters. Pausing at lunch might remind me how much I value calm and self-awareness.",
+        "therapist": "Finding ways to honor calm and self-awareness could reshape how you relate to your day. As you pause at lunch, how might it reinforce the identity of someone who values intention over reactivity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think it could remind me that I'm allowed to choose where my energy goes. Like yesterday, when I finished work late and stared out at the sunset—it felt freeing.",
+        "therapist": "Choosing where your energy flows reflects a powerful commitment to your sense of freedom. How might moments like the sunset inspire you to weave more intentional choices into the rhythm of your days, aligning them with this valued sense of liberation?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Sometimes, after watching that sunset, I thought about how stillness like that feels scarce. Maybe I could start prioritizing mornings too, sipping coffee slowly before diving into work.",
+        "therapist": "You’re envisioning mornings as a space for calm intention, reflecting how deeply you value stillness. As you sip coffee slowly, what might this practice say about the kind of person you're becoming—someone who nurtures balance amidst life’s demands?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think it says I'm trying to reconnect with myself. Like last week, I sat with my coffee and watched birds outside—it felt like reclaiming a small piece of peace.",
+        "therapist": "Reclaiming that sense of peace seems like a significant step in nurturing your connection with yourself. What future moments, like those with your coffee and the birds, could help expand this renewed relationship with stillness and presence in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think taking five minutes before bed to just sit quietly could help. Maybe reflecting on the day or even listening to crickets outside—it might ground me more.",
+        "therapist": "Sitting quietly at the end of your day sounds like a powerful way to reconnect with what grounds you. As you embrace this practice, how might it reshape your evenings into spaces that nourish and deepen your preferred story of balance and self-awareness?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Sitting quietly could help me reflect without distractions. Last night, I journaled briefly, and it reminded me how much clarity comes when I pause before rushing to sleep.",
+        "therapist": "Journaling and quiet reflection seem to deepen your sense of clarity. As these moments become part of your evenings, how might they empower you to carry this calm into other parts of your day, shaping a life more aligned with the balance you’re seeking?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think starting my mornings with meditation could help. Last week, I tried it once and felt surprisingly calm heading into a hectic workday—it shifted my whole outlook.",
+        "therapist": "Meditation seems to align with your desire for calm amidst chaos, reflecting a commitment to grounding yourself. How might this practice not only shape your mornings but also deepen your identity as someone who intentionally creates clarity and balance in their life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Meditation feels like a way to honor myself before the day takes over. The one time I did it, I felt less reactive at work, even during tense meetings.",
+        "therapist": "Meditation seems to reflect a deep intention to prioritize inner steadiness. As you honor yourself in this way, what broader values or commitments do you feel are guiding this emerging sense of calm and presence in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Meditation feels like it's helping me value patience and intentionality. During a chaotic project last week, I caught myself breathing deeply instead of snapping—it felt empowering.",
+        "therapist": "Meditation seems to embody values you've been nurturing, like patience and intentionality. Is there someone in your life—past or present—who might have influenced these qualities, perhaps in the way they approached challenges or expressed calm in tense situations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My dad often stayed calm under pressure. I remember him quietly working through a plumbing issue instead of getting frustrated, and it made me see the strength in patience.",
+        "therapist": "Your dad’s approach seems to have left a lasting impression of patience and calm. If he were to see how you’re cultivating these qualities now, how do you imagine he might view or describe this strength in you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think he'd be proud, recognizing the calmness I’ve started cultivating. He used to say staying grounded helps solve problems clearly—it’s something I really want to live by now.",
+        "therapist": "Your dad’s words seem to carry a quiet wisdom that you’re now living out. As you embody this calmness and clarity, how do you see these qualities influencing or even inspiring others around you, much like he inspired you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think staying calm helps my team at work. Last week, during a rushed deadline, I stayed composed and reassured them—it seemed to ease their anxiety and focus efforts.",
+        "therapist": "Your calmness seems to create a sense of safety and trust for your team, allowing them to focus under pressure. How do you imagine this reassurance might shape the way they see themselves and their ability to handle challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I think it gives them confidence, knowing they can rely on each other and adapt together. During that deadline, I noticed people starting to offer solutions more freely.",
+        "therapist": "Your ability to foster confidence and collaboration seems to deeply shape your team’s growth. How do you think their increased trust and solution-focused mindset might influence the kind of relationships they build with others beyond work?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I think it helps them communicate more openly outside of work too. One teammate mentioned feeling more confident addressing an issue with her partner after that deadline experience.",
+        "therapist": "Your influence clearly extends beyond work, shaping others’ confidence in personal connections too. How do you imagine your dad might feel knowing that the calmness you’ve cultivated is creating such meaningful ripple effects in both professional and personal spaces?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think he’d feel a quiet pride, maybe even smile. He always believed small actions mattered most, and seeing this impact would probably remind him of his own influence on me.",
+        "therapist": "Your dad’s belief in the power of small actions seems to shine through in how you’re shaping others’ lives. How might seeing yourself through his eyes, as someone who creates meaningful impacts, strengthen your connection to that value he held so closely?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I think seeing myself through his eyes makes me more aware of the responsibility to act thoughtfully. Like when I calmed my team, I felt connected to his teachings.",
+        "therapist": "Your thoughtful actions reflect not just his teachings but also how deeply you value the connections around you. How might this sense of responsibility inspire others to act in ways that strengthen their relationships too?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think when others see me prioritize calmness and thoughtful communication, it encourages them to mirror that. A teammate recently said my approach helped her mediate a family dispute.",
+        "therapist": "Your thoughtful actions seem to inspire others to navigate their relationships with more care and confidence. How do you think your teammate’s growth in resolving personal conflicts reflects the values you’ve shared through your approach?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "It feels reassuring, like my values of empathy and clear communication can ripple outward. Her growth reminded me of when I defused tension between my siblings during a family disagreement.",
+        "therapist": "You’re seeing how your values are actively shaping others, and that connection to your past actions deepens their meaning. What do you think it says about the legacy of empathy and communication you’re carrying forward in these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I think it shows that empathy and communication create a kind of bridge—one my dad built for me and I’m now extending to others. Like guiding my nephew through school anxieties recently, I felt his values alive in me.",
+        "therapist": "Your actions are deeply intertwined with your father’s values, extending his bridge of empathy and support into new relationships. How do you think your nephew might carry forward what you’ve shared, shaping his own identity through this guidance?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "My nephew's been more open lately, even starting conversations about his worries. Seeing him tackle challenges reminds me how important patience and listening were in those moments.",
+        "therapist": "Your patience and listening seem to have opened a safe space for your nephew’s growth. How do you think his growing openness could ripple into other parts of his life, shaping how he connects with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think his openness could help him build stronger friendships. Recently, he shared his worries with a close friend, and it seemed to deepen their bond, which made me proud.",
+        "therapist": "Your pride speaks to the lasting influence of your empathy and guidance. How might his growing ability to form deeper bonds also reflect the ways your values are helping him shape who he’s becoming in these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "His growing confidence in opening up makes me reflect on how my patience fosters trust. Last week, he told me about feeling excluded at school, and we discussed ways to approach it.",
+        "therapist": "Your patience and guidance seem to have created a safe foundation for your nephew to explore his feelings. How do you see these moments of trust shaping both his ability to connect with others and how he might view himself moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think these moments help him see himself as someone who can handle challenges. When he felt excluded, discussing strategies gave him hope and boosted his confidence to act.",
+        "therapist": "Your thoughtful guidance seems to be nurturing his confidence in a profound way. What do you think your nephew might come to appreciate most about the role you’ve played in shaping how he faces challenges and grows through them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

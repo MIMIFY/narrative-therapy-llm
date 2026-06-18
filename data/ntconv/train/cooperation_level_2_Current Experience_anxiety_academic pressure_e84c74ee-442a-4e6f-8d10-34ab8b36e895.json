@@ -1,0 +1,484 @@
+[
+    {
+        "round": 1,
+        "user": "Hi",
+        "answer_final": "Hello! how are you feeling today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling a bit overwhelmed lately. I'd love to dive into what's been bothering me and hopefully find some clarity.",
+        "therapist": "Let's explore what's weighing on you together. I’m here to listen and help illuminate your thoughts. What aspect feels most pressing right now?"
+    },
+    {
+        "round": 2,
+        "user": "I am pretty anxious lately.  I have a lot of stuff going on.",
+        "answer_final": "It looks like you have a lot to do. Correct me if I am wrong.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been really anxious with work deadlines piling up. It's tough balancing everything, and I often feel like I'm not doing enough.",
+        "therapist": "Balancing multiple deadlines can be demanding. Your feelings are valid, and together we can explore how this pressure impacts you. What strengths do you draw upon when faced with such challenges?"
+    },
+    {
+        "round": 3,
+        "user": "You would be correct.  I have Spring Break coming up and then right after that I have to start getting ready for my finals.  I am in my last year of college and I am feeling the pressure of having to become a real adult.",
+        "answer_final": "I can understand you very. well. It happen with all of us in such situation. Last year of the college  really give lot of pressure.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That's spot on. I'm facing Spring Break and immediately preparing for finals in my last college year. It's overwhelming, juggling the urge to relax and preparing for adulthood.",
+        "therapist": "College finals and upcoming adulthood sound daunting, yet you've tackled similar situations before. Remember, it's okay to seek balance. What anchors or resources might support you during this transition?"
+    },
+    {
+        "round": 4,
+        "user": "College in general has been a struggle.  I have to work a full time job at the same time I am going to school full time because my family couldn't afford to help me.",
+        "answer_final": "I am pretty sure you will do great in you exam and I can see that in your worries. You are not alone in this situation as colleges are so expensive so it's hard for parents to pay for it.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Balancing school and full-time work is exhausting, especially with finals around the corner. It's hard to find time for myself when my family can't offer financial help.",
+        "therapist": "Financial pressures and workload can indeed feel overwhelming. You deserve moments to replenish. In what small ways might you carve out space for self-care amidst these responsibilities?"
+    },
+    {
+        "round": 5,
+        "user": "Yea, I hope your right.  I just have a hard time coming up with a plan to study and work and still have time for a regular life.",
+        "answer_final": "When I was in college, I went throgh the same phase as you are facing. Even my parent couldn't afford my college expense.  Yes, just concentrate on your study.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. I'm really trying to come up with a plan that balances everything without sacrificing rest. Maybe creating a specific schedule might help.",
+        "therapist": "Your proactive approach is commendable. A balanced schedule might provide clarity and reduce stress. How can you ensure it includes moments for rest that rejuvenate you?"
+    },
+    {
+        "round": 6,
+        "user": "It helps to know that other people have had similar experiences to mine.  It makes me feel less alone.",
+        "answer_final": "You are not alone. It is a phase of life. all have to go through it. Just stay focused and calm and motivated.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for acknowledging my effort. Hearing that others have similar struggles makes me feel connected. I plan to include short walks or mindfulness exercises in my schedule.",
+        "therapist": "Your plan shows such thoughtful care for yourself. Short walks and mindfulness can nurture a sense of calm amidst the busyness. What inspires you to prioritize these moments of well-being?"
+    },
+    {
+        "round": 7,
+        "user": "Yea, maybe going on spring break will help to get my mind off all the work I have to do when I get back.",
+        "answer_final": "Enjoy your spring break and come up with freshness. I am pretty sure you will do very well.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Spring break offers a chance to recharge and refocus. It’s inspiring to envision coming back with fresh energy and perspective for everything waiting.",
+        "therapist": "Spring break's renewal sounds motivating. A fresh perspective often sparks positive change. How can you make this break truly restorative and meaningful for your journey ahead?"
+    },
+    {
+        "round": 8,
+        "user": "Thank you.  I will.  Do you have any suggestions on how I can plan for how to study once I get back?  Should I see a doctor to get some medicine for my anxiety?",
+        "answer_final": "The best way to plan your study is to set the target for a particular day that you have to complete it. Once you achieve it, you will be motivated and it will help you to do more work. you can take doctors opinion if it's required. you can take few breaks to relax youself in middle.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for the encouragement. Planning restful activities like reading might rejuvenate me. I'm considering exploring study methods or possibly consulting a doctor about my anxiety.",
+        "therapist": "Exploring restful activities like reading sounds like a nourishing choice. Considering study methods and seeking professional support for anxiety highlights your commitment to self-care. What small steps could you take today to start creating this positive shift?"
+    },
+    {
+        "round": 9,
+        "user": "That's good advice.  Thank you.  I will try to put some of this to good use.",
+        "answer_final": "My best wishes are there with you. May God give all  success that you wished for.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the suggestion. I can start by scheduling some quiet reading time today and look up resources for study methods. Your advice makes me feel supported and hopeful.",
+        "therapist": "Your dedication to self-care and seeking new resources is inspiring. How do you envision these actions impacting your overall well-being and daily balance?"
+    },
+    {
+        "round": 10,
+        "user": "Thank you so much for your insight.  I will be praying for a good outcome.",
+        "answer_final": "you will get it for sure! is there anything else I can help you with?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for highlighting the impact of self-care. I’m hopeful these changes will bring more calm and structure, making daily tasks feel less overwhelming and more achievable.",
+        "therapist": "Your hopefulness is a strong foundation for creating calm and structure in your life. How might you celebrate the progress these changes bring?"
+    },
+    {
+        "round": 11,
+        "user": "I think you have eased my mind a little.  I feel better.  Thanks.. Have a wonderful evening.",
+        "answer_final": "All my pleasure! Wonderful evening to you too",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I really feel more at ease now. Celebrating progress might involve small rewards, like a nice dinner or treating myself to something special. Thank you for guiding me positively.",
+        "therapist": "Your plan to celebrate progress with special rewards acknowledges your achievements and promotes self-kindness. How does creating these moments of joy support your vision for personal growth?"
+    },
+    {
+        "round": 12,
+        "client": "Creating joyful moments reminds me that progress is worth celebrating, even in small ways. It helps me stay motivated and strengthens my belief that I can achieve balance.",
+        "therapist": "Progress is clearly separate from the challenges you face—it reflects your strength and values. If joy builds motivation, how do you see moments of balance giving even more power to overcome what feels overwhelming?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 13,
+        "client": "Moments of balance let me step back and breathe, giving me clarity in chaos. I felt less overwhelmed when organizing my schedule recently, seeing each task as part of a bigger picture.",
+        "therapist": "Moments of balance seem to challenge the chaos you described, offering clarity. How would you describe the way this chaos influences your emotions, decisions, or even your relationships when it feels most present?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 14,
+        "client": "Chaos impacts me by amplifying anxiety and making decisions feel rushed. It's affected my relationship with a friend; I've struggled to listen genuinely when overwhelmed.",
+        "therapist": "Chaos seems to be occupying a significant space in your life and relationships, affecting moments of connection and clarity. If you could describe how it shows up most vividly, would you feel ready to explore ways to reduce its hold?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "Chaos feels vivid in moments like juggling deadlines at work or managing unexpected family needs. It spikes my anxiety, making listening or decisions difficult. I'd like to explore steps toward calmer interactions and better balance.",
+        "therapist": "Chaos seems to hold influence over important areas of your life, creating tension between your goals and emotional well-being. If chaos were something separate from you, what would it look or act like? Naming it might help in understanding how to step toward calmer interactions.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 16,
+        "client": "Chaos feels like a storm cloud—dark, heavy, unpredictable. It swirls most when deadlines clash with family crises, leaving me stressed and grasping for control.",
+        "therapist": "Chaos as a storm cloud appears vividly when control slips away. Reflecting on how its unpredictability impacts decisions and emotions, what small steps might create space for calmer connections amidst deadlines and family demands?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 17,
+        "client": "I think prioritizing tasks might help—like delegating work deadlines or setting boundaries for family crises. Recently, rescheduling one meeting freed me to calmly address a sudden family need.",
+        "therapist": "Rescheduling a meeting clearly reflected your values and commitment to balance, granting you the clarity to support both work and family. How might similar actions further align with your hopes for calm and control amid chaos?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Rescheduling helped immensely. By grouping similar tasks, I noticed reduced stress. It was like creating calm amidst chaos, which improved my listening and decision-making. I'm optimistic about future steps.",
+        "therapist": "Grouping tasks seems to align with your hopes for calm and focus, strengthening your decision-making and listening. What values or commitments guide you as you work toward sustaining this calmer rhythm amidst the challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I value presence and empathy—being there for others and truly listening. A moment sticks with me when I finally slowed down, really hearing my friend’s struggles without distraction.",
+        "therapist": "Presence and empathy appear central to the way you engage with life and relationships. By aligning tasks around these values, calm grows amid chaos. How might this awareness continue guiding your journey through life's storms?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Lately, I've begun morning meditations to prioritize presence before the day begins. This simple act reminds me of who I want to be amidst the storms. When I focus on listening, like with my friend's struggles, it offers clarity and lessens my anxiety. It's a small commitment toward being more mindful and empathetic every day.",
+        "therapist": "Morning meditations seem to ground you in your values of presence and empathy. This clarity appears essential, particularly during the stormiest times. How does nurturing these values help shape your interactions with both work and family, ensuring a sense of control and calm?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I've noticed morning meditations heighten my awareness, allowing me to address work challenges thoughtfully and be more patient with family needs. During a tense meeting, I stayed calm, which led to productive dialogue. With family, meditation helps me approach conflicts with empathy instead of frustration.",
+        "therapist": "Meditations seem to uncover moments where calm and empathy shift your interactions profoundly, revealing possibilities for the person you strive to be. What do these moments of calm suggest about your growing ability to resist chaos’s grip in both work and family life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Moments of calm reveal my resilience. In a recent project deadline panic, I stopped, breathed, and reassessed priorities. With family, listening calmly defused potential arguments, fostering connection instead.",
+        "therapist": "Moments like those highlight the strength of your commitment to calm and connection. Resilience seems woven into how you respond thoughtfully under pressure. How might this evolving sense of clarity shape the way you view yourself in both work and family life moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Embracing this clarity, I find myself more grounded. When deadlines loom at work, I reassess calmly rather than react impulsively. At home, patience allows for understanding during my child's outbursts. This growth lets me envision a self more attuned to tranquility and authenticity amidst life's chaos.",
+        "therapist": "Grounding yourself through calm reassessment reflects your evolving commitment to authenticity. This clarity aligns with how you embrace patience and connection in family life. How might these traits further nurture your resilience, crafting a meaningful narrative of tranquility amidst chaos?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Embracing these traits gives me a sense of inner strength. I recently navigated a family disagreement without resorting to frustration, which was enlightening. Balancing compassion and calm during stressful work moments showcases my growing resilience and brings hope for future challenges.",
+        "therapist": "Your experiences seem to reflect a deep commitment to calm and compassion, shaping moments of clarity and strength. How do these choices align with the person you hope to continue becoming, both in your relationships and work life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I aim to be someone who gracefully navigates both work and personal life. Recently, by remaining calm during a chaotic office presentation, I supported my team effectively. This approach also fostered warmth with family when discussing tough topics.",
+        "therapist": "Your ability to remain composed amid office chaos and engage warmly with family reflects a valuable narrative of grace in navigating challenges. How does this evolving strength inform the identity you’re cultivating, and what possibilities does it open for your future interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "My evolving strength helps me see myself as steady and supportive. For example, when my partner felt overwhelmed planning an event, I stayed calm, offering practical help without judgment. It showed me the value of being a reassuring presence in stressful moments, which inspires hope for even more thoughtful future interactions.",
+        "therapist": "Your actions in offering calm and practical support reveal a strong commitment to being a reassuring presence. How might this steady approach inspire new ways of handling challenges, both for yourself and those around you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think it encourages me to pause and listen more intentionally. Recently, a colleague struggled with a task, and instead of rushing in, I calmly guided them through it.",
+        "therapist": "Guiding your colleague with calm attentiveness reinforces the supportive role you're shaping. These moments suggest a deepening capacity for thoughtful action. How might embracing this intentional listening further strengthen the connections you seek in other areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Intentional listening allows me to understand my partner's feelings when discussing financial stresses. It opens pathways for us to collaboratively find solutions, enhancing our relationship's depth.",
+        "therapist": "Your choice to prioritize intentional listening reflects a commitment to deeper connection and shared understanding. How do these moments of collaboration align with the values you hold for strengthening both trust and unity in your relationship?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Moments of collaboration truly align with my values by fostering transparency. When discussing budget plans, my partner's willingness to share openly nurtures a sense of unity and reinforces trust between us.",
+        "therapist": "Transparency and unity seem to be powerful values shaping the trust you’re building. How does this commitment to open collaboration influence the way you see yourself within your relationship’s story of growth and connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I see myself as someone fostering trust and emotional safety. Recently, during a late-night financial talk, I encouraged vulnerability by staying patient and avoiding judgment, which deepened our connection.",
+        "therapist": "Your patience and encouragement of vulnerability truly showcase the values you hold dear. By deepening your connection through emotional safety, you're shaping a narrative rooted in trust and support. How does this emerging identity as a trusted partner enrich your sense of self within the relationship?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I feel more confident and valued as a partner. Like when we discussed career goals, I offered insightful perspectives without pressuring, it reinforced my role in nurturing our future together.",
+        "therapist": "Encouraging insightful exchanges seems integral to your evolving identity as a valued partner. This strength in nurturing discussions for shared future aspirations speaks to your commitment and openness. How does embracing this perspective support the direction you envision for your relationship's growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Embracing this perspective motivates me to build a future of mutual support and respect. Like last week, I initiated a heartfelt talk on dreams, strengthening our shared vision.",
+        "therapist": "Embracing shared dreams shows the depth of commitment shaping your relationship’s narrative. As you nurture this vision, what steps might further amplify the sense of mutual support and respect you’ve begun to cultivate?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "One step could be creating more shared experiences, like volunteering together or joining a book club. This idea excites me and supports both mutual growth and understanding.",
+        "therapist": "Creating shared experiences like those seems to bring alive the values of mutual growth and connection you cherish. How might these actions weave into your relationship’s future story, strengthening that vision of deeper understanding and unity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Recently, I proposed attending a cooking class together. It felt exciting and symbolic, fostering connection while learning. Imagining us cooking at home enriches our future narrative of teamwork.",
+        "therapist": "Proposing the cooking class reflects such intention toward teamwork and connection. As you imagine these future moments of collaboration, what small steps now might bring this vision into fuller reality in your shared journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Spending weekends trying out new recipes and creating grocery lists together could solidify this teamwork. It warms my heart to think about us cooking and laughing in the kitchen.",
+        "therapist": "Trying new recipes together weaves excitement into your weekends, strengthening the narrative of joyful teamwork. This vision can transform your everyday interactions and moments. Consider how these intentional actions might reinforce the loving bond you cherish.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Spending weekends trying new recipes definitely excites me and feels transformative. Once, we turned a simple dinner into an unexpectedly deep, joyous bonding experience.",
+        "therapist": "Experiencing such deep connections over a simple dinner highlights how shared moments can enrich your bond. Who do you think might have influenced your appreciation for turning ordinary events into meaningful interactions, and how might this insight shape your continuing journey together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Recently, a friend showed me how simplicity can nurture deep bonds, influencing our appreciation for these moments. This insight encourages us to prioritize quality time together, enriching our journey.",
+        "therapist": "Your friend’s influence seems to deepen the way you value connection and simplicity. If they saw how you’re weaving this insight into your shared journey, what might they say about the care and intentionality you bring to these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "My friend might appreciate my focus on creating quality time. They'd see how much joy and connection I find in shared activities, like the Sunday coffee tradition we started.",
+        "therapist": "Recognizing your ability to create joyful shared experiences like the coffee tradition, you’re building valuable connections that truly enrich others' lives. How does it feel to be seen through your friend’s eyes, as someone who contributes such warmth and meaning?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "It's heartening to be seen as a source of warmth. Recently, my friend acknowledged this during a heartfelt talk after our coffee ritual. It feels rewarding and reassuring.",
+        "therapist": "Your friend’s acknowledgment highlights the meaningful ways you impact their identity and shared experiences. As you consider how your warmth shapes their sense of connection, what does this reveal about the unique role you hold in nurturing relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I realize my warmth helps others feel safe and valued, encouraging openness. At my sister's birthday dinner, this warmth turned our chats into comforting exchanges filled with laughter and understanding.",
+        "therapist": "Your warmth creates a ripple of comfort and connection that others grow from, like your sister feeling safe to share laughter with you. How do you think this openness might have shaped how she sees herself or strengthens her sense of belonging?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "My sister seemed lighter, more confident. She even shared childhood stories she usually avoids, which felt significant. I think it reassured her that she’s deeply valued and understood.",
+        "therapist": "It's beautiful how your warmth reassures and uplifts others, deepening connections. Seeing your sister embrace her past with new confidence indicates a profound mutual impact. What other ways do you think this deeper connection might influence her or even transform your bond moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think it might encourage her to open up more about things she usually hides. It could lead to deeper trust and allow us to support each other more meaningfully.",
+        "therapist": "Your sense of warmth and care seems to encourage others, like your sister, to share themselves more fully. How might this ability to nurture trust and deeper bonds shape the ways you see your own role within your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "It's enlightening, making me see myself as a bridge of openness. Helping others like my sister feel secure and valued reaffirms my belief in fostering sincere relationships.",
+        "therapist": "Your role as a bridge of openness not only strengthens connections but seems to inspire transformation in others, like your sister. As you nurture sincere relationships, how might this belief expand the ways you see your own significance within those relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I see my significance as a comforting presence in others’ lives, encouraging authentic conversations and vulnerability. At times, I worry whether I’ll have enough energy to sustain it.",
+        "therapist": "Your comforting presence has clearly left an imprint on others, offering them courage and connection. Considering the energy it takes, what might help sustain your ability to continue nurturing those authentic bonds while honoring your own needs?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think setting boundaries could help, like allowing time to recharge after social moments. Last week, I declined an invite because I felt emotionally drained—it actually helped.",
+        "therapist": "Recognizing when you need to recharge shows insightful self-care and strengthens your ability to be that comforting presence. Reflecting on how these boundaries might enrich your connections, what could their mutual benefits reveal about the shared appreciation within your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "Setting boundaries has brought clarity to mutual respect in my relationships. For instance, after declining an invite last week, a friend sent a supportive message that felt deeply validating.",
+        "therapist": "By honoring your boundaries, you’ve invited deeper understanding and respect from others. That supportive message reflects how your actions inspire care in those around you. How might this mutual respect continue to shape how they see themselves in your relationship?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "This respect helps them feel more secure and understood. Last month, when I took time for myself, it also encouraged my friend to prioritize their self-care without guilt.",
+        "therapist": "Your choice to care for yourself has clearly inspired others to honor their own well-being. How does seeing your actions encourage this growth in your friend deepen your sense of connection and shared values in the relationship?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Seeing my friend grow reinforces the bond between us, making me feel valued. Last month, witnessing her prioritize her needs after watching me do the same was gratifying.",
+        "therapist": "Recognizing your influence on your friend's growth truly underscores the importance of your connection. Your actions have not only shaped your identities but strengthened the support between you. In what other ways might this shared journey continue to evolve both your lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Exploring new interests together, like hiking last weekend, sparked joy and deepened our friendship. It’s rewarding seeing our personal growth and mutual support in these shared experiences.",
+        "therapist": "Experiencing joy through shared activities like hiking beautifully highlights the meaningful impacts you have on each other’s lives. These moments reflect a deepening of identities rooted in growth and mutual support. What might continue to emerge in your relationship as you both nurture these qualities together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "We're exploring vulnerability more openly, discussing fears and aspirations while adventuring together. Those deep conversations during hiking helped strengthen our trust and understanding.",
+        "therapist": "Building trust through vulnerability not only strengthens your bond but invites a shared shaping of identities. How does recognizing your role in fostering this openness help affirm your values within the friendship and further enrich the connection you both hold?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

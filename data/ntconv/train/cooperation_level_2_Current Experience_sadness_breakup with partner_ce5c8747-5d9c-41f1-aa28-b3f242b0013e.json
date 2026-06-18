@@ -1,0 +1,431 @@
+[
+    {
+        "round": 1,
+        "user": "hello. is anyone there",
+        "answer_final": "hello there, how are you doing?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm here and feeling a bit overwhelmed. Can we talk about it? I’d like to explore these feelings together.",
+        "therapist": "I'm here for you, and together we can explore what’s happening in your world right now. Which parts of this overwhelm stand out most to you, where you'd like us to focus?"
+    },
+    {
+        "round": 2,
+        "user": "sad. i broke up with my girlfriend. i do not know what to do",
+        "answer_final": "Ah I am sorry to hear that. I have not been in a relationship before but definitely understand the pain of loss",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling sad. I recently broke up with my girlfriend, and it feels like a whirlwind of emotions. I'm unsure of how to move forward, can you help?",
+        "therapist": "I'm here to support you as you navigate these emotions. This break-up is a significant event, and it's okay to feel the way you do. Together, we can explore ways to find strength in this moment. How would it feel to identify what’s most important for you right now?"
+    },
+    {
+        "round": 3,
+        "user": "yes it is very difficult. we were together for 3 years. i had to break up with her though",
+        "answer_final": "That's unfortunate to hear, creating a bond with someone that long can be very hard to walk away from. did you go your separate ways on good terms?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's tough; we shared so much over those three years. I had to make the decision, but it feels like there's a hole now. Maybe focusing on how to fill that space is important.",
+        "therapist": "You're experiencing a deep sense of loss, having made a challenging decision. Exploring how you can nurture what truly matters might help in shaping new beginnings. What qualities or interests would you like to bring into this new space you're opening?"
+    },
+    {
+        "round": 4,
+        "user": "yes you are right. it pained me to do it but it was for the best. no it ended roughly. she ran over my dog and i was angered. i broke up but maybe i acted quickly and should ask for her back",
+        "answer_final": "Was it an honest mistake that she made?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's true. Despite the pain, breaking up was the best decision because she accidentally ran over my dog, which angered me. Yet, I wonder if reconciliation is possible.",
+        "therapist": "Considering the depth of your feelings, it might help to see \"anger and loss\" as challenges you've faced. What would reconciliation mean for you in light of the emotions tied to this incident?"
+    },
+    {
+        "round": 5,
+        "user": "yes i think so. she was rushing out to get cake for a party and was not looking.",
+        "answer_final": "How long have you had the dog for? Did you have the dog before the relationship started?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's tough; I felt anger but also sadness because she wasn't careful. Yet, reconciliation could mean acknowledging and healing from this pain together.",
+        "therapist": "Recognizing both anger and sadness speaks to the complexity of this situation. Reconciliation could indeed involve shared healing. What might be meaningful steps towards understanding this event together and nurturing the trust between you?"
+    },
+    {
+        "round": 6,
+        "user": "my dog was 13 years old. she was very close to me. i had her when she was a puppy",
+        "answer_final": "The dog then lived a very happy and fulfilling life from what I can tell. Dogs are among the best companions to ask for.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reconciliation feels like a step towards healing, knowing she was with me since her puppy days until she was 13. She meant the world to me and was my confidante.",
+        "therapist": "Acknowledging her role in your life highlights your need for healing and reconciliation. These steps may offer a path forward. What memories or experiences can you draw on to foster understanding and honor the bond you had with both her and your relationship?"
+    },
+    {
+        "round": 7,
+        "client": "Remembering how she comforted me during late-night study sessions fills me with warmth. Embracing those moments might guide us to a more compassionate, understanding place.",
+        "therapist": "In remembering those comforting moments, the loss takes on its own place in your life story. Reflect on how this loss and decision shape your current relationships and sense of support. What impact do you wish for this understanding to have on moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 8,
+        "client": "Moving forward, I hope this understanding will lead to emotional growth, encouraging trust and compassion. In nurturing relationships, I aim for patience when hurt inevitably arises.",
+        "therapist": "Emotional growth as a guiding force speaks to your resilience. Seeing trust and compassion through the lens of patience can transform challenges into learning moments. How might nurturing this perspective change the way you handle hurt and build healthier connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 9,
+        "client": "My resilience, guided by patience, allows me to approach conflicts with openness and curiosity. Specific experiences, like forgiving a friend's harsh words in the past, taught me empathy's power in healing connections.",
+        "therapist": "Resilience and patience offer powerful ways to handle conflicts. By naming the problem, you can better see its effect on your life. What role do empathy and past experiences play in shaping the way you face these issues now?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 10,
+        "client": "Empathy helps me see beyond immediate hurt, balancing my reactions. Past events, like repairing bonds with friends, remind me of understanding's strength in overcoming challenges.",
+        "therapist": "Recognizing empathy as a powerful tool reflects your deep commitment to connection and healing. Viewing past repairs highlights values of understanding and resilience. How might you define this problem now that allows empathy to flourish further in your relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 11,
+        "client": "Acknowledging how hurt impacts my perception of others opens space for empathy. Remembering the time I mended a friendship after a misunderstanding strengthens my resolve to lead with compassion and understanding.",
+        "therapist": "In naming the impact of hurt separately, it becomes clearer how empathy can shape your interactions and align with your values of compassion. Recognizing this understanding's power reveals new opportunities to cultivate healthier connections. How do these insights inform the relationships you wish to nurture now?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 12,
+        "client": "['Understanding empathy helps me approach my family more patiently. After a fight with my brother, we shared stories which mended our bond. It reinforced patience’s role in building trust.']",
+        "therapist": "Exploring empathy and patience within your family life signifies a strong alignment with your values of trust and understanding. As these qualities take root in your relationships, consider how further externalizing specific conflicts might continue to empower these important bonds.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "Exploring empathy helped me accept our different viewpoints. During a recent conflict with my brother about chores, acknowledging his stress made resolving it much smoother and deepened our connection.",
+        "therapist": "Your exploration of empathy shifts how you relate to your brother, creating room for understanding and connection. Naming stress separately from your brother allows patience to take the lead. How do these insights align with the deeper values guiding your interactions with him?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "I value connection and growth, so understanding his stress aligns with my desire to build deeper family ties. Our latest disagreement made me realize empathy aids in mutual respect.",
+        "therapist": "Embracing empathy highlights your dedication to family bonds, anchoring them in connection and growth. By identifying stress as external, you encourage mutual respect. Reflecting on this interaction, consider how recognizing shared struggles might enhance this value-driven approach.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Recognizing shared struggles has definitely improved our interactions. Recently, when my brother was overwhelmed with schoolwork, understanding his pressure helped me approach him more supportively, nurturing mutual respect.",
+        "therapist": "Recognizing shared struggles nurtures the mutual respect you value deeply in family ties. Identifying stress as external fosters supportive interactions. Considering this new perspective, how might these insights further shape the way you nurture family connections and contribute to growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Recognizing shared struggles shows me how empathy transforms relationships. It reminds me of comforting my brother after a rough day, deepening our bond through listening and support.",
+        "therapist": "Recognizing shared struggles empowers you to deepen bonds through empathy. As stress becomes external, listening takes precedence. Your values of connection and growth are clear. How might this empathetic approach continue to guide your commitment to fostering strong family relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "['The empathetic approach keeps me focused on understanding first. Last weekend, when my brother felt anxious about exams, I prioritized listening and discussing coping strategies.', \"This builds trust by showing him he isn't alone in facing challenges. I'm grateful that openness helps us navigate tough moments with mutual respect.\"]",
+        "therapist": "Recognizing your brother’s anxiety separately from his identity strengthens the bond you both value. Your focus on empathy and mutual respect deepens trust, aligning with your desire for connection. As you navigate challenges, consider how this empathetic approach might continue fostering shared growth.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I see empathy as a bridge in our relationship. Helping my brother with study routines when he's stressed reinforces that he can rely on me. It strengthens my belief in teamwork.",
+        "therapist": "Empathy serves as a powerful connector in your relationships, linking back to the values of teamwork and reliability. By seeing stress as external to your brother, you've built trust and reinforced connection. This approach not only supports him but also embodies your commitment to collaboration.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "It's amazing to see how empathy transforms our interactions. Last week, I noticed my brother quietly struggling and invited him for a walk. Listening to him made me appreciate the simplicity of just being present for someone.",
+        "therapist": "Empathy indeed fosters a genuine connection, allowing you to engage meaningfully with your brother by identifying his stress as external. By aligning with your values of presence and support, how might you further cultivate these moments of simplicity and teamwork within your family?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "By organizing regular family outings, we create space for relaxed conversations. For example, a weekend hiking trip led to sharing stories and discussing our concerns openly. It felt freeing.",
+        "therapist": "Your commitment to organizing family outings embodies your values of open communication and shared growth. Identifying stress as external opens new space for bonding. As these conversations become freeing, how do they align with your hopes for strengthened family unity?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "These moments, like our hikes, align perfectly with my hope for unity. They encourage trust and vulnerability, allowing us to support each other genuinely and strengthen our family ties.",
+        "therapist": "Building unity through trust and vulnerability is a powerful shift. You've identified key moments of exception where openness defies disconnection. As you foster these ties, how might your understanding of these unique outcomes continue to transform the family narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I'm realizing that openness and vulnerability truly transform our family narrative. When we took a day trip last month, the conversations deepened our understanding of each other, enhancing trust. This openness makes me hopeful for nurturing even stronger bonds.",
+        "therapist": "Embracing openness and vulnerability as key themes is clearly reshaping your family connections. These day trips become cherished chapters of trust and mutual growth. Reflecting on how this trust has enriched past experiences, what might be a future step in deepening these bonds further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I plan to initiate more personal discussions during family meals, asking everyone to share highlights and struggles of their day. This creates a regular rhythm of connection and empathy.",
+        "therapist": "Family meals as a space for personal sharing can weave deeper threads of connection, resonating with your values of empathy and trust. In anchoring these new narratives, you're fostering an identity that embraces openness. What excites you most about bringing this rhythm into your family's story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I'm excited that it could foster a sense of belonging and security for everyone. A while back, my sister shared her stress over school at dinner, which opened supportive conversations.",
+        "therapist": "You are nurturing a family environment centered on support and security, essential for belonging. Your sister's openness reflects the strength of these bonds. As this identity unfolds within your family narrative, how might these supportive discussions continue shaping everyone’s sense of commitment and growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Through these supportive discussions, everyone's growing in empathy and understanding. It enriches our commitment as a family unit. Recently, it led us to address longstanding misunderstandings positively.",
+        "therapist": "Addressing misunderstandings in a supportive environment marks significant progress in your family's identity of empathy and unity. These discussions reinforce values of understanding and growth. How might you further nurture these dynamics to strengthen your commitment to this new family narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I'm thinking of planning a monthly family activity where each person chooses an event to organize. This gives everyone a voice and creates new experiences together, promoting collective growth.",
+        "therapist": "Planning monthly activities where everyone can lead not only encourages diverse experiences but reinforces each person's contribution to your family's story. This initiative fosters connection and acknowledges unique strengths. As you envision these events, how might they shape your collective identity in the coming months?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I'm hoping these events deepen our understanding, like when my brother organized a nature hike last spring. We talked openly about dreams, creating shared goals that inspire us all.",
+        "therapist": "As your family experiences these shared moments and dreams, you're strengthening the narrative of connection and aspiration. You're crafting an identity that values understanding and collaboration. What would aligning these events more closely with everyone’s dreams add to your preferred family story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I believe aligning events with dreams creates a vibrant, dynamic family identity. Like the time my brother's hike led to dream-sharing; such experiences deepen our collective sense of purpose.",
+        "therapist": "Your family’s willingness to share dreams and align activities with them is fueling a strong sense of purpose. Embracing these unique experiences creates a supportive landscape for growth. As you plan future events, how might weaving these aspirations further enrich your family's evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Weaving dreams into events allows us to bond meaningfully. When organizing a family art day, I felt proud seeing each person express their creativity, revealing different facets of themselves.",
+        "therapist": "Celebrating creativity within your family showcases a commitment to valuing each other’s expressions. These moments reveal deeper dimensions of identity and togetherness. As you continue this journey, how might integrating these creative expressions further solidify the preferred narrative of connection and shared purpose?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Integrating creativity adds layers to our shared identity, like when my mom painted her childhood home. It brought stories alive, making us appreciate each other's journeys profoundly.",
+        "therapist": "These shared creative expressions are key to nurturing your family's story. Your mom's painting connecting you all to her past reveals the values of appreciation and empathy within your family. How can exploring these journeys further support the rich narrative you are co-creating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Exploring these journeys can deepen our empathy. My dad shared stories about his challenging move as a child, which helped me understand his resilience. These stories connect us powerfully.",
+        "therapist": "Appreciating your father's resilience highlights powerful values shaping your family's preferred identity. Embracing these narratives fosters deeper empathy and understanding, strengthening bonds. Consider how each member's story might inspire future family activities to further enrich this dynamic connection.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "During a family picnic, my sister shared stories about overcoming her fears as a kid. It sparked a heartfelt discussion about bravery and self-growth, inspiring us all to reflect.",
+        "therapist": "Your sister's story created a powerful moment of reflection and growth, weaving bravery into your family narrative. These discussions shape a collective courage and personal development ethos. How might nurturing these conversations further highlight resilience in your evolving family story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "We could start a tradition of sharing personal growth stories during family dinners, like when I overcame my fear of public speaking. It highlights our resilience and encourages support.",
+        "therapist": "Starting a tradition of sharing growth stories at dinner can strengthen your family's resilient identity and foster ongoing support. Embracing these narratives invites deeper connections and personal growth. How might these reflections further enhance the collective values shaping your family’s shared journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Reflecting on these stories could illuminate how each of us contributes to our family's strength. I remember my brother recounting his first solo trip, sparking unity and inspiration.",
+        "therapist": "Reflecting on your brother's journey highlights his unique contribution to the family's strength narrative. As you build this tradition of sharing, how might these stories further inspire unity and resilience, enhancing the action landscape of your shared family identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Sharing these stories feels like nurturing a garden of memories and resilience. When my sister recalled comforting me after a tough day at school, it showcased the care we bring to each other's journeys, unifying us further. It adds depth to our connections and reflects shared courage.",
+        "therapist": "Sharing these nurturing memories cultivates a profound connection, enhancing your family's courage and care. This deeper understanding reflects your values of resilience and empathy. How might continuing to explore these supportive roles enrich the evolving story of your family's strength and unity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "By delving into these roles, we're more attuned to each other's strengths and challenges. My brother once supported me during a career setback; his belief helped boost my confidence immensely.",
+        "therapist": "Your brother's belief truly highlights how significant his support has been to you. This acknowledgment of strengths underscores a vital shared identity. What new perspectives do you notice about yourself when seen through his eyes?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "His belief helps me see strength and resilience within myself, like when he encouraged me during a challenging presentation, shifting my view from doubt to potential.",
+        "therapist": "Encouragement like your brother's can profoundly influence how you perceive yourself, revealing hidden strengths and possibilities. Embracing his view of your resilience might lead to a richer narrative of self-confidence. What new story could you envision for yourself with this supportive perspective in mind?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Your insight resonates with me deeply. I envision a story where setbacks are catalysts for growth. During my last presentation, I embraced this mindset, easing my nerves and boosting my confidence.",
+        "therapist": "You’ve beautifully embraced the idea of using setbacks for growth, reshaping your self-perception with each challenge. Recognizing your impact on others might further reinforce this journey. How does knowing your strengths inspire you to support those around you even more?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "As I embrace my strengths, I become more present and empathetic for others. Recently, I supported a friend facing career challenges by sharing techniques that helped me adapt and grow.",
+        "therapist": "Your willingness to share your strengths and experiences not only highlights your empathy but also deeply enriches your friend's journey. As you weave these connections, how do you see this mutual growth contributing to the evolving story of both your identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "In sharing and supporting one another, we each see new facets of ourselves. Recently, my friend's gratitude revealed how our strengths intersected, empowering both our journeys with greater empathy.",
+        "therapist": "Recognizing your friend's gratitude reveals a profound impact on each other's identities, fostering growth and empathy. Reflecting on this shared journey, what aspects of your strengths would you like to nurture further to continue empowering both yourself and those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I aim to nurture my empathy and resilience further. Recently, witnessing a friend's struggle reminded me of the impact encouragement had on me during rough times, fostering connection and mutual growth.",
+        "therapist": "Witnessing your empathy and resilience unfold in supporting others exemplifies mutual empowerment. Your shared encouragement shapes how both of you perceive yourselves. How do these interactions enhance the story of who you are becoming together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Interacting with my friend highlights the dynamic relationship between shared strength and growth. Recently, supporting them through a difficult exam preparation gave us both clarity and motivation to tackle challenges.",
+        "therapist": "Your support during your friend's exam journey reveals your impactful empathy and resilience, creating a mutual bond of motivation. Reflecting on this shared strength, consider how these nurturing qualities shape both of you in becoming more attuned to each other's needs.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "My friend's appreciation brought a sense of relief, validating my effort in their exam preparation. Our open dialogue about worries strengthened mutual understanding and attuned us to each other's emotions.",
+        "therapist": "Your shared dialogue nurtures mutual identity, reinforcing understanding and emotional connection. This journey with your friend demonstrates the strength you bring into relationships. How might these enriched perspectives empower both of you as you continue to navigate challenges together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "These enriched perspectives foster courage and understanding in us. Recently, while planning a joint project, our strengthened bond helped us manage uncertainties with more confidence and less stress.",
+        "therapist": "In nurturing courage and understanding together, you're witnessing a transformative impact on both your identities. This joint endeavor reaffirms the importance of your contributions to each other's growth. How do you envision your collaboration further enhancing these positive dynamics?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I envision our collaboration continuing to strengthen trust and empathy. Recently, during project setbacks, we openly communicated our fears, finding creative solutions together. It's empowering and rewarding.",
+        "therapist": "Recognizing your mutual creativity amidst setbacks speaks volumes about the trust and empathy you nurture. Your contributions reveal a deep sense of value in this shared journey. How might your insight and strengths continue to influence both of you positively moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "Our shared experiences have been a guiding force for overcoming obstacles. In resolving project challenges together, I realized that our mutual insights generate fresh ideas, fostering hope and collaboration.",
+        "therapist": "As your mutual insights unfold, your shared contributions foster hope and collaboration. This dynamic shapes both identities, offering resilience and creativity. How might you see your collaborative journey continuing to inspire and transform each other's stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I think our journey can keep inspiring change. For instance, during a difficult planning session, we brainstormed innovative ideas that resolved conflicts. These moments remind us of our growth.",
+        "therapist": "Your journey reflects how your contributions actively shape both your friend's identity and your relationship, fostering ongoing change. Recognizing growth together during challenging times highlights the deep impact you have on one another. How might this acknowledgment influence your future interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I believe this acknowledgment will lead to deeper trust and transparency. Like when we faced differing opinions, accepting each other's views allowed us to find better resolutions together.",
+        "therapist": "Your ability to find resolutions together reflects the depth of trust and transparency you've fostered. This collaborative spirit strengthens not just your bond but also enriches your identities through mutual acknowledgment. How might these insights influence your future roles and interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "As we navigate future projects, I believe our approach of embracing different perspectives will naturally influence how we communicate and innovate. When we tackled a creative block last month, our ability to integrate diverse ideas led to unexpected breakthroughs. It felt rewarding and bolstered my confidence in the process.",
+        "therapist": "Your approach reflects a profound mutual contribution, enhancing innovation and communication. Embracing diverse ideas during challenges validates your collective growth. As you continue to support each other, how might these breakthroughs affirm the valuable roles both play in shaping each other's lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "As we share breakthroughs, I'm struck by our evolving roles; it deepens trust and reassurance. Last week, reflecting on a miscommunication reminded me how important listening is to our dynamic.",
+        "therapist": "Your deepening roles and attentive listening enrich trust and create mutual reassurance, reflecting significant contributions to each other's identities. As you continue this meaningful journey, consider how these strengthened relational dynamics might enhance future creative collaborations.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

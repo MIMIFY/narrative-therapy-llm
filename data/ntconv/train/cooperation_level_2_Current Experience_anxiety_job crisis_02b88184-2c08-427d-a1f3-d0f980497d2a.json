@@ -1,0 +1,482 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello, How can I help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm not sure where to start, but I’ve been feeling overwhelmed lately—like there’s too much to manage, and I can’t catch my breath.",
+        "therapist": "It's understandable to feel overwhelmed when so much is pressing on you. Let’s take a moment together to create some space for what’s weighing you down. What feels most important to acknowledge right now?"
+    },
+    {
+        "round": 2,
+        "user": "I'm scared about my future",
+        "answer_final": "Can you tell me more about why you are scared for the future?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think what scares me most is feeling like I’m losing control of where my life is headed. The uncertainty makes everything feel even heavier, almost paralyzing at times.",
+        "therapist": "You’ve been carrying the weight of uncertainty, and it makes sense that it feels overwhelming. I wonder, if we were to focus on even a small part of this heaviness, what would feel helpful to explore first?"
+    },
+    {
+        "round": 3,
+        "user": "I got fired because of Covid, and I don't know how I'll be able to find a job and have an income.",
+        "answer_final": "It seems that Covid has had a negative effect on your employment and financial insecurity is weighing heavily on you.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think it’s the fear of not being able to support myself that feels the heaviest right now. Losing my job during Covid has left me feeling so uncertain about my future.",
+        "therapist": "The fear of uncertainty has taken a significant place in your life. How has it influenced your ability to connect with things that once gave you stability or hope?"
+    },
+    {
+        "round": 4,
+        "user": "Yes that is correct, and with the job market, how am I supposed to find a secured job.",
+        "answer_final": "I can understand that feeling of insecurity, and how helpless you feel. I myself have been in the position of loss of income and financial insecurity in the past, and while it was hard while I was in the valley, I was able to walk out of it with some valuable lessons.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think it’s made me feel disconnected from anything stable. With the job market so unpredictable, I just don’t see how I can find something secure again.",
+        "therapist": "That disconnection must feel so unsettling. As you navigate this unpredictability, what strengths or qualities in yourself might help you face these challenges, even in small ways?"
+    },
+    {
+        "round": 5,
+        "user": "That is true, I just have to work hard for myself. I am learning valuable lessons like the idea that companies don't care about their workers, etc. Working more on myself sounds like the better option.",
+        "answer_final": "It sounds like you are already identifying areas of self improvement. A person with confidence in themselves and the ability to reflect and grow are promising attributes potential employers look for.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think my resilience stands out—I’ve been forced to adapt and learn, even in hard times. It’s taught me to prioritize myself more and rethink what stability means.",
+        "therapist": "Your resilience shines through in how you've adapted and redefined stability. How might this growing sense of prioritizing yourself shape the path you want to create moving forward?"
+    },
+    {
+        "round": 6,
+        "user": "Thank you for all that you've done today, I couldn't get through it without you dude.. Thank you for your time today, hearing my concerns about the future!",
+        "answer_final": "You are so welcome. I know that you will succeed in your employment search as you have the skills and humility that potential employers are looking for.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for guiding me today; exploring my resilience has made me rethink my path. Prioritizing myself seems crucial now in finding a more meaningful direction.",
+        "therapist": "You’ve shown incredible strength in rethinking your path and prioritizing yourself. As you move forward, what might honoring this new focus on yourself look like in daily life?"
+    },
+    {
+        "round": 7,
+        "user": "I'll continue to keep on the lookout for new job opportunities, as well as improving myself for the long term. I appreciate it!",
+        "answer_final": "As you continue your job search, can you think of ways that you could trim your cost of living for the short term? Returning to the basics for a time could help save you money while you take the next steps with your career. Things like planning meals ahead of time, using items you already have instead of buying new, letting go of subscriptions you don't use daily or don't deem necessary.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Honoring this focus might mean carving out time for personal growth—like learning new skills for long-term goals—while actively seeking job opportunities that align with my values.",
+        "therapist": "Your focus on personal growth and value alignment truly reflects your resilience. How might creating space for these priorities transform your daily experiences and outlook?"
+    },
+    {
+        "round": 8,
+        "user": "I could definitely reduce my spending like going out less for fast food, cutting my Netflix and Hulu subscriptions, and prepare my own meals for the next week weeks, as I try to find a new job. This would definitely help with my concerns about income and financial security.",
+        "answer_final": "Our lifestyle seems to be all about convenience and instant gratification, I myself being guilty of wanting those as well. But I think when we strip our needs down to the basics for a while we allow ourselves to find what is really necessary, as well as what is truly important to us.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "By cutting costs, like spending less on fast food and canceling Netflix and Hulu, I can ease my income concerns. These adjustments might provide clearer priorities and stability as I job hunt.",
+        "therapist": "Your thoughtful adjustments highlight your values and focus on what truly matters to you. How do these choices connect with the identity you wish to embrace as you move toward new opportunities?"
+    },
+    {
+        "round": 9,
+        "user": "Very true, people definitely need to find their fitting for when things go wrong. Failure or bad events give us time to think about the important things in life, as well as our true needs.",
+        "answer_final": "And it is important to remember that everyone goes through cycles of feast or famine, and that when you are walking through a famine you yourself are not a failure. As long as you know you are doing your best to succeed under the circumstances you have been handed, you will never truly be a failure to yourself or to others.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "These choices help me embrace an identity of self-sufficiency and clarity. They remind me that setbacks can offer perspective, helping to refocus on what truly matters for growth.",
+        "therapist": "Your commitment to self-sufficiency and clarity reflects strength in redefining your path. How do you see the setbacks influencing, rather than hindering, your journey toward growth and values alignment?"
+    },
+    {
+        "round": 10,
+        "user": "Thank you, this has really helped me overcome my anxiety and fears of the events from the past year!",
+        "answer_final": "I am so glad you have been able to look within yourself to see that you have all the resources you need to handle this period of life. You have a optimistic attitude and a can do spirit, and those will take you far!",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Setbacks have taught me resilience and adaptability, which alleviates some anxiety about the past year. I've learned to view challenges as opportunities for personal growth.",
+        "therapist": "Your ability to find resilience and adaptability within setbacks is inspiring. How might these qualities guide the way you approach future challenges as you continue shaping your preferred path?"
+    },
+    {
+        "round": 11,
+        "user": "Thank you for your time, I'll have to be leaving now, this will help me for sure!",
+        "answer_final": "Enjoy the rest of your day!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your insightful support today. Reflecting on my resilience helps envision tackling future challenges creatively and confidently. It's comforting as I continue my journey.",
+        "therapist": "You're embracing your resilience beautifully, paving the way for confident and creative growth. How do you imagine these strengths supporting your journey in the coming days?"
+    },
+    {
+        "round": 12,
+        "client": "I imagine these strengths helping me face uncertainties, like job interviews, with more calm and focus. Recently, I surprised myself by adapting quickly to an unexpected schedule change.",
+        "therapist": "Embracing resilience and adaptability helps empower you when facing uncertainties. By separating yourself from the challenge, how does this insight alter your approach to interviewing or managing new changes in your schedule?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "Feeling empowered allows me to handle surprises, like a last-minute interview. I remember calmly adjusting my routine and visualizing success to alleviate nervousness beforehand. It's reassuring.",
+        "therapist": "Your ability to handle surprises with calm and focus shows a commitment to staying aligned with your goals. How does separating nervousness from yourself allow you to connect more fully with your vision of success?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "I think separating nervousness helps me focus on what I can control, like preparing thoroughly. For example, reviewing questions beforehand gave me clarity and eased my self-doubt.",
+        "therapist": "Your focus on what you can control, like preparation, powerfully separates nervousness from your identity. How might this strategy align with your commitment to calm and confidence, reinforcing your values during similar situations in the future?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "By focusing on what I can control, like researching the company and preparing potential answers, I've developed a structured approach. It helps reduce anxiety and reinforces my self-worth.",
+        "therapist": "Your structured approach reflects a deep value in self-reliance and preparation. Why is reinforcing your self-worth through these actions important to you as you navigate these challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Reinforcing my self-worth feels crucial because I’ve often doubted my abilities in stressful moments. Recently, preparing thoroughly helped me feel capable during a nerve-wracking panel interview.",
+        "therapist": "Doubt has shaped stressful moments, yet your preparation reshaped them into empowering experiences. How does this commitment to reinforcing your self-worth reflect the kind of relationship you hope to have with challenges in the future?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I hope to see challenges as opportunities for growth, like when I overcame hesitation to negotiate a higher salary. It felt affirming and shifted my view of self-worth.",
+        "therapist": "Your decision to face hesitation directly by negotiating reflects a strong value in personal growth and self-respect. How does this commitment shape the way you now see challenges as opportunities for transformation?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I see challenges now as stepping stones, not threats. For instance, when I struggled with public speaking, facing it head-on helped me feel more capable and resilient.",
+        "therapist": "Facing challenges as stepping stones highlights your resilience and ability to redefine their impact. What about public speaking inspired you to move beyond hesitation and connect with the value of capability and growth in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think it was realizing how much I wanted to connect with others. During a team presentation, my fear faded as I saw their engagement. That moment felt empowering.",
+        "therapist": "The way your fear faded as you connected with others suggests how strongly you value meaningful engagement. How might embracing this desire for connection continue to lessen the power of fear in similar moments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I think leaning into my desire to connect shifts my focus from self-consciousness to others. Like at a networking event, asking genuine questions eased my nerves and built rapport.",
+        "therapist": "Focusing on genuine connection seems to lessen the hold of self-consciousness in powerful ways. What does this shift toward valuing rapport and meaningful engagement tell you about what truly matters to you in overcoming challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think it tells me that connection and being seen authentically matter most. Like when I shared a personal story at a workshop, people related, and it felt freeing.",
+        "therapist": "Sharing your story at the workshop seems to reflect a turning point where authenticity fostered connection and freedom. How might you bring this sense of being authentically seen into other areas where challenges arise?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I could start by being more open in personal conversations, like with my sister. When I shared my worries about career changes, her support surprised me and deepened our bond.",
+        "therapist": "Opening up with your sister shows how trust and vulnerability align with your values of connection and authenticity. How might continuing to embrace these qualities deepen the relationships you care about most?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think embracing vulnerability could help me with my partner. Recently, I avoided discussing my fears about our finances, but being open might bring us closer and ease the tension I feel.",
+        "therapist": "Opening up about your fears with your partner could bring a sense of shared understanding and connection. What actions might support this vulnerable conversation while fostering the closeness you hope for in your relationship?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I could start by choosing a calm moment to talk and share how the uncertainty has been weighing on me. Maybe framing it as wanting to solve this together would help.",
+        "therapist": "Choosing a calm moment and framing the conversation as teamwork highlights your strength in fostering connection. As you consider this approach, what possibilities might it open for how you and your partner navigate uncertainty together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think it could open the possibility of us feeling less isolated in our worries. If we work together, maybe the shared support can help ease my sense of helplessness.",
+        "therapist": "Sharing support with your partner seems to align deeply with your values of connection and mutual care. As you move toward this openness, what does it say about the kind of partnership and identity you’re striving to create together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think it says I want us to be partners who face struggles together rather than alone. Like last week, when we brainstormed ways to save money—it felt grounding and hopeful.",
+        "therapist": "Building that sense of teamwork and grounded hope seems closely tied to the kind of partnership you value. What stands out to you about how moments like these reflect the identity you’re shaping together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think those moments show we're building trust and resilience together. Like last month, when we reassessed priorities to afford an unexpected bill—it felt like real partnership.",
+        "therapist": "Moments like those seem to embody the trust and resilience you’re cultivating together. How does recognizing these qualities strengthen your sense of what’s possible for your partnership moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think recognizing our trust and resilience reminds me we can handle tough times. Like when our car broke down, we figured out repairs together without blaming each other.",
+        "therapist": "Recognizing that trust and resilience in your partnership speaks to the kind of connection you value deeply. How do these qualities align with the vision of support and teamwork you want to keep nurturing together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think it aligns with wanting us to feel like a team no matter what happens. Like when we spent hours figuring out how to fix the fence after that storm—it reminded me we can rely on each other, even in unexpected challenges.",
+        "therapist": "That moment of repairing the fence seems to symbolize the strength in your partnership. As you reflect on these shared efforts, what might be possible for how you and your partner handle future storms—both literal and emotional?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think those moments show we can stay calm and work through things together. Like when our pet got sick unexpectedly—we found a solution by pooling our ideas and resources.",
+        "therapist": "Pooling your ideas and resources seems to reflect a shared commitment to overcoming challenges together. What steps might you both take in future situations to further build on this sense of calm and collaborative problem-solving?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think setting time aside to calmly talk things through, like we did when deciding how to divide house chores after my work schedule changed, could help keep us grounded.",
+        "therapist": "Calmly setting time aside to talk seems to reflect a deep value of intentional communication. How does this commitment connect with the kind of grounded and balanced partnership you envision building together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think it shows how much we value stability. Like when I was overwhelmed with overtime shifts, we made a plan so I could rest without neglecting responsibilities—it brought us closer.",
+        "therapist": "Your commitment to stability and teamwork seems to reflect a strong intention toward creating balance in your lives. How does honoring those values deepen your sense of connection and the identity you’re shaping together as partners?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Honoring those values makes me feel secure, like we’re building a foundation. When we tackled our finances together after a tough month, it reminded me we’re stronger as a team.",
+        "therapist": "Building that foundation through shared values and teamwork seems to reflect a partnership that thrives on mutual care and growth. What other steps might you envision taking together to strengthen this sense of security in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think we could set long-term goals together, like saving for a trip we've always talked about. It would give us something to look forward to and plan as a team.",
+        "therapist": "Saving for that trip seems to embody your shared value of building a meaningful future together. How might pursuing these long-term goals further shape the partnership you both are committed to creating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think setting those goals would strengthen our trust. Like when we repaired the fence together—working toward something tangible felt unifying and reminded me we’re capable together.",
+        "therapist": "Strengthening trust through shared goals and actions reflects your dedication to building a resilient partnership. What qualities within yourself or your relationship feel most aligned with this intention of unification and mutual capability?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think it’s our ability to adapt and communicate openly. Like when my work hours changed unexpectedly, we quickly reassessed our plans together—it made me feel supported and capable.",
+        "therapist": "Embracing adaptability and open communication seems to draw on valuable contributions from your relationship, strengthening support and capability. How have others in your life, past or present, influenced these empowering qualities within your identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My parents always emphasized the importance of communicating and adapting, especially when we moved frequently. This upbringing taught me resilience and openness in relationships, which I'm grateful for.",
+        "therapist": "Your parents' values appear to have offered a foundation for your own resilience and openness. How might acknowledging this legacy enhance the strength and perspective you bring to current relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Acknowledging their influence helps me value communication even more. It reminds me to be proactive when discussing emotions with my partner, ensuring we understand and support each other deeply.",
+        "therapist": "Emphasizing proactive communication with your partner, inspired by your parents, creates a rich connection rooted in understanding and mutual support. How might integrating these strengths affirm your identity and enhance the mutual appreciation within your relationship?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 39,
+        "client": "My sense of self becomes clearer through open dialogue. When we sat down and tackled a misunderstanding last week, it made me feel valued and cemented our mutual respect.",
+        "therapist": "Your clarity and sense of value through open dialogue contribute richly to mutual respect in your relationship. How does acknowledging these contributions affirm your importance and agency within this significant partnership?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Acknowledging these contributions makes me feel more secure and valued, especially when my partner invites my perspective during discussions about our future together. It affirms I'm essential in shaping our path.",
+        "therapist": "Your essential role in shaping your shared future reinforces a strong bond of mutual influence. Consider how your contributions have not only enhanced your own identity but also positively impacted your partner's development and the path you're forging together.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Reflecting on my impact, I remember encouraging my partner during their career shift. Seeing them succeed reinforced our bond and boosted my confidence in contributing meaningfully to our journey.",
+        "therapist": "Reflecting on the influence you've had on your partner's career journey, you embrace a meaningful part of your identity in nurturing mutual growth. Consider how this might enrich both of you, fostering a deeper connection and collective future. What sense of shared purpose emerges for you now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Reflecting on our shared journey, I feel our purpose is rooted in supporting each other’s dreams and building a life where we both thrive. This understanding brings comfort and excitement.",
+        "therapist": "Your understanding of shared purpose in supporting dreams beautifully reinforces a sense of unity. How has your encouragement helped shape your partner's identity, and in what ways do you both nurture this shared vision for thriving together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Encouraging my partner during tough career decisions affirmed their confidence, reflecting in more assertive actions. Together, we set regular talks to align on our dreams, feeling invigorated by shared ambitions.",
+        "therapist": "Together, you've created a powerful partnership by nurturing each other's growth and ambitions. Your support has clearly bolstered your partner’s identity, enhancing their confidence. Reflect on how these moments also deepen your sense of belonging and influence within this shared narrative.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "These moments of nurturing each other’s growth make me feel intertwined with a deeper connection. Helping my partner shine during their career changes gave me purpose and recognition within our bond.",
+        "therapist": "Engaging deeply with your partner’s growth and achievements has fortified your bond, shaping both of your identities through mutual support. Your contributions seem to have not only enhanced their confidence but also underscored your sense of purpose in this relationship. How do these experiences inform your shared narrative moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Engaging in mutual support, I felt increasingly confident about setting our life goals. When my partner secured a promotion, seeing their fulfillment made me aspire for personal growth too.",
+        "therapist": "Engaging in mutual support has clearly fueled growth for both of you, reflecting your value within the relationship. As you aspire toward personal growth, how do you envision your unique contributions continuing to shape this shared journey and strengthen your bond?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "Reflecting on my role, I envision contributing by taking proactive steps toward my own aspirations, like pursuing advanced skills. Seeing my partner thrive motivates me to create meaningful goals too.",
+        "therapist": "Pursuing your aspirations reflects the positive cycle of mutual influence in your relationship. As you explore these advanced skills, consider how your growth might further inspire and reinforce your partner’s sense of confidence, creating an ongoing dynamic of shared empowerment.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I remember when my partner confidently shared ideas at a big meeting, crediting our talks for their clarity. That moment inspired me to refine my communication skills and dream bigger.",
+        "therapist": "Your partner’s acknowledgment highlights how deeply your insights have influenced their confidence. By refining your communication skills, you’re amplifying this mutual exchange of growth. How does recognizing this dynamic shape the way you see your role in fostering meaningful change for others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I see my role as someone who encourages clarity and confidence in others. I remember mentoring a colleague during a project—watching them succeed felt deeply rewarding and inspiring.",
+        "therapist": "Mentoring and fostering confidence clearly brings deep meaning to your life. This ability to inspire growth in others reflects a powerful quality within you. How does recognizing this part of yourself influence the way you see your own potential?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Recognizing this makes me see my potential as a force for positive change. I remember helping a friend navigate self-doubt; seeing their progress boosted my belief in my own capabilities.",
+        "therapist": "Embracing your ability to guide others reveals how deeply impactful your presence can be in shaping their identities. As you see yourself as a catalyst for change, reflect on how this expanded vision affects your relationship with those whose lives you've touched.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I feel more connected and responsible toward those I’ve helped, like when my advice helped a friend choose the right career path. Seeing their progress reinforces my belief in mutual growth.",
+        "therapist": "Your sense of connection and responsibility highlights the profound impact you have on shaping others’ identities. This relational dynamic strengthens mutual growth. How does this understanding influence your perspective on fostering meaningful relationships and personal aspirations moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

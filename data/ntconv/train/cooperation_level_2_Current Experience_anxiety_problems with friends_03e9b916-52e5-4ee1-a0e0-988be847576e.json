@@ -1,0 +1,471 @@
+[
+    {
+        "round": 1,
+        "user": "Hello. Are you able to see my situation I typed?. Is there someone there?",
+        "answer_final": "Sorry I'm here, please tell me you problems",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello. I'm feeling a bit lost and unsure if anyone understands my situation. Could we discuss how you've perceived my concerns? I need some clarity.",
+        "therapist": "I sense how much you want to feel seen and understood. Your concerns are important, and I’d like to work together to understand them more clearly. What feels most significant about your situation right now?"
+    },
+    {
+        "round": 2,
+        "user": "Just having problems with some friends. I feel like I am being left out.",
+        "answer_final": "Why do you think that way?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think it's the sense of exclusion that's weighing on me. It feels like my friends are connecting without me, and I'm struggling to figure out why.",
+        "therapist": "You deserve to feel connected and included. Let's explore how this sense of exclusion has impacted your life. What would change for you if you felt fully accepted by your friends?"
+    },
+    {
+        "round": 3,
+        "user": "They leave me out of planned outings from time to time. They also do not seem to care if I come or go when I am invited",
+        "answer_final": "Have you asked your friends regarding this?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Being fully accepted by my friends would mean a lot to me. Lately, feeling left out from planned outings makes me question my relationships and if they value me at all.",
+        "therapist": "Your desire for acceptance and connection is deeply meaningful. Let’s consider what being valued in these relationships would look like for you—what would help you feel that your place with them matters?"
+    },
+    {
+        "round": 4,
+        "user": "I have not",
+        "answer_final": "Okay, maybe you should ask your friends, let them know how you feel and see what they say about it",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Feeling valued would mean more invites to spend time together and inclusion in conversations. I want reassurance that I'm considered important in their lives.",
+        "therapist": "Let's focus on nurturing those connections you value. How might you engage in conversations or activities that affirm your importance to them, while also respecting yourself? Feeling valued and invited can reshape your experience and reinforce your sense of belonging."
+    },
+    {
+        "round": 5,
+        "user": "Okay, I may try that. What do you think I should do if they are negatively receptive of it?",
+        "answer_final": "Under any circumstances, make sure you know you are not at wrong here.I hope it will not be the case but your friends might try victim blaming. So keep your stance and keep asking for the answer",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That makes sense, I might open up more conversations. If they're not receptive, should I try to express my needs differently, or reconsider how I connect with them?",
+        "therapist": "Encouraging open dialogue can deepen your relationships. Exploring new ways to express your needs might invite understanding and change. If needed, reflect on what connections truly bring fulfillment and balance into your life."
+    },
+    {
+        "round": 6,
+        "user": "Yeah, I don't want it to come off as an attack on my end. Maybe I should wait, see if the issue occurs continuously, note that it has been observed on multiple occasions, and then stand my ground?",
+        "answer_final": "I'm pretty this has happened a few times already, hasn't it?. so you have every right to be upset and confront them, you shouldn't feel like you're attacking. You are just asking for what you deserve",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's important for me to approach it carefully. I'll try observing if this keeps happening and, if so, communicate how I'm feeling honestly. I want to maintain our bonds while also advocating for myself.",
+        "therapist": "Communicating openly is a powerful step. As you observe your interactions, consider how this exclusion impacts your well-being and relationships. How might reclaiming control from the feeling of being excluded reshape these connections?"
+    },
+    {
+        "round": 7,
+        "user": "Yes, but I feel like I need proof, you know? Like how you previously said, to make sure I am not in the wrong. That's true!",
+        "answer_final": "What you need to do is note down the occasions where they exclude you and ask exactly what happened then",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You're right. I guess seeking assurance is my way of feeling secure. It's tough not knowing if I'm overreacting or if the exclusion is real.",
+        "therapist": "Seeking assurance seems to be playing a significant role in your sense of security. How has this need influenced your relationships, and what might change if \"the fear of exclusion\" wasn’t holding so much power in your connections?"
+    },
+    {
+        "round": 8,
+        "user": "Okay makes sense. Then, I can ask like, was there a reason why I was not invited on this instance? Did I do anything to offend, etc",
+        "answer_final": "Yes, that's good, ask them if you did something that offended them and why they excluded you. If they deny, then you can tell them how you feel. If they care about your friendship they will do something to fix",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think that fear has shaped how cautious I am in relationships. Maybe asking directly, like if there was a reason I wasn’t included, could ease some of that worry.",
+        "therapist": "Facing that fear by directly seeking clarity can empower you and shift your experience in these relationships. How might understanding their perspective influence the way you interpret these moments of exclusion?"
+    },
+    {
+        "round": 9,
+        "user": "That is good advice. What is your advice if I still come out of the situation negatively (e.g. the friends do not seem to care about the friendship?)",
+        "answer_final": "honestly, I think you also know that if you care about someone and they feel upset, you'll do everything you can to help the situation. Therefore, if your friends refuse to acknowledge your feelings, I don't think you should be friends either",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Understanding their perspective might ease some anxiety, but I worry about feeling disregarded if nothing changes. How should I cope with that potential rejection?",
+        "therapist": "Rejection can feel disheartening, but what if this fear isn’t defining your value or how you navigate these relationships? Exploring ways to reaffirm your worth outside their responses might offer a sense of strength and clarity."
+    },
+    {
+        "round": 10,
+        "client": "I’ve always tied my worth to how others respond, like when friends don’t include me in plans. It feels like confirmation that I’m not enough, but maybe it’s not about me.",
+        "therapist": "You’re noticing how much power this belief about your worth holds over you. If it’s not about you, what might be motivating this pattern of exclusion, and how does protecting your worth align with the values you hold for yourself?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 11,
+        "client": "I think their motivations could be things I’m unaware of—scheduling conflicts or assumptions. Protecting my worth means recognizing those possibilities without assuming it reflects on me personally.",
+        "therapist": "Recognizing that your worth isn't tied to others' actions reflects a strong commitment to valuing yourself. What would it mean for you, on a deeper level, to let go of the weight this exclusion has carried in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 12,
+        "client": "Letting go would mean not replaying those moments endlessly in my head. Like when they didn’t invite me to the trip—I’d accept it wasn’t personal and move forward.",
+        "therapist": "Letting go seems deeply connected to honoring your peace and protecting your mental space. If replaying these moments is the problem’s voice, how might you describe or rename this influence that keeps pulling you back into self-doubt?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "That voice feels like a critic sitting in the corner, whispering doubts whenever I’m vulnerable. It magnifies small moments—like an ignored message—into something about my worth.",
+        "therapist": "As you name this critic, it creates space between your sense of self and its influence. How might silencing its voice affirm your values and commitment to embracing your own worth without allowing doubts to overshadow moments that truly matter?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Silencing it might mean pausing when I feel that doubt creep in, like when a friend leaves my message unanswered. Instead of spiraling, I’d remind myself of my intentions and that relationships aren’t always linear.",
+        "therapist": "Pausing and focusing on your intentions reflects your commitment to nurturing healthy relationships. How does this align with the values you most want to uphold in connecting with others and yourself?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "This aligns with my values of honesty and empathy in relationships. Like when I expressed genuine concern for a friend’s tough time without assuming things. It strengthens bonds beyond surface actions.",
+        "therapist": "Valuing honesty and empathy in your relationships deeply affirms your commitment to nurturing authentic connections. As these values guide you away from the critic's whispers, how do they shape the growth and depth of your interactions, reinforcing those strengths beyond immediate doubts?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Recognizing the value in small actions, like when I supported a friend during her exams, helps my relationships grow more genuinely. It proves that empathy enriches our bonds beyond fleeting uncertainties.",
+        "therapist": "Recognizing how empathy enriches your bonds connects deeply to your values, like honesty and nurturing genuine connections. How might embracing these values consistently strengthen the sense of mutual understanding and depth in your relationships, even when fleeting doubts arise?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "By embracing empathy and honesty, like during my friend’s crisis when I was a steady support, I've found mutual understanding grows naturally, easing doubts with every genuine interaction.",
+        "therapist": "As you've embraced empathy and honesty, mutual understanding blossoms in your relationships. These values seem pivotal to the core of your connections, protecting against fleeting doubts. What significance do these moments of genuine support hold for you in feeling grounded in your relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Moments of genuine support, like listening without judgment, affirm my place in relationships. I recall late-night chats with my sister during tough times, feeling anchored and valued.",
+        "therapist": "Moments like those late-night chats with your sister affirm the importance of supportive listening and connection in relationships, reflecting your values. How might nurturing this anchor of support consistently empower you when doubts or external criticisms surface?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "By maintaining those moments of genuine connection, like reassuring my sister through her anxiety, I feel more empowered to tackle doubts. These bonds remind me I'm valued despite external criticism.",
+        "therapist": "How do these moments of connection help distinguish external criticism from your inherent values and commitments? Embracing genuine support reflects the strength in your relational intentions, empowering you to stand firm against the doubts that arise outside of this personal foundation.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "These connections, like comforting my friend through job stress, show that true values lie in support. They remind me of my strengths and what truly matters, quieting external judgments.",
+        "therapist": "Valuing those moments of support indeed embodies your strengths, anchoring you beyond external judgments. How might these shared values and connections help recognize what’s truly important when facing doubts and affirm your path?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Feeling valued in those connections reminds me to focus on the support I can offer and receive. Like helping a neighbor with errands, it reinforces my sense of purpose despite doubts.",
+        "therapist": "Recognizing your purpose in offering and receiving support embodies resilience against doubts. These actions shape a stronger narrative of connection and community. How do these unique outcomes affirm the values that empower you amidst challenging moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Moments like when I supported a colleague through a tough project affirm my values of kindness and empathy. They reinforce the importance of staying true to what truly matters.",
+        "therapist": "Your kindness and empathy shape a story of meaningful connection and purpose. How do these moments align with the identity you want to nurture moving forward in your relationships and actions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Building on these connections, I want to nurture a deeper sense of empathy in my relationships. Recently, helping an old friend manage grief highlighted my commitment to being present and understanding.",
+        "therapist": "Your commitment to empathy reflects a deeply valued identity of being present for others. How might nurturing this value continue shaping your relationships and solidifying the understanding and care you aim to bring into them?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think nurturing this value pushes me to pause and truly listen. Like last week, when my cousin opened up about a breakup, being fully present helped us connect deeply.",
+        "therapist": "Pausing to truly listen strengthened your connection with your cousin, showing the profound impact of presence in nurturing relationships. How might this commitment to empathy and attentiveness influence other areas where you wish to deepen understanding and build trust?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "By being more attentive at work, like understanding my team's struggles during project delays, I hope to foster an environment where trust and collaboration flourish. It makes me feel proactive.",
+        "therapist": "A proactive approach like fostering trust and collaboration reflects your desire to lead with attentiveness and care. What small steps could you take to expand this intentional focus into other areas of your work or life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think small steps like offering honest encouragement or checking in regularly could help. For example, reaching out to a friend who seems distant might deepen that connection.",
+        "therapist": "Offering honest encouragement and reaching out aligns beautifully with your commitment to deeper connections. What might reaching out to that distant friend teach you about the kind of support you hope to embody in both your personal and professional relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think reaching out would teach me the importance of noticing unspoken struggles. It reminds me of how I felt unseen during a tough time and how much kindness mattered then.",
+        "therapist": "Your awareness of how kindness mattered during your own struggles beautifully connects to the empathy you offer others now. How does embracing this commitment to noticing and acting on unspoken struggles further shape the identity you're building?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think it shapes me into someone who values creating safe spaces for others. Like when a colleague looked overwhelmed, I offered support, and it brought relief to us both.",
+        "therapist": "Creating safe spaces reflects your commitment to fostering connection and relief, linking to deep values of empathy and care. How might these experiences further develop your identity as someone who brings comfort and understanding to those around you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I feel developing my identity as someone who offers comfort reinforces a cycle of empathy. Recently, comforting a friend struggling with work stress showed me the power of supportive presence.",
+        "therapist": "Offering comfort seems to reflect a deeply held value of creating meaningful connections. How might this cycle of empathy influence the kind of relationships and environments you want to nurture moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I want relationships where emotional openness is valued, like when I shared my own challenges with work stress to inspire trust. It helps create supportive environments and mutual understanding.",
+        "therapist": "Sharing your own challenges to build trust shows a strong commitment to fostering emotional openness. How do these moments of mutual understanding reinforce the kind of person you’re striving to become in both relationships and supportive spaces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Moments of mutual understanding help me embrace vulnerability, like last month when I comforted my stressed roommate. It reinforced my desire to be a pillar of support in close relationships.",
+        "therapist": "Moments like these highlight the strong values driving your desire to support others. How might embracing vulnerability further strengthen this identity you’re building as a trusted and empathetic presence in close relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Embracing vulnerability strengthens my identity by deepening connections, like when I openly discussed personal doubts with my best friend, enhancing trust and understanding between us.",
+        "therapist": "Sharing your doubts with trust has clearly deepened those connections. What future opportunities can you imagine to keep building this story of strength through vulnerability in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Opening up in casual settings could build deeper connections, like the honest conversations during coffee breaks at work that shift perspectives and strengthen bonds. It feels empowering.",
+        "therapist": "Empowerment through these open exchanges signifies important strides in your identity narrative. How do these shifts in perspectives during casual conversations at work inspire and enhance the story you’re authoring for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I find inspiration in the way these chats transform stress into shared support. It shapes my story of becoming more authentic and connected, which brings hope to both work and personal life.",
+        "therapist": "Your inspiration shows a strong commitment to authenticity and connection. These meaningful exchanges shape the identity you're crafting. How does the sense of hope from these interactions empower your journey towards an enriched narrative of self in both work and personal spheres?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think the hope fuels my patience, like last week when a frustrated colleague confided in me. Listening without judgment reminded me of the importance of mutual growth in relationships.",
+        "therapist": "Your patience in that moment highlights your deep commitment to fostering growth and understanding in relationships. How does this alignment with your values of mutual support inspire the steps you wish to take in nurturing these connections further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I want to check in more often with those around me, like sending a thoughtful text or asking how someone’s day went. It feels small, but it strengthens our connection.",
+        "therapist": "Checking in like that reflects deep care and attentiveness. Who in your life has shown you the importance of these small, meaningful gestures, and how might they see your growing commitment to connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think of my grandmother—she’d always leave little notes or calls just to check in. It made me feel seen. She’d probably see my efforts as honoring her approach.",
+        "therapist": "Your grandmother's thoughtful ways seem to deeply influence how you nurture connections. What do you think she might say about how her care shapes your identity and your dedication to making others feel seen?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think she’d smile and say I’m carrying on her legacy in my own way. Her care taught me how impactful even small gestures can be, and I value that deeply.",
+        "therapist": "Your actions honor your grandmother's legacy, strengthening relationships through heartfelt gestures. Reflecting on how your small contributions shape others' identities, how do you envision extending this mutual impact in those connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 39,
+        "client": "I think I can extend it by being more present—truly listening in conversations, like when my friend vented recently. It felt meaningful to offer my full attention.",
+        "therapist": "Your full attention in that moment likely gave your friend a sense of being truly valued. How does knowing you offer this kind of meaningful support deepen your understanding of the positive role you play in others' lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "It's rewarding to realize the impact of my support, like when a colleague confided in me during a tough project. It strengthens our bond and gives me purpose.",
+        "therapist": "Your support truly enriches your relational identity and the bonds you forge, offering a deep sense of purpose. What aspects of this meaningful impact on others inspire you to further nurture these connections and discover more about your own evolving identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I think seeing how much people trust me, like when my sibling called during a crisis, inspires me to deepen those connections. It makes me feel reliable and worthwhile.",
+        "therapist": "Your sense of being reliable and worthwhile is a powerful aspect of your identity. Recognizing how your care influences others reinforces these connections. In what ways can acknowledging these contributions motivate further growth in nurturing meaningful relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think acknowledging it motivates me to be more proactive—like reaching out to my friend recently, just to check in. It felt good to strengthen that connection intentionally.",
+        "therapist": "Your intentional approach enhances those connections, highlighting your significant contributions. As you deepen these bonds, how does recognizing your reliable nature enrich your sense of agency in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 43,
+        "client": "Feeling recognized as reliable empowers me to offer support openly, like organizing a dinner for friends after hearing about their stress. It was heartwarming witnessing their relief and gratitude.",
+        "therapist": "Your proactive support truly strengthens those connections, showing the impact you have on others' lives. Witnessing your friends’ relief and gratitude reinforces your role as a dependable ally. How does this recognition motivate you to explore new ways to nurture these meaningful bonds?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think it pushes me to be more thoughtful, like remembering anniversaries or accomplishments. Celebrating small wins with others makes me feel more connected and appreciated too.",
+        "therapist": "Celebrating these moments reflects how your thoughtfulness shapes meaningful connections. Recognizing your role enhances a shared appreciation between you and others. How do these interactions help shape their perceptions of themselves and further enrich your relational identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Feeling valued encourages my friends to express themselves freely, deepening mutual trust. I recall a friend confiding personal struggles; it strengthened both our perception of connection and empathy.",
+        "therapist": "Deepening mutual trust through shared expressions enriches relational identities, strengthening empathy. Reflecting on how your support encourages others can further illuminate the impact of their confiding in you on both your identities. How does this trust motivate a new understanding or action for future connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Trust helps me see the power of vulnerability. I remember a recent late-night conversation, sharing fears with friends. Their understanding inspires deeper openness and gratitude for shared growth.",
+        "therapist": "Your openness and vulnerability reveal a transformative quality in your relationships. Experiencing shared growth through mutual understanding enriches both your identity and theirs. How does fostering this trust empower others to embrace their own vulnerabilities and reinforce collective resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Fostering trust showed me that my openness encourages friends to share deeply. Like when Sarah shared her anxiety about work; it built our collective support, growing resilience together.",
+        "therapist": "Your openness nurtures a space for others, like Sarah, to be truly seen. How does recognizing the growth in your friends' courage and resilience deepen your understanding of the influence you carry within these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think it makes me realize how much my actions and words can shape a safe environment. Like when Sarah thanked me for simply listening, it reminded me that small efforts matter deeply.",
+        "therapist": "Your awareness of how your listening impacts Sarah highlights the value you bring to your relationships. How do you think these small, meaningful acts contribute to shaping who she’s becoming within this supportive space you've created together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think those moments give her the courage to trust herself more. Like when she decided to present a bold idea at work, she said our talks gave her confidence.",
+        "therapist": "Your role in encouraging Sarah’s confidence is profound. It seems your support is reshaping how she sees her own capabilities. How does seeing her take bold steps deepen your sense of purpose within these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Seeing Sarah take bold steps felt deeply rewarding. It reminded me that my presence and actions can genuinely impact others' growth. It gave me a sense of quiet fulfillment.",
+        "therapist": "Your quiet fulfillment reveals the meaningful role you play in Sarah's life. As she grows through your support, how might this reinforce your sense of being someone who nurtures courage and creates lasting impact?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

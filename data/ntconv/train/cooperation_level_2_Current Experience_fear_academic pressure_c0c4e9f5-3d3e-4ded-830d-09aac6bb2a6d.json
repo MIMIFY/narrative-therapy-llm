@@ -1,0 +1,451 @@
+[
+    {
+        "round": 1,
+        "user": "Hello. How are you today?",
+        "answer_final": "I am doing well, thanks for asking! How are you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello. I'm feeling quite low today, but I'm hopeful to feel a bit better after our session.",
+        "therapist": "I'm really glad you’re here and hopeful, that's a powerful place to begin. Let's explore what's been happening for you recently so we can navigate this together."
+    },
+    {
+        "round": 2,
+        "user": "Very disturbed",
+        "answer_final": "I'm sorry to hear that. Can you describe what's going on?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, I'm feeling quite disturbed by recent events. I feel overwhelmed with everything piling up at once. It's hard to find any calm in all this.",
+        "therapist": "It's understandable to feel overwhelmed with everything happening at once. Let's explore those events together and uncover any moments of calm or strength that might have emerged within them."
+    },
+    {
+        "round": 3,
+        "user": "I feel like my university career is a dead end, job-wise. Even though I am a STEM major, I feel like I'm wasting my time putting all this effort into education.",
+        "answer_final": "What is your career, if you don't mind me asking?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s difficult because despite majoring in STEM, I worry it's not leading to job opportunities. It's unsettling investing so much into education and feeling stuck.",
+        "therapist": "You're facing a lot of uncertainty, which is unsettling after such dedication to your studies. Let’s explore the strengths you developed during your education and how they might help you navigate these feelings and find possibilities."
+    },
+    {
+        "round": 4,
+        "user": "I study civil engineering.",
+        "answer_final": "That sounds like a very difficult major to study. That's a very notable goal!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm majoring in civil engineering. I've learned critical thinking and problem-solving, but translating them into tangible job prospects feels daunting. The future seems unclear, which adds to my anxiety.",
+        "therapist": "You've invested a lot in your skills, which shows strength. Your uncertainty is valid. Let's consider how your abilities might open opportunities you haven't thought of yet. What small step could you take today to begin transforming anxiety into action?"
+    },
+    {
+        "round": 5,
+        "user": "Thank you. Did you ever have to go through a similar kind of experience?",
+        "answer_final": "I have had a similar experience. I am studying to become a certified optician at the moment.. Is there anything in particular that is making you feel this way towards your goal?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your support. It’s comforting to think about small steps forward. I’m curious, have you ever navigated uncertainty like this?",
+        "therapist": "Navigating uncertainty is a shared human experience. I'm here to support you as you explore this, helping draw out the resilience and problem-solving skills already within you. What other strengths have been valuable in managing uncertainties before?"
+    },
+    {
+        "round": 6,
+        "user": "Probably, the fact that my degree does not make me stand out among other applicants. It is an expectation nowadays. And the fact that I am putting so much resources into it, without the guaranteed payoff, makes me extremely nervous.",
+        "answer_final": "It sounds like you're worried a lot about your career's future, if that sounds correct?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I suppose my adaptability has helped in past uncertainties, like managing challenging projects. Yet now, with my degree not making me stand out as much, investing all these resources without guaranteed results is nerve-wracking.",
+        "therapist": "Your adaptability shines through even in nerve-wracking times. How can we use this strength to explore pathways that might highlight your unique skills and create opportunities, allowing you to feel more secure about your future?"
+    },
+    {
+        "round": 7,
+        "user": "Yes, that's the situation.",
+        "answer_final": "I think that's a completely normal feeling. It shows that you really care about your future and where you're going.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I’ve relied on adaptability before to overcome obstacles. Maybe I can explore ways to enhance my unique skills and apply them in fields related or adjacent to civil engineering.",
+        "therapist": "You've shown great adaptability, which is a powerful asset. How might leveraging this and your skills in adjacent fields foster unique opportunities? Exploring ways to highlight these strengths could lead to rewarding prospects and bring more certainty to your path forward."
+    },
+    {
+        "round": 8,
+        "user": "I assume, everyone goes through that to a certain extent.",
+        "answer_final": "It is! How long have you been studying civil engineering?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring adjacent fields sounds promising. It's reassuring to think adaptability can be applied broadly. I'm feeling more hopeful, imagining pathways to stand out and build a fulfilling career.",
+        "therapist": "Your adaptability truly sets you apart, and it's exciting to explore these potential pathways. How might embracing this optimism lead you to take practical steps in building a unique career that fulfills your aspirations?"
+    },
+    {
+        "round": 9,
+        "client": "I could start by researching roles where civil engineering intersects with tech, or sustainability projects that need innovative solutions. It’s encouraging to think I might offer unique contributions there.",
+        "therapist": "Your readiness to explore intersections in tech and sustainability truly reflects your resourcefulness. This shift helps untangle the worry from your identity, allowing space for more positive stories. How might recognizing this adaptability further empower you in these explorations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 10,
+        "client": "Recognizing my adaptability, I envision myself leading innovative projects, tackling resource conservation challenges. The idea fuels hope—each step taken could unveil unexpected paths and achievements.",
+        "therapist": "You're separating adaptability from any barriers, allowing it to illuminate possibilities in projects. Considering how challenges like uncertainty affect your decisions and interactions, how can focusing on these strengths alter the problem's presence across different areas of your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 11,
+        "client": "Focusing on strengths might help shift my mindset, turning daunting tasks into opportunities. Previously, managing a community project during uncertainty bolstered confidence; it redefined fear into motivation.",
+        "therapist": "Embracing your strengths can indeed transform challenges into opportunities. How does fear, once a motivator for community work, manifest in current pursuits? Identifying its role might help shift the problem’s impact, unveiling how it interacts with confidence today.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 12,
+        "client": "Fear feels like a pressure to excel, pushing me to stay prepared and resilient. It surfaced during job searches, leading me to strengthen skills, though sometimes it bordered on anxiety.",
+        "therapist": "Fear as a pressure might be trying to act like a double-edged sword, offering readiness while veering into anxiety. How can we reshape its influence, allowing you to lean into confidence and curiosity during job searches, possibly rewriting its role in your journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "I remember tackling a job search by focusing on learning new skills like coding, which helped channel the fear into productive energy. It nurtured curiosity and turned anxiety into eagerness.",
+        "therapist": "Learning new skills channeled fear into productivity, reflecting a deep commitment to growth and adaptation. This shift supports your values of resilience and curiosity. How can you harness this pattern further, allowing eagerness to guide your next steps?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "I might embrace this pattern by setting personal challenges like building a sustainable project prototype. It's thrilling to think it could lead to unexpected innovations, and deepen my problem-solving.",
+        "therapist": "Your commitment to challenge yourself aligns with your values of growth and innovation, marking a meaningful way to externalize anxiety. Seeing eagerness transform into inventive solutions underscores the vibrant story you're creating. How does this invigorating journey reflect your aspirations for impact in sustainability?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "This journey fuels my desire to create eco-friendly solutions, starting small. For instance, designing a local waste management app feels rewarding; it aligns passion with tangible impact. It nurtures hope.",
+        "therapist": "Engaging in such rewarding work reflects your deep-rooted values for sustainability and meaningful impact. These efforts embody hope and transformation. In what ways can nurturing hope empower your journey with this app and beyond, ensuring it contributes to a sustainable future?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Hope encourages me to explore partnerships with local eco-groups. Developing the app in this collaborative environment sparks creativity, fueling my belief that small innovations can ripple into larger changes.",
+        "therapist": "Embracing hope reflects your values, driving meaningful collaboration and innovation. Viewing it as a key collaborator strengthens your belief in transformative change. How might aligning these partnerships with your core aspirations further expand the impact of your sustainable vision?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Aligning with local eco-groups amplifies our shared vision, fostering new ideas. Participating in community events revealed insights and passions that reinvigorated my commitment to innovative sustainability.",
+        "therapist": "Embracing shared visions with eco-groups and the spark from community events connects deeply to your values of innovation and sustainability. These steps align with your hopes for impactful change. What aspects of this collaboration stand out as pivotal to your journey in creating sustainable solutions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Collaborating highlighted the power of shared purpose, notably during our community cleanup drive. Witnessing collective passion and determination solidified my belief in our potential for impactful solutions.",
+        "therapist": "Witnessing collective passion in your community cleanup resonates deeply with your values and commitment to sustainable impact. Recognizing this shared purpose empowers you and separates the problem of sustainability from yourself, making it an actionable challenge. How might harnessing this energy further reinforce your efforts toward eco-friendly innovation?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Harnessing this energy motivates me to launch educational workshops, enabling community members to understand sustainable practices better. The eagerness shared in those moments fuels my sense of purpose.",
+        "therapist": "Your passion for launching workshops connects strongly to your sense of purpose, shaping a narrative where community empowerment thrives. By separating the problem from yourself, you pave pathways for impactful change. What deeper values drive this commitment to educating others in sustainable practices?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "A deep respect for nature and a desire to create a legacy of environmental consciousness guide me. An encounter with thriving wildlife in a restored habitat profoundly affirmed these values.",
+        "therapist": "Engaging deeply with thriving wildlife affirms your core values, externalizing the challenge of environmental consciousness. Naming and exploring this legacy's impact highlights meaningful aspirations. How does your commitment guide you in ensuring sustainability’s role in future generations' lives?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "My commitment drives me to involve younger generations actively. Initiatives like tree planting events and wildlife tours are steps toward embedding sustainability into their everyday experiences.",
+        "therapist": "Encouraging younger generations through tangible activities like tree planting and wildlife tours creates a legacy of sustainability. Recognizing these unique actions enhances their impact. What values and stories do you hope these younger participants will carry forward from their experiences with you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I hope they learn respect for nature’s cycles, valuing biodiversity. After our last tree planting, a child asked why different trees were important—that curiosity sparked real conversations and learning moments.",
+        "therapist": "Recognizing the power of that child's curiosity reinforces your identity as a steward of nature. By facilitating such meaningful conversations, you're nurturing an essential respect for biodiversity and ecological awareness. How does this experience enrich your understanding of yourself and your commitment to environmental education?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Seeing that curiosity affirms my purpose; I feel a deep satisfaction knowing I've sparked interest in nature. It reinforces my dedication to fostering environmental consciousness.",
+        "therapist": "You’ve fostered genuine connections with nature through sparking curiosity and conversations. This commitment nurtures your preferred identity as an environmental advocate. How might this affirmation of your purpose continue to influence the choices you make in fostering a legacy of sustainability?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "This affirmation encourages me to prioritize programs that integrate nature with learning. I recently connected with schools to start eco-clubs, emphasizing hands-on environmental projects, which feels incredibly rewarding.",
+        "therapist": "Your dedication to integrating learning with nature through eco-clubs is truly impactful. It highlights your proactive steps in cultivating environmental consciousness. As you embark on this journey, what aspects of these hands-on projects are you most excited to see flourish within the community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I'm most excited to see students gain hands-on experience, like identifying local plants and animals. Witnessing their pride in completing a project reinforces our shared commitment to sustainability.",
+        "therapist": "You’re cultivating experiences where students can explore and connect with nature, building confidence in their learning. Your initiative actively reshapes the community's relationship with the environment. What new projects might you envision to further solidify this shared commitment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I envision creating a community garden where students and residents can learn about sustainable agriculture. Watching them plant seeds and cultivate produce would be deeply fulfilling.",
+        "therapist": "You're envisioning a powerful gathering space in the community garden. This initiative offers both learning and unity, enhancing sustainable practices. As you cultivate this vision, consider how these interactions may strengthen relationships among participants and deepen their understanding of sustainability together.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Reflecting on these interactions, I believe shared tasks in the garden will foster trust and understanding. Experiencing growth firsthand may spark long-lasting friendships and inspire deeper ecological engagement.",
+        "therapist": "Reflecting on the power of shared tasks and experiences in the garden, you’re nurturing a sense of community that reinforces your identity and purpose. As trust and friendships blossom, how might these dynamics influence future sustainable projects and inspire broader ecological action within your community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I imagine these dynamics will encourage participants to initiate their own projects, inspired by our garden. This collective enthusiasm might lead to more localized initiatives like urban beekeeping.",
+        "therapist": "Your vision for community-driven projects, like urban beekeeping, reflects your values and commitment to sustainability. This sense of empowerment among participants could redefine their roles as eco-advocates. What elements of your journey inspire you most about this growing community of environmentally conscious individuals?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I feel inspired by witnessing others take initiative and their passion for learning. A local workshop on composting had such enthusiasm—it motivated me to continue championing these projects.",
+        "therapist": "You’re championing these projects with your genuine passion for environmental education, creating spaces for growth and learning. Consider how this ongoing inspiration aligns with your core values and strengthens your identity as a catalyst for positive ecological change. What possibilities might emerge as you continue to engage?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think the possibilities are endless. Hosting community forums, inviting local experts for workshops—these could empower others like it did me with composting, sparking deeper connections and initiatives.",
+        "therapist": "Exploring workshops and forums reflects your commitment to empowering your community. Your enthusiasm aligns with inspiring others and promoting connections, nurturing the values of collective ecological stewardship. How do you see these initiatives further affirming your identity as a leader in sustainability?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I see these initiatives as defining moments that shape my path as a sustainability advocate. Each interaction amplifies my drive, especially witnessing collective progress at the garden and composting workshop.",
+        "therapist": "Your passion for advocacy forms a powerful narrative, cultivating your identity in sustainability. Witnessing collective progress energizes you and drives the initiative forward. How does this evolving path connect with your deeper values and aspirations within community empowerment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I see these efforts aligning with my values of inclusivity and shared growth. Organizing a sustainability fair last year was rewarding, witnessing everyone’s enthusiasm and collaboration truly lifted my spirits.",
+        "therapist": "Your role in organizing the sustainability fair highlighted your commitment to inclusivity and collaboration. These moments reveal how actively creating spaces for shared growth resonates with your values. How might expanding these efforts continue reinforcing your identity as a leader in fostering community-driven change?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 33,
+        "client": "Expanding these efforts feels crucial. Leading workshops on urban gardening can further validate my journey. Seeing diverse community members join last time inspired new ideas and collaborations.",
+        "therapist": "Leading workshops on urban gardening continues your path toward inclusive community building, weaving together diverse perspectives and energies. Embracing these new ideas highlights your growing role in empowering others. How do you envision further integrating collaboration into this evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I envision collaborating with schools for educational gardens, partnering with local chefs for farm-to-table events, and inviting storytellers to share sustainable practices. These ideas foster vibrant, engaging exchanges.",
+        "therapist": "Partnering with diverse groups creates rich narratives of sustainability and community. Your vision for collaboration in education, cuisine, and storytelling opens avenues for dynamic change. These projects reinforce your journey as a connector. What aspect of these partnerships resonates most with your aspirations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "These partnerships deeply resonate with my desire to build an inclusive community. Organizing a cultural exchange in a school garden, I saw students excitedly learn about different herbs, which was profoundly fulfilling.",
+        "therapist": "Your commitment to inclusivity through partnerships deeply honors your values and fulfills your aspirations for meaningful connection. The joy from seeing students engage reflects the impact of your efforts. What other experiences or initiatives can further solidify this identity as a community builder?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Organizing a monthly farmer's market where local artisans share crafts could enhance community ties. Witnessing the pride artisans feel and hearing their stories always inspires me deeply.",
+        "therapist": "Organizing the farmer's market allows you to witness and honor artisans' stories, acknowledging their contribution to community vibrancy. These connections reflect how others shape your values of inclusivity and growth. Which significant figures in your life inspire these aspirations or influence this collaborative spirit?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Significant figures like my grandmother inspire me. Her nurturing community garden fostered shared stories and unity. She taught me how creating shared spaces can cultivate resilience and hope.",
+        "therapist": "Your grandmother's legacy of fostering unity in shared spaces seems to profoundly shape how you engage with community efforts. How do you believe she sees you now, as someone continuing her tradition of resilience and hope in creating inclusive environments?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think she'd be proud and hopeful, seeing her values flourish in new ways. I remember her joy when community events filled the garden with laughter and connection.",
+        "therapist": "Your grandmother's pride in witnessing laughter and connection acknowledges your impact in cultivating vibrant spaces. Her vision flourishes through you, affirming your vital role in enriching community lives. How does this recognition of shared values motivate your ongoing endeavors?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Her pride encourages me to keep creating spaces where connections thrive. At the last garden workshop, seeing kids plant seeds and parents sharing stories warmed my heart immensely.",
+        "therapist": "Warmth in seeing seeds of connection thrive reflects your significant contribution to nurturing community bonds. Your grandmother's pride illuminates your journey. What other reflections or moments make you feel deeply connected to this meaningful path?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "When I helped organize a tree-planting event, seeing diverse families unite around caring for our environment was heartening. It reminded me how collective efforts transform simple acts into impactful legacies.",
+        "therapist": "Reflecting on this event shows your profound ability to inspire connections and environmental stewardship. The legacies you nurture leave a lasting impact, shaping how others value unity and care for our world. How do these shared experiences influence your vision for future community endeavors?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Sharing those moments shapes my vision to integrate sustainability with cultural elements, like partnering with local musicians for eco-awareness events. Their creativity evokes emotional connection and deep appreciation.",
+        "therapist": "Your vision beautifully integrates sustainability with cultural resonance, enhancing community impact through creative collaboration. Seeing yourself through the eyes of those contributing musically enriches your identity as a change-maker. How does this blend of artistic and environmental values redefine what community legacy means for you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "The blend invites a deeper connection to my roots and the environment. It reshapes legacy as living traditions, where each event captures our shared journey and community's evolving story.",
+        "therapist": "Your efforts breathe life into shared traditions, fostering community through meaningful connections. These living legacies not only unite but deeply define your role in creating impactful narratives. How might these evolving stories inspire future generations to build upon your environmental and cultural visions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "These stories inspire future generations to respect and cherish their surroundings. Witnessing a local school create nature murals brings hope, emphasizing creativity and community in preserving our heritage.",
+        "therapist": "You are nurturing a legacy of respect and creativity that transcends generations. Your ability to inspire community through collective stories reinforces your identity as a guide for preserving heritage. How might you continue cultivating spaces where these values flourish within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I feel inspired to organize more cultural events like art fairs and concerts that celebrate both environmental stewardship and local creativity. Each event sparks new ideas and bonds.",
+        "therapist": "You inspire profound connections through creativity and environmental care, sparking transformation in your community. Seeing yourself reflected in these events can affirm your role in shaping positive change. How might others recognize the depth of your contributions to their lives through these initiatives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "I hope others see these events as invitations to explore their own creativity and environmental consciousness. Organizing a community mural last year helped people reflect and connect deeply.",
+        "therapist": "Your efforts in creating these events are significant; they empower others to discover and deepen their sense of self within the community. How do you see yourself evolving alongside those whose identities you help shape through such initiatives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I've found that organizing these events has helped me grow more patient and empathetic. Leading last year's music festival, I felt a deep sense of community trust in our shared goals.",
+        "therapist": "Your leadership nurtures a trust-filled environment, empowering both yourself and your community. As you embrace this sense of unity and patience, you're not only fostering change but enriching lives around you. How does this mutual support reflect in your personal growth journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "I've become more self-aware, noticing a stronger connection to my values and aspirations. When participants share their positive experiences, it reinforces my belief in collective growth.",
+        "therapist": "Embracing self-awareness enhances the sense of fulfillment in your actions and influences collective growth. How does this shared recognition from others deepen your connection to values that strengthen community bonds and nurture individual identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Experiencing shared recognition in organizing community art projects reinforces my belief in unity. Witnessing participants' genuine joy and connection makes me feel part of something transformative.",
+        "therapist": "Witnessing this joy reaffirms your impact, nurturing transformative experiences. As others flourish through these projects, their stories interweave with yours, strengthening communal identity. How might these shared moments guide your future endeavors, enhancing mutual growth and connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "These moments inspire me to explore projects that mix cultural heritage and sustainability. Imagining a community garden where art installations reflect the region's history excites me about future possibilities.",
+        "therapist": "As you envision projects that blend heritage and sustainability, you're inspiring connections that foster community identity. This journey elevates those who participate and strengthens relational bonds. What aspects of cultural storytelling through art installations would enrich participants' experiences?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Through art installations, participants might share personal stories and reflect on regional landmarks that hold personal significance. I envision our work sparking dialogue around legacy and sustainable future.",
+        "therapist": "Your vision beautifully acknowledges the significance of personal stories in shaping our collective identity. By intertwining art with community heritage, you invite others to reflect on their place in this shared journey. How might these conversations influence the way participants view their roles within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

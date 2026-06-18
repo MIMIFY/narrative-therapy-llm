@@ -1,0 +1,833 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi, how can I help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling a bit overwhelmed lately. There seems to be an endless loop of stress and anxiety around work, and it's starting to affect my sleep. I could really use some guidance on managing this.",
+        "therapist": "Feeling overwhelmed can be truly challenging. It seems like this cycle is impacting you deeply. Let's explore how you've managed these feelings in the past and see if we can reframe your narrative into one where you feel more in control and at peace."
+    },
+    {
+        "round": 2,
+        "user": "I am having problems because I need money and the only jobs I can find are outside of the hours I need to work and I'm having anxiety",
+        "answer_final": "Oh, that is anxiety-provoking.... How long have you b\neen searching?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've tried managing before by organizing my time better, but the stress over finances gets to me. It's hard finding jobs that fit my availability, and it's causing anxiety.",
+        "therapist": "Managing both time and finances can indeed feel overwhelming. Let's consider how you might rewrite your story to recognize moments of resilience and creativity in dealing with job challenges. What small change would reflect progress toward easing this stress?"
+    },
+    {
+        "round": 3,
+        "user": "Yes, I called a staffing agency and they matched me with a job but I will still be coming home late. So I am trying to put in applications elsewhere as wlel. Well*",
+        "answer_final": "It's great that you are putting out applications elsewhere as well!. What makes you anxious about coming home late?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've taken a proactive step by reaching out to a staffing agency, and they've matched me with a job. However, coming home late remains an issue. I'm applying elsewhere for better options.",
+        "therapist": "Reaching out to a staffing agency is a commendable step forward. Navigating late hours can be tough; your proactive approach to applying for better options shows resilience. What shifts in perspective or actions could further alleviate the impact of these late nights on your life?"
+    },
+    {
+        "round": 4,
+        "user": "I am walking",
+        "answer_final": "Oh I understand. Have you thought about other ways to get back home besides walking?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Taking long walks has helped clear my mind, providing a fresh perspective. I realize how crucial it is to maintain some 'me time,' even on hectic days.",
+        "therapist": "Taking long walks truly embodies self-care, and prioritizing 'me time' shows great awareness. This new perspective seems valuable for managing stress. How might you further incorporate this insight into your daily routine to support your well-being even more?"
+    },
+    {
+        "round": 5,
+        "user": "Yes, trying to find a ride but the bus also stops going. Maybe I could call an Uber home",
+        "answer_final": "If that would help you ease your anxiety, I think it would be a good solution to consider!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Long walks are great, but transportation challenges at night complicate things. I'm considering using Uber to ensure I get home safely and maintain this valuable 'me time.'",
+        "therapist": "Making sure you can enjoy your 'me time' safely with Uber is a thoughtful choice. Your commitment to maintaining these walks shows strength. How else might you cultivate moments of peace and well-being despite transportation challenges?"
+    },
+    {
+        "round": 6,
+        "user": "I think the stress outside of the job is also contributing",
+        "answer_final": "What makes you anxious about walking home late?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The stress from job uncertainties definitely adds to my anxiety. It feels overwhelming, especially when juggling transport issues. Finding other calming activities could help ease this burden.",
+        "therapist": "Stress from job uncertainties and transport challenges can feel like they're overshadowing other parts of life. You're considering calming activities to counterbalance this burden, which is insightful. What calming activity could bring comfort and reduce anxiety in your daily routine?"
+    },
+    {
+        "round": 7,
+        "user": "Like I am having relationship issues, in a long distance relationship and I jsut came home and have been missing him and I am torn between the two states. Also just safety issues",
+        "answer_final": "Oh I understand about the safety issues, I too cannot stand walking alone at night",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm really trying to navigate all these stressors, including job issues and transport, but my relationship feels complicated too. I'm torn with long-distance challenges and miss him terribly. When I'm home, I feel stuck between these two states. Sometimes the safety concerns add another layer of anxiety.",
+        "therapist": "Navigating stress from job and transport while balancing relationship challenges can be incredibly overwhelming. Your efforts are commendable, and longing for connection shows your emotional depth. How can we further explore ways to foster peace amidst these complexities to support your journey toward calmness?"
+    },
+    {
+        "round": 8,
+        "user": "What do you do for safety?",
+        "answer_final": "How long have you been in this long-distance relationship?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I try to manage the anxiety with planned strategies. Safety concerns during my walks are dealt with carefully, using options like Uber or trusted alternatives. What methods have you found useful in similar situations?",
+        "therapist": "You’re navigating anxiety with thoughtful planning, using safe alternatives like Uber is very wise. Your proactive approach in prioritizing safety is commendable. How might these strategies help to deepen your sense of security in balancing other stressors?"
+    },
+    {
+        "round": 9,
+        "user": "Two months but we've known each other way longer than that",
+        "answer_final": "I try to avoid walking and either ask someone to come and get me, or take an Uber or the bus or my own car!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been with my partner for two months, although we've known each other much longer. Knowing someone deeply aids in addressing anxieties, but balancing long-distance makes it challenging.",
+        "therapist": "Balancing a long-distance relationship can be challenging, but your deep connection is a valuable source of comfort. It’s inspiring how you're nurturing this bond despite the distance. What qualities in your relationship help strengthen your sense of support and understanding during these times?"
+    },
+    {
+        "round": 10,
+        "user": "I think the Uber is a good idea. I don't have many friends who would be up at midnight for the ride or be open to it.",
+        "answer_final": "That's good to consider! I think that if money is an issue right now, it will become easier as you get your paychecks and will feel less guilty about Ubering home. For your relationship, you've known this person for a long time before you got together?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Our trust and communication really help bridge the gap. On nights when I feel alone or anxious, taking an Uber seems like my best option since late-night rides with friends aren't always available.",
+        "therapist": "Your trust and communication truly act as anchors during these times, offering you comfort. Utilizing Uber for safe transport is a smart choice, considering your circumstances. How can maintaining these elements further strengthen your emotional well-being amidst long-distance challenges?"
+    },
+    {
+        "round": 11,
+        "user": "I don't feel too guilty about the Uber, mostly worried about affording it to be honest. Yeah we went to middle school together",
+        "answer_final": "I'm sorry, that's what I meant, affording it (language issues my bad)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's reassuring to know safety is prioritized, but the cost of Uber does worry me. We have history from middle school, which grounds our relationship and helps ease long-distance stress.",
+        "therapist": "The costs of Uber are a valid concern, yet your history with your partner provides deep comfort amidst these stresses. Trust in this grounding connection can be an anchor for you. What other ways can you find to balance safety and financial comfort?"
+    },
+    {
+        "round": 12,
+        "user": "Oh it's okay my bad!",
+        "answer_final": "Ok so you've known him for a long time, you two feel comfortable with communicating your feelings and worries together?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's challenging managing Uber costs with safety, but I'll explore budget-friendly options. Our history provides comfort, so maybe discussing new ideas with my partner could help.",
+        "therapist": "Exploring budget-friendly options is a smart step in prioritizing both safety and financial comfort. Your idea to discuss new strategies with your partner reflects strength in your communication, a cornerstone of your bond. What role does creativity play as you both navigate these challenges together?"
+    },
+    {
+        "round": 13,
+        "user": "Yes",
+        "answer_final": "Ok that's great! Do you want to tell me more about the issues you are experiencing with him so we can understand a bit more the root of the stress?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Creativity plays a significant role. Together, we can brainstorm solutions like setting up scheduled calls or virtual date nights. It's comforting to transform challenges into shared adventures.",
+        "therapist": "Together, you're turning distance into a shared adventure, which demonstrates your creativity and resilience. Scheduled calls and virtual date nights can strengthen your bond further. How else might these shared adventures enhance your trust and connection?"
+    },
+    {
+        "round": 14,
+        "user": "Well mostly he'shaving problems affording rent too and I can't help him much and it sucks that I can't help him ata ll",
+        "answer_final": "Ah, i get it. So what I'm understanding from this is that you feel helpless in this situation and that's what's making you anxious?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "These adventures do enhance our bond, but it's hard knowing he's struggling with rent. It feels tough not being able to support him more financially, yet we keep finding ways to stay connected.",
+        "therapist": "You demonstrate resourcefulness in nurturing your connection despite financial concerns. Discussing and planning together offers emotional support amid rent struggles. How might these shared ideas strengthen your resilience during challenging times?"
+    },
+    {
+        "round": 15,
+        "user": "Yes",
+        "answer_final": "Can you tell me a little more about how this feeling of helplessness is affecting you personally?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely, these shared plans give us a sense of hope and control. Despite feeling helpless sometimes with the rent issue, discussing creative solutions brings us closer together.",
+        "therapist": "Finding hope and control through shared plans helps to face challenges together. Naming the rent struggle separately allows room to see its effects without defining your relationship by it. In what ways has this awareness strengthened your connection with each other?"
+    },
+    {
+        "round": 16,
+        "user": "It makes me feel sad and lost. I'm afraid he's going to lose his apartment",
+        "answer_final": "Does it bring back memories of another time where you felt helpless or is this the first time you're feelling this way?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Recognizing the rent issue separately helps me cope, but I'm still worried about his apartment. Yet, sharing these fears openly with him brings us closer and offers comfort.",
+        "therapist": "Recognizing and discussing these fears truly deepens your connection. This openness and comfort in sharing vulnerabilities highlight the strength of your partnership. How do these conversations impact your feelings about future challenges together?"
+    },
+    {
+        "round": 17,
+        "user": "No it doesn't",
+        "answer_final": "Ok, so from what I understand is that this is the first time you've felt this and you are lost because you don't know how to act and react to this",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It does deepen our connection in many ways, but sometimes it's hard to see how it affects future challenges. I still worry about the financial pressure.",
+        "therapist": "Sharing your worries and deepening your connection can empower you. Considering how creativity has supported past challenges, how might these moments of unity provide insight into navigating future pressures together?"
+    },
+    {
+        "round": 18,
+        "user": "Yes. I helped him financially a lot but I'm at my end too now",
+        "answer_final": "Were you the one that offered to help in the first place?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I realize our unity helps, yet I'm at a financial limit now. Supporting him before strained my resources. Exploring creative solutions may guide us through similar struggles ahead.",
+        "therapist": "Unity remains a crucial ally as you navigate financial strain. This awareness of your limit emphasizes the importance of setting boundaries. How might you redefine this issue to ensure that creative solutions bolster your resilience while respecting your financial capacity?"
+    },
+    {
+        "round": 19,
+        "user": "Yes",
+        "answer_final": "Well, I think it is very considerate of you to help him financially, but do you feel that this has put an enormous amount of strain and pressure on yourself as well?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Redefining boundaries seems crucial right now. By setting financial limits while exploring creative solutions, I can support him without feeling overwhelmed, helping us find balance.",
+        "therapist": "Recognizing the need for financial boundaries while exploring creative solutions reflects a strong step toward maintaining balance. Embracing this approach can ease overwhelm and enhance emotional safety for both of you. How does this idea of balance influence your view of personal and relational growth?"
+    },
+    {
+        "round": 20,
+        "user": "No, not really I mean if I had more I would give him everything I could that wouldn't leave me financially behind",
+        "answer_final": "Oh okay, so you wouldn't say that you're looking for a job to continue helping him financially?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing balance makes sense. If my financial capacity allowed, I'd give generously. Now, focusing on creative solutions keeps me aligned with our relationship and personal growth.",
+        "therapist": "Embracing balance and seeking creative solutions highlight your dedication to personal and relational growth. This approach can maintain your well-being while contributing meaningfully. How does the idea of prioritizing these balanced strategies influence your sense of security in this journey?"
+    },
+    {
+        "round": 21,
+        "user": "No I wouldn't. I want it to help support me.",
+        "answer_final": "Ok that's good to hear!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I believe prioritizing these strategies helps bolster my sense of security. It's about finding ways that support us both while respecting my needs, and it brings clarity.",
+        "therapist": "Finding strategies that respect your needs while supporting your relationship nurtures security and clarity. This focus on balance and growth strengthens your path forward, creating space for mutual well-being. How does embracing these insights influence your connection with yourself and those you care about?"
+    },
+    {
+        "round": 22,
+        "user": "Yeah, I just want to be able to have my own stuff again. I've been relying on doing surveys online.",
+        "answer_final": "From what I'm understanding, you're not only feeling anxious and pressure in your own personal life but you're heart is also wherever he is right now and living whatever stress and pressure he is living as well, and that is putting yourself in a very anxiety-provoking position",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing these insights makes me feel more connected to my goals and those I care about. However, financially, it's tough. I've been doing online surveys just to have some independence again.",
+        "therapist": "Finding creative ways to support your independence, like doing surveys, showcases resilience and commitment to your goals. Your efforts during financial challenges are commendable. How do you see this growing connection with your goals influencing your future steps?"
+    },
+    {
+        "round": 23,
+        "user": "Yes",
+        "answer_final": "I understand that, especially given the current pandemic situation, it isn't easy at all",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the recognition. It feels encouraging. My future steps will likely focus on sustainable financial practices, ensuring I maintain both independence and a healthy relationship dynamic.",
+        "therapist": "Recognizing your intention to focus on sustainable practices while balancing independence and relationships is a powerful step. This path can provide both security and fulfillment. How does this focus align with your broader vision for the future?"
+    },
+    {
+        "round": 24,
+        "user": "Also being far away from him sucks",
+        "answer_final": "Are you guys FaceTiming or communicating at all other than by texts?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "This focus aligns with my broader vision for stability and growth, but being far away from him feels lonely. It's challenging to navigate this distance while pursuing independence.",
+        "therapist": "Recognizing your feelings of loneliness amidst the pursuit of independence shows remarkable self-awareness. Embracing both stability and growth while navigating this distance is commendable. How do you envision maintaining your connections and achieving personal goals simultaneously?"
+    },
+    {
+        "round": 25,
+        "user": "You are being very helpful by the way thank you. We aren't FaceTiming. I just left his apartment this weekend though and have been upset about it.",
+        "answer_final": "I'm trying my best, thank you for the input!. Upset about leaving the apartment?. Or was there something else that happened that weekend?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your acknowledgment means a lot; it lifts my spirits. While I strive to balance independence and emotional connection, leaving his apartment felt bittersweet. We've paused FaceTiming recently, making me feel quite upset.",
+        "therapist": "Your bittersweet feelings and sense of disconnection are deeply valid. This journey to balance is not without its challenges. In what ways might you foster this connection with him, even during pauses in your routine?"
+    },
+    {
+        "round": 26,
+        "user": "Just leaving him",
+        "answer_final": "Have you guys thought about scheduling date nights through FaceTime?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Leaving him behind was hard. I miss our connection and am considering reaching out, maybe sharing updates about my journey to keep our bond intact.",
+        "therapist": "Missing that connection is understandable and sharing updates could be a meaningful way to nurture it. As you consider reaching out, what aspects of your journey would you feel comfortable sharing with him to reinforce your bond?"
+    },
+    {
+        "round": 27,
+        "user": "I think he would but he hasn't been feeling really good about his appearance lately. I asked and that's what he told me",
+        "answer_final": "I understand that completely, I can relate a lot",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sharing updates seems essential to reinforce our bond, but he’s been self-conscious about his appearance. Knowing this, I wonder how I can best support him and maintain open communication.",
+        "therapist": "Maintaining open communication shows your genuine care and desire to support him. Offering encouragement about things beyond appearance might help reassure him. How does embracing this mutual openness fit with the kind of connection you want to sustain?"
+    },
+    {
+        "round": 28,
+        "user": "Same",
+        "answer_final": "If it makes any difference, my partner and I have been doing date nights where we would dress up, put make up on and do our hair and everything as if we were going to the restaurant, and even if it is through Facetime or whenever we see each other in real life, it helps not only with our own self-esteem but also our relationship",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing openness sounds right. I value our connection beyond appearances and feel encouraged to focus on deeper aspects. Perhaps sharing updates could keep us emotionally aligned.",
+        "therapist": "Openness truly enriches your connection, offering a deeper, more meaningful bond. Your intention to share updates can indeed nurture that alignment. How do you feel about taking this step forward and exploring what aspects of your journey you'd like to share with him?"
+    },
+    {
+        "round": 29,
+        "user": "That is very cute",
+        "answer_final": "Maybe you could open the discussion with your boyfriend, tell him that you have a date planned over Facetime and you want him to order his favorite dinner, take a shower, do his hair and dress up real nice",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Openness is such a wonderful idea, and it's comforting to know I can nurture our connection by sharing updates. I'm excited to share specific moments that show my progress and challenges.",
+        "therapist": "Openness indeed nurtures your connection, fostering a space for genuine sharing. Embrace this opportunity to share moments of growth and challenges. How does it feel envisioning this strengthened bond through deeper exchanges?"
+    },
+    {
+        "round": 30,
+        "user": "I don't know if he would be open to that but I could try. He isn't really the romantic type",
+        "answer_final": "You have been friends for a long time before getting together, you guys are comfortable with each other, right?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm willing to try, although he's not usually the romantic type. Envisioning this deeper connection gives me hope that he'll be receptive to these more meaningful exchanges.",
+        "therapist": "Building on that hope, nurturing this deeper connection can encourage more meaningful exchanges. Your willingness is a great foundation for exploring how to engage him in those moments, even if romance isn’t his focus. What aspects do you think might resonate most with him?"
+    },
+    {
+        "round": 31,
+        "user": "Yes",
+        "answer_final": "Okay well you do know him more than I do haha, so what would be his ideal date night?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think showing appreciation for his achievements and having open discussions about our goals might resonate with him. It’s important for us to feel valued beyond physical appearances.",
+        "therapist": "Appreciation and goal-oriented discussions can indeed strengthen your bond. Valuing each other beyond appearances cultivates deeper understanding. How might expressing this value enhance the emotional connection you both share?"
+    },
+    {
+        "round": 32,
+        "user": "Probably just being at home",
+        "answer_final": "Hm okay, well I'm sure that if you do propose and organize something for him, even if it is not his favorite thing to do, if he sees that it would make you happy, he will at least consider it don't you think?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sharing experiences at home often brings comfort and relaxation, a great setting to express appreciation for achievements and explore future goals in a calm atmosphere.",
+        "therapist": "Sharing in the comfort of home can truly enhance your connection. This setting offers a peaceful space to celebrate achievements and envision future goals. How might these conversations at home shape the trust and understanding between you both?"
+    },
+    {
+        "round": 33,
+        "user": "Yeah probably. Things are hard right now though",
+        "answer_final": "In other ways than financially ?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Envisioning deeper conversations at home gives me hope, although it's hard now. These talks could help rebuild trust and understanding by showing we value each other deeply.",
+        "therapist": "Embracing hope amidst the challenge reveals your dedication to nurturing this connection. Creating space for these conversations can indeed foster trust and mutual understanding. What small steps might you take now to support this deeper dialogue at home?"
+    },
+    {
+        "round": 34,
+        "user": "The financial things make things emotionally hard. I am one of the only people he has in his corner right now",
+        "answer_final": "Oh I'm sorry to hear that... it must be difficult for you to be in this position, I understand the stress and pressure. Is the pandemic the reason he is having also financial difficulties at the moment?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Addressing the financial stresses could ease some emotional burdens, making conversations smoother. Being a key support in his life, I want to encourage openness and understanding.",
+        "therapist": "Financial stress can indeed be a significant hurdle. Your intent to encourage openness and understanding speaks to your deep care and commitment. How do you envision introducing these conversations in a supportive way that strengthens the bond you share?"
+    },
+    {
+        "round": 35,
+        "user": "Yes sort of. He was let go cause of covid",
+        "answer_final": "I'm sorry to hear that. Has he also been in the search for another job?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "His job loss due to COVID was tough for both of us. I'd start conversations gently, focusing on our shared goals and supporting each other through this.",
+        "therapist": "Acknowledging the impact of the job loss reflects your empathy and desire for mutual support. Focusing on shared goals can foster resilience and understanding. How might you create an environment that nurtures these important conversations gently?"
+    },
+    {
+        "round": 36,
+        "user": "Yes he's trying unemployment",
+        "answer_final": "I'm confused he isn't trying to find a job?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, he's trying unemployment support to ease the financial strain. This gives us some relief and allows us to focus more on creating a positive atmosphere at home.",
+        "therapist": "Relief through unemployment support is a step forward. Your focus on fostering a positive home environment shows strength and determination. How might you both further nurture this atmosphere to strengthen your connection during these challenging times?"
+    },
+    {
+        "round": 37,
+        "user": "Unemployment helps you find jobs and pays you while you do it here",
+        "answer_final": "Oh okay I didn't know that thanks!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The unemployment support is indeed helpful, as it provides some financial stability and job-seeking assistance. This gives us room to focus on fostering a supportive and loving environment at home.",
+        "therapist": "Your focus on creating a supportive and loving environment highlights your strength and adaptability. With the financial stability you're gaining, what positive changes do you see unfolding in your relationship?"
+    },
+    {
+        "round": 38,
+        "client": "Having stability allows us to plan for the future. We've started discussing our dreams and setting realistic goals, which brings hope and a renewed sense of partnership.",
+        "therapist": "By focusing on your dreams and setting goals together, you're truly strengthening your partnership. Who are some influential people who've shaped the values driving these new plans and visions for your future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 39,
+        "client": "We've been inspired by my grandmother's resilience and hard work. Her journey of starting from nothing, building a loving home, reminds us that tough times can lead to strength.",
+        "therapist": "Your grandmother's journey is truly inspiring and adds depth to your story. Seeing yourself through her eyes of resilience, how might you integrate her strength into your life as you continue this journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 40,
+        "client": "By setting small, achievable goals like she did, I feel more motivated. I remember her organizing everything meticulously and working patiently towards each milestone, which inspires me to stay focused.",
+        "therapist": "Your approach in setting small, achievable goals is commendable and reflects your grandmother’s legacy. Recognizing how this has inspired focus and motivation not only honors her memory but also strengthens your own identity. How might this focus on meticulous organization shape your plans for the future?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "Organizing everything thoroughly helps me map out clear steps for each goal, like saving monthly for a small trip to recharge and reconnect with my partner. It fosters a sense of achievement and anticipation, making life seem more manageable and filled with purpose.",
+        "therapist": "You embody your grandmother's spirit by taking thoughtful steps towards meaningful goals, reinforcing your value within your partnership. Your commitment enriches the lives around you, shaping both future plans and connections. In what ways might this sense of purpose also influence those you care about?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "I notice my dedication to setting and achieving goals boosts morale among family and friends. It offers encouragement when things get tough, promoting resilience in our small community.",
+        "therapist": "Your actions are vital in nurturing resilience within your community, adding depth to everyone's story. Seeing yourself through the eyes of those you encourage, how do their successes reflect and expand your own understanding of resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I see their successes as proof of perseverance, even during setbacks. It reinforces the idea that strength can evolve from vulnerability, a reminder to keep moving forward despite obstacles.",
+        "therapist": "As you see strength emerging from vulnerability, it reveals the powerful interconnectedness of your identity and theirs. This shared resilience builds a rich tapestry of mutual empowerment. Embracing this, what new stories are unfolding within your relationships that highlight this evolving identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Recently, my friend took on a difficult project and triumphed. Watching her tackle challenges mirrored my own struggles, encouraging me to embrace vulnerability as part of growth.",
+        "therapist": "Reflecting on your friend's triumph highlights your own ability to navigate challenges, reinforcing the strength of vulnerability in personal growth. Your influence promotes courage and a nurturing environment for those around you. How does recognizing these shared achievements shape your view of yourself within this supportive network?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "Recognizing shared achievements deepens my sense of belonging and purpose within the network. A friend's triumphant project highlighted our collective growth, inspiring me to pursue challenging goals courageously.",
+        "therapist": "Your recognition of shared achievements within your community deepens not just your identity but also reinforces the courage among those you connect with. This interconnected growth fuels both individual and collective journeys. How might your own bravery encourage others to embrace new challenges in their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "My bravery tends to spark a ripple effect, like when I recently initiated a group hiking challenge. Watching each of us overcome fears inspired more friends to venture into their own adventures. It's heartening to witness how encouragement grows from shared experiences.",
+        "therapist": "Your courage sets an inspiring tone for your group, nurturing a supportive community where everyone grows. Reflecting on how your influence cultivates new experiences, consider how witnessing others' journeys might further shape your understanding of your role within these vibrant relationships.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Seeing my friends embrace new challenges has shown me the power of vulnerability and courage in fostering growth. It inspires reflection on my ability to lead with authenticity.",
+        "therapist": "Reflecting on your authenticity and leadership role shows how significantly you've impacted your friends' lives. As you continue to lead by example, consider how their own growth, inspired by your encouragement, in turn enriches and reaffirms your shared journey.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Witnessing their growth is truly rewarding. During a recent group meet-up, they shared their personal breakthroughs, which reminded me of my potential and reignited my passion to strive for more.",
+        "therapist": "Their breakthroughs not only affirm your own journey but highlight your role in their evolution. This relational identity emerges from shared achievements. How might this recognition further refine the values that guide you as a leader and inspire new paths for both you and them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Reflecting on this recognition, I feel a sense of responsibility to nurture these values. It inspires me to initiate regular group dialogues about personal goals, supporting each other's journeys.",
+        "therapist": "Your commitment to nurturing these values through group dialogues strengthens bonds and fosters a sense of community. This act of leadership enhances your own growth as well. How do you perceive the evolving mutual influences between yourself and your friends as you continue these discussions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "I've noticed our interactions have become more authentic and supportive. Recently, a friend shared overcoming a personal challenge, deepening trust among us. It encourages vulnerability and continuous mutual growth.",
+        "therapist": "Building deeper trust has enriched your group dynamics, allowing vulnerability to strengthen connections. Your supportive presence seems pivotal in shaping these positive interactions. Reflecting on this, how might acknowledging your impact continue to inspire others within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

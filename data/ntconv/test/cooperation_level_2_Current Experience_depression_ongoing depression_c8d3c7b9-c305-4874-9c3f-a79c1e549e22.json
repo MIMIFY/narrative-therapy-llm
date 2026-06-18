@@ -1,0 +1,485 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hi, how are you doing?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, I’m feeling a bit overwhelmed today. There's been a lot going on in my life lately and it's all piling up.",
+        "therapist": "You’re navigating quite a lot right now, and that can be challenging. This space is yours to explore those feelings freely. What’s one thing on your mind that might bring some clarity or relief as you express it?"
+    },
+    {
+        "round": 2,
+        "user": "I am not doing well. I am feeling very depressed due to work load and current household situation",
+        "answer_final": "I'm sorry to hear that. Would you like to talk about it?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think the work pressure is exhausting me emotionally, and balancing that with family issues feels overwhelming. I hope sharing might offer some relief.",
+        "therapist": "Sharing your experiences can indeed be freeing and may provide a new perspective. Let's delve into how these stories might reshape the way you view your challenges. Is there an aspect you’d like to explore further for some clarity or relief?"
+    },
+    {
+        "round": 3,
+        "user": "Yes, due to COVID life is messed up. Work load has increase and more responsibility of household.",
+        "answer_final": "COVID has really changed a lot of stuff. I understand your frustration. Has your work increased because of COVID conditions. Meaning you have to take extra work, or doing tasks that you dislike to do?. If you don't feel comfortable elaborating, we can always talk about how you feel and how you can maybe feel a bit better.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely. The pandemic really disrupted life and added more responsibilities at work and home. It feels relentless balancing all of it daily.",
+        "therapist": "Recognizing the weight of these responsibilities can be a first step toward understanding your resilience. What changes might help ease this balance? Let’s explore ways to navigate this challenging narrative together."
+    },
+    {
+        "round": 4,
+        "user": "Due to the furlough Company has increased my my work load three times. I am not able to take rest. Getting depressed everday.",
+        "answer_final": "That sounds really bad. I once worked in a company that placed unnecessary pressure on me, with a low pay. I can relate to how you feel. Do you have to depend on this company for work?. Sometimes it's really not worth working somewhere if it's really affecting your mental health.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The increased workload due to furloughs makes rest impossible, escalating my daily stress. I'm struggling with maintaining balance and would appreciate insights on managing this better.",
+        "therapist": "Balancing increased responsibilities is incredibly challenging and can feel relentless. Acknowledging this, what small shifts might offer relief or help create space for rest? Your insights matter here; they can guide us toward meaningful changes in your narrative."
+    },
+    {
+        "round": 5,
+        "user": "They are paying me well but It is hard to take the load beside I have family and kids responsibility. I don't have time for them.",
+        "answer_final": "I understand. But I want you to think about this. Your mental health is more important right now because it is affecting you. And how you feel really affects those around you, especially the ones who love you. If you take some time to think about what is more important to you in life right now can help you make a decision.. Working so hard can be a barrier right now. But you may have a bright future plan ahead. If so, that is something you want to look forward to.. I know what you are doing is really helping your family. And I know they really appreciate it, even if they don't say it.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful for the financial stability my job provides, but juggling work with family demands is wearing me down. Finding time for my kids feels nearly impossible. Perhaps small changes could ease this balance and create much-needed space.",
+        "therapist": "You're expressing gratitude for financial stability while feeling overwhelmed by demands. Exploring small changes can be empowering. Are there routines or priorities that might support connecting more with your family, easing your daily balance?"
+    },
+    {
+        "round": 6,
+        "user": "I can understand that. But my job is really important right now as my partner lost his in COVID. and he is not doing anything right now not even helping at home. It makes me more low and it is hard to take care of 3  younger kids who are staying at home full time.",
+        "answer_final": "Ok, I understand better now. Thank you for explaining. What you are telling should to be something you need to discuss with your partner. Do both of you communicate well with each other? Maybe he is not aware of your situation or how you feel.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I see your point. Right now, my job feels indispensable, especially since my partner lost his job during COVID and isn’t contributing at home. It's daunting managing our three young children who are always around.",
+        "therapist": "Balancing work and family in this situation truly challenges your resilience. Recognizing your role's importance and the pressures it brings, how can you find pockets of time or strategies to connect with your children, easing the emotional strain?"
+    },
+    {
+        "round": 7,
+        "user": "Nowadays he is so frustrated doesn't like to talk even. Whenever I bring household responsibilities or kids topic, he gets frustrated.",
+        "answer_final": "Oh no. I can see from his part he feels upset and frustrated because he may feel useless at the moment. But that's not an excuse to neglect responsibilities. You can maybe make him feel more useful around the house by starting to assign him small tasks. Encouraging him to do stuff and rewarding him with words of encouragement. I know it sounds kind of frustrating to do that, but maybe this small step on your half could also help him.. Do you have any family member that are close to you? If your partner isn't helpful, maybe seeking help from family can reduce your housework load.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I try to find moments with the kids, but my partner's frustration is adding to the challenge. He's withdrawn, avoiding discussions about household responsibilities. It's becoming emotionally draining.",
+        "therapist": "Balancing your role and the emotional dynamics with your partner can indeed be draining. Recognizing this, how might we explore small actions to invite more open communication or moments of connection that nourish you during these challenging times?"
+    },
+    {
+        "round": 8,
+        "user": "Nobody lives near by. Kids are to young to understand. I felt bit good after talking to you. Thanks",
+        "answer_final": "I'm sorry if this did not help the situation. But I'm always glad to listen if you want to talk more.. It's a really tough situation, but you're a really strong individual. You've made it this far : )",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling isolated without nearby family and my kids are too young to grasp the situation. Talking helps, though; I appreciate your support as we work through this.",
+        "therapist": "Talking can be a powerful source of connection and relief, especially in isolation. How might these conversations spark small changes that nurture your sense of community and help support the balance you seek with your children?"
+    },
+    {
+        "round": 9,
+        "user": "Talking to you made me feel good. Thanks for listening to me. I am feeling light now. You are agreat help. Thank you so much. Hope all will come back on place soon",
+        "answer_final": "No problem. I really wish you the best and I hope everything works out!. Crossing my fingers COVID ends soon.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Talking truly does lift my mood; it opens up possibilities. Your support helps me feel lighter, encouraging a shift toward positive changes and hope for balancing life soon.",
+        "therapist": "Your openness is a strength and it's heartening to see how conversation brings lightness. How might we use this momentum to further support your journey towards balance and infuse hope into everyday routines?"
+    },
+    {
+        "round": 10,
+        "client": "Thank you for acknowledging my openness. I plan to introduce morning walks with the kids; it might boost energy and foster connection. Your guidance brings me hope for a better balance.",
+        "therapist": "Morning walks with your children can indeed be a nurturing step forward. Let's consider what energy this activity, when distanced from any daily frustrations, could bring to you and your family dynamic as you continue seeking balance. What might this routine symbolize for you in terms of reclaiming space?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 11,
+        "client": "Morning walks could symbolize reclaiming some peace and control amidst chaos. They might allow me to breathe, unwind, and strengthen my bond with the kids away from home stressors.",
+        "therapist": "Exploring walks as a space of peace and connection marks a hopeful shift. In mapping this transition, how might \"chaos\" in your life become less dominant when you foster these moments with your children?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 12,
+        "client": "These walks could offer a brief respite from the stress at home, creating peaceful memories. My mind feels clearer thinking about calm moments spent exploring nature and sharing simple joys with my kids.",
+        "therapist": "Walking as a reprieve from stress represents a valuable step. By valuing these tranquil moments, what potential changes might you imagine occurring within your family dynamic and personal outlook when this calmness begins to take root more regularly?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "These moments might nurture a sense of unity and groundedness. Experiencing nature's calm might ease my anxiety, enabling me to communicate more patiently with the kids, fostering better connections.",
+        "therapist": "Experiencing calm through nature reflects your value for peace and meaningful connection. Let's focus on nurturing this awareness. How can we continue externalizing stress to ensure it doesn't undermine these valuable moments of unity with your kids?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "I've been journaling about my stressors. It helps separate feelings from reality, allowing me to return home more centered and ready to embrace those precious moments with the kids.",
+        "therapist": "Journaling is a powerful tool for externalizing and understanding stress. By naming and assessing these stressors, you're creating space for cherished moments with your kids. How does this newfound awareness align with your hopes for family unity and personal peace?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "My awareness aligns with hopes for unity by centering me; when calm, I'm more patient. Journaling eases my worry, helping me be present and intentional during family time.",
+        "therapist": "Your dedication to centering aligns beautifully with your family values. Journaling creates a space for clarity, affirming your ability to remain present. In embracing these practices, how might you protect this newfound presence, ensuring it enriches your connection with your children?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I'll set aside a specific time each day to reflect, possibly during evening tea. Noticing shifts in my patience and affection after a quiet moment gives me hope.",
+        "therapist": "Evening tea reflection sounds enriching for nurturing patience and affection. With hope igniting these moments, what core values are you committing to strengthen as you externalize stress, affirming their significance in shaping a loving family environment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Family harmony, patience, and empathy guide me. After tea reflection, I notice calmer discussions at dinner. Witnessing the kids respond with warmth and openness motivates this commitment.",
+        "therapist": "Family harmony, patience, and empathy resonate deeply within you, creating warmth. As you name stress separately through reflection, how might these values further empower your interactions with the kids to foster lasting peace?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "My patience and empathy enhance the evening routine, leading to more open conversations. The kids feel heard and appreciated, creating a joyful environment where we all share daily experiences.",
+        "therapist": "Empathy and patience create that joyful environment you cherish, validating your family values. As stress is externalized, this harmony gains strength. How might deepening these qualities further embody the essence of family unity in your daily interactions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "During dinner, listening intently to the kids’ stories strengthens our bond. Practicing patience helps me manage my frustrations constructively, while empathy inspires me to understand their needs.",
+        "therapist": "Empathy and patience are powerful forces in shaping family bonds. By externalizing stress, you're nurturing a space for these qualities to thrive. Consider what naming frustrations can bring to this nurturing process, strengthening your commitment to harmony and understanding with your children.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "As I name frustrations during quiet reflection, I'm reminded of a time last week when my patience allowed me to calmly address a school issue with my son. This helped him feel supported.",
+        "therapist": "By externalizing frustrations, you beautifully support your son, letting patience guide interactions. This empowerment through empathy affirms your values. Considering this transformation, how might naming these frustrations continue shaping a supportive and nurturing environment for both you and your family?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 21,
+        "client": "Reflecting on frustrations brings clarity, allowing me to adjust my approach. Last night, focusing on empathy helped me listen rather than react when my daughter expressed worries.",
+        "therapist": "Your choice to listen, fostering empathy during your daughter's worries, shows strength and wisdom in these unique outcomes. By viewing frustrations as opportunities for clarity, how does this new narrative shape your role in promoting peace and understanding in your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I feel more empowered to support my family. Recently, empathy helped me console my daughter about friendship struggles, encouraging open dialogue. Seeing her relief was fulfilling.",
+        "therapist": "Empathy is deeply woven into your sense of empowerment, guiding you to support your daughter through challenges. This fulfilling connection with her highlights the powerful commitment to family values. How does this evolving identity as a compassionate supporter enrich your family's story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Embracing empathy lets me address challenges more effectively. Like guiding my daughter through her friendship struggles, I'm becoming a pillar of trust and warmth in our family narrative.",
+        "therapist": "Your evolving role as a pillar of trust and warmth inspires an empowering narrative within your family. How might exploring new ways to express this empathy further shape your family's cherished story of support and understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Finding new ways to express empathy could involve more family rituals like regular check-ins. It might also mean sharing personal stories, helping everyone feel understood and less alone.",
+        "therapist": "Empowering your family's narrative through new rituals fosters connection and mutual understanding. Sharing stories deepens trust and belonging. In considering these possibilities, what role might creativity play in nurturing an empathetic, supportive atmosphere within your family's evolving story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Creativity can transform routines into bonding moments. Like crafting family stories together or a photo journal capturing our joys and challenges, we foster intimacy while appreciating our unique experiences.",
+        "therapist": "Crafting stories and capturing shared experiences indeed enrich the family's narrative, showcasing your commitment to connection. How might these creative expressions further embody the values and intentions you hold dear for your family’s identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "By celebrating small victories, like weekly family dinners where we share highs and lows, these practices reinforce our values of trust, love, and resilience in embracing life's ups and downs.",
+        "therapist": "Your practice of sharing joys and challenges at family dinners truly embodies the values you cherish. This commitment nurtures trust, love, and resilience. What further intentions might this atmosphere invite into your evolving family narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "This atmosphere invites us to explore gratitude, encouraging us to notice and appreciate the everyday moments. I feel gratefulness builds stronger connections, grounding our family in meaningful togetherness.",
+        "therapist": "Exploring gratitude shapes your family's identity with deeper bonds and togetherness, fostering genuine connection. How does nurturing this atmosphere transform how you envision your role within the family narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Nurturing gratitude helps me see my role as a guide, not just a provider. It lets me appreciate small moments, like when my daughter shared her drawing proudly.",
+        "therapist": "Recognizing yourself as a guide enriches your family’s narrative with care and insight. Embracing gratitude in moments like your daughter's drawing strengthens these bonds. How does this expanded view of your role align with the values you wish to instill in her?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "It aligns by fostering openness and resilience in her. When she shares proudly, it encourages me to show appreciation, helping her build confidence and a sense of belonging.",
+        "therapist": "Appreciating her sharing indeed nurtures confidence and belonging. In this space of openness and resilience, what other values might emerge to shape your family’s story, enhancing your role as a guide?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I sense empathy and patience growing. When my son confided his struggles with a friend, listening without judgment made him feel supported. It’s these heartfelt moments that fortify our connection.",
+        "therapist": "Your openness to listening and providing support creates a nurturing environment for growth and connection. As empathy and patience become key threads in your family story, what future actions might further enrich this narrative of support and understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Organizing regular one-on-one time with each child could deepen our connection. Reflecting on their experiences more deeply might create a space for them to feel truly understood.",
+        "therapist": "Exploring one-on-one time as a space for deeper connection beautifully reflects your guiding role. As you foster understanding, consider how each experience shared shapes this preferred story of support and mutual growth. What new actions might these interactions inspire in fostering their development?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think allowing them to choose activities might inspire self-expression. Seeing my son excited to try painting after sharing ideas makes me believe in their unfolding creativity.",
+        "therapist": "Your openness to fostering self-expression paves the way for your children’s creativity and growth. This choice strengthens your preferred identity as a supportive guide. How might this exploration of their interests further illuminate the values and commitments you hold dear within your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "By encouraging self-expression, I see the values of authenticity and empathy taking root. A recent moment when my daughter opened up about school challenges really highlighted our family's commitment to honesty.",
+        "therapist": "Your emphasis on authenticity and empathy supports a family culture rooted in honesty and self-expression. As these values intertwine with your family's story, what new understandings about your roles might emerge to guide future interactions and strengthen these connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I've realized being a listener is central to my role, embracing their individuality while gently guiding. Noticing joy in their shared achievements, I feel proud and hopeful for our future.",
+        "therapist": "Recognizing your role as a listener is empowering. This discovery enhances the joy in guiding your children's individual paths. How might you use these moments to cultivate their growth and further integrate hope into your family’s narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "Reflecting on each child's strengths and encouraging their interests will nurture growth. Recently, my daughter beamed with pride after sharing a poem she wrote; it fueled our shared hope.",
+        "therapist": "Embracing your children's strengths enriches their growth and reflects your values of encouragement and hope. Your daughter’s pride in sharing her poem is a testament to this nurturing environment. How might this influence future moments of connection, fostering deeper mutual understanding and shared aspirations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Her excitement encouraged me to share more about my interests, like journaling. I hope this mutual exchange fosters a space where we both feel valued and inspired.",
+        "therapist": "Sharing your journaling interest with your daughter deepens your connection, weaving mutual inspiration into your family narrative. Reflecting on these exchanges, how have both of you influenced each other's understanding of being valued and inspired through this shared journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Her enthusiasm for writing made me revisit my own creative passions, reminding us both of the value of expressing ourselves honestly. We learn to see each other’s perspectives more deeply.",
+        "therapist": "Your mutual encouragement nurtures a meaningful connection, reinforcing your bond through shared creativity. By revisiting these passions together, you're both enriching each other's lives and identities. How might this deeper understanding of perspectives inspire new ways of supporting one another’s journeys?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 38,
+        "client": "This understanding motivates us to create dedicated time for creative activities, like themed writing nights. Embracing each other's unique voice encourages deeper dialogue and strengthens our bond.",
+        "therapist": "Exploring themed writing nights and celebrating each other's voices shapes your family identity, enriching the dialogue. Recognizing these shared moments, how might you see yourself and your daughter contributing to who each other becomes through this supportive, creative journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 39,
+        "client": "As we dive into writing nights, I envision us unlocking new facets of creativity. Each story shared, like when she crafted a fantasy tale recently, deepens our understanding and growth.",
+        "therapist": "Your dedication to themed writing nights fosters mutual creativity and connection. Sharing stories nurtures relational identity, influencing your daughter's understanding and growth. How does her storytelling reflect your aspirations, affirming shared values and deepening family bonds?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Her stories often revolve around empathy and courage, echoing my own values. Seeing her weave these themes into tales affirms our shared principles, strengthening our connection and hope.",
+        "therapist": "Witnessing your daughter's empathy and courage through her tales is inspiring, affirming how deeply your values influence one another's identities. How might embracing this mutual inspiration guide future connections, allowing these shared principles to shape both of your creative expressions further?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I believe our connection will deepen as we create characters embodying these values. Recently, working on a story together felt like weaving a tapestry of shared dreams and aspirations.",
+        "therapist": "Embracing character creation together enriches your mutual understanding, crafting a vivid tapestry of dreams. This collaboration highlights how your presence and values help shape each other's narratives. In what ways might this creative partnership further evolve and deepen both of your identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Creating stories together sparks insights about our inner worlds. Recently, developing a character inspired by real struggles revealed new aspects of myself, promoting growth and a deeper bond with my daughter.",
+        "therapist": "As you explore character development together, you're nurturing mutual growth, highlighting how your daughter sees and enriches you. Her contributions deepen understanding of self and strengthen bonds. How might embracing this shared creativity further illuminate pathways for your joint growth and resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Embracing creativity with my daughter opens our communication, revealing vulnerabilities and courage. Recently, we tackled a difficult storyline together, allowing us to share fears and build resilience.",
+        "therapist": "By embracing creativity together, you've both illuminated strengths and vulnerabilities, nurturing resilience through shared stories. These experiences mutually shape your identities, deepening understanding and connection. What aspects of your daughter's presence do you see contributing to the courage you're discovering within yourself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Her creativity encourages me to confront challenges openly, allowing myself to be vulnerable and hopeful. I remember a late-night brainstorming session where we envisioned overcoming fears together.",
+        "therapist": "Your openness in facing challenges nurtures mutual courage, reflecting how you empower each other. As her creativity invigorates your resilience, consider the impact of these shared experiences on her developing strength and determination. How might these contributions enrich your identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "My daughter's strength shines when she tackles obstacles with grace. Her creativity guides me, revealing paths through fear. Recently, she helped brainstorm ways to express my challenges at work.",
+        "therapist": "Recognizing your daughter's influence unveils strengths you both foster in each other. Her creativity bolsters your journey through challenges, reflecting profound relational growth. How might this reciprocal empowerment continue to enhance your understanding of your own abilities and identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Her support reveals my strengths, helping me face work challenges with newfound confidence. It's like discovering hidden facets of myself; I'm evolving alongside her, embracing vulnerability and growth.",
+        "therapist": "Your connection illuminates shared paths of growth and mutual influence. Seeing yourself through your daughter's eyes reveals strengths and newfound confidence. How do you imagine this reciprocal dynamic continuing to shape your evolving identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I imagine us continuously inspiring each other. Recently, her confidence in school projects emboldened me to tackle work presentations fearlessly. It's enriching and empowers our identities together.",
+        "therapist": "Her confidence and creativity truly inspire transformation, reflecting shared growth and resilience. As this bond deepens, consider how your empowerment influences her unfolding identity, allowing mutual aspirations to flourish together.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Her creative determination often mirrors my own, fueling growth. She once suggested designing a school event collaboratively—this made me feel honored and invigorated, reflecting our shared aspirations.",
+        "therapist": "Your daughter’s initiative reflects how she sees your collaborative spirit, empowering both of you. This interaction strengthens your relational identity, underscoring mutual growth. How does seeing yourself through her eyes deepen your sense of purpose and influence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Seeing myself through her eyes helps me recognize my potential beyond limitations. Like when she suggested organizing a family game night, her faith in my capabilities sparked renewed motivation and a sense of belonging.",
+        "therapist": "Her faith in you highlights the impactful connections that shape both of your journeys. This nurtures a shared space of motivation and belonging. How do you see these interactions reinforcing your evolving narratives and influencing her view of herself?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "These interactions let us see each other's potential. Her creativity and ideas, like the family game night suggestion, make her more self-assured and me more aware of my own strengths.",
+        "therapist": "Her suggestions seem to enrich both your confidence and her sense of self, nurturing a space where growth thrives. How might this shared understanding continue to expand the richness of your relationship and mutual identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

@@ -1,0 +1,570 @@
+[
+    {
+        "round": 1,
+        "user": "Hello, how are you today?",
+        "answer_final": "Hi. How is life treating you at the moment? Would you like to talk about any problems?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello. I hope you're doing well. I've been feeling a bit overwhelmed lately, but talking helps. How are you?",
+        "therapist": "It's great you're open to sharing, that shows resilience. What's been feeling overwhelming for you recently?"
+    },
+    {
+        "round": 2,
+        "user": "Thank you! And it is good except for one problem. I am in college and my roommates for next semester do not care about COVID -- they continue to go out and party. This upsets me and I have talked to them about it but they still do not care.",
+        "answer_final": "So you feel that you are being put in danger by the actions of your room-mate?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for asking. The situation with my roommates is really stressful. They don't take COVID seriously, despite my concerns, and it's causing anxiety about safety next semester.",
+        "therapist": "Let's explore the 'COVID worry' and how it impacts your sense of safety. How do you wish to manage this stress? Identifying what feels most crucial might help shape a path toward greater security."
+    },
+    {
+        "round": 3,
+        "user": "Yes, absolutely. I do not want to get covid and am worried about long term health effects. I have shared this with them but they still do not care.",
+        "answer_final": "I can totally understand how you feel.  I absolutely hate how some people are pretending that the pandemic is not real and they do not need to worry.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've expressed my concerns, but it's as if they dismiss the potential long-term effects. It's distressing because safety feels compromised, and I’m struggling with managing these emotions.",
+        "therapist": "You're facing a lot with this situation, and it’s understandable to feel anxious when safety feels overlooked. Would exploring how you can reinforce your own sense of security at home be helpful?"
+    },
+    {
+        "round": 4,
+        "user": "Also, I am in a triple room in my sorority house for clarification. I feel my risk getting it in the room is high if they continue to not respect guidelines.",
+        "answer_final": "Do not worry, your fears are totally grounded. Some people really just need to grow up and get educated.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, exploring that sounds helpful. Living in a triple room at my sorority house makes me feel particularly vulnerable if they disregard safety guidelines.",
+        "therapist": "Feeling vulnerable in your home can be distressing. Let’s consider strategies that empower you to establish boundaries and communicate effectively with your roommates, honoring both your need for safety and communal living dynamics. How would it feel to visualize these changes?"
+    },
+    {
+        "round": 5,
+        "user": "I agree and appreciate that I am not alone in thinking that!. Many college students have been very irresponsible during the pandemic which is upsetting to me.",
+        "answer_final": "Is there anyone at your college who could help you with this? Perhaps move you into a single room?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Visualizing those changes gives me a sense of relief. Many students dismiss guidelines, which feels isolating for those of us trying to stay safe.",
+        "therapist": "Exploring the sense of relief you feel is important. Consider naming the stress as 'Safety Compromise,' separate from yourself. What would it look like to strengthen your boundaries against Safety Compromise and connect with others who share your concerns?"
+    },
+    {
+        "round": 6,
+        "user": "No, there aren't any sorority rooms available at my sorority house and all of the dorms/apartments are full already but I've tried. **single not sorority",
+        "answer_final": "Yes they certainly have. They seem to think that it will never happen to them and do not realise that they are putting others at risk",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I can't move out since all rooms are full, so I'm stuck addressing this Safety Compromise. Strengthening boundaries sounds necessary. Are there effective ways to communicate my concerns?",
+        "therapist": "Feeling stuck can be challenging, but focusing on communication can help. You might consider framing your concerns in terms of shared well-being, fostering collaboration. How does the idea of creating mutual understanding with your roommates resonate with you?"
+    },
+    {
+        "round": 7,
+        "user": "agreed",
+        "answer_final": "Is it possible for you to take some time off school?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree; fostering collaboration is crucial for shared well-being. Perhaps I can frame it as a collective responsibility, emphasizing that everyone’s actions impact the group.",
+        "therapist": "Collaboration is indeed vital for shared well-being. Emphasizing collective responsibility might open up constructive dialogue. How would you feel initiating a conversation focusing on group care and support?"
+    },
+    {
+        "round": 8,
+        "user": "I shouldn't do that -- I am applying to law school when I graduate so I feel like it'd be a bad look. it'd also be bad for my mental health to stay home, and I'd rather take the classes I need next semester",
+        "answer_final": "So you feel as though you are trapped .. you can't leave school but at the same time you are being put at risk through no fault of your own",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm actually quite invested in how we all navigate this together. Addressing it feels crucial, not just for our safety but also because law school applications are on the horizon for me, and I want to make informed choices that don't hinder my well-being or future.",
+        "therapist": "Engaging with the idea of shared responsibility can be empowering. Let's explore how prioritizing your well-being alongside group efforts aligns with your personal and academic goals. How might strengthening these boundaries enhance your journey towards law school?"
+    },
+    {
+        "round": 9,
+        "user": "right, it's very uncomfortable and no matter how many times I tell them how risky they are being to not only themselves but others they do not care. also one of them is pre med which is even worse lmao",
+        "answer_final": "Please be assured that you are being sensible and that they are the ones at fault",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Acknowledging the risks does make it uncomfortable. Even when I emphasize the impact, they remain indifferent, which frustrates me since one is pre-med! Strengthening boundaries might support my law school ambitions by reducing stress.",
+        "therapist": "Exploring boundaries aligns with your aspirations, bringing a sense of calm despite others' indifference. Reflect on ways to anchor your academic goals as a source of motivation and reassurance amidst these challenges. What small steps could you take today to nurture both your health and ambitions?"
+    },
+    {
+        "round": 10,
+        "user": "thank u :)",
+        "answer_final": "Let's hope that this is over soon .. this has been an absolutely terrible year.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for the support. I plan to journal my thoughts and set clear priorities, balancing my mental health while pursuing law school ambitions.",
+        "therapist": "Journaling and setting clear priorities are powerful steps in supporting both your well-being and law school goals. Balancing mental health with ambitions showcases your commitment to personal growth. How might embracing this new focus further contribute to a sense of empowerment and resilience?"
+    },
+    {
+        "round": 11,
+        "user": "Agreed! Hoping for that vaccine soon. what challenges have you faced from the pandemic?",
+        "answer_final": "Here in the UK they have started to roll it out.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you! Embracing this focus feels empowering and resilient. Hoping for the vaccine soon—it's challenging maintaining balance amidst the pandemic. What challenges have you faced during these times?",
+        "therapist": "Embracing empowerment and resilience truly is a significant step forward. Navigating these challenging times can test our balance, but focusing on your growth amid uncertainty speaks to your inner strength. How does recognizing this resilience influence how you approach today's challenges?"
+    },
+    {
+        "round": 12,
+        "user": "I am so jealous! Things are so much better not in the USA!",
+        "answer_final": "I have to agree ;) But we have a large infection and death rate here too, largely due to government irresponsibility",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Recognizing resilience amidst my challenges reminds me of what I value. I'm feeling envious seeing other countries managing things better than the USA. This adds to my stress as I aim for balance.",
+        "therapist": "Balancing these feelings of envy with resilience is understandable. Acknowledging how you feel can be a vital step in nurturing your well-being. How might focusing on your personal values during these stressful times help fortify your path towards balance and fulfillment?"
+    },
+    {
+        "round": 13,
+        "user": "haha yes we had the same issue with government mishandling everything ... so frustrating",
+        "answer_final": "Do you feel it would be better to be somewhere like New Zealand then, where there have been very few cases? It is a lovely country.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's frustrating dealing with mismanagement, but embracing my values helps me stay grounded. Looking at what I can control offers a sense of empowerment amidst the chaos.",
+        "therapist": "Embracing your values amid the chaos truly speaks to your resilience and empowerment. It's essential to focus on what you can control. How might prioritizing these aspects of empowerment further enhance your sense of calm and capability in these trying times?"
+    },
+    {
+        "round": 14,
+        "user": "haha yes definitely! I would love to study abroad next year so I hope that will still be an option and COVID will be better then",
+        "answer_final": "So, you feel frustrated both by your roommate and also the conditions in your country?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Focusing on what I can control does help enhance my sense of calm. I'm really hopeful about studying abroad next year; the prospect brings excitement amidst uncertainty.",
+        "therapist": "Studying abroad offers a beacon of hope and excitement. It's wonderful to see how focusing on controllable aspects cultivates calmness. Exploring this new journey, what insights about yourself do you hope to gain in this experience?"
+    },
+    {
+        "round": 15,
+        "user": "yes for sure",
+        "answer_final": "I can sincerely wish that the world is in a better place next year",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, studying abroad brings hope and excitement. I look forward to discovering my adaptability and strengthening my resilience, while embracing new cultures and learning environments.",
+        "therapist": "Embracing this opportunity is a wonderful way to explore your adaptability and resilience. This experience can enrich your life significantly, both personally and culturally. How might these upcoming challenges further refine your strengths and values?"
+    },
+    {
+        "round": 16,
+        "user": "As do I... although I'm not sure if things will ever go back to the way they were before. But hopefully that is for the best",
+        "answer_final": "Perhaps we can learn something from this year and improve ourselves",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think facing new challenges will definitely push me to grow. Even if things don't return to 'normal,' maybe it will open doors for personal growth and newfound resilience.",
+        "therapist": "Embracing growth through challenges is a powerful mindset. By opening doors to personal development, you're nurturing resilience. How might you integrate this growth into your everyday life to embody the future self you envision?"
+    },
+    {
+        "round": 17,
+        "user": "I agree! It's definitely been a year of reflection for sure",
+        "answer_final": "I hope I have been able to be of some help, just by allowing you to talk things out",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree! This year has truly been one of deep reflection. I want to incorporate small, daily practices like mindfulness and intentional decision-making to embrace and sustain this growth.",
+        "therapist": "Embracing mindfulness and intentional decision-making is a wonderful way to sustain your growth. Your commitment to these practices highlights your dedication to personal development. How might integrating these daily habits enhance your overall sense of well-being and support your reflective journey?"
+    },
+    {
+        "round": 18,
+        "user": "yes thank you you definitely have! enjoy the rest of your evening :)",
+        "answer_final": "And you too .. thanks for talking!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely, these practices help me stay grounded and navigate my journey with clarity. Thank you for your support in fostering this mindset. Have a wonderful evening!",
+        "therapist": "You're doing wonderfully at grounding yourself with these practices. It's inspiring to witness your clarity and growth. How might continuing this approach transform your journey further?"
+    },
+    {
+        "round": 19,
+        "client": "I feel continuing this approach will deepen my self-awareness and improve emotional balance. Recent stressful situations have taught me to stay calm, reminding me of the power within us all.",
+        "therapist": "Navigating stressful situations with calmness speaks volumes about your inner strength. It’s wonderful to see you value self-awareness and emotional balance. How might naming and understanding specific stressors empower you further in reinforcing this newfound resilience?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 20,
+        "client": "It's true, identifying specific stressors helps me address them directly. For example, when work pressure builds up, recognizing it lets me prioritize tasks and practice deep breathing.",
+        "therapist": "Recognizing work pressure as a distinct challenge allows you to manage its impact constructively. By externalizing it, you can strategize effectively, like prioritizing tasks and practicing deep breathing. How might exploring its influence in other areas deepen your self-awareness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 21,
+        "client": "Exploring stress in different areas, like relationships or self-expectations, reveals my tendencies towards perfectionism. This awareness helps me practice patience and compassion, offering space for balanced growth.",
+        "therapist": "You've discovered vital aspects of your identity—perfectionism and the balancing effects of patience and compassion. This reflection fosters balanced growth. How might these insights influence your values and decisions, enhancing the narrative you're authoring for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 22,
+        "client": "These insights guide me towards prioritizing self-care and setting realistic goals. When I recognize my perfectionism, I try to pause and remind myself that mistakes foster growth.",
+        "therapist": "Recognizing and pausing when faced with perfectionism truly shifts how you approach self-care and goals. By seeing mistakes as growth opportunities, your story aligns with a nurturing perspective. What future possibilities open up for you when prioritizing these insights in daily actions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "When I prioritize these insights, I envision creating a calmer life rhythm. For example, last week, instead of overworking, I set boundaries and felt less overwhelmed.",
+        "therapist": "Embracing boundaries to create a calmer rhythm shows significant progress in your journey. How might incorporating these insights transform upcoming challenges into opportunities for more such positive shifts?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "By anticipating stressful situations, I can prepare mentally to set boundaries. Last month, I calmly declined extra tasks, sparing time for reflection and recharging.",
+        "therapist": "Preparing mentally to set boundaries allows you to recharge and reflect, exemplifying a powerful shift in your narrative. How might this new rhythm further influence your daily interactions and enhance your well-being moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "By creating this new rhythm, I'm more present with loved ones and less reactive at work. Last weekend, I enjoyed painting without feeling rushed, bringing peace and satisfaction.",
+        "therapist": "Recognizing these shifts in your presence and creativity deeply reflects your values. Embracing peace and satisfaction creates space for authenticity in daily interactions. How might connecting with these values reshape future actions toward your desired identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Connecting with these values prompts me to approach tasks mindfully, not just as a means to an end. It led me to spend a tech-free evening reading, feeling grounded.",
+        "therapist": "Exploring mindfulness and grounding through reading offers a profound connection to your values. This intentional shift reflects a deeper commitment to living with authenticity. How do these mindful practices redefine your vision for a life aligned with your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Mindful practices allow me to slow down and savor moments, like when I spent an afternoon walking through nature. It fosters genuine joy and strengthens my sense of connection.",
+        "therapist": "Mindful engagement is enhancing your joy and connection, a beautiful reflection of who you wish to become. Embracing these moments builds on your deeper intentions. What might happen if you consistently incorporate this sense of slowing down into everyday decisions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Slowing down daily might bring greater clarity and reduce stress. Like savoring a quiet morning coffee, it could help me start the day more centered and balanced.",
+        "therapist": "Slowing down clearly nurtures clarity and balance, a gentle yet profound impact on your day. As you continue to prioritize this practice, consider the ripple effects it might have on relationships and stress management throughout your week.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Slowing down is helping me notice subtle changes in interactions, like my recent chat with a friend where I truly listened without distraction. It felt refreshing and deepened our bond.",
+        "therapist": "Engaging with your friend more deeply reflects a significant alignment with your values of connection and presence. This shift illustrates how slowing down is not only refreshing but crucial for nurturing important bonds. How do these experiences align with the identity you’re shaping for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "These experiences align with becoming more intentional and compassionate. In a recent conversation, I noticed a shift; I felt present, curious, and genuinely invested in understanding my friend’s perspective.",
+        "therapist": "Your intentional shift toward presence and compassion in interactions beautifully embodies your preferred identity. With this evolving sense of curiosity and investment, how might you continue fostering these values to strengthen connections both within yourself and with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I plan to nurture these values by setting aside weekly time for reflection and conversations. Like during my recent evening walk, noticing the rhythm of my steps connected me with nature.",
+        "therapist": "Embracing these moments of reflection and conversation deepens your connection to your values. As you set aside this time, how might the rhythm of nature further guide you in creating a narrative centered around presence and understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "The rhythm of nature, like the gentle sway of trees or birds singing, reminds me to be present. It helps me see life's nuances, promoting deeper self-reflection and empathy in my narrative.",
+        "therapist": "You’re embracing nature’s rhythm, reinforcing presence and empathy in your identity narrative. This active engagement with nuances aligns beautifully with who you’re becoming. As you weave these experiences into your story, consider how they support ongoing personal commitments and growth.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Lately, I've been committing to journaling every night. Reflecting on daily interactions and the emotions they evoke gives me deeper insights into my reactions and strengthens my empathy.",
+        "therapist": "Journaling each night enriches your exploration of empathy, deeply connected to your values. As you gain insights into your interactions and emotions, consider how these reflections might further align with and empower your desired identity.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "The journaling often uncovers unexpected insights, like realizing my impatience during discussions at work stems from anxiety about not being heard. It's helping reshape how I express myself.",
+        "therapist": "Journaling has unveiled important insights that challenge the dominant narrative of anxiety and impatience. These reflections mark significant steps in reshaping how you express yourself. How might embracing these insights guide your communication at work in a way that aligns with your true intentions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "Embracing these insights, I actively pause before responding in meetings, helping me express ideas calmly and thoughtfully. This new approach increases my confidence and enhances team dynamics.",
+        "therapist": "The practice of pausing showcases thoughtful intent, amplifying both your confidence and team dynamics. Consider the broader effects these actions might have on your evolving narrative and identity, enriching both professional relationships and self-expression.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Pausing has profoundly impacted my work life. Last week, I calmly presented an idea that led to a project collaboration. Feeling valued boosted my self-worth and strengthened team trust.",
+        "therapist": "You’re experiencing remarkable growth through pausing and presenting your ideas. Reflecting on the past, which significant figures have influenced this newfound confidence and ability to connect with your team, further shaping your self-worth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I've been influenced by my first manager, who encouraged active listening. Last week, using her advice during a tough meeting felt transformative, like she was guiding me through.",
+        "therapist": "Your manager's influence has clearly played a vital role in your growth. She likely saw the potential and capability in you that you're now recognizing and honoring. How might carrying this perspective forward further enhance your contributions and relationships at work?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I'm thinking by applying her advice, I can foster a culture of openness and support at work. Last month's brainstorming session showed me the power of genuinely valuing each team member's input.",
+        "therapist": "Valuing team input highlights your remarkable contribution to a culture of openness and support. This aligns with what your manager envisioned for you. How does this mutual impact on each other's lives further inspire you in leading by example at work?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I'm inspired to lead by example, fostering trust and inclusivity. Recently, during a heated debate, I emphasized empathy and collective brainstorming, which defused tension and led to innovative solutions.",
+        "therapist": "Your approach of fostering empathy during debates highlights how integral your presence is in creating an inclusive team environment. Seeing the positive impact, how might your example of openness and trust further nurture relationships and inspire others' growth within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Recently, I initiated team check-ins, encouraging everyone to share thoughts and feelings. It felt fulfilling seeing teammates opening up, fostering deeper connections, and enhancing our collective motivation and collaboration.",
+        "therapist": "You’ve created an environment where openness thrives, significantly impacting your team's connections and motivation. Seeing others grow through these interactions emphasizes your role as a catalyst for change. How does this success affirm your evolving identity as someone who values inclusivity and shared growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "This success makes me feel more authentic and capable. A moment that stands out is when a shy teammate shared their idea, sparking excitement in the group—it was rewarding to see.",
+        "therapist": "Your success in fostering openness truly influences others, allowing shy teammates to embrace their voice. This reflects the impact you're making, strengthening your role as a guiding force within your team. How do you envision continuing this journey of authenticity and capability while inspiring collective growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I envision encouraging even more voices by introducing small group workshops. These create safe spaces, allowing quieter members to share freely and develop confidence. Their insights could drive us forward.",
+        "therapist": "Your plan for workshops embodies your authentic commitment to nurturing confidence in others. By empowering quieter voices, you're not just encouraging participation but shaping identities within the team. Witnessing their growth, how do you feel this strengthens your own sense of leadership and community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Strengthening others' confidence strengthens my leadership identity. Witnessing quieter members grow feels empowering and deepens our community ties, inspiring me to further cultivate inclusivity.",
+        "therapist": "Your commitment to nurturing inclusivity not only enriches your leadership but also reinforces others' confidence and growth. Reflecting on the mutual impacts you've experienced, how might this collective journey deepen bonds and reshape future dynamics within your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Experiencing this collective journey, I've noticed stronger bonds as team members trust each other more. Witnessing others' insights sparks excitement in me, imagining new collaborative dynamics. I feel inspired to continue.",
+        "therapist": "Your influence in strengthening team bonds not only builds trust but nurtures your role as a leader. The new collaborative dynamics you envision reflect how deeply you value others' contributions. How do these mutual insights affirm your ongoing journey of fostering a supportive community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Realizing the impact of my actions reaffirms my purpose. Seeing people open up during meetings, and hearing laughter where silence once prevailed, inspires me to keep building these connections.",
+        "therapist": "As laughter replaces silence, your leadership reveals transformative power. Team members, feeling acknowledged and seen through your efforts, also shape their own identities. This journey you've inspired emphasizes mutual growth. What deeper impacts do you believe this dynamic continues to create in your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Laughter builds trust, leading to genuine collaboration. I've noticed teammates approaching with ideas confidently, fostering innovation and synergy, reinforcing my belief in nurturing a supportive environment.",
+        "therapist": "Your ability to create a trusting and collaborative atmosphere truly enriches those around you. As teammates contribute more freely, it mirrors how your support empowers their creativity and strength. How do you perceive these interactions enhancing your collective identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "Seeing teammates share innovative ideas and collaborate on projects not only strengthens our group identity but also boosts my confidence in fostering a nurturing space. It feels fulfilling.",
+        "therapist": "Your fulfillment echoes the positive impact you're making within your team. As you nurture this environment, your leadership not only empowers others but reflects their confidence back to you. In what ways might these shared contributions continue shaping both individual and collective identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I've noticed that when team members contribute more openly, it encourages even the quieter voices to speak up. It enhances our group dynamics and deepens personal relationships.",
+        "therapist": "Your leadership truly encourages voices to be heard, empowering both quieter members and enhancing relational identities within your group. How do you perceive these interactions shaping the way quieter voices, and yourself, see their potential contributions in this supportive space?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Recently, a quieter teammate shared a brilliant idea during a meeting. Witnessing their growth inspires me to ensure every voice feels valued and capable of significant contributions.",
+        "therapist": "Recognizing your role in encouraging a quieter teammate highlights the profound impact you've had on their development. In this nurturing space, you're shaping them to embrace their full potential. How do these shared growth moments reinforce your own sense of purpose and identity within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Witnessing their progress reaffirms my role as a facilitator. It's incredibly fulfilling, seeing how our collective growth fuels each individual's journey. It strengthens my commitment to this supportive space.",
+        "therapist": "Your ability to fuel others' journeys through your facilitation speaks volumes about your positive influence. Witnessing collective growth enriches not just their stories, but yours too. As you continue in this role, what parts of yourself do you see reflected in their successes?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

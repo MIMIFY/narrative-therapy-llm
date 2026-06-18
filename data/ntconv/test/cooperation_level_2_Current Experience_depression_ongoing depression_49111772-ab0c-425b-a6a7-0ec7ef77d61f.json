@@ -1,0 +1,507 @@
+[
+    {
+        "round": 1,
+        "user": "Hi there, can you help me?",
+        "answer_final": "I'll do my best. What do you need help with?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I’ve been feeling overwhelmed lately and unsure how to move forward. I hope you can guide me through this because I’m really struggling right now.",
+        "therapist": "I can see how much this is weighing on you, and it’s clear that finding your way through feels really important right now. Let’s take this one step at a time—what feels most pressing for you at this moment?"
+    },
+    {
+        "round": 2,
+        "user": "I feel depressed because I had to quit my job and stay home with my kids because of their remote school.",
+        "answer_final": "I can understand why that would make you feel depressed.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels like I’ve lost a part of myself since leaving work. I’m struggling to adapt to this new role at home, and it’s overwhelming trying to manage everything.",
+        "therapist": "You've been carrying so much while trying to adapt to this change. Losing that sense of who you were at work sounds deeply challenging. What feels most important for us to focus on as we explore this together?"
+    },
+    {
+        "round": 3,
+        "user": "Do you have any advice on how to feel better?",
+        "answer_final": "Yes of course. It's good that you are acknowledging your feelings. To improve your mood you could practice hobbies or other things you enjoy doing.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think what feels most important right now is figuring out how to regain some stability. Do you have any advice on finding balance or feeling more like myself again?",
+        "therapist": "You're already identifying what's important to you—finding stability. This shows strength. As we explore what balance could look like, what small steps or familiar parts of yourself feel worth reconnecting with first?"
+    },
+    {
+        "round": 4,
+        "user": "I see. Yes I do enjoy knitting. I just don't feel like I have time to do that.",
+        "answer_final": "I can understand how you feel that you don't have time.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Knitting does come to mind—it used to be so calming for me. But right now, it feels like there’s never enough time to pick it up again.",
+        "therapist": "Knitting holds meaning for you, and it's hard when time feels scarce. Could carving out even a few quiet minutes bring some of that calm back into your day? Small steps often lead to larger balance."
+    },
+    {
+        "round": 5,
+        "user": "When I do have time I feel too exhausted to do anything else.",
+        "answer_final": "Parents need to learn to take care of their own needs first before their children. Only then can you be truly available for anyone else.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’d love to carve out that time, but honestly, when I finally have a moment, I’m so drained that even thinking about knitting feels like too much effort. It’s frustrating.",
+        "therapist": "Feeling drained makes even things you enjoy feel out of reach, and that frustration is so valid. What if we explore ways to gently ease back into those calming moments, perhaps starting with no pressure or expectations attached?"
+    },
+    {
+        "round": 6,
+        "user": "You're right, I need to find time for me.",
+        "answer_final": "Indeed, once you free up some time for yourself, I bet you'll start to feel better.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think you're right. Maybe if I stopped expecting so much from myself, I could just focus on enjoying small moments, like holding the knitting without needing to finish anything.",
+        "therapist": "Finding enjoyment in those small, pressure-free moments could feel freeing. What would it be like to hold the knitting simply as a gesture of self-kindness, honoring that it doesn’t need to lead anywhere right now?"
+    },
+    {
+        "round": 7,
+        "user": "Do you have other suggestions?",
+        "answer_final": "Yes, try meditation for a few minutes each morning.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think holding the knitting as an act of self-kindness could be really grounding. Are there other simple ways like this to ease into reconnecting with myself?",
+        "therapist": "Exploring simple acts of self-kindness can be so powerful. What other small, nurturing activities might feel like a gentle way to reconnect with yourself right now?"
+    },
+    {
+        "round": 8,
+        "user": "What do I do to meditate?",
+        "answer_final": "Take a few deep breaths and clear your mind of negative thoughts.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve thought about meditating, but I don’t know where to start. It seems like it could help me reconnect with myself, but how do you even begin something like that?",
+        "therapist": "Meditation can be a gentle way to reconnect, and starting small—like focusing on your breath for a minute—might feel manageable. What matters is easing into it in a way that feels supportive rather than overwhelming for you."
+    },
+    {
+        "round": 9,
+        "user": "That sounds good, but how will it help.",
+        "answer_final": "meditation allows you to set up your day in your mind and let you be calm.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That makes sense. Maybe focusing on my breath could help me calm the noise in my mind. I guess I’m wondering how that leads to feeling more connected to myself.",
+        "therapist": "Calming the noise can create space to notice your inner experiences more fully. As you practice, you might uncover subtle thoughts or feelings that remind you of who you are and what matters most to you. What small discovery might feel encouraging to explore first?"
+    },
+    {
+        "round": 10,
+        "user": "Will that help me get through the day and be happy?",
+        "answer_final": "Yes, it won't happen overnight but be patient with it.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That sounds promising. If I could uncover those subtle feelings or thoughts, maybe they’d guide me toward simple joys and help me get through the day with more ease.",
+        "therapist": "Simple joys can become powerful anchors during your day. As you notice those subtle feelings or thoughts, they may gently show you what brings ease. What small joy feels within reach for you to explore today?"
+    },
+    {
+        "round": 11,
+        "user": "Ok thanks.",
+        "answer_final": "do you have any other concerns?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Maybe stepping outside and feeling the fresh air could be a small joy for me. It’s simple, but I think it might help me feel more present today.",
+        "therapist": "Stepping outside and feeling the fresh air sounds like a gentle way to reconnect with yourself. How does the idea of embracing that small moment for yourself feel right now?"
+    },
+    {
+        "round": 12,
+        "user": "no I think you helped me enough.",
+        "answer_final": "I'm hearing that I have helped enough and you don't have any more concerns?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think it feels like a small step I can actually take today. Your suggestions have already helped me feel calmer, and this seems manageable enough to try.",
+        "therapist": "Stepping into something manageable like this shows care for yourself, and it’s a meaningful first step. As you try it today, notice how even small moments can shift your sense of presence. What might help you carry that sense with you a bit longer?"
+    },
+    {
+        "round": 13,
+        "user": "Yes and thank you!",
+        "answer_final": "You are welcome, and good bye.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I think paying attention to how the fresh air feels or even pausing to listen to birds might help me hold onto that sense of calm a bit longer.",
+        "therapist": "Pausing to notice the fresh air and the birds is a beautiful way to nurture calm. These small, intentional actions honor your needs and connect you with simple joys. How might you remind yourself to take these moments throughout your day?"
+    },
+    {
+        "round": 14,
+        "client": "I think setting small reminders on my phone could help—like a nudge to step outside or just pause. It’d keep me from getting too lost in my routine.",
+        "therapist": "Small reminders like that can create space to counter what pulls you away from calm—maybe even keeping that \"lost in routine\" feeling at a distance. If this routine-breaking pull had a name, how might you describe it?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 15,
+        "client": "I think I'd call it \"the fog\"—that hazy feeling where I go through the motions without even noticing myself. It feels heavy, like everything’s on autopilot, but without purpose.",
+        "therapist": "‘The fog’ sounds like something that can quietly creep in and overshadow your sense of purpose. How do you notice its presence shaping your routines, relationships, or even your time for yourself?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 16,
+        "client": "The fog makes everything feel muted—like I’m just checking off tasks. Even with loved ones, I catch myself zoning out, feeling distant, like I’m not fully there.",
+        "therapist": "The fog seems to interrupt your connection with both yourself and those you care about, leaving things feeling hollow. What would reclaiming a stronger sense of presence bring into these moments that currently feel muted?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 17,
+        "client": "I think it would bring back warmth and clarity—like hearing laughter fully or feeling comfort when holding a hand. Right now, even joy feels distant, like it’s behind glass.",
+        "therapist": "Feeling distant from joy must feel like losing touch with what truly matters. What does that warmth and clarity—when it’s fully present—reflect about the kind of life or connection you deeply value?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I think it reflects a life where I’m fully engaged—where moments feel real and meaningful. Like laughing with my sister or feeling proud after finishing a project I care about.",
+        "therapist": "Laughing with your sister or feeling proud reveals what truly matters to you—being present and finding meaning. What steps could help you show the fog how deeply you value these kinds of connections and accomplishments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think taking small but intentional actions, like scheduling time to call my sister or setting aside moments to reflect on accomplishments, could help me push through the fog.",
+        "therapist": "Taking those small, intentional steps feels like honoring the values of connection and meaning you hold close. What would it feel like to show the fog that it doesn’t get to overshadow these commitments anymore?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "It’d feel empowering, like reclaiming control over what matters. I imagine talking to my sister about childhood memories—feeling warmth and joy—and remembering why those moments ground me.",
+        "therapist": "Reclaiming control and grounding yourself in those joyful, meaningful connections reflects how deeply you value presence and warmth. What does standing up to the fog reveal about your hopes for the kind of life you’re shaping?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Standing up to the fog shows I want a life filled with intentionality—one where small joys, like cooking dinner together or sharing stories, feel vivid and grounding again.",
+        "therapist": "Standing up to the fog shows incredible strength and clarity. Can you recall a recent moment, however small, when you felt connected to that vivid, intentional life—perhaps where the fog loosened its hold briefly?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Last weekend, I painted for a while. Mixing colors felt calming, almost grounding. For a moment, I wasn’t weighed down—it was just me and the brushstrokes.",
+        "therapist": "Painting seems to reflect a calm space where you feel connected to your inner world. How might nurturing this creative energy support the intentional, grounded life you’re working toward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Painting gives me a moment to focus entirely on the present. It feels like reclaiming a part of myself, and continuing this might help create more grounded, intentional moments in my life.",
+        "therapist": "Painting reconnects you with that grounded sense of presence, revealing your commitment to living intentionally. How does this act of reclaiming reflect the person you’re striving to be in the story you’re creating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Painting feels like I'm reconnecting with someone I used to know—someone who noticed small details, felt colors deeply, and allowed space for quiet curiosity in life.",
+        "therapist": "Reconnecting with that part of yourself feels meaningful, almost like rediscovering a forgotten thread in your story. How might you continue to nurture this quiet curiosity and depth as you shape the life you deeply value?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think I could nurture it by setting aside time for things that invite stillness—like sketching at the park or journaling quietly in the mornings. It feels restorative.",
+        "therapist": "Choosing to create moments of stillness shows how intentionally you’re shaping this restorative path. As you imagine sketching or journaling, what kind of presence or energy do you see yourself inviting into these spaces of quiet connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think I’d invite a gentle curiosity, letting go of the need for perfection. Maybe the energy would be soft, like sunlight through leaves, letting me explore freely.",
+        "therapist": "Allowing yourself that gentle curiosity feels deeply freeing. As you imagine stepping into these soft, exploratory moments, what small actions might help this openness become more rooted in your daily rhythm?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I could start my mornings by writing down one small observation from nature, like the sound of birds or light on a leaf. It might remind me to slow down.",
+        "therapist": "Writing down these small observations feels like a quiet act of presence. As you imagine this morning ritual, how do you see it influencing the way you move through the rest of your day?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think it could help me start the day calmer, more aware. Noticing those small details might make stressful moments feel less overwhelming and shift my focus toward gratitude.",
+        "therapist": "Starting your day with calm awareness reflects a deep care for how you engage with life. What does this focus on gratitude and presence say about the values you hold most dear in shaping your preferred self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think it shows I value simplicity and connection—to myself, to others, and to the world. Moments like hearing rain or sharing quiet tea remind me of that.",
+        "therapist": "Moments like hearing rain or sharing tea seem to embody the values you hold close. How might embracing this simplicity and connection help you continue shaping the life story that aligns with who you want to be?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think it would help me find balance. Like when I pause to feel the breeze on a walk—it reminds me life doesn’t always have to be rushed or heavy.",
+        "therapist": "Pausing to embrace that sense of balance and lightness seems deeply tied to your values. How might continuing to honor these moments shape the relationship you’re cultivating with yourself and the world around you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think it might help me feel less disconnected. Like last weekend, watching clouds shift reminded me I’m part of something bigger—comforting in a way I didn’t expect.",
+        "therapist": "That sense of being part of something bigger seems to carry both comfort and grounding. As you reflect on these moments, what intentions or commitments might naturally grow from this connection to guide your steps forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think I’d like to commit to slowing down more intentionally, like taking regular walks without my phone. Just being present could help me feel more connected and steady.",
+        "therapist": "Slowing down and being present seems like a meaningful way to realign with what matters to you. As you imagine taking these walks, how do you see them influencing the stories you tell yourself about your days or who you’re becoming?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think these walks might remind me life isn’t just about rushing from task to task. Like last evening, when I watched the sun dip below the horizon—it felt grounding, peaceful. Maybe taking time for that regularly could help me build a sense of calm in my daily story, rather than one fueled by urgency or distraction.",
+        "therapist": "Building that sense of calm through intentional walks seems like a powerful shift. How might you carry the grounding and peace you felt last evening into other parts of your daily story, making them part of this new rhythm you're creating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Last evening’s peace felt like a rare pause, almost like exhaling after holding my breath too long. Maybe I could weave that into my mornings—starting the day slower, not rushing straight to tasks.",
+        "therapist": "Slowing down your mornings could offer a refreshing start, aligning with the calm you're seeking. If you imagined a morning shaped by this pause, what small actions would bring that steady, grounded feeling into your day ahead?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I could start by sipping tea while looking out the window instead of diving into emails. Just a few minutes to notice the light or hear the birds might help.",
+        "therapist": "Taking that time to pause with your tea feels like an intentional step toward the calm you value. How does this small but meaningful choice reflect the kind of person you’re becoming or wish to be in your daily story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think it reflects someone who values stillness, someone learning to appreciate quiet moments instead of chasing productivity constantly. Like yesterday, noticing leaves rustling felt grounding.",
+        "therapist": "That sense of stillness and appreciation you’re nurturing—who in your life, past or present, might have also valued such quiet moments? How might their influence be connected to the path you’re now choosing?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Last summer, I visited my grandmother’s old house. She used to sit quietly in her garden every morning, just listening to the world. It made me realize how much I miss that simplicity.",
+        "therapist": "Your grandmother’s quiet mornings in her garden seem to hold deep meaning for you. If she could see how you’re seeking simplicity and calm now, how might she describe what this says about who you are or the path you're walking?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "My grandmother might say I’m finally learning to slow down and see the beauty around me, like she did in her garden. It feels like reclaiming something I’d forgotten.",
+        "therapist": "That sense of reclaiming feels like a significant step. If your grandmother could see how her way of being has shaped you, what might she feel proud of in how you’re carrying forward this appreciation for life’s quiet beauty?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "She’d probably feel proud that I’m trying to notice the little things again—like when I paused last week to watch sunlight ripple on water. It felt like her spirit was there.",
+        "therapist": "Your pause to notice the sunlight and feel her presence reflects such a powerful connection. If she saw how her way of appreciating life has inspired you, how do you think that might have deepened her own sense of who she was to you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "She might have realized how much I admired her calm presence. Her quiet joy in simple things made me feel safe, like the world wasn’t so overwhelming.",
+        "therapist": "Your admiration for her calm presence seems to honor the essence of who she was. How might knowing that her way of being brought you safety have shaped how she saw herself in your relationship?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "She might have felt more needed than I realized. I think knowing she gave me that safety would’ve shown her how much her way of being mattered, not just to herself but to me.",
+        "therapist": "Your recognition of how much her way of being mattered seems deeply affirming. How might carrying this understanding now shape the safety and grounding you offer to others in your own life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think it’s made me more attentive. Last week, my friend was overwhelmed, and instead of offering solutions, I just sat quietly with her. It felt meaningful, like my grandmother's calm presence guiding me.",
+        "therapist": "Your decision to be quietly present for your friend reflects a deeply caring part of you. How does recognizing this quality—one shaped by your grandmother's presence—help you see the value you bring into the lives of those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 43,
+        "client": "I think it shows me that just being present can have a huge impact. My friend later said she felt lighter after we talked. It reminded me how important connection is.",
+        "therapist": "That moment with your friend highlights the powerful connection you’ve nurtured. How do you imagine your grandmother might view the way her calm presence lives on in how you bring comfort and lightness to others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think she’d be proud, maybe even a little emotional knowing her spirit shapes how I support others. It feels like a quiet way of keeping her legacy alive.",
+        "therapist": "Your reflection on her legacy seems deeply heartfelt. How do you see this quiet way of honoring her spirit shaping the kind of connections and emotional support you offer in your relationships now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think it helps me approach others with more patience and sensitivity. For instance, my brother recently opened up about work stress, and instead of jumping in, I really listened.",
+        "therapist": "Your brother’s trust in sharing with you reflects the space of care and patience you’ve created. How does recognizing this quality in yourself reinforce the way you want to show up in relationships moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I think it makes me want to be even more intentional about how I show care, like making time for meaningful conversations or just showing up when someone needs support.",
+        "therapist": "Your intention to show care feels deeply rooted in the values you've inherited. How do you imagine those meaningful conversations and acts of support might also shape how others see themselves through your presence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I think it might help them feel valued and understood. Like when my coworker confided in me about her divorce—I listened without judgment, and she said she felt seen.",
+        "therapist": "Your coworker’s experience reflects the strength of the connection you build through understanding. How do you imagine your openness and care might inspire others to see themselves as deserving of that same kind of presence in their own lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I think it could encourage them to open up to others more, maybe trust themselves to be vulnerable. Like when my sister said she felt braver sharing her emotions with friends after talking to me.",
+        "therapist": "Your sister’s response reflects the influence of your compassion and openness. How do you see this courage you inspire in others shaping the way they might now approach their own relationships and connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think it gives them permission to be more open and honest. Like my cousin recently shared something deeply personal with her partner after telling me she felt inspired by our talks.",
+        "therapist": "Your talks seem to create a space where others feel safe enough to embrace honesty with themselves and those around them. How does seeing this transformation in others reaffirm the values you hold close in your own life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think it reinforces the importance of empathy and connection for me. Like last week, my friend confided about feeling lost in her career, and I prioritized just being there to listen. Seeing her feel more supported reminded me how meaningful small acts can be.",
+        "therapist": "Your care seems to ripple outward, inspiring those around you. How do you think your friend, after feeling supported by you, might now approach offering connection or empathy in their own relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

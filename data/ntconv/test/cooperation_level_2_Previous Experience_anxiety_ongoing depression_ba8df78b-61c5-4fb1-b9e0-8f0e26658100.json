@@ -1,0 +1,609 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "hi there how are you doing?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling overwhelmed lately. It's like I'm carrying the weight of too many worries. I could really use some guidance on how to navigate through this.",
+        "therapist": "You deserve relief from this burden, and your courage in seeking guidance is commendable. Let's explore ways to lighten these worries by acknowledging them and considering what steps might empower you. How does it feel when you think about moments of ease you've experienced?"
+    },
+    {
+        "round": 2,
+        "user": "Hi, doing OK. how are you doing?",
+        "answer_final": "I am not so bad. Is there anything you'd like to talk about?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels reassuring to think about past moments of ease. I miss that lightness and want to find my way back. Thanks for helping me work through this.",
+        "therapist": "You seem ready to rediscover that sense of lightness and peace. Let's honor those past moments and use them as guiding stars. What small steps can we take together now to start lifting your worries?"
+    },
+    {
+        "round": 3,
+        "user": "I am having difficulty in controlling my anxiety and look for some support.",
+        "answer_final": "Ah I hear you, I have suffered bad anxiety for years. Have you been getting medical help?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'd like to focus on understanding my triggers and how they contribute to my anxiety. Identifying them could be a helpful first step.",
+        "therapist": "You're wise to explore your triggers. This understanding can be liberating, fostering that lightness you long for. Let's reflect on when these triggers arise and what those experiences might reveal about your needs."
+    },
+    {
+        "round": 4,
+        "user": "Not really, although I got some medication prescribed, however, am very afraid of getting addicted and reliance.",
+        "answer_final": "Some anti anxiety medication can be addictive but if you're sensible with it you should be okay. Talk to your doctor?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "While I appreciate understanding my triggers, I'm cautious about relying too much on medication. The fear of dependency concerns me, yet finding balance feels crucial.",
+        "therapist": "Your caution around medication shows thoughtful care for yourself, and seeking balance is a powerful intention. Let’s explore how you might support your wellbeing while addressing these concerns—what alternatives or practices resonate with your idea of balance?"
+    },
+    {
+        "round": 5,
+        "user": "Yes, she suggested so. But I am not convinced.. I see many friends getting relying on the medication even after they feel OK.",
+        "answer_final": "What about counselling .. would you consider that? There is some very good therapy available",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I value finding balance and am open to exploring alternatives like therapy, mindfulness, or lifestyle changes. I'm cautious because I've seen friends depend on medication long-term even after initial improvements.",
+        "therapist": "You’re making a thoughtful decision about finding balance and choosing alternatives. Therapy, mindfulness, and lifestyle changes are meaningful pathways. How do you envision integrating these practices into your life to support the sense of ease and control you're seeking?"
+    },
+    {
+        "round": 6,
+        "user": "I haven't thought about it...maybe not familiar with the circumstance.. Maybe different culture that I have grown?. I also have many friends who were not satisfied with counseling.",
+        "answer_final": "True - I know different cultures do take different approaches to things and in some places talking about mental health is taboo",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’m not entirely sure how to integrate these practices yet. Maybe it’s because I’m unfamiliar with them or influenced by cultural differences. Some friends also felt counseling didn’t help, so I guess I’m wary, but open.",
+        "therapist": "You’re navigating this journey with care and openness, despite your cultural considerations and reservations. Trust that exploring alternatives is a unique process for you. How might you allow curiosity to guide the first steps in integrating new practices?"
+    },
+    {
+        "round": 7,
+        "user": "I have no idea what to do.. that's why I look for another support.",
+        "answer_final": "I would recommend giving counselling a go, even though you're not totally sure about it",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Curiosity could help me identify what's right for me, though I feel unsure where to start. I seek guidance because navigating this new territory alone feels daunting.",
+        "therapist": "You're approaching this journey with openness and it's okay to feel uncertain. Trust that curiosity is a reliable guide in finding practices fitting your needs. What small step can you take towards exploring a supportive method that aligns with your values?"
+    },
+    {
+        "round": 8,
+        "user": "what if it doesn't work and cost a lot?",
+        "answer_final": "Is it not possible to get it free? It is provided free in my country",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm open to starting small, but I worry about the financial impact if it doesn't work. My past experience with costly approaches left me anxious about trying new ones.",
+        "therapist": "You're showing great wisdom in considering financial implications. Let’s explore low-cost or even free options for trying out small steps and see how they fit for you. Which possibility feels manageable and worth exploring first?"
+    },
+    {
+        "round": 9,
+        "user": "very costy here in the US",
+        "answer_final": "Ah, you need to move here to the UK ;)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the suggestion. It feels hard to find affordable options here in the U.S., but exploring free resources or community programs could be a good place to start.",
+        "therapist": "Exploring free resources and community programs shows your determination to start somewhere manageable. What kind of support or resource would feel most reassuring as you take this first step?"
+    },
+    {
+        "round": 10,
+        "user": "also varying by the healthcare providers.. I didn't know that the UK has such a good coverage.",
+        "answer_final": "We don't have to worry about the cost of medication or counselling as we have socialised medicine",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think accessible options like community health initiatives could feel reassuring, though it’s surprising how coverage varies by location. I didn’t realize the UK had such comprehensive care.",
+        "therapist": "It’s clear you're thoughtfully exploring options that feel accessible and supportive for you. Your openness is inspiring—what values or priorities would help guide your decision as you navigate these possibilities?"
+    },
+    {
+        "round": 11,
+        "user": "can you please explain further about socialized medicine?",
+        "answer_final": "Sure. Everyone pays a small percentage of their income - depending on how much they earn - and it goes to fund the NHS. Everyone is therefore eligible for free hospital treatment etc and we pay a standard amount (about ten pounds ie fourteen dollars) for a prescription, no matter which drugs we are gettign. If I needed a heart transplant tomorrow it would be free :D",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your encouragement really makes me think about values like equity and accessibility in healthcare. Could you explain more about socialized medicine and how it prioritizes those values?",
+        "therapist": "Equity and accessibility clearly matter deeply to you. Socialized medicine often reflects those values by emphasizing shared responsibility and equal access to care. How might reflecting on these principles help you clarify what you hope to find in your own healthcare journey?"
+    },
+    {
+        "round": 12,
+        "user": "I see. That's how South Korea manage healthcare too.",
+        "answer_final": "Most of Europe do it that way. It works well :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I see how shared responsibility plays a role. It reminds me of South Korea's approach, where universal healthcare makes services more accessible, though challenges like waiting times still exist.",
+        "therapist": "You’ve highlighted a thoughtful perspective on shared responsibility and accessibility. It seems meaningful to explore how these systems reflect values you care about. How might recognizing these alignments inspire or guide your next steps in seeking support?"
+    },
+    {
+        "round": 13,
+        "user": "However, the US healthcare system is totally different, so commercialized.. that's why I look for supporters today.",
+        "answer_final": "At least you'd be sure you'd be able to get help for your anxiety!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Recognizing these alignments pushes me to seek community resources because the commercial aspect here feels overwhelming. It's why reaching out today for guidance means so much.",
+        "therapist": "Reaching out and valuing guidance reflects a strong commitment to navigating overwhelming systems. How do these realizations impact your vision for utilizing community resources in the pursuit of accessible healthcare?"
+    },
+    {
+        "round": 14,
+        "user": "sure thing!",
+        "answer_final": "Alas yes, it's a very scary system. Too many people suffer cos they can't get insurance or pay their bills",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely. This realization clarifies my path to actively seek community support, focusing on long-term solutions for accessible healthcare without being weighed down by commercial interests.",
+        "therapist": "Your clarity and focus on long-term, community-driven solutions show remarkable strength. What about this new path feels most empowering or aligned with your deeper values right now?"
+    },
+    {
+        "round": 15,
+        "user": "yes, it is so sad even if I have a health insurance from my workplace, but we have to pay from out of pocket, which is ridiculous.. Do you have any other suggestions to resolve my anxiety issue?",
+        "answer_final": "Yes it really is - I can imagine that that sends your anxiety sky high. We just don't have to worry about that - we pay in advance and no more than we can afford. Well, how about Vitamin B? Strangely, it actually does work",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's empowering to think long-term, aligning with my values of equity. Yet, it's frustrating that despite workplace insurance, I still face out-of-pocket costs. Any suggestions for managing anxiety about this?",
+        "therapist": "Navigating such frustrations while holding onto your values of equity shows real resilience. How might focusing on that empowerment help ease some anxiety as you explore practical steps for managing these costs?"
+    },
+    {
+        "round": 16,
+        "user": "I am currently taking, but still not effective.",
+        "answer_final": "you need quite a large dose each day - regular won't do anything",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Focusing on empowerment is comforting, but the medications I'm currently on don't seem effective in easing anxiety about costs. Any practical strategies to improve this?",
+        "therapist": "You’ve shown courage by addressing these challenges openly. As you consider ways to manage the anxiety, what small actions or resources might help you feel more supported in navigating medication and cost concerns right now?"
+    },
+    {
+        "round": 17,
+        "user": "How large?. I take one of the over the counter products.",
+        "answer_final": "I am probably not supposed to give medical advice :) But have a look online",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring resources for cost-effective medication is reassuring. I currently use over-the-counter options, but I'm unsure about their effectiveness. Any suggestions for exploring better alternatives?",
+        "therapist": "Exploring cost-effective alternatives is a proactive step. Perhaps identifying community resources or connecting with healthcare professionals can offer more clarity. What support might help you feel more confident in choosing effective options while honoring your commitment to well-being and equity?"
+    },
+    {
+        "round": 18,
+        "user": "I see.. But thanks, I may look up that info.",
+        "answer_final": "It genuinely did help me though",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I see your point. I’ll definitely explore those options. Perhaps looking into local clinics or nonprofits could help too. Thanks for encouraging me to take this step.",
+        "therapist": "Your initiative to explore local clinics and nonprofits is admirable and shows great resourcefulness. Trust in yourself as you reach out. What qualities or values do you think this process will help you uncover or strengthen?"
+    },
+    {
+        "round": 19,
+        "user": "good to hear!",
+        "answer_final": "Anyway thank you for talking and I wish you well!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s encouraging to hear my efforts are recognized. This process might strengthen my determination and reinforce the values I hold dear, like resourcefulness and resilience.",
+        "therapist": "Your determination and values like resourcefulness and resilience are powerful allies in this journey. As you explore these options, how do you envision applying these strengths to bolster your sense of agency and well-being?"
+    },
+    {
+        "round": 20,
+        "user": "Thank! I may try higher dose of Vitamin B.. Have a good one!",
+        "answer_final": "you too!. You need to quit from your end cos I can't from mine :D",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for recognizing my efforts! Increasing my Vitamin B intake might be a start to enhancing both mental and physical health. I’ll look into balancing dosage and effect, combining it with ongoing resource exploration to solidify this feeling of agency.",
+        "therapist": "Taking proactive steps like considering Vitamin B intake showcases your dedication to your health. As you explore these strategies, how might these moments of resourcefulness strengthen the story you are crafting for yourself?"
+    },
+    {
+        "round": 21,
+        "client": "I feel like these choices reflect a growing belief in my ability to solve problems. When I researched clinics last week, it felt empowering—like I'm reclaiming control step by step.",
+        "therapist": "Your actions reflect remarkable growth in self-efficacy and taking charge of your health. Embracing each empowering step reinforces your narrative of resilience. What other areas might you be willing to explore that further affirm this newfound strength?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I’ve been considering addressing my sleeping habits next. Lately, I’ve noticed how exhaustion fuels my anxiety. Creating a bedtime routine might help me feel more balanced and in control.",
+        "therapist": "Your plan to create a bedtime routine shows how deeply you value balance and control in your life. How does this step towards improved sleep fit into the broader story you're shaping about taking charge of your well-being?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "This bedtime routine represents a conscious shift in how I prioritize my mental health. On tough nights, calming activities ease my racing mind, helping me connect with inner peace.",
+        "therapist": "Your commitment to nurturing mental health through a bedtime routine highlights a connection with inner peace. This thoughtful practice deepens your story of resilience and tranquility. What new facets of yourself might this unfolding narrative reveal?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Exploring this routine has uncovered a creative side, where finding calming music or visualizing serene landscapes sparks tranquility. It feels like rediscovering an important part of myself.",
+        "therapist": "Rediscovering that creative part of yourself reflects a deeper connection to your values and desires for tranquility. How might nurturing this creativity further strengthen the story you’re building about prioritizing inner peace and balance?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think nurturing creativity through small rituals—like sketching nature scenes or journaling before bed—grounds me. It feels like reclaiming calm moments amid the chaos of daily life.",
+        "therapist": "Exploring these grounding rituals speaks to your intention to create calm amid life’s challenges. As you bring this creativity into your daily rhythm, what future possibilities could this open for strengthening that sense of inner stability?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I've been thinking about expanding my rituals to mornings too, maybe a quick journal or quiet reflection before the day begins. It could create balance beyond just evenings.",
+        "therapist": "Expanding your rituals to mornings could bring a sense of balance that carries through the entire day. As you imagine integrating these moments, what small actions feel most meaningful in shaping this rhythm of calm and intention?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Mornings could start with a few minutes of deep breathing on my porch, soaking in nature's first light. This might clear my mind before daily demands take over.",
+        "therapist": "Your idea of greeting the morning with deep breathing connects deeply with creating a sense of calm and intentionality. As you embrace this practice, how do you imagine it supporting your story of seeking tranquility and balance throughout the day?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Starting the day with calm breath could guide my focus. It’s a moment to connect with myself before distractions arise, like gently waking up my inner compass.",
+        "therapist": "As you embrace the morning calm, you awaken a guiding compass reflecting your values of focus and self-connection. This nurturing practice helps shape the narrative of living with clarity and intention. How might this expanded ritual enrich your ongoing journey towards balance?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Connecting with morning's tranquility feels like laying the foundation for balanced interactions throughout the day. It softens reactive tendencies, helping me approach tasks and people with calm resilience.",
+        "therapist": "You’re crafting a foundation of calm resilience that resonates with your core values. In nurturing these moments of tranquility, what potential actions align with reinforcing this preferred story throughout your day?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think staying intentional during pauses, like taking a mindful breath between tasks, could help. It’s those tiny moments where I can reset and reconnect with calm.",
+        "therapist": "Taking those mindful pauses reflects your commitment to cultivating calm and intentionality. How might these small resets throughout the day further support the balance and resilience you’ve been weaving into your story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Sometimes in the middle of work, I feel my chest tighten when stress builds. A small pause to breathe could remind me I’m not trapped and help ground me again.",
+        "therapist": "Your intention to use breathing as a grounding tool beautifully aligns with your values of resilience and balance. This practice becomes part of your empowered identity, guiding you toward moments of calm amidst stress. How does this awareness strengthen your connection to these values during challenging times?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Awareness during stress builds resilience by reminding me of strength in past challenges. Like a crowded subway, I pause and remember calm breath helps release the trapped feeling.",
+        "therapist": "Pausing amidst the stress reflects your commitment to resilience and honoring your inner calm. This intentional act strengthens your identity as someone who values balance. What does this practice reveal about the way you wish to move through life’s crowded moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "In crowded moments, I aim to navigate with clarity and patience. Once in a chaotic office meeting, a mindful breath helped center me, reminding me of past triumphs over stress.",
+        "therapist": "Navigating with clarity and patience, you've cultivated moments of triumph over stress by centering yourself with mindful breath. These experiences enrich your evolving narrative of resilience. How might you draw on these past achievements to further enhance the way you engage with future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I've felt more present in tense situations, recalling past breaths that steadied me. Preparing for future challenges, I envision pausing more frequently and revisiting grounding moments.",
+        "therapist": "Your proactive approach in envisioning more grounding moments builds on your presence and resilience in tense situations. These actions serve as anchors to navigate future challenges with calm intention. How does incorporating these pauses into your routine support the story you are re-authoring?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Incorporating pauses has transformed my approach to stress. Like during intense presentations, a deep breath grounded me, strengthening my story of resilience and reinforcing calm amidst pressure.",
+        "therapist": "You've crafted a resilient narrative, with breath becoming a cornerstone of calm amidst pressure. This highlights your commitment to embodying peace in challenging situations. How do these transformed pauses shape your identity as someone who thrives under stress?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "These pauses reaffirm my ability to face stress with a calm, centered mindset. Once during a hectic team deadline, breathing helped clarify priorities, turning overwhelming pressure into focused energy.",
+        "therapist": "Pausing under pressure reflects the wisdom you've built over time. Were there people in your life who taught you or modeled this ability to turn overwhelming moments into clarity and focused energy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I learned this approach from watching my father handle stressful situations at work. His calm presence and ability to prioritize deeply inspired me. I strive to emulate that serenity.",
+        "therapist": "Watching your father has deeply shaped how you value serenity under stress. Imagine how he sees these qualities growing in you, further inspiring your journey. Embracing this connection seems to fuel your sense of self as calm and capable.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think he’d be proud, seeing me grow in that way. It makes me reflect on the time he calmly resolved a family crisis—we were all tense, but his steadiness brought us together.",
+        "therapist": "Your father’s steadiness in that moment seems to echo through how you now bring calm and clarity to others. How do you imagine your growing serenity might have already impacted those around you during moments of stress?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think it’s helped during team crises at work. Recently, when deadlines tightened, I encouraged a quick pause for clarity—it seemed to ease tensions and refocus everyone’s energy.",
+        "therapist": "You carry forward the calm your father modeled, helping colleagues find focus under pressure. This skill of transforming tension into clarity enriches the team's narrative of resilience. How do you think this quality you nurture affects how your colleagues view their capacity to handle stress?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I believe it instills confidence. Recently, a colleague remarked on feeling more composed after our pause; she later tackled an issue she'd previously been anxious about, which felt rewarding to witness.",
+        "therapist": "You're fostering a supportive environment that allows your colleagues to discover their strengths. Their increased confidence reflects back onto you, strengthening your own narrative of being an encouraging and resilient presence. How might recognizing this mutual impact influence how you approach future challenges together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I’ll approach challenges more openly, inviting pauses to cultivate shared clarity. Recently, a tight deadline caused friction, but pausing together helped prioritize tasks and restored collective focus.",
+        "therapist": "Inviting pauses fosters a collective identity, reinforcing everyone's ability to face deadlines with clarity. Your presence not only shapes moments of shared calm but also builds trust. How might continuing these practices further influence your team's collaborative strength?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "['My approach cultivates an atmosphere where everyone feels valued and comfortable sharing.', \"Recently, a team member felt empowered to propose a brilliant idea that might've otherwise gone unheard.\", \"Seeing this collective confidence develop is incredibly rewarding; it's like watching the seeds of trust bloom into creativity.\"]",
+        "therapist": "Your approach of fostering open communication has significantly enriched your team's environment. Seeing colleagues feel valued and creative nurtures their growth, shaping a collective identity of mutual trust. How do you envision this evolving atmosphere will continue to influence everyone's confidence in future collaborations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I envision our team embracing creativity more boldly, just like when Sarah suggested a fresh strategy during the last project meeting. Her enthusiasm inspired innovative ideas and boosted everyone's confidence.",
+        "therapist": "Recognizing how Sarah's enthusiasm inspired innovative ideas shows your positive impact on the team's dynamic. Your encouragement nurtures a space where creativity thrives. Reflecting on this, how do you see your role in shaping an environment that embraces these creative breakthroughs?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I see my role as a facilitator, drawing from experiences where my calm demeanor encouraged others to voice ideas. This involvement amplifies collective growth and creativity. It’s empowering.",
+        "therapist": "Your calm presence not only facilitates ideas but helps shape a shared identity of trust and creativity within your team. As you reflect on these contributions, how does recognizing the value you bring deepen your connection to those moments of mutual growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "I think recognizing my contributions helps me see how important my steadiness is to the team. Like during a heated brainstorming session, calming tensions sparked thoughtful, productive solutions.",
+        "therapist": "Your steadiness acts like a beacon in moments of tension, fostering creativity and unity. Recognizing this amplifies your role in shaping the team's confidence. How might continuing to embrace these contributions deepen their identity as innovative problem solvers?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Embracing my role can help us continue tackling challenges head-on. I recall how sharing my steady approach during a chaotic project deadline recently guided the team to calmer solutions.",
+        "therapist": "Your calm and steady approach nurtures a safe space for the team to flourish, shaping mutual respect and problem-solving. Recognizing how your presence fosters growth deepens trust in those you connect with. How might seeing yourself through their eyes affirm this vital impact on others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "Seeing myself through their eyes makes me realize how essential my presence is. In a recent project, they told me my calm helped them focus amid chaos, which uplifted me.",
+        "therapist": "Your realization highlights a profound understanding of your role in enhancing focus and stability. This recognition not only uplifts you but continues shaping others into more effective collaborators. How might this awareness deepen the sense of unity and strength within your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Reflecting on how my calm aids the team, I feel more connected. For instance, during a tight deadline last month, we supported each other and shared ideas openly, strengthening our bond.",
+        "therapist": "Recognizing your influence during tight deadlines highlights your pivotal role in creating a collaborative and supportive team environment. As this awareness deepens, how might it enhance the mutual development and connectedness among your colleagues?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Realizing my influence during tight deadlines, I felt pride and gratitude. Last quarter, my calm demeanor helped us navigate a chaotic software launch successfully. It made me feel valued.",
+        "therapist": "Your ability to remain calm under pressure not only helped your team succeed but has also strengthened their identities as resilient collaborators. This mutual growth you fostered is significant. How might this shared experience continue to shape your team's effectiveness and the value you bring together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Reflecting on this shared growth, I believe it will foster even more openness and trust within the team. When we handle stressful situations well, our collective skills are refined. Last month's challenge taught us that unity brings out creative problem-solving; these insights encourage a stronger, more adaptive partnership moving forward.",
+        "therapist": "Your reflections highlight how your steadiness has helped shape the team into a more trusting and adaptable group. This shared resilience seems to strengthen both their skills and yours. How do you imagine these mutual impacts might continue shaping who you all are together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

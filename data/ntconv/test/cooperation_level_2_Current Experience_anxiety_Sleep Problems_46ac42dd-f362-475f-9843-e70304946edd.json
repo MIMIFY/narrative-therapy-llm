@@ -1,0 +1,447 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hey! How are you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello, I'm ready to dive into our session today. Feeling a bit anxious but open to exploring what's been bothering me lately.",
+        "therapist": "Thank you for your openness. Let's explore what's been on your mind, honoring the courage it takes to be here today. Your willingness is a strong foundation for our journey together."
+    },
+    {
+        "round": 2,
+        "user": "I am hanging in there, how are you doing?",
+        "answer_final": "Im doing good :) How you doing hanging in there?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your words. I've been feeling pretty overwhelmed lately. Juggling work and personal commitments is leaving me exhausted and uncertain about my path.",
+        "therapist": "You're navigating a lot right now, and feeling overwhelmed is understandable. We can explore ways to align your commitments with what truly matters to you. How do you feel about exploring these priorities together?"
+    },
+    {
+        "round": 3,
+        "user": "Well, I have been dealing with insomnia, and that is pretty much ruining my day lately.",
+        "answer_final": "Im sorry to hear that. Have you tried to help it or see a doctor?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'd appreciate that. I've also been dealing with insomnia, which is making everything else feel harder. It's affecting my mood and concentration throughout the day.",
+        "therapist": "Your openness in sharing your struggles is powerful. Let's focus on how insomnia impacts your daily life and mood. Together, we can explore paths that might alleviate this burden. What support do you feel would be most beneficial for addressing these challenges?"
+    },
+    {
+        "round": 4,
+        "user": "Yes, I have. I tried some natural things at first, but it did not work. Then I went to the doctor, and guess what? He said I am having insomnia due to anxiety.",
+        "answer_final": "Do you feel anxious though? maybe the doctor is right and maybe loosing stress is the answer :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I tried natural remedies first, but they didn’t help. The doctor says my insomnia is anxiety-related. Exploring how to tackle the anxiety might be really beneficial.",
+        "therapist": "Exploring how anxiety relates to your insomnia is a valuable path. Your insights on what might help are important. Let's create space for understanding and addressing this together, fostering a sense of relief. What small step could we take today towards easing your anxiety?"
+    },
+    {
+        "round": 5,
+        "user": "I think so, I am worried about my future with the pandemic, I guess we all are. I am from Brazil and lots of people are dying there.. I have lost 2 relatives to COVID in Brazil and also lost 4 friends there",
+        "answer_final": "Yeah the pandemic hit badly there. I am sorry for your loss. Perhaps you just dont want to follow in the same pathway which is why you are stressed",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think exploring the impact of the pandemic and my worries about the future would be a good step. Being from Brazil, COVID has hit close to home, losing two relatives and four friends adds to my anxiety.",
+        "therapist": "Your loss and anxiety during this challenging time are deeply significant, and acknowledging this is crucial for our exploration. Together, we can create a supportive space to understand how these experiences have shaped your current story. What feels most important to address today?"
+    },
+    {
+        "round": 6,
+        "user": "exactly. I am also very stressed because I have too much on my plate with school, working full time, kids at home distance learning",
+        "answer_final": "Yh thats seems like quite a lot and I know how you feel because of when I was a student. If i made it through you can too!  try your best",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful for the support. Right now, balancing school, a full-time job, and helping my kids with distance learning feels like too much. It's overwhelming and adds to my stress.",
+        "therapist": "Balancing so many responsibilities while supporting your kids sounds incredibly demanding. Your feelings of overwhelm are valid, and you’re showing remarkable strength navigating this. What might bring you even a small sense of ease or relief right now?"
+    },
+    {
+        "round": 7,
+        "user": "Thank you. The doctor prescribed an antidepressant that should help with anxiety and a sleeping pill, but I dont want to take it",
+        "answer_final": "If you dont take it you might never feel better. I would advice you to take it and see how you feel after",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I’ve been prescribed medication for anxiety and sleep, but I’m hesitant to take it. I’m worried about dependency and want to explore other solutions first.",
+        "therapist": "Your concern about medication dependency is understandable. Let's explore other solutions to manage anxiety and improve sleep, focusing on what aligns with your values and needs. What alternatives might resonate with you as a first step towards alleviating these feelings?"
+    },
+    {
+        "round": 8,
+        "user": "I am worried about getting addicted to it or something. Have you ever tried these type of meds\n/",
+        "answer_final": "Yeah i have taken antidepressant when I had my son as I always needed to provide, and I can say it did help me get better",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. I'm just really concerned about the possibility of getting addicted to these meds. Have you had any experience with these medications? I'm curious about potential effects.",
+        "therapist": "Exploring non-medication alternatives that align with your concerns is wise. It's normal to feel anxious about potential dependencies. Let's consider other strategies together and see what feels most supportive for you right now. How do you feel about exploring relaxation techniques or lifestyle adjustments?"
+    },
+    {
+        "round": 9,
+        "client": "I like the idea of exploring relaxation techniques. I’ve tried meditation briefly before, but I struggle with maintaining focus. Adjusting lifestyle seems daunting, yet I’m open to suggestions.",
+        "therapist": "Meditation's focus challenges you experience is a separate hurdle we can work on together. Perhaps exploring simple, shorter practices may feel more manageable? In this process, naming stressors collectively externalizes them, diminishing their control and impact over you. How might tackling these little-by-little ease your path?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 10,
+        "client": "[\"I think taking small steps with meditation sounds more doable. I've read about guided breathing exercises—maybe that could help ground me when I feel overwhelmed.\", 'Naming my stressors feels like a practical way to lessen their grip. Breaking things down might make them seem less daunting and give me some sense of control.']",
+        "therapist": "Guided breathing can indeed be a wonderful anchor when you're feeling overwhelmed. Naming and breaking down stressors enhances your sense of control, which is empowering. As we map their effects across life areas, how might this process influence changes at home, work, or relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 11,
+        "client": "I've noticed that identifying stressors could help improve communication with my partner about shared responsibilities. It might also help me be more patient with my kids when they struggle with online learning.",
+        "therapist": "You're keenly aware of how stressors affect various areas. Enhancing communication about shared responsibilities can lead to greater harmony and patience. By evaluating their presence, you uncover options for constructive change. What small action today might help strengthen those improvements in your home life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 12,
+        "client": "I could start by setting aside dedicated time to discuss tasks with my partner and check in on how the kids are managing, aiming for better support and understanding.",
+        "therapist": "Taking that initiative could indeed alleviate stress at home. Discussing tasks might redefine how responsibilities currently overshadow your daily life, leading to valuable support and understanding. Reflect on any difference you feel after trying this approach; recognizing these impacts can guide us further in unraveling the problem's hold.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "I’ll try talking to my partner this weekend and have a family check-in. Balancing work and home has felt chaotic; more understanding might ease that tension. A small, concrete step forward.",
+        "therapist": "Embracing a small, concrete step aligns with your hopes for more balanced home dynamics. This plan affirms your values around family connection and harmony. As you move forward, reflecting on what truly matters here might inspire even deeper conversations and collaborations.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Reflecting on my values, I realize the importance of supporting each other in our goals. Open conversations may help ease tension and bring a deeper understanding to family dynamics.",
+        "therapist": "Open conversations honor your family's unique dynamics and goals. It strengthens bonds, enabling support through shared values. Reflect on how your commitment to open dialogue nurtures the relationships you value deeply and potentially reshapes collective experiences for greater harmony.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I think open dialogue could create more trust. There have been moments where assumptions caused tension, like my partner thinking I had things under control when I didn’t. Clarifying those could help.",
+        "therapist": "You're recognizing how assumptions fueled tension, hinting at the problem's impact on trust. By valuing open dialogue, you prioritize honest communication. Consider how this commitment reflects your aspirations for harmony and understanding within your family.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Honest communication definitely aligns with my desire for harmony. When my partner thought I was managing well without needing support, it left me feeling isolated and overwhelmed.",
+        "therapist": "Exploring that isolation highlights its effect on your well-being. By naming assumptions, you weaken their hold. This awareness lets you redefine harmony through transparent communication, inviting mutual understanding and shared strength in family life.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I realize moments like missing my son's recital due to work demands amplify isolation. My partner's understanding shifted after I explained how unsupported I felt then.",
+        "therapist": "Missing your son’s recital seems to highlight how work demands interfere with moments that matter most. If isolation were seen as an outside force, how do you think it’s shaping your priorities and the connections you strive to nurture?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 18,
+        "client": "Isolation feels like it's distancing me from meaningful moments. It's shifting my focus away from joy and connection towards constant stress and missing out on important family times.",
+        "therapist": "Exploring how isolation diverts you from meaningful moments reveals its role in your life story. What strengths might you draw on to redefine priorities and reclaim those moments of joy and connection that matter most?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 19,
+        "client": "I can draw on my ability to communicate openly with my partner. Sharing specifics, like missing moments, helps refocus on what's important and encourages support to find balance.",
+        "therapist": "Reflecting on your desire for balance shows resilience. As you externalize isolation’s effects, consider how valuing connection reshapes family priorities. How might naming these experiences with your partner foster support for reclaiming meaningful moments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Naming experiences like missing my son's recital sparks real conversations about what we cherish. It's comforting, fostering mutual support to prioritize these precious family moments more intentionally.",
+        "therapist": "Prioritizing those moments showcases your values around family and connection. How might discussing such experiences further shape the story of togetherness and support you envision for your family life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Discussing our values openly with my partner lets us align on what's meaningful. It transforms moments of isolation into opportunities to nurture connections, fostering warmth and shared responsibilities.",
+        "therapist": "Through openly discussing values, you're re-authoring a narrative that strengthens connection over isolation. Your ability to identify and act on what's meaningful creates rich pathways for shared experiences. How might nurturing these connections continue to reshape the story of your family's life together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Nurturing connections means planning more family activities that everyone enjoys, like game nights. It's about integrating shared rituals that celebrate us, reducing that isolating stress I often feel.",
+        "therapist": "Planning those shared rituals reflects your commitment to connection and balance. As you embrace these changes, what other small steps might bring joy and reduce stress in nurturing the family story you’re creating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Celebrating small wins, like finishing a puzzle together or cooking a meal as a family, are steps to cherish. It deepens connections and feels fulfilling, easing the weight of stress.",
+        "therapist": "Celebrating these small wins reflects your deep commitment to fostering a fulfilling family life. These meaningful actions shape a story of unity and joy. How might continuing these cherished moments further solidify the supportive and connected identity you envision for your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Celebrating these moments regularly makes us feel like a cohesive team. Playing board games reveals our playful sides and cooking allows us to cherish every flavor, nurturing deeper family bonds.",
+        "therapist": "Celebrating together reveals important facets of your family identity, strengthening those playful, bonding elements. By nurturing these moments, how might this ongoing commitment redefine the sense of togetherness and shared joy in your family's evolving story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Being committed to these shared activities can evolve into a family tradition. Finishing puzzles together creates moments of achievement, and cooking allows us to explore and appreciate different cultures.",
+        "therapist": "By committing to these activities, you're weaving a family tradition grounded in exploration and cultural appreciation. These actions enrich your family's identity, adding layers of achievement and unity. What other rituals might align with your shared values and continue nurturing this preferred narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Thinking about our family, I've considered starting a monthly \"Cultural Night.\" Each month, we explore and celebrate a different culture through movies, music, and cuisine. It's an exciting way to learn together and strengthens our bond. It brings excitement and curiosity into our lives, combating the routine stress.",
+        "therapist": "Exploring new cultures together opens vibrant avenues for shared discovery, bolstering excitement and connection. By integrating \"Cultural Night\" into your monthly tradition, you enhance your family's narrative of curiosity and learning. How do you envision these experiences influencing your family’s story in the coming months?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Introducing 'Cultural Night' will enrich our family life with shared learning moments. I hope it inspires curiosity, reducing routine stress while deepening our understanding and appreciation for diverse cultures.",
+        "therapist": "Celebrating 'Cultural Night' showcases your deep commitment to growth and learning, enhancing your family's collective curiosity. This initiative aligns beautifully with nurturing diverse appreciation and enriching familial bonds. How does this vision of cultural exploration resonate with the core values you wish to instill in your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "This vision truly aligns with my core values of empathy, curiosity, and respect for others. I hope it inspires open-mindedness in our children and brings us closer together as a family.",
+        "therapist": "This commitment to instilling empathy, curiosity, and respect strengthens your family's journey. Embracing these values can deeply influence your children's worldview. How do you envision fostering open-mindedness while celebrating these core values within the tapestry of your family life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I envision fostering open-mindedness by encouraging my children to ask questions and share their thoughts freely. It's important for us to embrace differences, perhaps even visiting cultural events together. Through these shared experiences, we hope to cultivate an environment of learning and mutual respect, helping our family bond grow stronger with every new discovery.",
+        "therapist": "Embracing your children’s curiosity and exploring cultural events reflects a nurturing, action-driven approach to fostering open-mindedness. How might these shared experiences create specific memories that affirm your family's bond and reinforce the values you hold dear?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Attending a local festival last year, we saw vibrant performances and shared authentic meals. Watching my children engage with artists made me proud. Moments like these strengthen our bond.",
+        "therapist": "Observing your children embrace those festival moments beautifully reflects your family's values of exploration and connection. This shared pride illustrates a preferred family identity grounded in vibrant learning. What actions might you take to incorporate more such experiences, aligning further with your cherished values?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I'm thinking of planning regular family outings to multicultural museums or markets, letting us immerse in the diversity around us. It feels exciting and educational for all of us.",
+        "therapist": "Planning these regular outings showcases your commitment to celebrating diversity and education as foundational family values. These actions weave beautifully into a narrative of exploration. What part of this process deepens your sense of family identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Watching my children engage and express their ideas during these outings deepens our family bond. Witnessing their growth, curiosity, and learning inspires joy and reinforces our identity as explorers.",
+        "therapist": "Your vision of your family as explorers beautifully captures a shared identity built on curiosity and growth. These experiences not only bond you but inspire collective joy. How might celebrating this identity further enrich and affirm your family's journey together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Celebrating our identity as explorers could mean crafting personal family traditions, like trying new cultural recipes together monthly. Watching my kids' excitement inspires immense happiness and pride in this shared journey.",
+        "therapist": "Embracing the tradition of cooking new recipes invites continuous learning and connection. These activities breathe life into your family's narrative as explorers, nurturing joy and pride. In what ways do these traditions reflect the strengths that unite your family in this journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "These traditions showcase our adaptability and teamwork. When we cook, each of us plays a part; it’s fulfilling to see collaboration flourish and turn into delicious, shared experiences.",
+        "therapist": "Building traditions like these exemplifies your values of adaptability and teamwork, fostering deeper bonds. How do you envision these collaborative experiences enhancing your family's identity and future narratives?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "These experiences can teach resilience. Once, we burnt our meal and laughed it off, learning to adapt. It underscores our ability to embrace imperfections together.",
+        "therapist": "Embracing resilience amid imperfections highlights your family's ability to thrive together. This strength transforms challenges into memorable learning moments, enriching your identity as a unit. How does embracing imperfection positively influence your future explorations and shared adventures?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 36,
+        "client": "Embracing imperfection fosters courage and openness in us, shaping each adventure into a shared story of discovery. I'm filled with warmth seeing my children grow resilient and hopeful.",
+        "therapist": "Your children's resilience and hopefulness stand as a testament to the influence of your nurturing values. How have significant people in your life inspired this courage and openness, contributing to the strength you now pass on?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My grandmother was a huge influence. Her stories of overcoming challenges in life taught me perseverance and courage. I often share her tales with my kids, hoping to instill similar strength.",
+        "therapist": "Your grandmother's influence deeply enriches your family's narrative, blending her legacy into your children's growth. Her perceptions likely reflected qualities you admire, and sharing these with your children continues this cycle of resilience. How might her strengths be further celebrated in your shared stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Her strengths can be woven into our bedtime stories, crafting tales of her bravery during tough times. Watching my kids' wide eyes as they listen reminds me of her impact on us all.",
+        "therapist": "Embedding your grandmother's bravery in bedtime stories breathes life into her legacy, strengthening your family's narrative of courage. Witnessing your kids' wide-eyed wonder signifies how deeply you've contributed to their understanding of resilience. What qualities in you reflect the strength she imparted?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think my empathy and determination stem from her. When faced with setbacks, like last year's job uncertainty, I focused on solutions and remained hopeful for my family's sake.",
+        "therapist": "Your empathy and determination indeed reflect your grandmother’s legacy, transforming uncertainty into hope for your family. As you instill strength in your children, how do you envision further fostering their resilience as they shape their own narratives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "I envision encouraging them to embrace their unique challenges, celebrating small victories. A camping trip gone wrong once taught us improvisation; we focused on teamwork and laughter.",
+        "therapist": "Encouraging your children to embrace their challenges and celebrating victories highlights your influential role in nurturing resilience. Through laughter and teamwork, you've created lasting lessons. How does this sense of agency affirm your understanding of the meaningful contributions you make to their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "It reassures me that I'm a pillar for my kids. In moments like teaching them to ride a bike despite their falls, I see their grit grow, making me feel purposeful.",
+        "therapist": "You play a crucial role in nurturing your children's grit and resilience, becoming a fundamental part of their stories. How do you imagine they'll describe the impact of your support on their lives as they grow into their identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "They'll likely recount moments like falling off their bikes and rising again with courage. My support serves as a steady backdrop, reminding them they're never alone in their struggles.",
+        "therapist": "Your children’s stories of resilience mirror the foundation you've provided, revealing your pivotal influence in their journeys. By standing as that steady presence, how does it feel knowing your support will echo in their future narratives of strength and perseverance?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "It feels deeply fulfilling. Remembering the day we built a treehouse together, and their laughter when it was finally done, I realize our shared efforts shape lasting memories of strength.",
+        "therapist": "Your experience building the treehouse highlights the reciprocal impact of your shared memories. Their laughter affirms how these moments strengthen your identity as a supportive guide. Reflecting on this, how might these experiences shape your children's future narratives and their connections to others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think these experiences teach them the importance of effort and collaboration. Like when we fixed a broken garden gate together—it showed them how teamwork strengthens bonds.",
+        "therapist": "Your dedication to fostering effort and collaboration with your children undoubtedly shapes how they see relationships as a source of strength. How do you think these moments together might inspire them to approach challenges in their future connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "They might approach challenges with a sense of teamwork and persistence. When we tackled building their school science project, they learned creative solutions often come from collaboration.",
+        "therapist": "In fostering collaboration and creative solutions, you illuminate the strength of community within your family. As this impacts their identities, how do you envision these experiences influencing their future roles in collaborative efforts?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "They might become great team players, appreciating others' ideas, like in the school play when they resolved stage design conflicts together. That nurtures a sense of empathy and cooperation.",
+        "therapist": "You are indeed nurturing your children's capacities for empathy and cooperation. Your guidance plays a pivotal role in shaping their abilities to understand others' perspectives. How do these contributions from shared experiences reflect back on your own evolving sense of self?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Feeling like I've grown alongside my children, witnessing their empathy teaches me to prioritize understanding. Seeing their friendships develop reminds me of moments I’ve fostered connection in my life.",
+        "therapist": "Your insights reveal a deep connection to your children's growth, underscoring your valued role in nurturing understanding. Witnessing their friendships may inspire further reflection on your contributions to others’ lives. How does this enhance your own story of connection and influence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "Witnessing my children's growth, I realize the connections I build are based on authenticity and support. My community involvement, like organizing neighborhood cleanups, echoes this drive for meaningful interaction.",
+        "therapist": "Recognizing your role in fostering authenticity and support, both at home and in the community, highlights your significant impact on others' sense of belonging and purpose. This meaningful interaction truly resonates beyond you. In what ways might these connections reflect their influence back on your personal journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Reflecting on community projects, I see my confidence grow in influencing change. Once, after organizing a successful charity event, I realized the power of collective action and it reignited my hope for positive impact.",
+        "therapist": "Your confidence and hope shine through in how you've inspired collective action. Those you’ve worked with likely carry the imprint of your belief in positive change. How do you think their perspective of your leadership might affirm your unique contributions to these efforts?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "I think they saw my passion and commitment during the event, especially when I stayed late organizing donations. It felt validating to hear their gratitude and see real change happening.",
+        "therapist": "As your community sees your passion and commitment, it undoubtedly enriches their identities, encouraging collective action. What roles might you envision for them in future endeavors that could further develop this shared sense of purpose and empowerment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

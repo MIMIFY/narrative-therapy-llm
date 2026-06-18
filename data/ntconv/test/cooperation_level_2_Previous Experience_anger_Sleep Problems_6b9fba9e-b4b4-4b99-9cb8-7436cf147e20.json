@@ -1,0 +1,466 @@
+[
+    {
+        "round": 1,
+        "user": "hello",
+        "answer_final": "Hello there, how can I help you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I’m feeling a bit off today but ready to talk. Thanks for being here.",
+        "therapist": "I'm glad you're here and willing to share. Let's explore what might be contributing to this feeling today, in a safe space where your experiences are heard and valued."
+    },
+    {
+        "round": 2,
+        "user": "yes i had problems sleeping one night. i was so angry that i couldnt sleep",
+        "answer_final": "I am sorry to hear that. How often do you have problems sleeping?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm frustrated because I couldn't sleep one night. My anger kept me up, and it's bothering me today. I'd like to figure out what's behind this.",
+        "therapist": "Frustration and sleepless nights can really affect us. Let's delve into what’s behind your anger, seeing how it shapes your experiences today and exploring ways to shift that narrative together. Your openness is important here."
+    },
+    {
+        "round": 3,
+        "user": "i have them frequently when my neighbors are loud with their music.",
+        "answer_final": "I hear you, I used to have noisy neighbours too.. How long have you been living next to your noisy neighbours for?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's mainly when my neighbors play loud music late at night. It disrupts my sleep, and I can't shake the frustration the next day. Exploring this could be helpful.",
+        "therapist": "You're showing great insight by pinpointing the source of your frustration. Let’s explore how you can narrate this situation differently to find some peace. How would shifting this focus change your experience tomorrow?"
+    },
+    {
+        "round": 4,
+        "user": "Its hard because they dont answer there door so i can tell them about the issue.",
+        "answer_final": "If noise levels are above the legal limit, you can get the police involved, however, its probably better to have that open conversation with them first. Let them have the opportunity to fix it before it escalates.. Have you tried just a simple knock on the wall to let them know you are not happy?. Since they are not answering the door.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm trying to remain patient, but it's tough when I can't communicate with them directly. Maybe thinking about different solutions could help me approach tomorrow with less frustration.",
+        "therapist": "You’re showing real thoughtfulness in seeking solutions despite the frustration. What might a small step toward easing this tension look like for you, even without direct communication?"
+    },
+    {
+        "round": 5,
+        "user": "Unfotunately the police won't do anything about it because they know these neighbors are trouble. i even tried to communicate with the neighbor one day getting my mail.",
+        "answer_final": "I would personally try to write a letter and post it through their door, give them 24 hours to be able to read it and think about it.\n\nIf they continue to be noisy the next day, you should definitely call the police. The police are there for law and order, and it sounds as though they are causing a public nuisance which is what the police are there to do, no matter how troublesome your neighbours are. They aren't above the law.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've tried contacting the police, but they seem unable to act because they consider the neighbors problematic. I even attempted to talk to them once while getting my mail.",
+        "therapist": "You're dealing with a tough situation and showing persistence. Let’s consider how creating internal solutions, or reframing the issue, might bring relief. How do you envision reclaiming some peace in this environment?"
+    },
+    {
+        "round": 6,
+        "user": "i cannot write a letter because they will not understand since they dont speak english much,. Again, the police don't wat to get involved,. thank you for your input but i dont think i have anymore option but move and sell my house,. I just think that getting away from them would help",
+        "answer_final": "I understand you feel helpless, but I really think that is the last option. I don't know if you are saying the police will not help because this is what you have been told by a friend or this is your experience. But they really are there to help you in a case like this.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's been incredibly challenging. I've thought about writing a letter but the language barrier is daunting, and the police seem to avoid getting involved. Moving seems like my only option to regain peace.",
+        "therapist": "You're navigating a difficult path, and your openness to solutions speaks volumes. Writing a letter is a creative step despite barriers. Consider the resources around you that might support this choice. Could it offer a way to assert your needs and reclaim some control?"
+    },
+    {
+        "round": 7,
+        "user": "i have contactd the police they told me its not a problem the can fix",
+        "answer_final": "\"Police typically are responsible for maintaining public order and safety, enforcing the law, and preventing, detecting, and investigating criminal activities. These functions are known as policing\"",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I contacted the police, but they said it's not something they can fix. It's frustrating knowing that moving might be my only option for peace.",
+        "therapist": "You’ve shown real resilience in navigating this. Moving feels like a big decision—what other small, meaningful steps might help you feel more empowered and secure in this situation while you explore options?"
+    },
+    {
+        "round": 8,
+        "user": "apparently none of the household members will open the door for the police. i will try again. thank you for all your help i hope you have a great day.",
+        "answer_final": "Then I would suggest if the police are not able to help you take the officers badge numbers and contact your local council or government,. No problem. I know your issue will be solved without having a move away. Have a great day too!",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's discouraging that they won’t cooperate with the police. Perhaps I can explore mediation or community support, but I'll try contacting them again. Your guidance is appreciated—thank you.",
+        "therapist": "You're showing determination by considering mediation or community support—it’s a thoughtful way to seek resolution. As you reconnect with them, what feels most important for you to express in building understanding?"
+    },
+    {
+        "round": 9,
+        "client": "I'm not sure yet. Maybe I want them to understand how much their actions have impacted my peace, but I'm worried they might not even care enough to listen.",
+        "therapist": "Their actions seem to weigh heavily on your sense of peace, like an intruder disrupting a space meant for calm. If this “disruption” had a voice, what might it say about how it's shaped your daily life? Could naming it offer a step toward separating it from who you are?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 10,
+        "client": "It might say, \"I’m chaos you didn’t invite, stealing your focus and calm.\" It’s shaped my day by making simple moments—like reading or resting—feel uneasy and tense.",
+        "therapist": "Naming this \"chaos\" is a powerful step—it acknowledges it as separate from you. As it disrupts moments like reading or resting, where else might its effects be showing up? Understanding this could help you reclaim some control.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 11,
+        "client": "The chaos also shows up in my sleep—I often wake up feeling unsettled, like I’ve been bracing for something. It’s left me exhausted and second-guessing even small decisions.",
+        "therapist": "This chaos seems to have deeply impacted how you move through each day and night. What might it mean for you to begin reclaiming restful moments, even small ones, as acts of resistance against its influence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 12,
+        "client": "Reclaiming moments sounds empowering, but it’s hard to imagine. Maybe starting with setting aside time for deep breathing before bed could help ease the tension I carry.",
+        "therapist": "Breathing before bed can symbolize releasing tension, a step towards reclaiming peace from this chaos. As you explore what brings tranquility to your evenings, how might these actions reflect values or hopes you hold for your well-being?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "I think it reflects a hope to feel safe again, even in small ways. Right now, evenings are filled with unease, and breathing could be a first step toward restoring comfort.",
+        "therapist": "Restoring comfort through small steps like breathing reflects your hope to reclaim safety. Embracing this journey invites empowerment and renewal. What other small actions might align with your values to foster tranquility in those uneasy moments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Small rituals, like lighting a calming candle and journaling my thoughts, could add tranquility. I've felt overwhelmed even deciding dinner; maybe simplifying choices helps lessen the chaos.",
+        "therapist": "Lighting a candle and journaling reflect a powerful intention to create calm amidst the overwhelm. Simplifying choices seems tied to valuing clarity and ease—what does choosing these small rituals say about the kind of life you’re hoping to rebuild?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Choosing these rituals feels like creating a sanctuary, even if it’s small. I want to rebuild a life where I can exhale, trust myself more, and feel grounded again.",
+        "therapist": "Rebuilding a sanctuary where you feel grounded and able to exhale connects deeply to your hope for self-trust. As you reclaim this space, what values or strengths do you see guiding these choices, shaping the foundation of that sanctuary?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I think trust and simplicity are guiding me. There’s strength in creating small moments of calm, like sipping tea or just focusing on a single thought without chaos rushing in.",
+        "therapist": "Trust and simplicity guide you towards moments where chaos does not dominate. Recognizing their importance strengthens your sanctuary. How do these choices reflect the identity you wish to embody amid rebuilding peace in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Choosing trust and simplicity reflects my desire to be someone who navigates life with confidence and calm. Last week, when overwhelmed, I focused on simple routines like tea brewing, grounding myself in the familiar warmth.",
+        "therapist": "Embracing trust and simplicity as guiding forces in moments like tea brewing shows deep self-awareness. By externalizing overwhelm, you recognize its intrusion on your peace. How does holding onto these values affirm the person you're becoming, even when challenges arise?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Holding onto trust and simplicity when challenges arise helps me recognize my own resilience. It reminds me of a time I navigated a busy workday by focusing on simple tasks, realizing clarity through mindful breathing.",
+        "therapist": "Resilience shines in those moments of clarity, highlighting your commitment to trust and simplicity. By acknowledging how mindful breathing anchors you amid the busy day, what larger aspirations might these values support as you continue navigating life's challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I aspire to cultivate patience and balance, steering life towards gentleness. Recently, pausing amid chaos helped me feel more present and reassured, embracing each moment for what it is.",
+        "therapist": "Pausing amid chaos to embrace the present aligns beautifully with your aspiration for gentleness. By naming overwhelm as separate, how might nurturing patience and balance guide you towards deeper moments of presence and reassurance in future challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "In challenging moments, nurturing patience helps me slow down and recalibrate. For example, during a stressful presentation, focusing on my breath allowed clarity to surface amidst the tension.",
+        "therapist": "Your capacity for patience highlights your commitment to navigate challenges with clarity and calm. By externalizing tension, how might continuing to nurture these strengths shape the future moments you seek, especially in affirming your aspirations for gentleness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "By nurturing patience, I envision handling tense situations with a gentle touch. Like when I listened calmly to differing opinions in a heated debate, helping ease conflict by offering empathy.",
+        "therapist": "Your ability to offer calm empathy in a heated debate highlights how patience shapes your identity. How might this growing practice of gentleness and understanding further influence the way you connect with others, even in moments of conflict?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think it helps me approach others with more curiosity instead of defensiveness. Like when a friend recently criticized my idea, I asked questions rather than reacting, and we found common ground.",
+        "therapist": "Asking questions instead of reacting reflects your commitment to approaching interactions with curiosity and openness. This supports a preferred story where empathy is a bridge to understanding. How might this continued practice redefine the relationships and spaces you engage with, cultivating mutual respect and shared insight?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think it encourages me to seek connection over conflict. Like at work, when a colleague dismissed my idea, I calmly explained its value, and we ended up collaborating effectively.",
+        "therapist": "Seeking connection over conflict reflects a meaningful shift in your approach, building collaboration and understanding. How might this ability to navigate dismissal with calm assertion continue shaping your role in fostering harmony and shared progress, both professionally and personally?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think it fosters respect and teamwork, like when a colleague ignored my input on project timelines. I calmly clarified its impact, leading to shared adjustments that benefited the team.",
+        "therapist": "Your ability to foster respect and teamwork by calmly addressing misunderstandings reflects values of collaboration and clarity. How do these actions align with the sense of identity you aspire to, particularly in nurturing balance and mutual growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think these actions align deeply with how I wish to be seen—balanced, respectful, and understanding. Recently, easing tension in a team conflict showed me how fulfilling collaboration feels.",
+        "therapist": "Your actions affirm a preferred identity of balance, respect, and understanding. Collaborating effectively echoes your values and commitments, enhancing fulfillment. How might this reflection continue to support personal growth while nurturing a fulfilling path toward your ideal self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think reflecting on these actions reminds me how much I value intentional communication. Like when I actively listened during a team disagreement, it prevented escalation and strengthened trust.",
+        "therapist": "Trust and connection deepen when intentional communication prevails, illustrating your impact in transforming team dynamics. As you embrace this path of active listening and calm response, what steps might further integrate these practices into strengthening other relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think setting aside more time for honest conversations with family could enhance our connection. I remember a recent chat with my sister eased long-standing tension, which felt reassuring.",
+        "therapist": "Setting aside time for honest conversations demonstrates your commitment to fostering deeper connections and repairing relationships. How do these moments of eased tension with your sister reflect the values you want to continue nurturing within your family dynamic?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "During our chat, I realized patience and empathy helped us reconnect. It taught me that these values encourage open dialogue, which I'd like to cultivate further within my family.",
+        "therapist": "Your intention to foster open dialogue through patience and empathy aligns beautifully with your core values. As you cultivate these interactions, how do you envision this influencing the atmosphere and relationships within your family, reinforcing your desired narrative of connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I envision an atmosphere where everyone feels heard and valued. It could be like our recent family dinner where open discussions about challenges brought us closer, reducing misunderstandings.",
+        "therapist": "You’re shaping a meaningful story of connection within your family through openness and shared understanding. As you build this atmosphere, what future interactions or moments might deepen these bonds even further while reinforcing the sense of being valued and heard?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I believe planning family game nights or activities where everyone participates could help. Reflecting on past game nights, laughter and shared stories made us feel closer and more appreciated.",
+        "therapist": "Reconstructing joyful and appreciated moments through family game nights paints a vibrant vision of togetherness. Embracing these experiences enriches your family's shared narrative. How do you envision weaving more activities into your family routine to further embody this supportive atmosphere?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I envision organizing monthly family outings, like hiking or museum visits. These create new shared experiences and allow us to connect naturally. They foster openness and strengthen bonds.",
+        "therapist": "Connection through family outings beautifully reflects your commitment to nurturing strong bonds and shared experiences. How might integrating these activities into your routine further embody the values you hold dear, reinforcing a sense of togetherness and mutual support?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I believe organizing these outings will give us new ways to connect. After hiking, the shared challenges bring laughter and stories that help everyone feel appreciated and deepen our understanding of each other.",
+        "therapist": "Organizing outings like hiking creates opportunities for shared triumphs and connection, reinforcing your value of appreciation. How do you see these meaningful moments shaping the ongoing story of connection and mutual understanding within your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "These outings give us the chance to share stories, face challenges together, and celebrate achievements. I felt immense gratitude watching my kids helping each other during our last hike.",
+        "therapist": "Recognizing your kids supporting each other highlights moments of unity and growth, offering a glimpse into the alternative story you are fostering. These acts become foundational in shaping new family narratives grounded in gratitude and collaboration. How might these shared experiences further enhance the supportive environment you're cultivating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 34,
+        "client": "I think these shared experiences build trust and empathy. During a recent picnic, we all pitched in to solve a mix-up with our food, which turned into laughter and teamwork.",
+        "therapist": "The way laughter and teamwork emerged from that picnic mix-up reflects values of trust and connection you deeply cherish. How do these moments shape the identity you want to nurture within your family moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think moments like that shape us into a family that thrives on resilience and togetherness. It reminds me how capable we are of turning chaos into joy together.",
+        "therapist": "Moments like those reflect a powerful commitment to resilience and shared joy. How do you see these values influencing the way your family navigates future challenges or celebrates accomplishments together?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think these values will help us embrace challenges as opportunities for growth. Like when we tackled a sudden rainstorm during a camping trip, turning it into a playful adventure.",
+        "therapist": "The playful adventure you created from the rainstorm reflects how your family shapes resilience and joy together. Who in your family do you think inspires or strengthens these values most, and how has their influence shaped the way you navigate challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My partner inspires those values most. During that storm, they started singing to calm the kids, turning panic into laughter. It reminded me of their steady optimism.",
+        "therapist": "Your partner’s steady optimism seems to be a powerful anchor in shaping your family’s strength and joy. How do you think they see your role in fostering this shared resilience and togetherness?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think they see me as someone who encourages creativity and connection. Like when I suggested we build a fort to bond during a power outage—it brought everyone closer.",
+        "therapist": "Your suggestion to build a fort exemplifies the creative and connecting energy you bring into your family's life. This ability to turn challenges into bonding moments is truly impactful. How do these experiences strengthen your sense of contribution within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "These experiences make me feel valued, like when I proposed painting murals together during a quiet weekend. Watching everyone immerse themselves reminded me that my ideas strengthen our bond.",
+        "therapist": "Your creative ideas, like the mural painting, clearly nurture family connections. How do you feel these moments contribute to the identity of those around you, reinforcing your mutual impact on each other?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "These moments inspire them to be more creative and open-minded. Like when my child tried new painting styles, showing courage and growth. It highlights our shared evolution.",
+        "therapist": "Your encouragement for creativity clearly shapes not only growth but also a spirit of courage in your child. How do you think their openness and willingness to try new things reflects back on the kind of parent you’ve become?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Their openness shows me I’ve succeeded in fostering trust and exploration. Like when they sought my help sculpting clay—it felt rewarding to nurture their confidence step by step.",
+        "therapist": "Your role in nurturing their confidence speaks volumes about the trust you've built. How do you think their growing courage and creativity reflect the deeper values you’ve shared with them over time?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "Seeing their courage and creativity reflects my values of exploration and empathy. Like when they led a classroom art project, I felt proud witnessing them embrace leadership with kindness.",
+        "therapist": "Your pride in seeing your child lead with kindness signifies how deeply you've embedded exploration and empathy into your family's core. This mutual impact enriches both of you. How might their leadership continue to foster a culture of connection and empathy within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "My child's leadership instills a sense of teamwork, especially when they suggest collaborative family activities like cooking together. It deepens our connections and opens doors for more shared experiences.",
+        "therapist": "Your child's initiative fosters a family culture of collaboration, enriching everyone's relational identity. As these shared experiences become more common, how do you see them shaping your family's sense of connection and values going forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "These shared activities strengthen our unity, reflecting values like cooperation and kindness. When we collaborated on a family garden, everyone's effort was a tangible sign of our growing bond.",
+        "therapist": "Your family garden project illustrates the power of shared contributions and how they've shaped a more united identity. The nurturing environment you've fostered allows these values of cooperation and kindness to grow within everyone. How do you envision this mutual strengthening continuing to impact your family's journey together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "The unity from our garden project feeds into more family adventures, like hiking. It's calming and reviving to explore nature together, knowing our mutual strength supports each step forward.",
+        "therapist": "Your family's mutual strength indeed paints a picture of harmony and shared resilience. As you explore nature together, it seems to reaffirm the supportive bonds you've cultivated. How do these adventures in nature further illuminate the shared values your family treasures?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Our hikes showcase trust and adaptability. Facing rugged paths, we support one another, reinforcing a bond steeped in patience. Nature’s beauty inspires gratitude, deepening family unity and shared serenity.",
+        "therapist": "Reflecting on your experiences during these hikes reveals the profound mutual impact each member has within your family. It's inspiring to see how your contributions forge trust and patience among everyone involved. In what ways have their reflections and growth impacted your sense of identity as part of this family unit?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I feel more grounded within my family. Recently, during a challenging hike, our support for each other strengthened my sense of belonging and appreciation for our shared journey and evolving bond.",
+        "therapist": "Your grounded sense within your family showcases the powerful impact you've had in creating mutual support and appreciation. This evolving bond strengthens your identity and highlights your valued contributions. How does acknowledging these connections reshape your understanding of what you bring to those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I think it’s shown me that I bring stability and encouragement. Like during a recent disagreement, I helped ease tension by suggesting we pause and listen to each other fully.",
+        "therapist": "Your role in creating stability and fostering understanding within your family demonstrates how deeply your presence supports others. How might those moments of encouragement reflect the qualities your family sees and values in you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "I think those moments show my family values my calm presence and ability to mediate. Recently, after a tense exchange, my suggestion to talk openly brought everyone closer together.",
+        "therapist": "Your calm and mediating presence seems to deeply influence your family’s ability to reconnect in challenging moments. How do you think your contributions during those times might have shaped how they perceive their own roles within the family dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think my actions may have helped them reflect on their own strengths. After one tense moment, my brother started suggesting compromises, and my mom thanked me for fostering peace.",
+        "therapist": "Your ability to foster peace seems to have inspired growth in those around you, like your brother’s move toward compromise. How do you think their actions, influenced by your guidance, might deepen the family’s collective sense of connection and understanding?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

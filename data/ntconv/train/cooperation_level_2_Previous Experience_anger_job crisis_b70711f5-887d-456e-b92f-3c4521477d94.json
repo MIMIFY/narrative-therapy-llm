@@ -1,0 +1,484 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello there, how are you feeling at the moment?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling overwhelmed lately. It's like everything's piling up and I can't see a way out. I'd love some guidance on how to navigate this.",
+        "therapist": "You’ve shown incredible strength reaching out for guidance, and it's understandable to feel overwhelmed by everything. Let's explore what story you’d like your experiences to reflect. What possibilities can we consider together in creating a path forward that feels more manageable?"
+    },
+    {
+        "round": 2,
+        "user": "I am feeling okay, but I have been better",
+        "answer_final": "Is there anything specific that you'd like to talk about with me?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling better, but it's like my journey is stuck in a cycle of highs and lows. I’m open to uncovering different perspectives and exploring new paths.",
+        "therapist": "Together, let's recognize the highs and lows as essential parts of your unique journey. What new paths could these experiences reveal? Your openness and curiosity will guide us in exploring perspectives that allow for growth and change."
+    },
+    {
+        "round": 3,
+        "user": "I am having a lot of conflict with my boss at work.",
+        "answer_final": "That is not good. Are you thinking of looking for new work?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm definitely open to exploring new paths. Lately, the conflict with my boss has really heightened my stress. It feels like every conversation turns tense, and I wonder how I can change this dynamic.",
+        "therapist": "Conflict with your boss is understandably stressful. Let's consider how this situation might be part of a larger narrative in your life. What small, actionable changes could begin to shift these conversations into more constructive territory?"
+    },
+    {
+        "round": 4,
+        "user": "Honestly maybe. It is exhausting",
+        "answer_final": "I had a similar situation myself a few years ago and I moved on. I've never regretted it.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I can definitely see how the conflict with my boss fits into a bigger picture of feeling overlooked. It's mentally and emotionally draining. Maybe I could start by setting clear boundaries or initiating open conversations, but I'm unsure about the first steps.",
+        "therapist": "You’ve pinpointed an important theme of feeling overlooked. Setting clear boundaries and starting open dialogues can indeed shift dynamics positively. Let’s think about one step you might feel ready to try, ensuring it aligns with your values and provides the space you need."
+    },
+    {
+        "round": 5,
+        "user": "It is just a little scary since I don't have anything else set up",
+        "answer_final": "Is your boss's behaviour unreasonable enough to justify making a complaint about him to HR?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It is just a little scary since I don't have anything else set up. However, initiating this change might bring some much-needed clarity and control back into my work life.",
+        "therapist": "In this journey toward clarity and control, the fear of not having anything set up is part of the narrative we’re externalizing. Embracing this change can weaken that scary element, giving you more space for constructive steps forward. What small first step aligns with your envisioned clarity?"
+    },
+    {
+        "round": 6,
+        "user": "I have and they just contacted her boss. Nothing changed after.",
+        "answer_final": "It might be worth following up with. There are organisations that could give you free advice.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I actually tried taking a step by speaking up, and HR contacted her boss, but sadly, it didn’t change anything. It feels a bit discouraging because the problem remains.",
+        "therapist": "Taking a step forward shows courage and persistence, even when change seems distant. Let's explore what a small action or perspective shift could empower you further in navigating this challenge."
+    },
+    {
+        "round": 7,
+        "user": "That might be helpful but I still feel like I am alone in this struggle",
+        "answer_final": "You should not have to suffer if you are being bullied. Please contact your local Citizen's Advice!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your support in identifying small actions helps, but feeling alone in this struggle persists. The lack of change despite trying leaves me questioning the effectiveness of my efforts.",
+        "therapist": "Your feelings of loneliness and questioning your efforts are understandable. Acknowledging your commitment in this process is important, even when progress feels slow. Reflect on what support could make this journey feel less isolating for you."
+    },
+    {
+        "round": 8,
+        "user": "I guess I could at least try. You're so right",
+        "answer_final": "Do any of your colleagues feel the same way  that you do?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I guess I could reach out to my colleagues and see if they’ve faced something similar. That might provide some comfort and guidance on moving forward, even when it feels daunting.",
+        "therapist": "Your idea to reach out taps into a supportive network, enhancing your resources against isolation and discouragement. Recognize how this comfort in shared experiences can contribute to reshaping the problem’s impact. How might these interactions influence your current perspective or next step?"
+    },
+    {
+        "round": 9,
+        "user": "They don't. I think that is what makes it so much more difficult.",
+        "answer_final": "I am sorry to hear that. Perhaps it really is the best time to just move on.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I realize my colleagues don’t face the same issues, and it amplifies the feeling of isolation. It’s challenging to see a clear path forward without shared experiences.",
+        "therapist": "Feeling isolated amidst unshared challenges can be disheartening, but your openness speaks volumes about resilience. In exploring different avenues for connection or personal reflection, what qualities or stories within you could serve as a comforting guide?"
+    },
+    {
+        "round": 10,
+        "user": "It probably is a sign I need to do something else anyway",
+        "answer_final": "Yes, the world is your oyster. I wish you all the best with whatever you do!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reflecting on past experiences where I adapted to change helps, maybe it's a nudge towards new opportunities. It feels daunting, but perhaps it's time to explore a new direction.",
+        "therapist": "Your reflection on past adaptation highlights resilience, serving as a valuable guide towards new possibilities. Embracing change can indeed be daunting but what strengths from those experiences could encourage this exploration in meaningful ways?"
+    },
+    {
+        "round": 11,
+        "user": "Thank you. I appreciate you talking to me.",
+        "answer_final": "You're welcome and take care. (you need to press quit first .. I can't :))",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I've always had a knack for creative problem-solving, finding unique solutions even when things seem uncertain. It helps to think about past successes in new contexts.",
+        "therapist": "Recognizing your creative problem-solving ability highlights a strength you can rely on. How might these successes inspire new solutions or opportunities? Celebrating this adaptability supports building confidence in facing uncertainties."
+    },
+    {
+        "round": 12,
+        "client": "I've realized my creative solutions from college projects can apply here. Like redesigning a campaign in one day, maybe these skills can spark innovation at work, too.",
+        "therapist": "Recognizing the innovative spirit in your past can be empowering and provide clarity on facing work challenges. How does integrating this creativity align with your personal values or hopes for growth at work? Reflecting on these connections could illuminate steps forward.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "I value creative thinking that brings growth, pushing boundaries in meaningful ways. At work, applying ideas like the one-day campaign redesign could boost morale and inspire others.",
+        "therapist": "Recognizing creativity as a driver for growth showcases your commitment to meaningful change. Exploring how these values can counter isolation or amplify potential might enhance your sense of purpose. What elements of pushing boundaries inspire further engagement or transformation at work?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Pushing boundaries often brings out my passion for teamwork. Like when I led a team through a challenging deadline, it fostered collaboration and innovative thinking, sparking real joy.",
+        "therapist": "Leading the team nurtured your values of creativity and collaboration, enriching your experience with genuine joy. Viewing isolation as a separate challenge, how might nurturing teamwork within current projects help reshape your journey or contribute to shared success?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I'm really excited about the chance to start a cross-departmental project soon. Team collaboration usually sparks innovative ideas and helps break away from feelings of isolation at work.",
+        "therapist": "Focusing on collaboration reveals your drive to break isolation, harnessing team innovation. Naming isolation as a separate obstacle offers insight. How might this cross-departmental initiative shift your work environment or enhance connections for you and others?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 16,
+        "client": "I'm hopeful it will create bonds and a more dynamic environment, fostering growth beyond individual departments. Bringing diverse perspectives together often uncovers fresh solutions and combats isolation.",
+        "therapist": "Embracing these cross-departmental opportunities enhances your work environment, promoting growth and connection. Isolation may appear in work life as a limiting entity; identifying it separately offers power. Which bonds or strategies might further encourage collaborative engagement for both you and your team?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 17,
+        "client": "Working closely with mentors across departments has sparked my ideas and confidence before. Creating joint workshops to share skills and insights could strengthen these connections further.",
+        "therapist": "Exploring the dynamics of mentorship and joint workshops, you naturally align with collaborative values and seek stronger ties. These actions demonstrate meaningful growth; how do they weave together with your wider ambitions or cherished values at work?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Mentorship and workshops align with my ambition to create an inclusive culture. When co-leading workshops, I felt energised by exchanging insights. This value reflects my dedication to unity and growth.",
+        "therapist": "Reflecting on your ambition and values, this inclusive culture you seek truly aligns with your personal commitment to unity and growth. Embrace the energizing effect of these exchanges; how might nurturing these collaborations further enhance the unity within your workplace?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Nurturing collaborations can improve trust among colleagues, enhancing teamwork. When we collaborated on a previous project and held open discussions, it enriched creativity and brought us closer.",
+        "therapist": "Collaboration nurtures trust, enhancing creativity and closeness at work. By embracing open discussions, you breathe life into a supportive culture. How might identifying isolation as an entity apart from this collaborative spirit shape these nurturing moments to further inspire unity?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Recognizing isolation separately reminds me of past workshops where we faced challenges openly. Addressing feelings candidly created deeper trust, fostering a unique team bond. These experiences enriched my perspective on unity.",
+        "therapist": "Trusting and open communication deepens team bonds, essential to your value of unity. Externalizing isolation as an outside entity empowers these connections. Reflect on how addressing challenges builds a shared foundation; consider which specific actions could continuously nurture this environment of trust and support.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Reflecting on past collaborations, openly addressing discomfort in team meetings helped dismantle barriers. Initiating check-ins ensures we're aligned, fostering more open conversations and strengthening trust continuously.",
+        "therapist": "Collaborating effectively and dismantling barriers shows how integral your actions are to a supportive team dynamic. These strategies reflect courage in addressing discomfort, nurturing trust. Reflecting on these experiences, how might they guide you in reinforcing this positive narrative of unity moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Reflecting on these experiences reminds me of a project where we set up team norms. The candid feedback sessions boosted transparency, helping us all feel heard and valued in our roles.",
+        "therapist": "Reflecting on these empowering experiences highlights how transparency and feedback can resonate deeply with your values of inclusion and respect. This narrative of creating an open space for communication enhances team spirit. How might this shape your approach to fostering a consistent sense of value and belonging?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Reflecting on fostering belonging, I remember a time we shared personal stories in team circles. It created deep connections and encouraged me to keep promoting openness in meetings.",
+        "therapist": "Exploring how sharing personal stories enriched connections, let's consider this empowering practice as a core of your preferred narrative. Maintaining this openness promotes belonging and unity. Which specific actions from those moments would you like to carry forward in enhancing these deep connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Sharing personal stories created a sense of trust and intimacy. I felt more connected when everyone spoke about their challenges. I'd like to implement regular story circles in future meetings to maintain that bond.",
+        "therapist": "Embracing story circles as a regular practice deepens trust and nurtures connections. This consistent sharing can reinforce bonds within your team, aligning with your vision of openness. How might you integrate these experiences to support ongoing growth and shared understanding in future projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I plan to integrate story circles by allocating specific time in weekly meetings. Sharing personal challenges initially felt vulnerable, but I noticed it increased empathy and collaboration immensely.",
+        "therapist": "Sharing your vulnerabilities has clearly nurtured a profound level of empathy and collaboration within your team. As you weave story circles into weekly meetings, consider how these connections reflect the value you place on empathy and growth. How does this commitment align with your own evolving sense of identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I realize that fostering openness has become central to who I am. Once, when I opened up about my fears in a meeting, it was reciprocated and strengthened our bonds significantly.",
+        "therapist": "Embracing openness as a key aspect of your identity seems deeply affirming and transformative. Your willingness to be vulnerable encourages others, strengthening mutual trust. How do you envision these experiences shaping your ongoing journey and commitment to authentic connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "These experiences have made authenticity vital to me. By opening up, I've witnessed how genuine connections grow trust and foster a safe space for collaboration, enriching my personal growth.",
+        "therapist": "Embracing authenticity reflects your core values of trust and connection, demonstrating significant personal growth. This commitment to openness not only enriches collaborations but also deepens your self-awareness. How do you envision maintaining this authenticity as a guiding force in your journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I envision maintaining authenticity by staying true to my values in challenging situations. For example, last week, sharing a personal setback helped deepen trust with my colleagues.",
+        "therapist": "Recognizing how sharing personal experiences aligns with your core values strengthens your identity and relationships. This commitment to authenticity in adversity shapes a compelling narrative. How can these actions guide you in nurturing trust and connection moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I can nurture trust by actively listening and validating others' experiences. Recently, doing so during a team crisis led to more open discussions, strengthening our collective resilience.",
+        "therapist": "Exploring how active listening and validation became instrumental during a crisis shows your commitment to trust and resilience. How might you apply these valuable experiences to construct even more profound connections in future challenging situations, enriching both your personal journey and team dynamics?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I plan to use lessons from these experiences by ensuring I'm more present and available for my team, particularly in tense situations. Last week, this helped a colleague express concerns they hadn't shared before.",
+        "therapist": "Being present and available has clearly opened up space for authentic dialogue. It's rewarding to see these actions create deeper connections. How might this evolving narrative influence your role and interactions moving forward, particularly in navigating future team challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Navigating future challenges, I aim to cultivate open communication, balancing empathy and honesty. Recently, resolving a project dispute by acknowledging everyone's perspective reminded me of its transformative power.",
+        "therapist": "Balancing empathy and honesty is a powerful method of fostering genuine communication. It's inspiring to see how resolving disputes this way has empowered you. As these skills shape your narrative, what further possibilities might unfold in your story as you continue to embrace open dialogue?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 32,
+        "client": "I feel embracing open dialogue might unlock new growth paths, both personally and professionally. For instance, creating a supportive environment could encourage team innovation and individual development.",
+        "therapist": "Embracing open dialogue indeed lays the groundwork for innovation and growth. By fostering a supportive environment, you're aligning your actions with your values of collaboration and development. How do these insights enhance your identity and aspirations as a leader in this journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "As these insights emerge, I feel more aligned with the empathetic leader I've aspired to be. Just yesterday, recognizing a team member's efforts ignited enthusiasm and innovation, fueling my commitment to growth.",
+        "therapist": "Recognizing a team member's efforts has evidently reinforced your preferred identity as an empathetic leader. This synergy between your values and actions enriches your leadership journey. As you nurture this alignment, what potential future achievements do you envision guiding your commitment to growth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I envision building a more cohesive team where creativity flourishes, inspired by last week's brainstorming session. Feeling this shift, my confidence in nurturing talent grows, aiming for impactful projects.",
+        "therapist": "Your vision for a cohesive, creative team reflects your dedication to being a nurturing leader. This confidence in fostering talent aligns with your aspirations for impactful projects. As you embrace this narrative of growth and innovation, what inner strengths or values do you recognize guiding these achievements?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I see empathy and perseverance as my core strengths. Last week's brainstorming was a testament to these, where I persistently encouraged input, witnessing genuine excitement and idea-sharing.",
+        "therapist": "Your strengths of empathy and perseverance are shaping a positive team atmosphere, sparking creativity and excitement. Embracing these values as part of your identity bolsters your leadership journey. What deeper commitments or actions might emerge to further affirm this evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Further affirming my narrative, I commit to ongoing learning and mentorship. Just recently, connecting with a mentor reignited my enthusiasm, deepening my commitment to growth and shared success.",
+        "therapist": "Your mentor's influence clearly inspires a renewed commitment to learning and success. Their impact illuminates your path of growth, aligning with your values of empathy and perseverance. What attributes or lessons from this relationship further nurture your leadership narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Last week, my mentor stressed active listening. It transformed a tense meeting; instead of directing, I truly heard everyone. I felt more connected and understood as their leader.",
+        "therapist": "Your mentor's emphasis on active listening has deepened your leadership and connection with your team, allowing you to see yourself as a leader who fosters understanding. How might integrating this perspective from your mentor shape future interactions or decisions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I envision incorporating active listening into our planning sessions. Last Monday, by pausing to fully understand team concerns, we identified new strategies that improved project alignment and enthusiasm. It helps me feel more present and engaged.",
+        "therapist": "Embracing active listening has not only strengthened your team's strategy but also reaffirmed your sense of presence and engagement as a leader. How might acknowledging these contributions continue to influence the value and agency you bring to your team's development?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Acknowledging my growth encourages team trust and respect, fostering open communication. During a recent workshop, being truly present allowed me to connect with each member's unique vision.",
+        "therapist": "Your commitment to growth is clearly building a culture of trust and respect, deeply impacting your team. This presence nurtures open communication and mutual understanding. Reflecting on these contributions, how do you envision these connections shaping your team's identity and their sense of purpose moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "By nurturing trust and open dialogue, our team is beginning to express their innovative ideas more freely. It feels rewarding to see us unite under a shared vision and purpose.",
+        "therapist": "Your nurturing leadership is clearly vital in uniting your team under a shared purpose. This trust not only boosts their creativity but also enriches your team's collective identity. How might this growing sense of unity further impact each member's role within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I believe this unity has empowered each member to take ownership and propose innovative ideas confidently. Last week, Sarah suggested a new approach that transformed our project outlook, reflecting shared strength.",
+        "therapist": "Your leadership has clearly fostered an environment where ideas can thrive, and Sarah's approach illustrates the impact of your collaborative spirit. Reflecting on these dynamics, consider how this culture you've cultivated might shape each member's evolving identity within the team.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I sense that fostering an inclusive culture allows everyone to grow and express themselves. Last meeting, John stepped up with insights on marketing, enhancing our strategy. It's fulfilling.",
+        "therapist": "Your inclusive culture clearly invites growth, empowering contributions like John's marketing insights. It's fulfilling to witness these impacts and see how your leadership shapes collective confidence. How might recognizing each other's growth continue to enrich your team's shared identity and support ongoing collaboration?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Reflecting on each other's growth reinforces our connection and commitment to the team's vision. During a brainstorming session, acknowledging Mike's insight boosted our strategy cohesion and motivation.",
+        "therapist": "Your ability to highlight others' contributions not only strengthens team cohesion but also elevates their confidence and growth. Recognizing these influences, how does your awareness of each member's input inspire new dimensions in your collective journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Your question helps me appreciate the unique impact each team member has on our journey. Recently, Emily's attention to detail unearthed potential challenges early, sparking proactive strategies and deeper trust.",
+        "therapist": "Recognizing Emily's role highlights the reciprocal nature of your team. As she nurtures this environment, you're shaping an evolving identity that values attentiveness and trust. Consider how these contributions also affirm your role in cultivating such supportive dynamics within the team.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I feel grateful that Emily and the others can see the impacts of their input. It solidifies my belief in our collaborative approach, which shapes our identity as a cohesive, attentive unit.",
+        "therapist": "Your sense of gratitude reinforces your relational identity within the team, rooted in shared experiences and growth. Acknowledging Emily’s impact highlights how deeply interconnected each member's contributions are. How might these collective influences continue to shape your vision for future collaboration?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "As our journey unfolds, these shared experiences deepen mutual trust. Emily's input sparked discussions beyond surface levels, encouraging honest reflections on challenges and collective support. This shapes a resilient vision.",
+        "therapist": "Emily's contribution not only strengthened your team's trust but also illuminated deeper discussions. Seeing your identity mirrored through these interactions enhances your collective resilience. Reflecting on this mutual influence, how might you continue nurturing such insights to reinforce everyone's role in your shared journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "As we build on these discussions, I focus on recognizing individual strengths, hosting more open forums for ideas. Last week, a brainstorming session unearthed creative solutions and bonded us further.",
+        "therapist": "Your focus on individual strengths highlights the deepening bonds within your team, fostering mutual growth. This collaborative energy enriches each member's identity. Recognizing these shared impacts, how do you see your team's newfound solutions further enhancing their sense of purpose?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I see these solutions strengthening our purpose, like when we tackled that logistical issue. Our collaborative ideas brought unexpected insights and renewed enthusiasm. It feels rewarding, bringing us closer.",
+        "therapist": "Your ability to lead with collaborative ideas clearly strengthens your team's purpose and unity. This collective enthusiasm not only enhances solutions but also celebrates each member’s unique role, including yours. How does this shared journey deepen your understanding of your own contributions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "I've realized that fostering open discussions encourages others to share boldly. Last month, organizing a creative workshop ignited innovative strategies and empowered our team. It reassured me of my positive influence.",
+        "therapist": "You’re witnessing the positive ripple effect of your leadership and encouragement. By inspiring others to share boldly, you’ve affirmed their value and strengthened connections. Reflect on how your insights from these workshops continue to nurture your team’s collective identity.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "In those workshops, I noticed how creative energy flows when everyone feels safe to express. Witnessing team members innovate and take risks deepened my sense of purpose and connection.",
+        "therapist": "Recognizing your impact in creating a safe space truly highlights your significant role in nurturing innovation. This sense of purpose deepens the connection within the team, reaffirming the collective identity. How does this understanding enhance your vision for future collaborations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

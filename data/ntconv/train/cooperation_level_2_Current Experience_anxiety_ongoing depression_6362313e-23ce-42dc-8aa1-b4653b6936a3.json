@@ -1,0 +1,508 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi there, how are you feeling right now?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel overwhelmed today. It's like a heavy cloud is hovering over me, making everything seem more difficult than usual. I just need someone to listen.",
+        "therapist": "You’re navigating a tough moment, and it’s okay to feel overwhelmed. That cloud can seem daunting but listening is essential for understanding its impact. Let’s explore how this heaviness has shaped your experiences today—what meaning could you find in this?"
+    },
+    {
+        "round": 2,
+        "user": "I am feeling a high level of anxiety.",
+        "answer_final": "I am really sorry to hear that - I've been there too. Can you tell me more?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel this heaviness manifests as anxiety, making even small tasks intimidating. It's like each thing adds more pressure, and I struggle to find calmness.",
+        "therapist": "Acknowledging this pressure is a courageous step, and together we can explore pathways to ease your burden. In finding calm amidst the anxiety, what small, manageable steps could create space for breathing and relief today?"
+    },
+    {
+        "round": 3,
+        "user": "My car had some issues recently and the mechanic bill is adding up and getting bigger and bigger. I am not sure how I am going to pay for it all.",
+        "answer_final": "That sucks. Has the pandemic been making your financial situation worse?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Taking a closer look at my finances might be helpful, maybe by prioritizing essentials to manage that mechanic bill. It's a bit scary, but doable with the right plan.",
+        "therapist": "Prioritizing essentials to address your mechanic bill is a proactive step toward calm. Recognizing this plan is doable even amidst fear reflects strength. How might this focus create ease in other areas, enhancing your sense of control?"
+    },
+    {
+        "round": 4,
+        "user": "Yes. My wife lost her job due to it and it has put a larger burden on us financially.",
+        "answer_final": "There is government help available for people who are financially suffering I believe - have you looked into this?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, it might help me feel less scattered. But honestly, my wife losing her job has worsened the financial strain. It’s made everyday decisions feel heavier than usual.",
+        "therapist": "Losing a job can indeed intensify daily pressures and choices. Together, we can uncover ways to lighten these decisions. As you navigate this challenge, what strengths do you think could help you through these heavy moments?"
+    },
+    {
+        "round": 5,
+        "user": "Yes, unfortunately I make too much money to qualify with my job. It still is a huge burden not having the income we depend on from my wife.",
+        "answer_final": "I am really sorry. Is she able to get any other sort of work, even if it's less well paid?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Although I earn too much to qualify for assistance, it's still burdensome without my wife's income. Maybe being resourceful and supportive with each other are our strengths now.",
+        "therapist": "Emphasizing your resourcefulness and mutual support can alleviate some strain during this transition. By acknowledging these strengths, how might you and your wife create practical steps together for moving forward?"
+    },
+    {
+        "round": 6,
+        "user": "We're trying. She has a few interviews set up next week.",
+        "answer_final": "Do you have any friends or family who might be able to help?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "We're trying to leverage our strengths. My wife has lined up a few interviews next week, which feels promising. We're focusing on budgeting and meal planning to ease financial stress.",
+        "therapist": "Great to hear about your wife's interviews and thoughtful financial planning. Together, these steps nurture resilience. How might aligning these strengths with this new opportunity help you both strengthen your path forward?"
+    },
+    {
+        "round": 7,
+        "user": "No. We just moved to a new city in the past year so we don't know many people.",
+        "answer_final": "That is a dilemma. What sort of field did your wife work in?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "We’re hopeful about building connections as we settle in this new city. It’s challenging not knowing many people, but we're trying to remain open to opportunities.",
+        "therapist": "Building new connections in a city takes courage, and staying open to opportunities strengthens your journey. Trusting these experiences, how might exploring local networks foster the belonging you both seek?"
+    },
+    {
+        "round": 8,
+        "user": "administrative work.",
+        "answer_final": "Has she considered temping? I did that when I was between permanent jobs and it was quite good.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "We've been joining local networking events, trying to find groups with shared interests. My wife also seeks administrative roles, aiming to connect with potential job leads.",
+        "therapist": "Engaging with networking events and seeking administrative roles are commendable strategies. As you connect with others, how might embracing shared interests further enrich your journey and open doors to opportunities for both you and your wife?"
+    },
+    {
+        "round": 9,
+        "user": "No we haven't yet. That's actually a pretty good idea.",
+        "answer_final": "It's not as well paid but you can choose your own hours. There's also online gig work out there too",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "We haven’t joined specific groups for shared interests yet. Your suggestion sounds insightful, and it might help us meet like-minded people and find community support.",
+        "therapist": "Joining interest groups could indeed foster community connections and support. Consider what interests resonate most for both of you. Embracing these groups might help in creating supportive networks and ease the transition."
+    },
+    {
+        "round": 10,
+        "user": "Anything would help at this point. We also have a three year old to care for.",
+        "answer_final": "Have you considered going to a food bank? They can be very useful",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your idea of joining interest groups resonates, and we’ll explore it further. With a three-year-old, finding supportive networks feels even more crucial right now to create stability.",
+        "therapist": "Exploring interest groups is a valuable step that could foster meaningful connections, enhancing support for your family. How might finding such supportive networks ease the transition for your three-year-old and contribute to the stability you seek?"
+    },
+    {
+        "round": 11,
+        "user": "We feel bad going to food banks. I make enough money to pay the bills and I know there are others out there in more need. It's just when the unexpected happens it makes things really tight and difficult. We have used up all our savings during the pandemic and I rely on my car to get to and from work.",
+        "answer_final": "You should not feel bad. Have you not donated to food banks yourself when times were better? I used a food bank in a crisis time and now I give back whenever I go shopping",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I hope these groups will bring stability, especially with a three-year-old. It's tough relying on food banks, but unforeseen expenses after using our savings during the pandemic make ends challenging.",
+        "therapist": "Navigating financial challenges while seeking stability shows immense resilience. With the support of interest groups, a strong network may help ease these burdens and bring stability to your family life. How can these connections reinforce your strengths during this transition?"
+    },
+    {
+        "round": 12,
+        "user": "Thanks for the reminder. We have donated to several places in the past. I appreciate the kind words.",
+        "answer_final": "Everyone needs help sometimes :) And you can pass it forward when things are better for you. On that note I suppose I had better go but I was glad to speak with you!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your words about resilience uplift me. We've been on the giving end before, and it's a comfort to think we could find that kind of support now. Thank you for reminding me.",
+        "therapist": "Your ability to seek support now reflects the same generosity you've shown in the past. What might it feel like to be part of a community that values both giving and receiving during this chapter of your life?"
+    },
+    {
+        "round": 13,
+        "user": "Likewise! Thanks again, I really appreciate your time. :]",
+        "answer_final": "goodbye and good luck :). Can you press quit and take the survey? It has to be done by your first :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Your question makes me reflect deeply. I imagine it would feel comforting and affirming, like regaining a sense of belonging. Thank you again for your thoughtful support; it truly means a lot.",
+        "therapist": "Regaining a sense of belonging can indeed bring comfort and affirmation during challenging times. How might embracing this sense of community strengthen the stability you're creating for your family?"
+    },
+    {
+        "round": 14,
+        "client": "I'm hoping it would create a safe environment where I can exchange ideas with others, find encouragement, and help my child see examples of kindness and support in action.",
+        "therapist": "Creating a safe environment reflects your desire to counter isolation and foster connection. If we were to describe this challenge, could it be seen as \"isolation's pull\"? How do you envision resisting its effects for your child and yourself?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 15,
+        "client": "Yes, 'isolation's pull' feels fitting. By connecting with other parents through playgroups or community events, I'm hoping to model resilience and build friendships for both of us.",
+        "therapist": "Connecting with others to counteract \"isolation's pull\" shows strength. This can create a nurturing space for you and your child. What new possibilities could emerge from these connections that might further enrich your shared experiences?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 16,
+        "client": "I imagine it could mean discovering shared interests or creating lasting traditions, like community picnics. Experiencing warmth and trust might ease anxiety, bringing a feeling of togetherness and hope.",
+        "therapist": "Warmth, trust, and shared traditions can certainly counter isolation's pull. How do you think this vision of connection might challenge the anxiety and strengthen the hope you've described?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 17,
+        "client": "I think seeing my child smile as they bond with others could ease some of my constant worrying. It would remind me that we're not navigating this alone anymore.",
+        "therapist": "Smiles and shared bonds carry so much power against \"isolation's pull.\" What values or hopes for your child's future make nurturing those connections feel especially meaningful to you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I'm inspired by the idea of compassion and empathy guiding my child. Witnessing others practice kindness helps her learn those values. It was heartwarming seeing her share toys at our last playgroup.",
+        "therapist": "Sharing toys and witnessing kindness bring the values of compassion and empathy to life for your child, fostering her understanding of these essential qualities. What aspects of compassion resonate with you personally as you witness her growing sense of empathy?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Watching her offer comfort when a friend cried made me reflect on my own desire to care for others. It's an uplifting moment, reminding me kindness can spark healing.",
+        "therapist": "Reflecting on your child’s compassionate actions affirms your commitment to kindness and healing. These moments could strengthen your hope in cultivating care for others. How do you think embracing this part of yourself might influence the community connections you’re nurturing?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Embracing kindness helps me approach others with less hesitation. At a recent event, I offered to organize activities, and the gratitude I received felt deeply encouraging.",
+        "therapist": "Gratitude can be a powerful reminder of your capacity to create positive experiences for others. How might embracing this kindness further diminish isolation’s pull and align with the hope you're nurturing for both yourself and your child?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Embracing kindness encourages me to engage with others more openly. Recently, volunteering at a shelter, I felt connected while witnessing genuine appreciation, reinforcing my hope for meaningful connections.",
+        "therapist": "Your openness and engagement illuminate an alternative path—one where kindness becomes a central guiding principle. How might these experiences at the shelter expand your understanding of meaningful connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "These moments at the shelter showed me that meaningful connections flourish through small acts of compassion and collective support. Watching the volunteers collaborate strengthened my belief in community healing.",
+        "therapist": "Moments at the shelter seem to illuminate your values of compassion and community healing, shaping your preferred story. In embracing these acts of collective support, how does this journey influence the identity you wish to nurture within yourself and your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "As I nurture kindness and empathy within myself, I'm driven to model these values for my child and community. Recently, helping distribute meals showed me collective compassion in action.",
+        "therapist": "As you embody kindness and empathy, this community engagement demonstrates collective compassion. Such experiences enrich your journey of modeling these values. How do these actions continue shaping your narrative of creating a nurturing environment for both your child and broader community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "As I distribute meals, I see families expressing relief and gratitude. This experience inspires me to cultivate similar compassion at home, reminding my child of kindness's impact.",
+        "therapist": "Your experiences at the shelter illuminate a path toward compassionate action, showcasing a profound impact both within yourself and as a role model for your child. How might continuing these acts enhance the narrative of hope and connection you're crafting for your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Reflecting on these experiences, I'm encouraged to create shared activities at home, like cooking meals together and sharing stories. This cultivates hope and connections in daily life.",
+        "therapist": "Exploring shared activities reflects your commitment to fostering connection and values of hope. How does creating these moments align with the identity of compassion and warmth you’re nurturing for yourself, your family, and the community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I think these shared moments deepen the compassion I aim to model. Recently, we cooked a simple pasta together, laughed over mistakes, and felt closer through the experience.",
+        "therapist": "Laughing and sharing that moment together seems to highlight your intention to cultivate compassion and connection. How do these simple, joyful experiences reflect the values you wish to center in your family’s story moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Laughing together over a spilled sauce felt healing. It reminded me that mistakes and imperfections can bring us closer, and I want that openness to shape our family’s story.",
+        "therapist": "Laughing over imperfections reflects your desire to create a story of openness and connection. As you embrace this perspective, what intentions or values feel most central to the kind of relationships you want to nurture within your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I want to nurture relationships grounded in honesty and vulnerability. Recently, during bedtime, my child shared fears about school, and we connected through mutual reassurance and openness.",
+        "therapist": "Sharing that moment of openness with your child reinforces the honesty and vulnerability you value. How do these connections strengthen the identity of a nurturing and supportive parent you're shaping for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "These connections reassure me that by listening and providing a safe space for my child, I'm fulfilling my role as a supportive parent. It feels encouraging to witness their trust.",
+        "therapist": "Recognizing these bonds within your family reflects your deep commitment to fostering trust and safety. This supportive identity you're embracing as a parent invites meaningful growth. How might these evolving connections continue to guide your family’s narrative toward the future you envision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I think these connections will help us face challenges together, like recently when my partner and I discussed financial stress openly, it felt like we were truly a team.",
+        "therapist": "Discussing challenges as a team reinforces your identity as collaborative partners, transforming financial stress into opportunities for growth. These connections set the stage for continued resilience and mutual support in your family's narrative. How do you imagine this teamwork evolving to further enrich your shared journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I imagine us finding creative solutions together, like brainstorming budgeting ideas or sharing more tasks to alleviate stress. Feeling unified in facing these challenges fosters hope and trust.",
+        "therapist": "Exploring creative solutions strengthens the unity and trust you're building within your relationship. By integrating shared tasks and responsibilities, you are creating a collaborative family narrative. How do these actions contribute to the future vision of a connected and resilient family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "This approach strengthens our bond, knowing we can rely on each other. Like when we tackled a tricky renovation project together, it felt empowering and reassuring for future challenges.",
+        "therapist": "Tackling that project together shows the power of shared efforts in strengthening your bond. As you reflect on this experience, what possibilities do you see for creating empowering moments like this in future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think we could plan more family projects together, like creating a garden or redecorating a room. It would nurture teamwork while giving us shared memories to cherish.",
+        "therapist": "Creating new projects like a garden or redecoration with your family builds on past successes and paves the way for a connected future. How do these plans reflect the growing narrative of teamwork and cherished memories you wish to cultivate?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 34,
+        "client": "Creating a garden could symbolize our growth as a family and reflect teamwork. Remembering moments like planting seedlings together, I feel hopeful for nurturing these connections further.",
+        "therapist": "Building your garden together beautifully mirrors the values of growth and unity you hold dear. These intentional acts affirm your commitment to family bonds, nurturing hope for the future. How might these evolving connections inspire other aspects of your family's narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Creating this garden inspires ideas about embracing change as a family. Once, we faced difficulties with shifting schools and jobs, but unity made adaptation smoother and filled me with gratitude.",
+        "therapist": "Your family's unity during times of change highlights a deep resilience rooted in gratitude. Embracing change together reinforces this resilient identity and inspires future stories of adaptation and growth. How do you see this sense of gratitude shaping new family adventures?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Gratitude guides us to approach changes, like the upcoming job transition. I remember a time we prioritized shared dinners amidst stress, and how such moments create stability.",
+        "therapist": "Acknowledging how shared dinners nurtured stability amid stress highlights the profound impact your family has on your identity. By embracing gratitude, you draw strength from these moments. How might this sense of appreciation for your family's role in resilience support the upcoming transition?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I appreciate their constant support, especially during our evening talks. These moments keep me grounded. With this new job transition, I'll lean on them more and value their perspectives.",
+        "therapist": "You seem to feel deeply supported by your family, which enriches your sense of self and security. Leaning on their perspectives during this transition highlights their value in your life. How might seeing yourself through their supportive eyes shape how you approach this new chapter?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Seeing myself through their supportive eyes offers a sense of calm and confidence. Reflecting on when they encouraged me during stressful deadlines, I feel ready to face new challenges positively.",
+        "therapist": "Recognizing how your calm and confidence uplift others reveals your meaningful contribution to your family's strength. How do you think these qualities have shaped their ability to face challenges alongside you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think my calm approach reassures them, like when I stayed composed during a financial setback. It helped us discuss solutions openly, and I felt connected to our teamwork.",
+        "therapist": "Your calm and composed nature fosters open communication and reinforces the strength of your family bond. How do you see this teamwork, supported by your reassuring presence, shaping future moments together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I think it will help us handle life’s uncertainties better, like when we planned my partner's career shift. We were honest about fears but grew stronger through understanding and solutions.",
+        "therapist": "Growing stronger through understanding and solutions speaks volumes about your family's trust and openness. This teamwork undeniably contributes to shaping each member’s ability to navigate challenges with confidence. How might this experience influence your partner’s self-view during their career shift?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "My partner felt encouraged seeing how we tackled past uncertainties together, like creating a savings plan. It boosted their confidence, reminding them they’re capable and supported.",
+        "therapist": "Your ability to create solutions together seems to have strengthened your partner’s sense of capability and trust in collaboration. How might their growing confidence, shaped by your teamwork, contribute to the ways they support you in this new transition?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "My partner's confidence boosts mine. During our weekend walks, discussing career goals openly becomes comforting. Their support in brainstorming ideas has lessened my anxiety about the transition.",
+        "therapist": "Your partner's support seems to amplify your strengths while easing your transition. Their confidence reflects your shared resilience and mutual trust. How might their belief in you continue influencing how you approach the challenges ahead with steadiness and hope?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "My partner's belief in me reminds me of when we dealt with my job uncertainty and their career shift simultaneously. It calmed my fears and inspired proactive planning together.",
+        "therapist": "Your ability to inspire calm and proactive planning during uncertainties seems to echo in your partner’s confidence. How do you see this mutual reassurance shaping the paths you both envision for yourselves moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I'm hopeful that our shared support can foster resilience in new opportunities. Recently, brainstorming together for my career transition opened doors I hadn't considered before, boosting my confidence.",
+        "therapist": "Exploring career paths together seems to have deepened the trust and resilience in your relationship, boosting confidence. How has this experience shaped your understanding of your identity within the partnership, particularly in facing new challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Through our shared experiences, I see myself more as a proactive planner rather than someone who's driven by fear. This transition began when we decided to relocate for better career prospects. Facing that challenge together has defined my role in the partnership, making me more confident in tackling future uncertainties.",
+        "therapist": "By seeing yourself as a proactive planner, you've shaped a narrative of resilience within your partnership. Your contributions enhance your partner’s confidence as well. How do you envision this role evolving, knowing that your shared courage has already positively impacted your joint journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I envision my role as a source of strength and optimism, continuously supporting our goals. Our joint courage when starting over in a new city showed me the power of persistence.",
+        "therapist": "As you see yourself as a source of strength and optimism, your persistence has inspired mutual growth within your relationship. In what ways do you feel your partner might view their own identity through the lens of your encouragement and shared courage?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I think my partner sees themselves as more adventurous now. Recently, they took a leap into a new career field, encouraged by our past experiences of overcoming challenges together.",
+        "therapist": "Your encouragement seems to have inspired your partner’s sense of adventure, opening doors to new opportunities for them. How do you feel knowing that your shared experiences have played such a key role in shaping their confidence to take bold steps forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I feel incredibly proud seeing them take bold steps. Our shared experiences, like overcoming our initial doubts about relocating, have reinforced my belief in our combined strength and resilience.",
+        "therapist": "Your pride reflects how your contributions have strengthened your partner’s identity, encouraging them to embrace new adventures. This mutual reinforcement solidifies the trust and shared purpose you both cultivate. What other aspects of your combined journey do you think further support this strong partnership?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Our decision to prioritize open communication and set mutual goals further supports us. When tackling financial challenges after relocating, those efforts helped us navigate stress and maintain balance.",
+        "therapist": "By prioritizing open communication and mutual goals, you've both nurtured resilience in the face of financial challenges. This deepens your connection and strengthens your identity as supportive partners. How might these shared efforts further shape your future identities together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "These efforts reinforce my hope and trust in our future, making us more adaptable. Recently, collaborating on budgeting proved that we can tackle any hurdles together.",
+        "therapist": "Your shared efforts and adaptability truly highlight your cooperative spirit. It seems like this journey of collaboration not only strengthens your bond but also fosters a dynamic identity for both of you, enriching how you approach challenges. In what ways does this partnership continue to empower each of you individually?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

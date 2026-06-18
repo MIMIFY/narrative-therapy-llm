@@ -1,0 +1,477 @@
+[
+    {
+        "round": 1,
+        "user": "Hello good afternoon.",
+        "answer_final": "Hi, good afternoon.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, good afternoon. I'm feeling a bit anxious lately and could use some guidance on how to manage these feelings.",
+        "therapist": "Thank you for sharing your feelings of anxiety with me. Let's explore the story behind these emotions and what might be influencing them. How have you been able to cope with or overcome similar feelings in the past?"
+    },
+    {
+        "round": 2,
+        "user": "I'm feeling anxious that I am going to lose my job.",
+        "answer_final": "Losing a job is always anxious.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate you asking that. My anxiety about possibly losing my job stems from recent changes at work, like layoffs and restructuring. In the past, I've coped by seeking support from friends and focusing on what I can control, but it's been challenging to stay positive this time.",
+        "therapist": "You're navigating a tough situation with commendable self-awareness. How might you lean on your existing strengths and past support systems to find grounding amid these changes?"
+    },
+    {
+        "round": 3,
+        "user": "I hope I don't.",
+        "answer_final": "Why do you think you will lose your job?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think I can focus on staying proactive, maybe reconnect with friends for support. Still, there’s this fear—what if it’s not enough to feel secure?",
+        "therapist": "In moments like this, the Fear feels overwhelming. Can you visualize how it fits into your life, and its impact? Consider naming it separately from yourself to highlight your control over taking proactive steps with support systems in place, reinforcing security."
+    },
+    {
+        "round": 4,
+        "user": "I am on short term disability and I am not ready to go back to work yet but I do not have any job protection.",
+        "answer_final": "Oh so your job is not protected and your short term disability will end soon? Is that correct?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Visualizing Fear is difficult when dealing with job uncertainty. Short-term disability adds pressure without protection, and it makes the prospect of returning to work daunting.",
+        "therapist": "Fear often feels stronger when connected to uncertainty and pressure like yours. If we saw Fear as a separate entity influencing your thoughts, what name might fit its role in shaping this experience? Naming it can help distance its impact and explore steps forward."
+    },
+    {
+        "round": 5,
+        "user": "It's not ending yet, but no my job is not protected. I live in the United States, but I have not been at my job long enough to earn protection for medical leave.. you have to have been here for a year, and I started November 2020. I'm afraid that I will lose my job since I'm still on disability for the foreseeable future.",
+        "answer_final": "I see. Have you spoken to HR?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's like a looming shadow called Uncertainty, always behind me. Without job protection or enough medical leave time, my fear of losing stability grows heavier.",
+        "therapist": "Uncertainty indeed feels like a persistent shadow. Consider your resilience amidst challenges as a beacon. What might the story of Stability and Strength look like in guiding you towards moments of clarity and calm?"
+    },
+    {
+        "round": 6,
+        "user": "I have, but they are telling me that it is up to my department manager who isn't actually getting back to me about it yet.",
+        "answer_final": "Your department manager is not answering you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've reached out, but it's frustrating that my manager hasn't responded yet. It's like I'm waiting in limbo, trying to find stability amidst this uncertainty.",
+        "therapist": "Uncertainty can feel unsettling, especially when awaiting responses. Your effort in reaching out shows your desire for stability. While waiting, perhaps explore actions you control to reinforce security, like reconnecting with supportive friends or focusing on personal strengths."
+    },
+    {
+        "round": 7,
+        "user": "No, I have sent them a few emails about it. It makes me nervous. I do not have a phone number to call and my psychiatrist\n really does not think I am ready to go back to the stress of my job.. I wish I could just call him, but I do not have a phone number for him. Just his email.",
+        "answer_final": "Have you tried mentioning that to HR?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve emailed a few times and it makes me anxious that there's no reply yet. My psychiatrist advises against returning to work due to stress, but I lack their phone number, just email. It adds to the sense of uncertainty I’m facing.",
+        "therapist": "Your anxiety in this waiting period is completely understandable. What small, comforting actions could support you right now as you manage both communication challenges and your well-being? Even simple steps might offer a sense of grounding amidst uncertainty."
+    },
+    {
+        "round": 8,
+        "user": "HR is the one who gave me his email.. I don't think he has a direct work\n line, and they're not allowed to give out personal information.",
+        "answer_final": "Yes that is how most employments work about providing personal information.. That in itself causes anxiety to most since other forms of communication is not possible especially if they are not responding to ciritcal matters.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Taking time to breathe deeply and meditate daily could offer a reprieve from my anxious thoughts. HR provided his email but mentioned he lacks a direct work line, so it seems there's no alternative contact method.",
+        "therapist": "Breathing and meditation offer moments of peace during this waiting period. Your proactive approach shows strength. Could maintaining a routine or connecting with others who bring comfort further support your journey through this uncertainty?"
+    },
+    {
+        "round": 9,
+        "user": "Yes! 100%. Every time my phone rings I get nervous that I'm being fired and I'm worried I made a mistake going out on disability. I needed to though, but I'm nervous.",
+        "answer_final": "No you should not have to feel you made a mistake for the time you  are taking out of work for a necessity.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, absolutely. The unpredictability is tough, especially when my phone rings. Each time it does, I fear bad news regarding my job situation. Disability leave was necessary for my mental health, but the uncertainty still makes me uneasy.",
+        "therapist": "Your courage in taking disability leave for your mental health speaks volumes about your resilience. Amid the unpredictability, what small steps or moments could help bring ease to these difficult pauses, especially when you're bracing for that next call?"
+    },
+    {
+        "round": 10,
+        "user": "Thank you for saying that. That does make me feel better. It sucks sometimes we have to choose between our health and our jobs. We don't get paid to take care of our health though, we only get paid to work.",
+        "answer_final": "You know yourself more than anybody and you need to take care of yourself.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for the kind words; they genuinely help. Choosing health over work is a tough balancing act since health isn't financially supported like employment. It's challenging yet crucial.",
+        "therapist": "Your decision to prioritize health reflects courage and wisdom, despite financial pressures. How might acknowledging this strength influence your sense of balance during these challenges?"
+    },
+    {
+        "round": 11,
+        "client": "Acknowledging my strength reminds me I’ve survived tough times before. Still, the weight of bills and uncertainty lingers, but it does help to focus on past resilience.",
+        "therapist": "It's clear that the weight of financial strain is a significant presence in your life right now. If we were to give this persistent uncertainty a name, what might reflect how it feels or impacts you while still separating it from who you are?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "It feels like living with a shadow I’d call “the weight,” constantly looming over me. It reminds me of overdue bills, unanswered emails, and every unknown outcome ahead.",
+        "therapist": "“The weight” holds a heavy presence in your life. How does it most impact your ability to connect with what matters to you—be it peace, relationships, or even hope? Exploring that might bring clearer pathways for easing its hold on you.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "It makes me pull away from people I care about. The constant stress drains my energy, and instead of reaching out, I just isolate—fearing they’ll see me as a burden.",
+        "therapist": "The way “the weight” pushes you into isolation speaks volumes about its impact. What do you value most in your relationships, and how might reclaiming even a small connection challenge the story this shadow tells about being a burden?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "I value trust and emotional support most. When I confided in a friend last week, their encouragement reminded me I’m not alone. It chipped away at “the weight” slightly.",
+        "therapist": "Confiding in your friend shows a strong commitment to nurturing trust and support, even when “the weight” tries to isolate you. How might leaning into moments like that further align with the connections you value so deeply?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I guess leaning into those moments would mean trusting that the people I care about can handle my struggles, too. Like when I shared my fears with my sister, and she told me to stop carrying everything alone. It gave me a strange mix of relief and guilt—but it also reminded me how much she genuinely cares.",
+        "therapist": "Trusting your loved ones with “the weight” reflects a commitment to valued connections. How does this openness align with your hopes for relief and freedom from isolation? Exploring those positive aspects might offer a clearer path away from guilt, enriching the support they provide.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I suppose being open aligns with my hope for relief because it lets others lift some of the burden. Like when my friend offered help with budgeting—it was unexpected, yet relieving.",
+        "therapist": "Trusting others with parts of “the weight” seems to reflect your hope for shared relief and connection. What draws you toward this willingness to let others step in, even when it feels unexpected or unfamiliar?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Even when unexpected, it's the genuine care I sense from others that draws me to share. Like last week, during a coffee chat, my friend quietly offered her support when sensing my hesitation.",
+        "therapist": "You're leaning into support when genuine care is present, showing your commitment to overcoming isolation. How does trusting in this supportive connection challenge “the weight” and bolster your hopes for relief? This understanding might help guide your future interactions.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Trusting others challenges \"the weight\" because it proves I'm not a burden and reinforces my hope that people genuinely want to support me. A specific memory from last month stands out. After sharing my worries about failing an exam, my close friend sent over study resources without me asking—it was a moment of pure relief and reassurance. These experiences shift my perspective towards believing in the kindness and support surrounding me.",
+        "therapist": "Trusting others to counter \"the weight\" highlights your commitment to valuing connection and support. How might this shift in perspective, recognizing the kindness surrounding you, encourage further steps toward living in alignment with these hopes for relief and reassurance?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "By seeing kindness around me, I'm realizing it's okay to share my burdens. Like, asking colleagues for help last week when overwhelmed with deadlines felt liberating and rewarding.",
+        "therapist": "Sharing and asking for help reflects your shift in perspective about externalizing “the weight.” It shows a commitment to living aligned with values of support and kindness. How might embracing this openness further liberate you from burdens or deepen rewarding connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Embracing openness reduces isolation. Like when a teammate helped me with a project, the relief transformed into trust and strengthened our collaboration. It encourages more genuine interactions.",
+        "therapist": "Engaging with openness challenges isolation and reflects your commitment to authentic connections. Trust emerged through shared burdens, transforming collaborations into more genuine interactions. How does valuing these connections empower you against isolation, aligning with your hopes for supportive networks?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think valuing these connections reveals my capacity to build genuine relationships despite isolation fears. When isolated, I often feel invisible and disconnected; receiving spontaneous help from colleagues reminds me I'm not alone.",
+        "therapist": "Building relationships despite isolation highlights your inner resilience and challenges invisibility. With these supportive connections, how might you continue to act against the influence of isolation and cultivate a narrative where collaboration and belonging thrive?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I've started setting small social goals, like reaching out more often and planning regular catch-ups. Initiating these interactions has relieved loneliness and affirmed I'm supported.",
+        "therapist": "Reaching out aligns with your core values, enhancing your preferred narrative of support and belonging. With each goal achieved, how do these actions affirm intentions to embrace meaningful connections, reinforcing an identity rooted in resilience and relational depth?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Recently, I organized a weekly coffee meet-up with friends. It's comforting to discuss life openly, share concerns, and receive encouragement. This cultivates trust and deepens connections, affirming my resilience.",
+        "therapist": "Organizing these meet-ups demonstrates your commitment to valuing open dialogue and nurturing trust. This cultivates a narrative of resilience where connection thrives, inviting meaningful encounters with authenticity. How might continuing these gatherings deepen your identity around genuine connection and shared understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Connecting with friends regularly nurtures my values of shared support and understanding. Each meet-up feels like peeling away layers of loneliness, reinforcing that trust and resilience grow through genuine conversation.",
+        "therapist": "Acknowledging how these connections peel away loneliness highlights the significant transformations through shared support. Building on this landscape of trust and resilience, envision how nurturing these conversations might continuously enrich your preferred story of community and understanding.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Nurturing these connections helps me feel seen and valued. For example, last week a friend shared her struggles during our meet-up, and being trusted like that deepened our bond.",
+        "therapist": "Trusting connections like the one you described show the depth of care in these bonds. How might moments like this influence the way you continue building an environment where shared vulnerability strengthens your relationships and sense of value?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Moments like that inspire me to share more of myself too. I’ve started opening up about my anxieties during our meet-ups, and their support has felt incredibly validating.",
+        "therapist": "Opening up like this highlights your courage and desire for deeper connections. How does this growing sense of trust and validation align with the values you want to center in your relationships moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think it aligns perfectly. When I’m honest about my struggles, like sharing how I’ve been dealing with self-doubt at work, their empathy reassures me I’m not alone.",
+        "therapist": "Sharing your struggles and receiving empathy shows how deeply you value authentic connection. As you continue embracing vulnerability, what small steps could further anchor this trust and help reshape the way you view both yourself and your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "During a recent meet-up, I decided to write personal reflections to share each week. It helps me clarify my thoughts and deepens trust by inviting others into my inner world.",
+        "therapist": "Writing personal reflections to share with your group reinforces transparency and deepens bonds, aligning with your commitment to openness. How does sharing these insights further affirm the strengths and values you want reflected in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Sharing my reflections helps create a space where honesty and growth flourish. For instance, opening up about my recent work challenges prompted supportive discussions that eased my anxieties.",
+        "therapist": "Sharing your reflections nurtures a supportive environment, reinforcing honesty and growth as core elements of your identity. How do these actions affirm your commitment to cultivating resilience through collective understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Sharing reflections has indeed strengthened my resilience, especially when receiving feedback from colleagues. Recently, a meeting focused on my achievements helped dispel self-doubt and reinforce mutual understanding.",
+        "therapist": "Sharing your reflections and receiving feedback seems to help clarify your values and goals. How do these shared accomplishments with colleagues reflect the resilience and confidence you'd like to embody in your ongoing journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think those moments remind me that resilience isn’t about avoiding struggles but navigating them. When colleagues celebrated my effort, it validated my work and restored some confidence.",
+        "therapist": "Navigating struggles with resilience seems to be shaping a story of strength and connection for you. How might recognizing these moments of celebration inspire future actions that align with the confidence you’re reclaiming?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Recognizing these moments encourages me to pursue projects that challenge me. Like leading the upcoming initiative, I feel it's a chance to prove my capabilities and strengthen confidence.",
+        "therapist": "Leading an initiative offers a promising path to embody your growing confidence. What aspects of this new challenge could further emphasize the strengths you want to highlight, supporting a preferred narrative that celebrates both your skills and resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "In this initiative, I plan to tackle strategic planning and engage team members actively. This aligns with my abilities in problem-solving and communication, further validating my leadership capabilities.",
+        "therapist": "Exploring strategic planning and engaging your team offers a robust platform to showcase problem-solving and communication skills. How might leveraging these strengths transform not only this initiative but also shape future leadership roles, enhancing your preferred story of confidence and capability?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Engaging the team in strategic planning lets me display my problem-solving approach. It's a pivotal moment. I feel excited but also a bit nervous about defining my leadership path.",
+        "therapist": "Embracing excitement alongside your nerves in this pivotal moment highlights your commitment to growth. Recognizing strategic planning and team engagement as part of your path can shape a powerful leadership story. How does this align with the values you hold as central to your leadership identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Leadership, for me, is about fostering collaboration and resilience. Recently, facilitating a project meeting where everyone brainstormed solutions highlighted these values. I felt proud watching the team thrive.",
+        "therapist": "Leadership clearly reflects your commitment to creating an environment where collaboration and resilience can flourish. How might continuing to align these values with your actions further strengthen the pride and fulfillment you’ve found in fostering growth within your team?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Collaborating with my team while remaining open to their input and encouraging solutions can enhance pride. Witnessing growth through shared success highlights how much collective effort builds fulfillment and strengthens resilience.",
+        "therapist": "As you open yourself to your team's ideas and encourage solutions, you're fostering collaboration that reflects resilience and shared success. Who are some significant figures who've influenced these leadership values and encouraged the pride you feel in this collective growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think of my mentor from my previous job. She encouraged collaborative problem-solving, often highlighting the power of diverse perspectives. Her trust in me deeply shaped my leadership approach.",
+        "therapist": "Your mentor's trust and encouragement seem to carry forward in your leadership approach, shaping how you value collaboration. How do you think she might see your efforts now as you uphold those values in guiding your team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think she’d be proud, especially seeing how I’ve applied her guidance. Recently, when I stepped back to let a junior member lead a discussion, it felt like honoring her influence.",
+        "therapist": "Your decision to step back and support a junior member reflects a meaningful contribution to their growth, mirroring your mentor’s trust in you. How might seeing yourself as someone who inspires and empowers others add deeper layers to your sense of leadership and identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think it adds a sense of purpose. Seeing the junior member thrive reminded me that leadership isn’t just about results—it’s about leaving others stronger and more confident.",
+        "therapist": "Recognizing how your leadership leaves others stronger not only reinforces your purpose but also echoes the values passed on by your mentor. How do you imagine the junior member might now see themselves differently because of the confidence you helped nurture?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I imagine they might now see themselves as more capable and valued. After the meeting, they mentioned feeling encouraged by being trusted to take the lead, which was rewarding.",
+        "therapist": "Your trust allowed the junior member to gain new insights about their own capabilities. This shared empowerment deepens your influence as a leader, nurturing growth beyond results. As you reflect on these moments, consider how this shared impact strengthens your collective narrative.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "As I reflect, the moment reminds me of how fulfilling it is to see others embrace their strengths. Watching the team grow, feeling unity in every success we share is priceless.",
+        "therapist": "Embracing others' strengths can indeed offer profound fulfillment and unity. Reflect on how this nurturing influence might have instilled a sense of empowerment in those you lead, shaping not just your identity but theirs too. Your leadership creates a ripple effect that resonates throughout your team.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "When I see the team supporting each other, especially during challenges, it feels like my leadership impacts their confidence. Watching them innovate and collaborate fills me with pride and purpose.",
+        "therapist": "Your sense of pride reflects the meaningful impact you've made on your team's confidence and development. Recognizing how they’ve grown through challenges highlights the strong relational ties you’ve nurtured. How does this mutual transformation between you and your team redefine your shared journey together?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "It redefines it as collaborative growth. During a tough project, I saw them brainstorm boldly, offering solutions I hadn't even considered—it felt humbling and affirming.",
+        "therapist": "Your leadership has become a catalyst for innovative thinking and mutual growth within the team. Witnessing their bold solutions deepens the affirmation of your influence, shaping them into confident collaborators. How might seeing their success further illuminate your own evolving journey as a mentor?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Seeing their success reminds me how essential flexibility and active listening are in mentorship. A recent project had unexpected challenges, but watching them thrive validated my approach.",
+        "therapist": "Recognizing your mentorship’s impact validates not only your approach but the adaptability you’ve cultivated. As they navigate challenges with newfound resilience, consider how their achievements affirm your role and contribute to shaping a collaborative identity between you all. What have these experiences revealed about your shared journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "The experiences revealed that my role isn't about always having answers but creating space for others to shine. During a crisis, their quick thinking saved the project—I felt awe and gratitude.",
+        "therapist": "Recognizing your role as a catalyst for others to shine reflects your deep commitment to the team’s growth. Seeing how your openness has inspired their quick thinking shapes a collective identity rooted in collaboration and mutual support. How does witnessing their evolution impact your sense of purpose as a mentor?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Watching their evolution reinforces why I lead—to empower others. When one member proposed a bold, risky idea in our last meeting, I realized trust fuels that creativity. It was inspiring.",
+        "therapist": "You’ve nurtured an environment where trust inspires creativity, allowing team members to bring their bold ideas forward. Reflecting on their growth, how might this shared experience influence both your leadership journey and their evolving identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "During a recent presentation, I noticed my team using skills we've developed together, showcasing autonomy and confidence. It’s affecting me deeply—I feel proud, fulfilled, and more committed to facilitating their growth.",
+        "therapist": "Your observations highlight the profound impact of your mentorship on your team’s evolving autonomy and confidence. Their growth not only reflects your guidance but reaffirms your own commitment and identity as a facilitator. How do their achievements reshape how you view your collaborative journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Their achievements shift my focus from outcomes to process, seeing value in our shared development. Recently, their spontaneous brainstorming session unraveled new insights for a complex problem. I felt energized and proud.",
+        "therapist": "Your sense of pride and energy mirrors the positive ripple effect your guidance has had on their growth. Their confidence and insights reflect not just their evolution but yours as a mentor. How might their trust in you have reshaped your own understanding of leadership and connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think their trust has taught me that leadership is less about directing and more about listening deeply. During a heated deadline, their openness to collaborate defused tension—an unforgettable moment.",
+        "therapist": "Your willingness to listen deeply and their openness to collaborate seem to have shaped not just the outcome, but who you both are becoming in this journey together. How might their trust and collaboration reflect the kind of leader they now see you as?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think their trust reflects that they see me as approachable and reliable. Recently, one of them shared a personal struggle affecting their work. That moment reaffirmed our connection.",
+        "therapist": "Your reliability and approachability clearly made a deep impact, creating a safe space for meaningful connection. How do you think your support in that moment might have shaped their ability to navigate both their personal struggle and their role within the team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

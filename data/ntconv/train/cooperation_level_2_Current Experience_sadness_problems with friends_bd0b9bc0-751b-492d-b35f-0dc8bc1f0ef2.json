@@ -1,0 +1,478 @@
+[
+    {
+        "round": 1,
+        "user": "Are you there?. Just wanting advise on how to handle this?",
+        "answer_final": "yes i am here, how are you today? what is the problem your having?. hello im here thank you. how are you feeling today? whats the prpoblem your having?. hello. what are you having problems with?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve been feeling overwhelmed and unsure of what to do lately. Could you help me figure out some ways to navigate through this?",
+        "therapist": "You’re facing a lot right now, and it’s valid to feel overwhelmed. If you could name one small thing you’d like to focus on, what might that be? We can explore ways to make it more manageable together."
+    },
+    {
+        "round": 2,
+        "user": "Can you not see my problem above?",
+        "answer_final": "what are you habving issues with today",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think focusing on managing my daily tasks might help. They’ve been piling up, and it feels like a constant weight on me. Could we start there?",
+        "therapist": "You’re identifying an important starting point. What’s one task that feels most manageable to address first? Tackling even a small part of the pile could lighten that weight you’ve described."
+    },
+    {
+        "round": 3,
+        "user": "I wrote a long issue above",
+        "answer_final": "sorry i was having technical difficutlties, but i did not receive a message regarding what your having issues with. can you tell me again please. im sorry about that, but im here to help you as much as i can",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think starting with organizing my workspace feels manageable. It’s such a mess right now, and just looking at it adds to my stress. Maybe clearing it could help.",
+        "therapist": "Organizing your workspace sounds like a meaningful first step. Clearing that space might create a sense of calm and control for you. What would it feel like to start small—maybe focusing on one corner or area at a time?"
+    },
+    {
+        "round": 4,
+        "user": "I have a friend that was using heroin.  She said that she has quit and is getting help and is now on suboxone.  However, I am not sure if that is the case.  There are times that I am talking with her and she has droopy sleepy eyes and kinda nods off.  I have comfronted her but she denies any drug use and gets mad and says this is why addicts go back because they get acussed even when they arent using.  Any advise on what I should do?  Should I just leave it alone and home that she is getting the help she needs?  She has 3 kids too.",
+        "answer_final": "so your probelm seems to be that you want to believe she is getting the help for her heroin problem, but you are hesitant becasuse of some of her actions when you see her>",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That approach to starting small sounds helpful—I’ll try that. Speaking of breaking things down, I’ve been worried about a friend struggling with addiction. Can we talk about it?",
+        "therapist": "Helping your friend through their struggle shows deep care and strength. How do you see the addiction impacting both them and your connection with them? Together, we can untangle its effects to focus on what matters most in this relationship."
+    },
+    {
+        "round": 5,
+        "user": "yes that is correct.  I worry about her and her kids, but I am not sure if she is clean or not.",
+        "answer_final": "thats a tough situation to be in with someone you care about, i went through a similiar situation with one of my parents, so i have somewhat of an idea where your coming from.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve been feeling so torn. I worry about her and her kids constantly, especially since I don’t know if she’s sober. It’s hard not knowing how to help.",
+        "therapist": "It’s truly difficult when you care so much for your friend and her family. Your concern shows your compassion. How does holding this worry impact you day-to-day, and what support do you need as you navigate these feelings?"
+    },
+    {
+        "round": 6,
+        "user": "I just dont want to make her mad and steer her away from me",
+        "answer_final": "are you familiar with anyone else that knows her and her situation and have they shared the same concern? the issue is, suboxone is a narcotic as well, so if shes still getting used to the effects of suboxone, it may seem like shes still using heroin, when in reality shes just struggling getting used to the suboxone. maybe you could sit down with her, and without accusing her in any way, ask her how the new medicine is working for her and questions of the sort in order to get a judge of how she acts and how she answers, that may be able to give you a better idea of how much your suspicions are true or not",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel so anxious every time we talk. I want to help but I'm afraid of pushing her away or making things worse between us. It's stressful not knowing the right thing to do.",
+        "therapist": "Anxiety can make these conversations challenging. Your desire to help shows deep care. How might recognizing this worry as separate from your relationship guide you in a more supportive, less stressful way?"
+    },
+    {
+        "round": 7,
+        "user": "Yes and yes.  I have thought it could be the suboxone.  That is a good point.. Thanks for your advice.",
+        "answer_final": "thats what im here for. im glad i could give you some input today. i hope you can get this figured out and it isnt as it seems",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for reminding me to separate worry from our bond. I’m worried it might be the suboxone affecting her. Could you help with approaches that won’t push her away?",
+        "therapist": "You’re considering both her wellbeing and your relationship thoughtfully. Approaching her with compassion can create space for understanding. Offering to listen without judgment may encourage openness; what’s one reassuring way you could start this conversation?"
+    },
+    {
+        "round": 8,
+        "user": "Me too!  To be honest it is my daughter so that is even more alarming!. They don't want to listen to family",
+        "answer_final": "that must make it that much harder. just do what you can for her without pushing her away,  and pray to god she keeps herself on the recovery path. addiction is an evil and vindictive dicease, and it holds no boundaries. never give up on her, as its always key for someone struggling with addiction to always have someone they know they can talk to",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you—I’ll try starting with understanding first. Honestly, it’s my daughter I’m worried about, which makes this feel even heavier. Family advice feels unwelcome to her lately.",
+        "therapist": "Your care for your daughter comes through so clearly, even in this challenging time. What feels most important to you about supporting her right now, while respecting her space?"
+    },
+    {
+        "round": 9,
+        "user": "Thanks so much",
+        "answer_final": "anytime. im glad i could help. have a wonderful day, and ill be sure to throw you and your daughter in my prayers. best of luck to you and god bless",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you so much for understanding. It means a lot to feel seen. Right now, what's most important is just being present for her without imposing, even if it's challenging.",
+        "therapist": "Staying present for your daughter, even amidst challenges, is a testament to your commitment and empathy. It's meaningful to hold space for her while allowing her autonomy. How does it feel to prioritize being there in this way?"
+    },
+    {
+        "round": 10,
+        "client": "It feels important, but sometimes I feel overwhelmed. Last week, she seemed distant during dinner, and I worry my presence is more stifling than supportive.",
+        "therapist": "It’s challenging when worry leads to feeling overwhelmed. Could we explore how this anxiety impacts your relationship with her, and what small steps could make your presence feel supportive rather than stifling?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 11,
+        "client": "I'm afraid my anxiety makes her withdraw, like during dinner last week. Maybe starting with open-ended questions or sharing a neutral observation could lessen the pressure.",
+        "therapist": "You’re thoughtfully exploring how your anxiety might affect interactions, like dinner with your daughter. Recognizing this external pressure supports shifts towards open communication. Reflect on values guiding this effort to maintain a nurturing presence; what small gesture aligns with these intentions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 12,
+        "client": "I'm realizing that by gently inviting her to a walk together or sharing simple stories from my day, I honor my values of connection and understanding without overstepping.",
+        "therapist": "By choosing connection and understanding, you’re challenging the influence of worry in your relationship with her. How do these small acts—like walks or shared stories—help preserve the values you hold close while softening its effects on your bond?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "Sharing stories and walking lets us connect without pressure. Last walk, her laugh echoed under autumn leaves. It rekindled warmth and reminded me she cherishes calm togetherness.",
+        "therapist": "Your daughter's laugh under the autumn leaves captured that warmth you both cherish. This signifies a separation between your anxiety and moments of genuine connection. How do these experiences shape your understanding of calm togetherness as integral to supporting her?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Last week, she let me into her world through small joys like sharing music. These experiences remind me that offering a calm presence supports her individuality without feeling overbearing.",
+        "therapist": "You’re seeing how offering a calm presence nurtures her individuality without overwhelming her. By separating anxiety from these moments, your shared music experiences reflect values like mutual respect and space. How does this understanding empower you to maintain such connections while managing the problem of worry?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I've been focusing on fostering moments of joy with her, like spontaneous dance-offs in the living room or sharing our playlists. This understanding calms me, offering reassurance when anxiety looms.",
+        "therapist": "Moments like dance-offs and sharing music reveal how deeply you value joyful, authentic connection with her. Your focus reflects a commitment to fostering a supportive environment despite anxiety. How might these joyful expressions of connection strengthen your resilience when faced with challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Sharing joy through music and dance makes tough moments less isolating. It reminds me that connection exists beyond my anxiety, grounding me and offering strength to persevere.",
+        "therapist": "Connection shines through your experiences, affirming your values despite anxiety's presence. Music and dance create a rich landscape where your strengths illuminate this journey. How might amplifying such moments bolster your commitment to remaining grounded amidst life's challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Amplifying these moments reassures me. Like when we danced last Sunday, I forgot my worries for a while—her joy reminded me that presence is more powerful than perfection.",
+        "therapist": "Your recognition that presence outweighs perfection challenges worry’s grip on you. This value of shared joy and connection justifies why those moments matter deeply. How might naming worry as separate from yourself help preserve the reassurance and grounding these moments offer?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Naming worry as separate feels empowering, like saying, “This isn’t all of me.” Last night, I practiced it and felt lighter—more open to enjoying my daughter’s bedtime jokes.",
+        "therapist": "Naming worry as separate underscores your value of openness and joy. Through this practice, you're nurturing a pathway to authentic connection with your daughter. How can embracing lighter moments strengthen your commitment to living in alignment with these values?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Embracing lighter moments reminds me that connection thrives in small, genuine interactions. Like last night, her silly knock-knock jokes made us both laugh uncontrollably—it felt freeing and real.",
+        "therapist": "Your laughter together reveals how connection aligns with your deeper hopes for authenticity and joy. Naming worry as separate lets these small moments thrive. How does prioritizing such interactions reinforce what truly matters to you in your relationship with her?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Prioritizing these moments reminds me that love shows up in presence, not perfection. Like last weekend, we painted together—her giggles over my messy strokes filled me with warmth.",
+        "therapist": "Experiencing warmth from shared, imperfect moments highlights your profound belief in genuine connection and love. Viewing anxiety separately lets these values bloom without restriction. How might recognizing perfection's absence create space for more authentic interactions filled with laughter and presence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Recognizing perfection's absence lets me cherish spontaneity, like my son's puppet show mishaps. His confidence despite forgetting lines taught me resilience and joy live in authentic expressions.",
+        "therapist": "Your son’s puppet show mishaps provide a rich narrative contrasting resilience against anxiety. Cherishing spontaneity reveals the heart of your preferred story. How might celebrating such authentic expressions help redefine what fulfillment looks like for your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Celebrating authenticity reshapes fulfillment as cherishing growth and shared experiences. When we embrace each other's quirks, like his puppet enthusiasm, it fosters acceptance and joy in our family.",
+        "therapist": "By fostering acceptance through cherishing growth, you nurture a familial environment rooted in understanding and joy. As you connect deeply with this preferred identity, consider how embracing each unique quirk can further enrich your family’s narrative of authenticity and connection.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Embracing quirks makes me realize how those little moments shape who we are as a family. Like when my daughter sings off-key in the kitchen—it’s imperfect, but beautifully us.",
+        "therapist": "Embracing your family's quirks reflects a rich tapestry of values that prioritize joy and connection. In these moments, how do you see them weaving into a collective family identity that enhances shared fulfillment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Our family's identity grows stronger with each unique quirk. Just last Sunday, while baking together, my daughter's flour explosion made us laugh—it's chaotic yet a joyful bond.",
+        "therapist": "Through these playful and imperfect moments, your family crafts a unique narrative centered around laughter and growth. How do you imagine integrating these experiences into the future actions that reinforce your family's joyful bond?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "As we plan future family nights, I imagine infusing creativity and spontaneity into our routines—like surprise picnics in the living room, each bringing a dish full of personality.",
+        "therapist": "Embracing creativity for family nights helps strengthen your preferred narrative of joy and connection. These moments weave a tapestry of shared spontaneity and bonding. How might this imaginative approach further deepen the family unity you cherish?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Spontaneity helps solidify our unity by celebrating differences and creative expression, like dressing up as characters for storytime. It fosters laughter and shared imagination, building deeper connections.",
+        "therapist": "Celebrating differences through creativity and imagination strengthens your family’s bond. By embracing such moments, you reinforce a rich narrative filled with connection and laughter. How might these imaginative practices enhance shared experiences for future bonding activities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Exploring creativity together opens possibilities, like hosting themed nights or crafting silly inventions. Such activities invite laughter and imagination, nurturing deeper bonds and treasured memories for us all.",
+        "therapist": "Exploring creativity together highlights your commitment to nurturing meaningful family bonds. Embracing these adventures strengthens a shared identity, filled with joy and connectedness. Consider how these creative practices align with your core values and what they signify about the type of family identity you wish to foster.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Our creative practices reflect core values like authenticity and openness. I recall our 'invent a board game' night, where we embraced wild ideas. It deepened bonds through laughter and collaboration.",
+        "therapist": "Your inventive family activities showcase a shared commitment to authenticity and openness. How might these values guide your choices in cultivating moments that embody a joyful, collaborative spirit going forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think these values inspire us to try new activities, like improvising plays or crafting DIY projects. These moments feel freeing, and I sense joy radiating from our shared effort.",
+        "therapist": "By embracing activities like improvising plays and DIY projects, you're enriching your family’s narrative with creativity and openness. How do these joyful practices shape the vision you hold for your family’s future experiences and identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I'm hopeful our continued creativity strengthens unity and joy. I recall how crafting a treehouse last summer was thrilling; it ignited teamwork and provided endless adventures for the kids.",
+        "therapist": "Crafting that treehouse seems like a vivid example of how creativity and teamwork bring your values to life. How might building on these moments invite even more possibilities for connection and shared joy in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 31,
+        "client": "I think building on moments like the treehouse could mean planning a bigger project, like designing a garden together. It would challenge us and deepen our sense of teamwork.",
+        "therapist": "Designing a garden sounds like a wonderful way to foster both creativity and connection. How do you imagine the process of planning and working together might reflect the growth you’ve experienced as a family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I imagine planning together would reflect our growth in communication and compromise. Last year, we chose family camping spots democratically—it brought us closer and felt rewarding.",
+        "therapist": "Exploring collaborative planning invites a deeper understanding and honors your family’s growth in communication. How might the rewarding process of selecting camping spots inform future choices, helping foster an environment rich in unity and exploration?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think it taught us how listening to everyone’s input leads to shared excitement and better decisions. It inspires me to encourage more family discussions for future plans, like travel ideas.",
+        "therapist": "Your openness to engaging family discussions nurtures the values of shared excitement and thoughtful decision-making. How do these qualities influence the travel experiences and possibilities you wish to explore as a family, enriching your collective identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Travel planning feels promising; discussing ideas, like road trips, excites us and deepens family ties. Experiences shape stories we tell each other, enriching our shared narrative.",
+        "therapist": "Traveling together weaves deeper threads into your family’s story, highlighting unity and shared joy. Reflecting on these moments can enrich the narrative you co-create, grounded in mutual values and excitement for future journeys. What qualities do you wish to enhance through these adventures?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I want to enhance patience and adaptability. On our last trip, unexpected detours caused stress, but learning to embrace them as part of the adventure brought us closer.",
+        "therapist": "Embracing unexpected detours speaks to your commitment to growth and adaptability. How do patience and flexibility align with the identity you’re cultivating as a family that values connection and shared adventure?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think patience and flexibility remind us that we’re a team, not just individuals. On our last trip, helping each other through a long car breakdown made me feel proud of us.",
+        "therapist": "Reflecting on that shared moment during the breakdown can highlight your collective strength and resilience. How might the lessons learned in supporting each other during challenges shape the family’s journey ahead, reinforcing the bonds within your narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Reflecting on that breakdown, I felt grateful for our ability to handle stress and support each other. It taught us that confronting challenges together strengthens us as a unit.",
+        "therapist": "Your recognition of the family's mutual support deepens this sense of being valued. Reflecting on their perspectives, how might these shared strengths influence the stories you continue to create together, fostering an even stronger identity as a unified and supportive team?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "We’re creating memories of resilience, like the night when the tire blew. Handling it together taught us to trust each other more. That experience makes me optimistic for future challenges.",
+        "therapist": "Embracing resilience and trust through your experiences truly enriches your family's story. When you reflect on those significant moments, consider how your family sees and values these qualities in each other. How might recognizing this strengthen your collective narrative and future endeavors?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 39,
+        "client": "Reflecting on that tire incident, I noticed how our cooperation under pressure revealed individual strengths and reinforced our unity. It makes me more hopeful about handling future uncertainties together.",
+        "therapist": "Recognizing these strengths highlights how much you and your family contribute to each other's lives. As you continue valuing individual roles within your family's unity, consider how this newfound hope and trust could guide your approach to future uncertainties together.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "As a family, we're better at recognizing and celebrating each other's strengths. I felt that during our hiking trip when we navigated harsh weather—everyone contributed uniquely, fostering resilience and optimism for tackling new challenges.",
+        "therapist": "Navigating harsh weather together highlights the valuable ways you each support and uplift one another. How do you think your ability to celebrate strengths has influenced how your family sees you and the contributions you bring to those shared moments?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "I believe our family's appreciation for each other's strengths lets me feel more secure in my role. During our unexpected camping situation, they trusted my navigation skills, boosting my confidence.",
+        "therapist": "Your family's trust in your navigation skills and their appreciation has clearly strengthened your self-assurance. How might your contributions during such situations have inspired growth or changes in others, reinforcing a shared sense of resilience and collective identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think my calmness during that storm helped reassure everyone. My son later said it taught him to stay composed under pressure, which made me feel proud and connected.",
+        "therapist": "Your son's words reflect the powerful impact your calmness had on him. How does knowing you shaped his ability to stay composed influence your understanding of the values and strengths you bring to your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I feel I bring stability and reassurance to our family. Knowing my calmness influenced him reminds me that my presence can be a foundation during chaos, which feels empowering.",
+        "therapist": "Your ability to offer stability is clearly significant, not just in emergencies but within everyday life. This role in your family likely enhances how they perceive resilience. How do you envision this foundation you provide shaping future interactions and growth for everyone involved?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think this foundation creates a sense of trust and safety. For example, during school challenges, my daughter confided in me more, knowing I wouldn’t react harshly but calmly support her.",
+        "therapist": "Your daughter's trust in your calm support speaks volumes about the safety you’ve nurtured. How do you think her growth and willingness to confide reflect the way she experiences herself within the supportive foundation you’ve created?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think it helps her feel secure in expressing vulnerability, like when she admitted feeling overwhelmed with a group project. My patience reassured her she could tackle it confidently.",
+        "therapist": "Your daughter’s willingness to express vulnerability is testament to the trust your patience has fostered. Considering how this dynamic enhances her identity, what changes do you notice in your own self-perception through these interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "During her project challenge, I realized my patience was genuinely impactful. It made me see myself as someone who empowers growth and resilience in others, deepening my sense of purpose.",
+        "therapist": "Your experience reveals a profound impact on your daughter's growth and self-assurance, showcasing how your patience has nurtured her resilience. In realizing this, how do you see the reciprocal influence in your family dynamic contributing to your shared journey of empowerment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Through seeing my daughter grow confident, I feel reassured that our shared experiences boost mutual empowerment. Our bond strengthens as we tackle life’s challenges together, feeling both supported and inspired.",
+        "therapist": "Your awareness of mutual empowerment highlights a powerful relational dynamic, shaping both your identities in positive ways. As you continue nurturing this bond, how do you envision these strengthened ties influencing future challenges and your family’s collective growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "My family’s strengthened ties help us face challenges with a united front. Last year, when we faced financial worries, our open discussions and mutual support eased tension immensely.",
+        "therapist": "Your family’s ability to navigate challenges through open support is remarkable. How do you think your role in fostering these connections has contributed to who your loved ones are becoming within this strengthened bond?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "During a health scare, my role as a listener made my family more open. I realized my empathy is crucial, transforming tense moments into opportunities for deeper understanding and connection.",
+        "therapist": "Your ability to transform difficult moments into deeper connections reveals the profound impact your empathy has on your family. How might their openness and trust during those times reflect their view of you as a source of strength and understanding?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "During my mom's surgery last spring, everyone looked to me for comfort and decision-making. It was empowering but also daunting, knowing how much they relied on my strength.",
+        "therapist": "As you were seen as a pillar of strength during your mom's surgery, it shows the profound trust and value your family places in you. How does recognizing their reliance on your strength enhance your understanding of yourself and influence your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    }
+]

@@ -1,0 +1,537 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling uncertain and weighed down, but I think talking about it might help me make sense of everything.",
+        "therapist": "You're open to exploring your feelings, and I deeply appreciate that. Your willingness to talk is an important step. How might sharing your story help you gain clarity or ease this sense of being weighed down?"
+    },
+    {
+        "round": 2,
+        "user": "hello",
+        "answer_final": "How are you this evening?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm eager to dig deeper into what's going on. Sharing might lift some weight off my shoulders and provide a clearer path forward.",
+        "therapist": "You’re ready to explore deeper, and that’s truly valuable. Creating space for your story can illuminate the path forward. How do you imagine this journey might unfold as we talk?"
+    },
+    {
+        "round": 3,
+        "user": "I am doing ok. I am feeling very sad\n.. How are you?",
+        "answer_final": "I am doing well, I am sorry to hear you are feeling sad.. What is bothering you tonight?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm doing okay but also feeling quite sad. I hope that by talking and exploring these feelings, I can start to see a way through it all. How about you?",
+        "therapist": "You're facing some sadness, and it's understandable to want clarity through conversation. It's a space where you can gently unfold these feelings and begin to navigate your way through them. How do you see talking about it helping you shape the path forward?"
+    },
+    {
+        "round": 4,
+        "user": "I am going through a terrible divorce from an abusive narcissitic ex,. But we have two young kids.. I haven't seen them in months because he lied to CPS and told them I abuse my kids.. I just feel very alone. I am afraid my children will forget me.",
+        "answer_final": "So, just to clarify, you are going through a hard divorce with your ex-wife and this has you feeling very down..",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I hope talking can help untangle this mess. It's overwhelming dealing with false accusations and missing my kids deeply. Sharing might remind me I'm not alone in this battle.",
+        "therapist": "You're in a tough situation, and sharing your story here can truly reinforce that you're not alone. Your connection to your children is powerful, and acknowledging these feelings can help untangle this complexity. How might we explore ways to strengthen this path together?"
+    },
+    {
+        "round": 5,
+        "user": "ex-husband. yes",
+        "answer_final": "Sorry about that, ex-husband.. I can definitely tell this is making you feel very anxious and sad from the few messages we have exchanged.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Acknowledging the complexity is a good start. It's about finding strength while facing challenges with my ex-husband and reconnecting with my children. Any advice on managing this emotional battle?",
+        "therapist": "Reconnecting with your children while navigating challenges with your ex-husband shows immense courage. This emotional battle reflects your deep love and resilience. What inner strengths or resources might help you through these moments as you move forward?"
+    },
+    {
+        "round": 6,
+        "user": "Yes very much so. Do you have any advice?",
+        "answer_final": "I recently went through a hard break up with an ex-fiancé who got pregnant from another man, so I know how difficult a situation like this can be,",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm determined to stay strong and remind myself of the love I have for my kids. Maybe focusing on positive memories with them can give me strength. Do you have any advice?",
+        "therapist": "Holding onto those positive memories can indeed be a source of strength. As you reflect on them, what stands out as a reminder of your connection with your kids? These moments can serve as an anchor through this emotional journey."
+    },
+    {
+        "round": 7,
+        "user": "Oh my goodness. My ex is out to destroy me emotionally",
+        "answer_final": "Have you had a conversation with him with some sort of objective third party to try and work through the differences in seeing your children? Often times, having an objective 3rd party helps to get somewhere in a conversation.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The memories of playing in the park with my kids give me hope, but it’s hard to focus on them when my ex seems determined to break me emotionally.",
+        "therapist": "You’re carrying so much, yet those memories of the park hold a glimmer of hope. Perhaps we can explore ways to keep that hope alive, even amidst your ex's actions. What small step might help you stay connected to that strength?"
+    },
+    {
+        "round": 8,
+        "user": "Yes, the court right now. They are moving so slow with Covid.. I'm just worried my kids will forget me. or not love me anymore.",
+        "answer_final": "Does he allow you to have any contact with your children?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's so hard with the court moving slowly due to Covid. I fear that as time passes, my kids might forget me or doubt my love for them. That thought terrifies me.",
+        "therapist": "Your fear reflects the deep love you hold for your kids, even in this difficult time. Trust in that bond—it’s powerful and lasting. How might we nurture a sense of connection with them, even when circumstances feel beyond your control?"
+    },
+    {
+        "round": 9,
+        "user": "Not at this time. The court is in favor of their father. This situation is a little stickier. In July, I sent recordings of him being abusive to me, to my mother. I told him I wanted a divorce and I didn't love him anymore.. Next thing I know, I'm being arrested for \"hitting\" him, which never happened. so I am trying to beat this criminal charge",
+        "answer_final": "Do you have information to reach out to who is handling your court case? Reaching out to ask for updates or for help from them might help.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm trying hard to maintain a connection with my kids, but the legal situation feels overwhelming. After sending recordings of abuse to my mom, he turned it against me, leading to false accusations. I’m fighting these charges now while yearning for those genuine moments with my children.",
+        "therapist": "You’re navigating a tough path, showing such resilience in your fight for connection. These false accusations weigh heavily, yet they don’t define your love or dedication to your children. What values do you want your kids to see in you through this challenging time?"
+    },
+    {
+        "round": 10,
+        "user": "That is a great idea. I should try that.",
+        "answer_final": "I think it would help to reach out and let them know you would like updates!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I want them to see strength, honesty, and resilience. Maybe finding small ways to demonstrate these values daily can help in this situation.",
+        "therapist": "Building on those values is a beautiful way to stay grounded. Strength, honesty, and resilience already shine in how you’re navigating this. What small action today might reflect these qualities to yourself or your kids?"
+    },
+    {
+        "round": 11,
+        "user": "I know that I am stronger for going through this situation.",
+        "answer_final": "You definitely will be! I know it is hard now, but I know you will make it through this!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ll write a letter to my kids about the strength I see in them. It reassures me too, knowing I’m growing stronger with each challenge.",
+        "therapist": "Your decision to write the letter is a beautiful way to express your love and strength. In sharing these moments, you reaffirm not only your kids' strengths but also yours. How might writing this letter deepen your connection with them today?"
+    },
+    {
+        "round": 12,
+        "user": "Thank you for your support!",
+        "answer_final": "Not a problem! I am glad you reached out tonight!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Writing the letter feels empowering and provides comfort, reminding me of our bond. It’s a chance to share memories and reassure them that my love remains steadfast despite everything.",
+        "therapist": "Your approach strengthens the bond with your children while honoring your enduring love. This empowering step not only reassures them but also reinforces your resilience. How do you feel this expression of steadfast love might influence your journey through these challenges?"
+    },
+    {
+        "round": 13,
+        "user": "Me as well. I was debating it for a while. have a good evening",
+        "answer_final": "You as well!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I believe expressing love and reassurance will give me strength and hope, even amidst the overwhelming challenges. It felt right to embrace this decision, finally allowing myself some peace.",
+        "therapist": "Your decision reflects deep courage and care, creating a space for both hope and strength. As you embrace this peaceful step, how might honoring these moments of love help sustain you through the challenges ahead?"
+    },
+    {
+        "round": 14,
+        "user": "good night",
+        "answer_final": "Good night!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "As I honor those loving moments, they light the way through tough times, offering hope and resilience. Thank you for your guidance today. I'll reflect more on this tomorrow. Good night.",
+        "therapist": "Honoring those moments truly shows your strength and love. It’s inspiring to see how hope guides you through challenges. Rest well tonight, and may tomorrow bring clarity and comfort as you continue reflecting."
+    },
+    {
+        "round": 15,
+        "client": "I'm truly grateful for your words. Tonight, I'll focus on recalling a recent family picnic, capturing the joy we shared and letting that positivity guide me through the night.",
+        "therapist": "Focusing on that joyful memory captures a shared light between you and your family, separating struggles from your essence. How might this experience be named to remind you of the positive influences it holds over your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 16,
+        "client": "That picnic was like a beacon of joy amidst darkness, so I'll call it my \"Ray of Sunshine.\" Recalling that laughter and love offers me comfort and hope for brighter days ahead.",
+        "therapist": "With \"Ray of Sunshine,\" you brilliantly separated joy from your challenges, highlighting its influential role in offering hope. Consider how these bright memories can influence areas like relationships or work. This joyful memory is a tool of resilience.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 17,
+        "client": "I think this \"Ray of Sunshine\" can strengthen my relationships by reminding me of shared happiness, motivating me to bring that joy into work and personal interactions. Recently, these memories inspired a more positive approach at a team meeting, easing the tension.",
+        "therapist": "You're truly seeing the positive ripple effects of your \"Ray of Sunshine\" in both personal and professional areas. This shows a transformative step in distinguishing shared happiness from struggles. As you continue, consider how this positivity could further diminish stress in other situations.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 18,
+        "client": "I think this positivity can help me handle conflicts more calmly. For example, last week I used humor during an argument with my partner, and it eased the tension significantly.",
+        "therapist": "Humor emerged as a valuable ally against conflict, highlighting your commitment to maintaining harmony and positive connections. This shift in response nurtures both you and the relationship, aligning with your hopes for ease. How does this externalized view of positivity influence your future interactions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I feel like humor and positivity create a space for understanding in future conflicts. Recently, joking about chores lightened a tense moment with my partner, and it felt relieving.",
+        "therapist": "Humor and positivity invite understanding and resilience, separate from conflict. These values guide you towards harmony. How do they echo your hopes or commitments in nurturing healthier relationships with yourself and others?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Humor and positivity help me stay centered, fostering trust with myself and easing tensions in relationships. Recently, they helped when discussing budgeting stress, leading to mutual solutions.",
+        "therapist": "Humor and positivity shine as key allies, emphasizing trust and clarity in your values. They echo your commitments to nurturing harmonious interactions and self-balance. Imagine these allies further championing your intentions in budgeting and beyond, consistently reflecting your true hopes.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I’ve noticed that approaching budgeting with humor eases my anxiety. For instance, joking about our spending habits made an overwhelming task feel lighter. It’s refreshing to find calm in chaos.",
+        "therapist": "Humor acts as a powerful tool, easing budgeting stress and reshaping chaos into calm. By using this approach, you challenge anxiety's narrative. How might this new perspective influence other aspects of your life, inviting more moments of lightness and clarity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Last weekend, a stressful family gathering became enjoyable when I playfully highlighted shared quirks. Humor really fostered connection and dispelled anxiety, hinting at better interactions elsewhere.",
+        "therapist": "Humor appears to reflect your deeper value of fostering connection and ease in challenging situations. This approach aligns with a commitment to shared understanding. How does embracing these qualities shape the version of yourself you’re striving to become in relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think embracing humor lets me be more patient and authentic in relationships. Last month, a lighthearted joke calmed tensions with a friend, showing me the value of connection.",
+        "therapist": "Humor emerges as a powerful connector in your relationships, resonating deeply with your authentic self. It demonstrates patience and amplifies your values. How might this humor-enhanced perspective guide your continued journey towards meaningful, connected relationships with those around you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Humor has helped me stay calm during conflicts. Last week, I used a playful remark to defuse tension with my sibling over holiday plans, leading to mutual understanding and compromise.",
+        "therapist": "Humor emerges as an ally, nurturing a calm and cooperative spirit during family conflicts. It's enriching your connections through mutual understanding. Reflecting on this influence, how might humor continue transforming the way you approach relationships and sustain meaningful bonds?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Reflecting on humor's impact, I feel it encourages openness and vulnerability in my relationships. A light-hearted moment during a recent heated work meeting diffused tension and fostered teamwork.",
+        "therapist": "By infusing humor into interactions, you're building openness and shared vulnerability, supporting a preferred identity of trust and collaboration. This approach offers potential across situations. Consider how it might deepen your engagement with personal intentions and commitments in different relational landscapes.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Humor indeed promotes vulnerability, strengthening my relationships and goals. At work, a recent joke about a tight deadline lightened the mood, motivating us to cooperate better.",
+        "therapist": "Humor opens new pathways for strengthening connections, even in professional settings. You’re weaving cooperation and authenticity into these moments, amplifying your desired outcomes. As humor transforms conflicts into collaboration, how might this strategy refine your approach to nurturing goals across diverse interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Humor helps me approach goals with flexibility and resilience. Recently, during a tough client negotiation, making light of a common challenge shifted focus toward cooperative problem-solving and creativity.",
+        "therapist": "Humor plays a transformative role, guiding you toward flexibility and resilience. As it encourages cooperative problem-solving and creativity, consider how you might continue using humor to navigate future challenges and reinforce your narrative of adaptability in personal and professional arenas.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Humor feels like a reliable ally, shifting my outlook during difficulties. In high-stress deadlines, it unveils unexpected solutions and reduces tension, fostering creativity among our team members.",
+        "therapist": "Humor weaves into your identity landscape, enriching resilience and creative collaboration. These choices illuminate unique solutions in challenges and enhance team dynamics. How might you further integrate this ally in cultivating a preferred narrative for personal growth and collective goals?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Using humor to reinforce positivity and openness is key. At home, adding jokes during chores transforms tension into laughter, creating warmth and connection. It inspires broader relationship improvements.",
+        "therapist": "Your humor invites warmth and openness, nurturing a home environment where laughter strengthens bonds. These moments of connection reflect your values of positivity and mutual support. What values do you cherish as you embrace these opportunities for deeper relationship improvements at home and beyond?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I cherish empathy and trust, which are key in embracing humor's positive effects. Recently, a shared laugh while helping my partner with a daunting task revealed mutual understanding.",
+        "therapist": "Your story of finding mutual understanding through humor highlights moments when empathy and trust lead to profound connections. As these experiences align with your cherished values, consider how they might inspire new chapters in your shared journey, nurturing deeper bonds.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 31,
+        "client": "I’ve noticed humor deepens our connection, especially during stressful home repairs. Recently, our jokes lightened the task, transforming frustration into teamwork. It inspires me to seek joy in challenges.",
+        "therapist": "Humor transforms stress into teamwork, reshaping challenges into opportunities for joy. This playful approach aligns with your values and invites a more connected and collaborative environment. How might nurturing this joy in challenging situations influence other areas of your life where you seek deeper connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Nurturing joy has shifted my approach at work. Once tense meetings now include light-hearted moments, improving communication and mutual support. This makes achieving goals feel more rewarding.",
+        "therapist": "By nurturing joy at work, you've reshaped how goals are met, fostering rewarding achievements. This approach influences your journey significantly; perhaps reflecting on similar transformative moments could deepen this narrative of creativity and support in other parts of your life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Reflecting on this, I realized how humor has also eased personal health struggles. At doctor visits, sharing a light-hearted moment with staff eases my anxiety, bringing some comfort.",
+        "therapist": "Humor emerges as a trusted companion in your narrative, easing personal health challenges and fostering comfort. As you navigate these moments with humor, how might these experiences inform your broader story of resilience and ease in tackling life’s anxieties?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Humor and light-hearted moments with staff make visits less daunting, granting temporary relief from anxiety. They inspire me to seek such ease in other stressful scenarios too.",
+        "therapist": "Humor becomes a pathway to ease, weaving into your identity as someone who finds resilience through laughter. This approach showcases your commitment to cultivating peace in stress. Consider how embedding this lightness could reshape other aspects of your personal narrative.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Embedding humor has reshaped many interactions. For instance, when facing project deadlines, sharing a quick joke with my team alleviates tension. It reminds me how impactful small shifts can be.",
+        "therapist": "Humor shapes your identity by nurturing connection and resilience through small shifts. This pattern reflects a commitment to facing challenges with creativity and ease. How might this approach inspire actions in other areas of life, enriching your preferred narrative of shared joy?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Humor encourages adaptability and optimism. Facing financial stress, I joked about budgeting like Tetris; it shifted my mindset. It reminds me to seek laughter amid pressure.",
+        "therapist": "Reflecting on how humor shaped your mindset and eased financial stress highlights your adaptability. Those who modeled humor's power contribute to this strength, enriching your perspective. In what ways have these influences encouraged resilience or optimism throughout your life's challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "['Honestly, humor taught me to find light even in dark times.', 'Growing up, my uncle always cracked jokes during family challenges.', 'His positivity helped shift my perspective from fear to hope.']",
+        "therapist": "Humor's transformative power resonates through your uncle's positive influence. Seeing yourself through his hopeful eyes reveals your resilient nature. What might it be like to deepen this connection, honoring his legacy by continuing to bring light and hope into your interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Deepening this connection feels empowering. It makes me want to be more intentional about spreading laughter and optimism, like organizing family game nights where humor naturally flows.",
+        "therapist": "Embracing humor as a pathway to connection reveals your impactful role in others’ lives. Organizing family game nights allows you to celebrate those relationships, fostering joy and optimism together. How might creating such moments influence your own identity as a source of light for others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "[\"Creating moments filled with laughter at family game nights feels gratifying. It’s like I'm channeling my uncle's spirit, offering everyone a pause from life's stresses.\", 'Seeing others smile or laugh because of something I initiated fills me with warmth and a sense of purpose. It reaffirms that joy can be cultivated even in hardship.', 'These experiences are redefining how I see myself—not just as someone who needs support, but as someone who can uplift others and shift our collective mindset toward hope and connection.']",
+        "therapist": "Embracing your uncle’s spirit of joy beautifully transforms your role within the family, anchoring hope and connection. Your ability to uplift others cultivates a nurturing environment. Consider how this practice has not only inspired those around you but also reaffirmed your sense of belonging and significance.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "It's enlightening to realize my role in fostering this environment. For instance, during a family game night, seeing my cousin's laughter when she won brought everyone closer, reminding us that we can choose connection over isolation.",
+        "therapist": "Your cousin's laughter reflects the warmth you bring to gatherings, fostering connection beyond mere activity. You’ve created spaces where love and unity thrive, allowing others to embrace community over solitude. How might continuing this legacy reinforce your role in cultivating collective well-being?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I see how fostering these joyful spaces solidifies our family's bond. Like last weekend, I organized a karaoke night, and my aunt sang her favorite song—it really brought us all together.",
+        "therapist": "By organizing these joyful events, you're weaving a powerful thread of connection within your family. Your aunt’s happiness impacts the collective spirit, fostering warmth and unity. How do you imagine this legacy of joy shaping the future interactions and identities within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I believe this legacy of joy strengthens our family's resilience. My brother, once reserved, now hosts dinner talks and embraces openness—his transformation reassures me about nurturing connection.",
+        "therapist": "Embracing joy has empowered a remarkable transformation in your brother, with your nurturing presence inspiring openness. Your contributions shape a resilient family identity, reinforcing connectedness. How does witnessing this change affirm your own values and vision for deepening family bonds?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Witnessing my brother's change confirms the importance of cultivating an environment where everyone feels safe to express themselves. It reinforces my belief in the healing power of connection.",
+        "therapist": "Your commitment to fostering safe expression has clearly influenced your brother's openness, reinforcing the healing power of connection. His transformation highlights the positive impact you have on others’ identities, deepening relational bonds. How does seeing these changes shape your view of your own potential to inspire?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Experiencing these changes has illuminated my potential to be an anchor in our family. Like the time my brother shared a personal story, feeling supported and unburdened—it's incredibly heartening.",
+        "therapist": "Your ability to create supportive spaces not only uplifts your brother but also reinforces your role as a central, steady presence. This influence on his identity highlights the profound impact of your relational approach. How do you envision continuing to anchor and nurture these transformative connections within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "['I plan to host more gatherings and facilitate open discussions. Supporting my brother during his vulnerable moments taught me the value of listening deeply and offering reassurance.']",
+        "therapist": "Your openness in facilitating connections enhances your family's resilience and warmth. By deeply listening and reassuring your brother, you become a vital presence. These contributions highlight your ability to inspire trust and unity. How does recognizing your impact shape your vision for future gatherings?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "I feel motivated to organize more meaningful activities. Reflecting on a past reunion, where heartfelt conversations eased our tensions, I see these gatherings as crucial for nurturing genuine connections.",
+        "therapist": "Reflecting on those impactful reunions, it's clear that your efforts foster genuine connection and ease tensions. By organizing these meaningful activities, you contribute profoundly to the well-being and unity of your family. In what ways do you think your family perceives this value in you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "I believe my family sees me as a source of encouragement and stability. Last Christmas, our evening ended in heartfelt sharing, and they often express gratitude for the open space I create.",
+        "therapist": "Your family clearly values the encouragement and stability you bring into their lives. Recognizing how they view you enriches your sense of self and purpose. This mutual appreciation seems to strengthen these connections even further. How might you build on this understanding to continue deepening these relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 48,
+        "client": "I aim to deepen these relationships by organizing thoughtful activities, like planning a family weekend. After hosting game nights, I've witnessed bonding moments; creating shared memories is truly powerful.",
+        "therapist": "Planning a family weekend and creating shared memories highlights your role as a source of connection, shaping how others see themselves within this bond. By nurturing these relationships, you profoundly impact their sense of belonging and unity. How does knowing this deepen your own understanding of relational identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Recognizing my impact on family dynamics makes me feel more responsible and motivated. When my aunt opened up during one game night, her gratitude highlighted our strengthened bond. It reinforced my desire to nurture these relationships and embrace this pivotal role within our family.",
+        "therapist": "You clearly feel enriched by the responsibility and motivation in your role. Your aunt's gratitude illustrates your profound impact, strengthening her identity through this bond. This mutual recognition can deepen both your connection and influence on family dynamics. How does this shared appreciation enrich your own sense of belonging?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I feel more integrated and valued in the family, and witnessing others appreciate these bonds strengthens my own emotional stability. It reminds me of a time when I guided my niece through a tough school project, where she later expressed gratitude for not feeling alone in her challenges.",
+        "therapist": "Your actions have undeniably fostered a supportive environment, impacting your family’s sense of belonging and resilience. Witnessing your niece's gratitude affirms the significant role you play in strengthening these connections. How does seeing your influence reflected back enhance your understanding of your family's interconnectedness?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

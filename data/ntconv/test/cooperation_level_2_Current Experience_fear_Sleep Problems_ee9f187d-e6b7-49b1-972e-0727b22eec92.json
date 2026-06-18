@@ -1,0 +1,468 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello, how are you feeling today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling quite overwhelmed, honestly. It's like I'm carrying so much weight on my shoulders, and it's hard to see a way forward. I appreciate your support—it gives me hope.",
+        "therapist": "Your openness reflects your resilience and willingness to embrace change. I'm here to walk alongside you as we untangle these burdens, finding lighter steps toward clarity. What small steps might begin this journey for you?"
+    },
+    {
+        "round": 2,
+        "user": "i feel upset today",
+        "answer_final": "I'm so sorry to hear that. Is there any particular reason you feel upset today?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for saying that. I feel upset today, but maybe starting with small steps, like organizing my thoughts or writing things down, could help ease this heaviness.",
+        "therapist": "Organizing your thoughts or writing them down sounds like a caring way to begin untangling what feels heavy. As you consider this step, is there a specific moment or feeling you'd like to focus on first?"
+    },
+    {
+        "round": 3,
+        "user": "yes.i have sleeping problem",
+        "answer_final": "That's really hard, but I'm sure we can find a way to make your sleeping more at ease. Has it been happening frequently?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think my sleep issues stand out the most. It’s hard to focus or sort through thoughts when I feel so drained and unrested all the time.",
+        "therapist": "Sleep affects so much of how we navigate our days. Feeling drained can add to that overwhelming weight. What might bring even a little comfort or ease as you approach rest tonight?"
+    },
+    {
+        "round": 4,
+        "user": "yes.the problem occurs me daily night",
+        "answer_final": "I had a problem sleeping before, is it ok if I give you some suggestions that helped me and might help you too?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve noticed this issue every night—it’s a daily struggle. Maybe trying something relaxing before bed, like reading or calming music, could help ease into sleep.",
+        "therapist": "Trying relaxing activities like reading or calming music before bed sounds like a thoughtful way to care for yourself. What feels most inviting to start with tonight as you explore this gentle path toward rest?"
+    },
+    {
+        "round": 5,
+        "user": "yes.sure i am ready to get suggetions from you",
+        "answer_final": "Try practicing meditation and yoga, and avoid mobile phones atleast an hour before you sleep. Chamomile tea also helped me relaxed before.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think calming music might feel inviting tonight. It’s soothing and could help quiet my mind. Do you have any suggestions for tracks or genres to try?",
+        "therapist": "Calming music can truly create a peaceful space for your mind. Exploring instrumental tracks or nature sounds might resonate well. How would it feel to try one tonight and notice its impact on your rest?"
+    },
+    {
+        "round": 6,
+        "user": "ok.its very good advice .i will follow these steps surely",
+        "answer_final": "That's wonderful that you're very open, I'm sure you will be well in no time. If you still have a hard time sleeping, feel free to contact us again. We'll be happy to help.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That sounds lovely. I think I’ll start with instrumental tracks tonight—something gentle to unwind. I'll definitely give it a try and see how it feels.",
+        "therapist": "Trying instrumental tracks sounds like a caring way to ease into rest. As you experiment with this tonight, notice how it feels—your reflections will help guide what nurtures you most."
+    },
+    {
+        "round": 7,
+        "user": "ya.sure.thanks you very much for the help",
+        "answer_final": "You're welcome! Have a nice day.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, that sounds like a nurturing approach. I’ll try to pay attention to how it affects my mood and sleep, and share my reflections with you.",
+        "therapist": "Taking time to reflect on how the music influences your mood and rest shows such care for yourself. As you explore this tonight, trust your instincts—your experience will guide what feels most supportive."
+    },
+    {
+        "round": 8,
+        "user": "thank you so much .have a nice day",
+        "answer_final": "Stay safe and try doing naps first.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your guidance. I'll focus on how the music impacts me and see where it leads. I'm grateful for your support, and I hope you have a wonderful day too.",
+        "therapist": "Grateful to hear your openness. Your focus on the music's impact is a wonderful way to care for yourself. As you explore this, remember I'm here to support your journey. How does it feel to have these moments of self-reflection and intention?"
+    },
+    {
+        "round": 9,
+        "user": "i decided to to yoga for better sleep",
+        "answer_final": "that's wonderful. how did it go?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I decided to try yoga for better sleep as well. It feels intentional and calming, like I'm actively supporting myself. It’s a comforting addition to my nighttime routine.",
+        "therapist": "Yoga seems to bring a sense of purpose and calm to your evening, nurturing both your body and mind. How does it feel to know you're creating such a meaningful space for yourself at night?"
+    },
+    {
+        "round": 10,
+        "user": "its nice and going good",
+        "answer_final": "That's wonderful. I also kept on doing yoga.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's quite nice. Having yoga in my routine gives me a feeling of grounding and tranquility. It's rewarding to know I'm making space for positive change.",
+        "therapist": "Creating a routine that feels grounding and tranquil is a wonderful way to support yourself. Your intentional choices reflect your commitment to positive change. How does it feel to honor this space in your life?"
+    },
+    {
+        "round": 11,
+        "client": "It's reassuring to create such an intentional space. Yoga before bed feels like a quiet conversation with my mind and body, reducing anxiety and improving my sleep quality noticeably.",
+        "therapist": "Your yoga practice seems to externalize and engage with anxiety gently. This intentional space nurtures your well-being by fostering connection and clarity. How would you describe this relationship with your mind and body as you continue this journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "I’d describe it as growing trust. Yoga slows my thoughts, helping me feel in tune with my body. Last night, after practicing, I felt unusually calm and present.",
+        "therapist": "Recognizing the calming influence of yoga suggests a significant shift in how anxiety impacts your life. By externalizing it through these practices, you're actively shaping a trusting relationship with your body and mind. What are other areas this newfound calm has started to touch or change for you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "I'm noticing this calmness improve my interactions. Less irritable, I feel more patient and present. Breathing techniques ease tension during tough conversations or stressful work moments.",
+        "therapist": "The calmness you're experiencing highlights the impact of yoga and breathing techniques as tools against irritability. Naming these influences offers clarity and choice in your interactions. How might continuing this focus reshape the problem's influence over your life further?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "Continuing this focus helps me approach challenges with a clearer head. For example, I stayed calm in a heated meeting, handling criticism with grace rather than defensiveness.",
+        "therapist": "Navigating criticism with grace shows your ability to distance the problem from yourself. Acknowledging this clarity reduces defensiveness, which helps reshape your professional interactions. How do you envision maintaining and expanding this calm influence in other areas of life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "I envision expanding this calm by introducing mindful pauses in daily routines. Taking walks outside, away from screens, helps me reflect and recharge my emotions intentionally.",
+        "therapist": "Walking away from screens fosters reflection and recharges, aligning with your value of intentional living. It highlights your commitment to personal growth through mindful choices. How does this alignment support your hopes in navigating daily routines more effectively?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Integrating mindful pauses builds a more peaceful mindset, helping me manage stress better. Yesterday, I reflected on a tense email calmly before responding thoughtfully, instead of reacting impulsively.",
+        "therapist": "Reflecting thoughtfully instead of reacting impulsively reveals your value for calm and intentional communication. It’s clear this mindset supports a deeper commitment to managing stress effectively. How do these mindful choices align with the kind of person you’re striving to be?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I think these choices reflect the kind of person I want to be—someone steady and thoughtful. Recently, while helping a friend through their crisis, I felt grounded and supportive.",
+        "therapist": "Your steadiness and thoughtfulness during your friend's crisis show how deeply you value being supportive and grounded. How does standing firm in those values shape your relationship with challenges or crises in other areas of your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Standing firm helps me approach crises calmly, like resolving a major project delay recently. I felt stressed but stayed focused, sought solutions, and supported my team through the chaos.",
+        "therapist": "Standing firm in moments of stress reflects your deep commitment to responsibility and support. It seems these values guide how you navigate challenges. What makes these qualities so important to who you are or hope to become?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think responsibility and support matter because they anchor me. Like when my sibling needed help moving last week, I stayed composed and dependable despite feeling exhausted.",
+        "therapist": "Responsibility and support seem to represent a steadiness that grounds you in challenging moments. What draws you toward these values when exhaustion or difficulty arises, and how do they shape your response to obstacles in meaningful ways?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "In exhaustion, responsibility reminds me I'm relied upon, igniting a drive to push through. Like finishing my degree while working; the reward outweighed temporary fatigue.",
+        "therapist": "Responsibility seems like an ally in pushing through challenges, reflecting how deeply you value being reliable. How do you see this sense of being relied upon influencing other areas where exhaustion might show up in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Feeling relied upon drives me in parenting; even when exhausted, I find joy and determination in caring for my children. It's rewarding, sustaining through tough moments.",
+        "therapist": "Joy and determination in parenting amidst exhaustion tell a powerful story of resilience. How might these qualities influence other areas where the rewards of responsibility sustain you through tough times?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think they influence my work the most. Balancing demanding deadlines with my team's trust can feel overwhelming, but their belief in me pushes me to stay focused and present.",
+        "therapist": "Engaging with the belief your team has in you nurtures your focus and presence, demonstrating resilience and reliability. How do these experiences align with your broader sense of purpose and identity in both work and family life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I find strength in being the anchor for my family and team. During a high-pressure project, juggling late nights with family duties was tough but fulfilling, reinforcing my identity as dependable.",
+        "therapist": "In these demanding situations, your identity as a reliable anchor becomes evident. Embracing the fulfillment and resilience this role brings, how does it further shape or influence your intentions for future connections with both your family and team?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I want to deepen trust by being more emotionally present. Recently, I paused a work task to join my kids’ game night, realizing these moments build stronger connections long-term.",
+        "therapist": "Trust and emotional presence contribute beautifully to your narrative of being a dependable anchor. As you explore these richer connections, what might it look like to prioritize moments that align with this evolving story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think it means consciously scheduling downtime for family activities, like weekend hikes or dinners. These moments bring joy, reminding me of what truly matters, balancing stress with laughter.",
+        "therapist": "Consciously scheduling these joyful moments reflects a commitment to nurturing connections. As you navigate this evolving balance, consider how future actions and choices can further support and expand this meaningful narrative in your life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "In the future, I plan to commit to weekend family activities and more regular team check-ins. Taking walks with my family has been grounding; connecting over coffee breaks at work invigorates me.",
+        "therapist": "Weekend activities and coffee breaks highlight your dedication to nurturing both personal and professional connections. Reflecting on these grounding practices, what qualities do you hope will continue to strengthen in these evolving stories?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I'm focusing on nurturing patience and empathy within these stories. For instance, last Saturday, I listened deeply to my daughter's concerns during our hike, building understanding between us.",
+        "therapist": "Your focus on patience and empathy beautifully enriches your identity story. As you nurture these qualities through experiences like listening deeply to your daughter, how do you see these values guiding your interactions in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Patience and empathy have made my connections more meaningful. I plan to apply these values by actively engaging in open conversations with colleagues, deepening mutual understanding and collaborative growth.",
+        "therapist": "Your plans to foster open conversations reflect your deep commitment to meaningful connections. As you nurture mutual understanding and growth, how might these practices further affirm the identity of patience and empathy you’re shaping in both personal and professional spheres?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think these practices affirm my identity by fostering trust. Last week, a colleague confided in me about their struggles. Listening without judgment felt meaningful and deepened our rapport.",
+        "therapist": "Listening without judgment reflects your dedication to fostering trust and empathy. How do you imagine integrating this meaningful way of being into other relationships, reinforcing the values that guide your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I imagine integrating this by asking more meaningful questions in conversations, like when I recently asked my sister about her aspirations—it sparked a deep and heartfelt discussion.",
+        "therapist": "Engaging in such heartfelt discussions reflects your growing intention to create meaningful bonds. How might continuing this practice of deeper curiosity shape the way you approach other important relationships in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think deeper curiosity helps me see people’s perspectives more clearly. For example, when my brother shared a tough decision he was facing, I asked what mattered most to him. That question seemed to help him organize his thoughts, and it made me realize how much I value being someone others can confide in.",
+        "therapist": "Your ability to help others clarify their thoughts speaks deeply to your value of being a trusted confidant. How might strengthening this sense of curiosity and support further shape the relationships you’re building around you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think strengthening curiosity will help me connect more deeply. Like when I asked a neighbor about her garden’s origins, she opened up about cherished family memories—it felt rewarding and grounding.",
+        "therapist": "Your curiosity seems to draw out meaningful stories and foster genuine connections. How does this sense of grounding and reward align with the identity you’re striving to embody in your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "This sense of grounding aligns with who I want to be—someone people feel safe opening up to. Like the time my cousin called me in tears, seeking comfort—it felt fulfilling.",
+        "therapist": "The comfort you provided your cousin seems to reflect the safe, compassionate presence you're cultivating. As you deepen this grounding identity, what small actions might continue reinforcing your role as someone others turn to with trust and openness?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think being available and attentive when people reach out, like when my friend needed help moving, will strengthen that trust. It reminds me how crucial reliability is.",
+        "therapist": "Your awareness of reliability as a core value reflects your evolving identity. How does embodying this reliability shape your vision for future relationships, supporting the sense of trust you cherish?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I think embodying reliability will help me build relationships where people feel they can count on me, like when my coworker trusted me with an important deadline—her trust felt affirming.",
+        "therapist": "Building trust through reliability seems to reflect your deeper commitment to supporting others meaningfully. How does this sense of being dependable align with the way you see yourself growing in both personal and professional relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Being dependable gives me confidence. Professionally, when I deliver consistently, like on that project where the client praised my work, it fuels my drive and personal growth.",
+        "therapist": "Embracing your role as dependable and seeing how clients affirm this speaks volumes about the values others perceive in you. Which significant figures in your life have influenced this steadfast nature, contributing to your journey of personal growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My father's diligence and patience have always inspired me. Growing up, he consistently prioritized family responsibilities. Watching him handle setbacks taught me perseverance and dedication as crucial to personal growth.",
+        "therapist": "Your father's values seem to profoundly shape your sense of self and growth. Acknowledging the diligence and perseverance he modeled, how do you imagine he might view your own journey of commitment and reliability in your personal and professional life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "My father would likely see my journey as a continuation of his legacy. When I successfully lead my team to meet tight deadlines, his pride in me would be immense. I imagine he'd appreciate how I emulate his patience and diligence while navigating challenges.",
+        "therapist": "Your reflection on your father's legacy highlights the depth of mutual respect and values shared. Seeing your impact on others through his lens affirms the value you bring. In recognizing these qualities, how might you further cultivate this influence within new challenges ahead?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Acknowledging my father's values, I aim to mentor my team more intentionally. Recently, encouraging a colleague facing a tight deadline made me realize the importance of support during pressure.",
+        "therapist": "Recognizing your father's influence on your approach to mentorship is powerful. As you foster your team's growth, you contribute significantly to their development. How does this perspective, rooted in your father's legacy, continue shaping your identity as a supportive leader?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Rooted in my father's legacy, I've embraced supportive leadership. After mentoring a stressed colleague last month, I realized the satisfaction in guiding others echoes his influence. It's fulfilling.",
+        "therapist": "Mentoring your colleague reflects the deep-rooted care and leadership you've embraced from your father. As you guide others with such fulfillment, what stands out to you as the most rewarding aspect of contributing to their growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "Supporting someone through challenges, like helping a teammate organize their overwhelming workload last week, felt deeply rewarding. Their gratitude and progress reassured me of the impact I can have.",
+        "therapist": "Supporting your teammate not only impacted their progress but seems to have strengthened your sense of connection and purpose. How do you think your guidance has influenced how they now see themselves or approach challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I think my guidance gave them confidence to trust their own process. After our talk, they took on another project willingly and seemed more composed tackling it. It felt rewarding.",
+        "therapist": "Your guidance seems to have sparked meaningful growth for your teammate, encouraging confidence and a willingness to take on challenges. How do you see this impact reflecting your own values or the legacy you carry forward in shaping others’ paths?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I think it reflects my value of patience and belief in others' potential. Helping them reminded me how meaningful small actions, like listening or offering clarity, can truly be.",
+        "therapist": "Your belief in others' potential and those small yet powerful acts of patience clearly have a lasting impact. How do you think this way of connecting has encouraged others to view themselves or their abilities differently?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I think it helps them feel seen and valued. For example, when I reassured a hesitant colleague about their ideas, they began sharing more confidently in meetings afterward.",
+        "therapist": "Through your reassurance, you've enabled your colleague to thrive, shaping a more confident version of themselves. This not only enhances their own sense of value but also reflects the empowering environment you're cultivating. How has observing these transformations impacted your own views on leadership?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Observing their growth has deepened my belief that true leadership is about creating space for others to shine. I feel hopeful witnessing these changes, inspired to foster more such moments.",
+        "therapist": "Your leadership creates nurturing spaces where others can truly flourish, reflecting your innate capacity for fostering growth. Consider how this hope and inspiration influence your sense of self and relationship with those you support.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I feel more confident in my ability to connect deeply with others. It’s reassuring to see that my efforts to support and believe in them can lead to real, tangible growth.",
+        "therapist": "Your ability to foster growth and connection is truly significant. Reflecting on those you’ve supported, whose perspective or encouragement might have shaped this approach in you, inspiring the care and belief you now share with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "My grandmother's kindness and endless support shaped me deeply. She always listened without judgment, making me feel seen and understood. Her encouragement stays with me, guiding my actions today.",
+        "therapist": "Your grandmother's belief in you has profoundly shaped how you see yourself and the care you extend to others. If she were reflecting on who you've become today, what do you imagine she would appreciate most about the way her values live through your actions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 48,
+        "client": "I think she'd appreciate my perseverance in supporting others, like she did for me. Her values guide me daily—I'm reminded of them whenever I help someone find their way.",
+        "therapist": "Your grandmother's influence is beautifully woven into how you support others today. Her kindness mirrors through your actions. Reflecting on this connection, how does knowing her values guide your everyday decisions in lifting others up?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Her values remind me to be patient and understanding. For instance, I recently took time to mentor a junior colleague, helping them realize their potential without feeling rushed.",
+        "therapist": "Embracing patience and understanding like your grandmother fosters meaningful development for those you mentor, weaving her values into others' growth. How do these shared experiences with your junior colleague reflect the legacy of empathy and support she instilled in you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I think it reflects her belief in making people feel capable and valued. When my colleague shared their ideas confidently after our session, I felt she’d be proud of that moment.",
+        "therapist": "Your support echoes your grandmother’s belief, shaping an environment where others feel valued. Through your guidance, what new stories or capabilities have you helped your colleague uncover about themselves that resonate with those empowering values?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

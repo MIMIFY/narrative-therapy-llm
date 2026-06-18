@@ -1,0 +1,491 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi, what I can help you with today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling overwhelmed with everything that's happening. It's hard to pinpoint why, but it's like there's a weight on my chest I can't shake off.",
+        "therapist": "Experiencing such a heavy feeling can be challenging. Your emotions are valid and you're not alone in this. What small steps or changes have helped ease similar feelings in the past?"
+    },
+    {
+        "round": 2,
+        "user": "Hi. I had problems in the past and somehow right now",
+        "answer_final": "What sort of problems were in your past and now?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I’ve struggled before but somehow everything feels heavier now. Sometimes walking or talking it out helped. I'm open to trying new ways to cope.",
+        "therapist": "Walking and talking it out seem like nurturing practices for you. Let's explore new coping methods to complement these. How does trying guided visualization or creative expression sound to help you manage this heaviness?"
+    },
+    {
+        "round": 3,
+        "user": "I loved physics and I decided to attend university, but soon after I slowly lost my interest and became unmotivated",
+        "answer_final": "What was happening in your life that made you lose interest?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Guided visualization could be interesting to try. I remember loving physics in university, but gradually, I lost motivation and focus. I'm willing to explore creative approaches.",
+        "therapist": "It's great you're open to creative exploration. Let's consider how the motivation you've felt before might reconnect through this visualization approach. How can your love for physics inspire a narrative that lightens the burden you're feeling now?"
+    },
+    {
+        "round": 4,
+        "user": "Actually the professors and the class atmosphere was the reason, and of course the quality of teaching. so I started to skipping the classes and failing",
+        "answer_final": "It sounds like that is a lot of reasons to be stressed. Have you spoken to a school counselor?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think the structured yet imaginative nature of physics always intrigued me. It allowed creativity within boundaries, much like a well-crafted story. Unfortunately, the decline started with professors and class atmosphere that were unengaging, making learning feel uninspired. The teaching quality dipped too, which made me lose interest, leading to skipping classes and failing exams.",
+        "therapist": "In your physics story, it seems the narrative changed with uninspiring teaching. What name might you give this problem that's sapped motivation and creativity? Exploring how to reshape this narrative could help restore that excitement you once felt."
+    },
+    {
+        "round": 5,
+        "user": "Yes lots of stress and pressure. I did not, because we didn't have such things or at least I wasn't aware. But nobody even pointed that why I'm failing, they just didn't care",
+        "answer_final": "I agree it is a lot of pressure, but do not let bad teachers deter you. I would reach out to a school counselor and let them know your situation. Every school must have one.. Also, physics is a difficult course to study, but if you chose it, that means you have a very strong mind.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Perhaps 'silent apathy' could describe it. I felt unseen and pressured with stress but without support or feedback on why I was struggling. Nobody seemed to care, and it affected my drive.",
+        "therapist": "Silent apathy can feel isolating. Acknowledge how challenging this has been, and remember, your experience truly matters. Consider what small steps might ignite that creative spark again or offer the feedback and connection you needed back then."
+    },
+    {
+        "round": 6,
+        "user": "I loved physics a lot more than now, but what's the point of studying when the teachers are pulsing you not to study! (because of the quality of teaching). I hope there was someone, but I don't think we have a counselor",
+        "answer_final": "More reason to speak to a school counselor or school administrator. We need to provide help to students, not have bad teachers deter them.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I really felt stuck, but maybe reigniting my physics passion requires finding that engagement or supportive feedback again. Seeking connection or guidance could help overcome 'silent apathy.'",
+        "therapist": "Embracing guidance and connection might offer fresh perspectives. Reflecting on past sparks can shape new directions. How would nurturing these supportive elements impact your narrative, especially in overcoming silent apathy?"
+    },
+    {
+        "round": 7,
+        "user": "Yeah, same with me! I wish I could attend a better univeristy",
+        "answer_final": "What made you choose this particular university you are at?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's been hard feeling stuck in apathy, but nurturing guidance and connection could revitalize my learning environment. Maybe a different university could offer the support I need.",
+        "therapist": "A different environment can certainly offer new possibilities. Revitalizing your learning space through supportive connections may challenge apathy's hold. How do you envision embracing these new opportunities to create the engaging narrative you seek?"
+    },
+    {
+        "round": 8,
+        "user": "I didn't have another choice but this",
+        "answer_final": "Have you looked into other Universities for the possibility of transferring",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I felt like my options were limited, but considering a change now offers hope. Exploring universities with a more engaging approach could be that fresh start I need.",
+        "therapist": "Finding hope through exploring new, engaging universities is empowering. How does this potential change align with your vision for an enriching learning environment and the revitalized passion you're seeking in physics?"
+    },
+    {
+        "round": 9,
+        "user": "Hmmm, actually I didn't think about\n this option",
+        "answer_final": "Just think about what you want in a good university and research from there",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hmmm, actually I didn't think about this option. Considering a change does feel empowering, and exploring universities could truly renew my passion for physics in an engaging environment.",
+        "therapist": "Empowerment through change offers a valuable chance to reignite your passion. How might exploring new academic settings help you foster an environment where your enthusiasm for physics thrives?"
+    },
+    {
+        "round": 10,
+        "user": "Yeah, I should do it. Thanks for the talk. you've been more\n helpful than my teachers!",
+        "answer_final": "You're welcome I hope you find the perfect university for you",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree, exploring new universities could lead to a better environment for learning and growth. This discussion has been more insightful than my usual teacher interactions. Thanks for your help!",
+        "therapist": "Exploring universities with a fresh outlook is a powerful step toward finding an enriching environment. I'm glad our conversation has been helpful to you. How do you envision this change supporting your growth and passion in physics?"
+    },
+    {
+        "round": 11,
+        "user": "Thanks, I wish  you luck in your future endeavours. Bye then ; )",
+        "answer_final": "Goodbye",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm hopeful this change could cultivate a more supportive space, fueling my passion for physics and personal growth. Your guidance has been uplifting. Thank you, and best of luck in your endeavors!",
+        "therapist": "Your hope and commitment to creating a supportive space are inspiring. Exploring new opportunities can indeed fuel your growth. What small step might you take next towards this change?"
+    },
+    {
+        "round": 12,
+        "client": "First, I'll research universities known for strong physics programs and supportive learning environments. It excites me to imagine classes where I truly engage and grow.",
+        "therapist": "Researching universities that foster engagement can redefine your connection with physics. As you explore these options, notice how shifting the educational setting impacts feelings of motivation and growth in other areas of life. How does this renewed sense of possibility influence your overall well-being?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "The prospect of a new academic setting lifts my mood and sparks motivation, offering hope for deeper connections in physics. It revives joy when imagining achieving my dream career.",
+        "therapist": "As you look forward to a supportive academic environment, it's crucial to consider how reconnecting with physics aligns with your aspirations and personal values. This renewed sense of joy and motivation is significant—how does embracing this mindset enrich other areas of your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Embracing this mindset makes me more optimistic and open in personal relationships too. Recently, I've felt more confident when discussing future possibilities with friends, fostering deeper connections.",
+        "therapist": "Your optimism and openness shine through in fostering meaningful connections. Viewing these shifts as separate from yourself highlights their empowering effect. How does prioritizing this growth align with your values, guiding your journey toward personal and relational fulfillment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "Prioritizing growth aligns closely with my values of curiosity and connection. Recently, sharing my ambitions in group study sessions, I've seen more support, fostering both personal insights and stronger friendships.",
+        "therapist": "Recognizing how curiosity and connection enhance your experiences, it seems important to continue externalizing the influences that block your growth. How might giving this issue a name provide clarity and distinguish it from your values?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Recently, I felt overwhelmed by self-doubt during group presentations. Naming this block \"Doubt Shadow\" helps me see it as separate, allowing curiosity to guide my actions positively.",
+        "therapist": "Naming it \"Doubt Shadow\" is a powerful step, separating it from your innate curiosity. Recognizing its influence on group presentations can shift your focus back to personal values and intentions. How might inviting others in your study sessions to join this exploration strengthen your confidence further?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Recently, I asked my group for feedback on my presentation style. Their encouragement made me feel more at ease and showed how open communication can lessen the impact of \"Doubt Shadow.\"",
+        "therapist": "Your openness with your group reflects the importance of transparency and seeking support, reinforcing values of connection and mutual growth. How does observing \"Doubt Shadow\" separately from these qualities inform your choices in nurturing relationships and pursuing academic goals?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Observing \"Doubt Shadow\" separately reminds me that self-doubt isn’t my identity. This clarity encourages me to openly seek feedback, ensuring that my growth and relationships are authentically nurtured.",
+        "therapist": "Acknowledging \"Doubt Shadow\" as separate is empowering and aligns with your commitment to growth and authentic relationships. Staying connected to values of openness affirms your pursuit of nurturing ties. How does affirming this separation guide the decisions shaping your academic journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I've started choosing topics that intrigue me for projects, regardless of potential difficulty. This approach fuels my curiosity and confidence, focusing on interest rather than doubt shadow.",
+        "therapist": "Your choice to follow what intrigues you demonstrates alignment with values of curiosity and confidence. This insight enhances personal motivation and strengthens resilience. How does anchoring in curiosity enrich your approach to both overcoming \"Doubt Shadow\" and expanding academic horizons?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Anchoring in curiosity has transformed my mindset during project selection. Like the recent deep dive into quantum mechanics, my focus shifts from fearing inadequacy to embracing complexity. This change diminishes 'Doubt Shadow,' enabling confidence and expansive learning.",
+        "therapist": "Embracing complexity nurtures your passion and self-belief, reinforcing your values of growth. Your ability to reduce \"Doubt Shadow\" by anchoring in curiosity shines. Keep valuing challenges as learning opportunities. How might integrating these insights enhance upcoming choices or sustain expansive learning?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I've started engaging more with my professors, seeking their input to deepen understanding. This proactive step lessens \"Doubt Shadow\" by building strong foundations in areas I once found daunting.",
+        "therapist": "Engaging more with your professors enriches the foundation of knowledge and strengthens your narrative of growth. Your initiative in seeking input represents a powerful exception to the influence of \"Doubt Shadow.\" How might these newfound foundations further redefine how you perceive challenges in other aspects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Engaging with my professors has made approaching personal challenges feel less intimidating. Their feedback on projects shifted my mindset. Now, tackling relationship difficulties and new experiences seems more manageable.",
+        "therapist": "Engaging with your professors and building this strong feedback loop empowers you to handle personal challenges more confidently. This proactive engagement reveals your values of resilience and openness. How might these insights further empower you in embracing relationship dynamics or exploring new experiences?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I've noticed being more open with friends, sharing my vulnerabilities. A recent honest talk with a close friend led to clearer mutual understanding. It's made new experiences less daunting.",
+        "therapist": "Opening up with friends enriches your landscape of connection, nurturing mutual understanding. This openness encourages a narrative where new experiences are less daunting, amplifying trust and courage. How do these evolving connections influence your view of challenges beyond relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Opening up has instilled a sense of confidence that spills into academic challenges too. For example, tackling my challenging dissertation feels less intimidating, knowing I can rely on open support and insight.",
+        "therapist": "By embracing openness, you're nurturing confidence and resilience, effectively redefining your narrative. This supportive network bolsters your identity as someone who bravely tackles challenges. As you continue, notice how these strengthened values further empower your journey through other aspects of life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Embracing openness and seeing myself evolve fills me with a calm determination. Recently, during a group project, I noticed feeling more secure contributing my ideas, enhancing team dynamics.",
+        "therapist": "Embracing this calm determination reveals your commitment to openness and collaboration, aligning with your preferred identity. Your enhanced security in contributing enriches not only the team dynamics but also your personal narrative. How might these insights continue shaping your approach in other areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Reflecting on this, I've realized that in my daily routines, I feel more balanced and focused. Recently, I navigated a difficult family situation by remaining calm and listening more.",
+        "therapist": "Balancing your daily routines with calm and focus shows powerful growth. Your response in the family situation reveals the strength of listening. Embracing these qualities, how might you continue to nurture such peaceful interactions in other areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I can nurture these peaceful interactions by setting aside dedicated time for meditation or mindfulness. This approach helped me calm anxiety during tense work meetings, fostering a collaborative environment.",
+        "therapist": "Meditation and mindfulness offer a pathway to your commitment of nurturing peaceful interactions. This dedication aligns with your identity of fostering calm collaboration. How does this sense of balance enhance the broader narrative you are creating for yourself?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "This balance fosters growth, not just in interactions but in self-discovery. In a recent creative project, I felt more present and engaged, fueling my enthusiasm and deepening my creative expression.",
+        "therapist": "Embracing this balance has enriched your creative expression, showing how self-discovery enhances various life aspects. These moments of engagement strengthen your identity and fuel enthusiasm. How do you envision these unique outcomes supporting future growth in other areas you're passionate about?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "As I embrace this balance, I feel it could foster patience and insight in mentoring others. Last week, guiding a friend through their challenges energized me and deepened our connection.",
+        "therapist": "Your commitment to fostering patience and insight in mentoring highlights your growth. Supporting a friend has strengthened your connection, reinforcing values integral to your preferred identity. How might these outcomes influence the story you’re crafting in other areas of life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "These experiences teach me to approach life with empathy and openness. Last weekend, I helped my brother through a tough decision, realizing the value of thoughtful support in relationships.",
+        "therapist": "Embracing empathy and openness reflects core values central to your journey. Supporting your brother deepened this insight, affirming your commitment to meaningful relationships. How might these strengthened connections inspire your actions and choices in crafting a fulfilling life narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I'm inspired to prioritize quality time with loved ones. Recently, planning a weekend trip with friends made me realize the joy of shared experiences and building deeper bonds.",
+        "therapist": "Finding joy in shared experiences enriches your preferred story of prioritizing connection. Planning and engaging in activities that build bonds reflect your deep commitment to nurturing relationships. How do you imagine integrating these moments of joy and connection more regularly into your everyday life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I plan to set regular weekly dates with friends and family, ensuring we savor meals together or engage in shared hobbies. These consistent moments deepen our connections and fulfillment.",
+        "therapist": "Your intention to create regular gatherings is a wonderful expression of your commitment to strengthening bonds. These acts invite deeper fulfillment into your life narrative. Reflecting on these gatherings, what role do they play in evolving the story you're telling about yourself and your connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "My focus on regular gatherings reveals my evolving desire to cherish present moments with loved ones. Recently, cooking with family sparked laughter, highlighting life's simple joys.",
+        "therapist": "Cherishing present moments and embracing life's simple joys illustrates a rich tapestry of connection. These experiences guide your evolving narrative centered around togetherness and joy. Consider how nurturing these moments may continuously shape your shared future with loved ones.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I envision these cherished moments shaping our shared future positively. Like last Sunday, my sister’s storytelling brought everyone together, sparking appreciation for each other's narratives.",
+        "therapist": "Acknowledging and celebrating each other's stories has become an important part of your narrative. By embracing these moments, you are crafting a future rich with connection and understanding. How might exploring and sharing these diverse narratives further strengthen your preferred identity and the bonds with those around you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 35,
+        "client": "Last week, exploring family history with my dad sparked deeper connections. His childhood stories helped me appreciate diverse narratives and reinforced our bond, impacting my view of family ties.",
+        "therapist": "Your journey with your dad's stories nurtures your evolving narrative and enhances familial bonds, revealing a commitment to valuing diverse perspectives. Consider how embracing these values might continue enriching both your identity and those relationships you hold dear.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I felt deeply connected as my dad shared stories of resilience and adventure. It sparked appreciation for his perspective and reinforced the importance of family storytelling in shaping our bonds.",
+        "therapist": "Celebrating your dad's resilience and adventure stories nurtures a deeper understanding of his life, positively impacting your identity and values. These storytelling moments become pivotal in shaping meaningful connections. How might these insights influence the narrative you're creating about your family legacy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Hearing about my dad's resilience paints a richer legacy, one of courage and adaptability. I feel inspired to embody these traits in my narrative and future endeavors.",
+        "therapist": "Embracing the courage and adaptability your dad has modeled enriches both your narrative and familial legacy. His resilience contributes profoundly to who you are becoming. Reflecting on how your embodiment of these traits may inspire others, what aspirations do you hold for reinforcing these qualities in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 38,
+        "client": "I aspire to build resilience and adaptability in my relationships by fostering openness, like the time I listened deeply to a friend facing struggles. Feeling connected enriched us both.",
+        "therapist": "Your openness and ability to connect deeply showcase your resilience, enhancing both your narrative and those around you. Recognizing this value highlights your meaningful contributions to others' lives. How might these qualities continue to enrich and influence your relationships moving forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think by continuing to listen and empathize, like when I helped a colleague navigate work stress. Our shared understanding fostered support and strengthened our connection. It's fulfilling.",
+        "therapist": "By providing empathy and support, you enrich both your colleague's life and your own, demonstrating meaningful agency. Your actions reveal a deep commitment to nurturing connections. How might embracing this approach further strengthen your relationships and contribute positively to others’ lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "I've noticed that when I listen and empathize, like with my sibling during their divorce, it deepens trust. It reminds me that being present is sometimes more valuable than fixing issues.",
+        "therapist": "Your presence and empathy undoubtedly contribute to the fabric of trust and understanding in your relationships. By embracing these qualities, you’re shaping how others perceive support and care. Consider reflecting on the ways these interactions have influenced your own identity.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I've realized that being present deepens trust, like when my sibling confided in me during their divorce. It made me value supporting others and has enriched my sense of empathy.",
+        "therapist": "Reflecting on the trust and support you",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Reflecting on these moments deepens my understanding of empathy's importance. It was like when my friend faced a career setback, and I listened without judgment, which strengthened our bond.",
+        "therapist": "Listening with empathy truly transforms how others perceive themselves and you. This nurturing of mutual bonds creates a legacy in those relationships. Consider how these moments of non-judgmental support may continue shaping your friend's narrative and your evolving role in their life.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I see how offering support changes perceptions. My friend often recalls our talks during their career struggles, reminding me that my presence has lasting impact, reinforcing my own growth.",
+        "therapist": "Engaging in these supportive connections highlights your ability to see and reinforce the strengths within others, just as your presence has influenced and nurtured your own growth. How does this mutual reinforcement deepen both your narrative and their sense of self?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "This reinforcement lets me see my capacity to make a difference in others' lives. For example, helping my friend navigate their layoff reassured me of my value and compassion.",
+        "therapist": "Recognizing your capacity for compassion and support beautifully highlights your impactful presence in others’ lives. Seeing yourself through their appreciation not only reassures your worth but enriches those connections. How might these experiences further affirm your sense of identity and agency?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "I'm realizing that these experiences help shape my understanding of myself as someone capable and nurturing. For example, during college, I supported a friend through depression, reminding me of my resilience.",
+        "therapist": "This acknowledgment of your nurturing and resilient nature is both powerful and affirming. By seeing yourself through those you've supported, how might this perspective continue to influence the roles you take on in your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 46,
+        "client": "Reflecting on these experiences, I feel encouraged to offer support more often. When my cousin faced anxiety about starting a new job, my empathy guided me to help them explore solutions.",
+        "therapist": "Your ability to support others is evident and enriches both your identity and theirs. This journey strengthens your empathetic role. Consider how these connections inspire further possibilities for growth in you and those you care about.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "Reflecting on supporting others motivates me to grow. I helped a neighbor through grief by organizing supportive gatherings. It strengthened our community and reinforced my belief in compassionate action.",
+        "therapist": "Your commitment to compassionate action not only supports others but enriches the community, highlighting your impactful presence. Reflecting on these experiences, how might this mutual support continue to influence and shape the identities within your community and yours as you move forward?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "The mutual support in my community deepens trust and belonging. For instance, after organizing a grief gathering, seeing everyone's gratitude inspired me to take on more meaningful roles.",
+        "therapist": "As you embrace more meaningful roles, your actions reveal the capacity to nurture identities and communities. Your neighbors' gratitude speaks volumes about how your contributions positively shape their lives. How might these new responsibilities deepen both your understanding of yourself and the evolving sense of belonging in your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Taking on these roles has made me realize my ability to impact change and create connections. Leading the grief gatherings not only brought us closer but also fueled my passion for community service.",
+        "therapist": "As you lead and nurture these connections, you're not only enhancing your community but also creating a ripple effect of change and support. This intertwining of identities enriches everyone involved. What further insights or goals emerge for you as your passion for community service evolves?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I've discovered a desire to initiate projects focusing on mental health awareness. Observing profound changes within my community inspires me to expand outreach, emphasizing empathy and support for all.",
+        "therapist": "Initiating mental health projects is a powerful expression of empathy. Your efforts create meaningful change, impacting the identities of those you connect with. Consider how these contributions are shaping not only your identity but also inspiring others to embrace empathy in their lives.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

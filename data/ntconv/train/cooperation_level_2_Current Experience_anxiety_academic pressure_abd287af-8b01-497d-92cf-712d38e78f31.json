@@ -1,0 +1,570 @@
+[
+    {
+        "round": 1,
+        "user": "Hello",
+        "answer_final": "Hello",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there! I'm feeling a bit overwhelmed today. There's so much going on, and I'm trying to process it all.",
+        "therapist": "Processing so much at once can be challenging, and it's okay to feel overwhelmed. Let's take a moment to honor what you're going through. What's one thing you feel comfortable sharing that might help lighten your load today?"
+    },
+    {
+        "round": 2,
+        "user": "How goes it",
+        "answer_final": "How may i help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm glad to share, thank you. I think what's weighing on me the most right now is the pressure to meet deadlines at work, while also managing family responsibilities. It's tough balancing everything.",
+        "therapist": "Your openness is valuable. Balancing work and family responsibilities can indeed feel daunting. Recognizing these pressures is a meaningful step. How might prioritizing one aspect today bring some ease to your experience?"
+    },
+    {
+        "round": 3,
+        "user": "Just trying to complete my senior year of college",
+        "answer_final": "is there something stopping you?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Focusing on completing my senior year of college is weighing heavily on me right now. I often feel caught between deadlines and wanting to support my family.",
+        "therapist": "Balancing college demands and family support truly takes resilience. Reflecting on these priorities, what would be a small step today that aligns with both your academic goals and your desire to assist your family?"
+    },
+    {
+        "round": 4,
+        "user": "Funding",
+        "answer_final": "I can understand how you are feeling about that.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm trying to secure funding for my projects, which could lessen stress at home. This goal supports my academic work and benefits my family simultaneously.",
+        "therapist": "Your dedication to both securing project funding and supporting your family is admirable. This dual focus showcases your resourcefulness. What might be a step toward feeling more balanced as you navigate this journey?"
+    },
+    {
+        "round": 5,
+        "user": "Trying for a pell grant. I won't take a loan",
+        "answer_final": "Have you talked to your advisor about the situation?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've started applying for a Pell Grant to ease financial pressure. Avoiding loans feels important right now. It might help me focus more on both school and family.",
+        "therapist": "Applying for a Pell Grant shows your thoughtful approach to managing financial pressure. It's understandable you want to avoid loans. How does pursuing this grant enhance your sense of control over balancing school and family priorities?"
+    },
+    {
+        "round": 6,
+        "user": "Yes. They need paperwork I can not complete. Red Tape",
+        "answer_final": "You tried for financial aid?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I was hoping the Pell Grant would streamline my financial concerns, offering peace of mind. Yet, bureaucratic hurdles like paperwork complexities feel overwhelming, momentarily delaying my plans.",
+        "therapist": "You’ve taken proactive steps, and it’s natural to feel overwhelmed by the paperwork. Navigating this bureaucracy is challenging. What small action could you take to manage this complexity while maintaining your goal of easing financial stress?"
+    },
+    {
+        "round": 7,
+        "user": "yes. But I won't take out astudent loan",
+        "answer_final": "You do not need a student loan for that",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely, I find the thought of a student loan quite daunting. Organizing my paperwork bit by bit might be the small action that helps me manage stress effectively.",
+        "therapist": "You’re showing strength in tackling stress by organizing your paperwork step by step. How does breaking down tasks like this help you feel more grounded and less anxious about financial challenges?"
+    },
+    {
+        "round": 8,
+        "user": "I need to have my grant money to avoid having out of pocket",
+        "answer_final": "i understand have you tried to work it out with anyone and see if you can make a payment when you get the money",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Breaking tasks down helps me feel less overwhelmed, and securing grant money is crucial to avoid out-of-pocket expenses. It reassures me that I'm supporting my family without extra debt.",
+        "therapist": "Breaking tasks down offers a powerful sense of reassurance, knowing you’re working toward supporting your family without additional debt. What are some positive changes you've noticed in how you handle financial stress since adopting this approach?"
+    },
+    {
+        "round": 9,
+        "user": "My classes are all online. I have talked with financial aide but there is red tape.",
+        "answer_final": "can you explain to me what is red tape?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Breaking things down has definitely lessened the weight of my financial stress. My classes are online, which helps with flexibility, but dealing with red tape from financial aid is still a challenge.",
+        "therapist": "Flexibility in your online classes is a strong asset, offering you some control amid the challenges of financial aid processes. Your strategy to manage stress is impactful. How do you perceive your strengths evolving as you navigate through this red tape?"
+    },
+    {
+        "round": 10,
+        "user": "I need a form signed by my doctor but I can't see him to complete the form. Medical release form",
+        "answer_final": "why do you need a form signed by your doctor?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've noticed my resilience in tackling these challenges has grown. It's difficult because I need a medical release form signed, but getting to see my doctor is challenging due to scheduling conflicts. It feels frustrating at times, but I'm determined to push through for the sake of progressing.",
+        "therapist": "Resilience is a key strength you've developed. Scheduling conflicts are indeed frustrating, yet your determination to push through shows commitment. In what ways can this resilience support you in creatively finding solutions to navigate the medical form obstacle?"
+    },
+    {
+        "round": 11,
+        "user": "the school requires it for disabilty",
+        "answer_final": "oh ok i understand that. Have you talked to your parents or family to see if they would try to help you",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm focusing on finding times the doctor's office might be flexible or offering virtual consultations, as the school requires this form for my disability accommodations. It's essential I find a way to make it happen.",
+        "therapist": "Your dedication to navigating this situation demonstrates remarkable resilience and resourcefulness. Virtual consultations could be a viable solution. How might pursuing this option ease your path toward securing necessary accommodations?"
+    },
+    {
+        "round": 12,
+        "user": "I am over the hill. I am 66. I am trying to complete my senior year in Biblical studies",
+        "answer_final": "Biblical studies sounds interesting. Have you tried to call your doctor?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm embracing technology, considering virtual consultations despite feeling over the hill at 66. It's all part of completing my senior year in Biblical studies successfully.",
+        "therapist": "Embracing technology at 66 reflects remarkable adaptability and perseverance in pursuing your Biblical studies. Your willingness to explore new solutions strengthens your journey. How do you envision this adaptability supporting your future goals?"
+    },
+    {
+        "round": 13,
+        "user": "He is at a VA hospital and hard to connect with",
+        "answer_final": "i understand. I know how you feeling and do not let this stress you out all the way. maybe you will have to take out a loan if it comes down to it",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Embracing these challenges with technology indeed supports my adaptability. Yet, connecting with my doctor at the VA hospital is tough, but I’m determined to find a way forward.",
+        "therapist": "Your determination to navigate technology challenges reflects your adaptability and strength. It's understandable that connecting with the VA can be tough. In embracing these tools, how do you foresee them supporting your efforts to secure the medical connection needed for your journey?"
+    },
+    {
+        "round": 14,
+        "user": "I just can't get the school to give me a variance so i can take my classes. I will contact another school to see if they have a program for me",
+        "answer_final": "You need to talk to your advisor or whoever is in charge of that and tell them what is going on",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Technology does open new paths for securing this medical connection, but the school's rigidity in policies feels like a setback. If it doesn't work, reaching out to other schools is a solid plan. I'm determined to find an institution willing to accommodate my needs and allow me to complete my studies.",
+        "therapist": "You’re showcasing strength in considering new paths and institutions for your studies. Facing policy setbacks can be frustrating, yet your determination remains strong. Your resilience seems ready to embrace alternatives; how might this shape the pursuit of an accommodating academic environment?"
+    },
+    {
+        "round": 15,
+        "user": "The advisor keep telling me they need teh form filled out and signed",
+        "answer_final": "maybe you should try another school",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your encouragement. My advisor insists the form must be completed and signed, which adds pressure. I'm actively seeking ways to address this requirement while considering alternative paths.",
+        "therapist": "You're handling this pressure with strength and creativity, which is commendable. Exploring ways to fulfill the requirement while keeping options open shows adaptability. How does considering alternative paths affect your feelings about completing your studies?"
+    },
+    {
+        "round": 16,
+        "user": "I am going to check another college to see if I can transfer credits. Thanks for the chat. have a Merry Christmas",
+        "answer_final": "yes you transfer credits to a lot of colleges you should start calling different colleges. your welcome have a Merry Christmas to",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Exploring alternative paths gives me hope and motivation to continue my studies, even with the current pressures. I'm considering transferring credits to another college if it doesn't work here. Thank you for your support! Have a Merry Christmas.",
+        "therapist": "Your willingness to explore alternative paths truly highlights your resilience and hope in continuing your studies. This approach seems to provide motivation amidst the pressures you face. What might be your next step toward finding a supportive institution?"
+    },
+    {
+        "round": 17,
+        "user": "Take care",
+        "answer_final": "you to",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for acknowledging that. My next step is researching colleges that have flexible policies. I feel a bit anxious, but this plan gives me hope. Take care.",
+        "therapist": "Your focus on finding colleges with flexible policies shows resourcefulness and resilience. It's normal to feel anxious, yet your hope is a strong ally in this journey. How can I support you further in this exploration?"
+    },
+    {
+        "round": 18,
+        "client": "Thank you, it means a lot. Guidance in finding resources for comparing school policies would be helpful. Last week, I felt overwhelmed but hopeful after discussing options with my family.",
+        "therapist": "In considering school policies, identifying specific characteristics that would nurture your educational journey is vital. It seems the anxiety you felt coexists with hope—valuable elements in this quest. Could resources like student forums or academic advisors assist you in comparing these institutions effectively?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 19,
+        "client": "I think student forums could really help in gauging the flexibility of schools' policies. Talking to advisors also provides insight. My family discussing options last week lifted some weight off my shoulders, making me feel supported yet nervous about these big decisions.",
+        "therapist": "Your insights into using forums and seeking advice highlight proactive steps in understanding school policies, echoing a deeper commitment to your educational journey. The support from your family aligns with these efforts. What personal values or hopes drive your choice for an institution's flexibility?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I value adaptability and support in an institution. I want a place that acknowledges life's unpredictability and offers a nurturing environment, much like the encouragement I've felt from my family.",
+        "therapist": "You’re identifying what's most important in an institution, which is adaptability and support—core to your values and experiences with family. This focus helps externalize the pressure of unpredictability. How does viewing these challenges separately from yourself influence your decisions and hopes moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Viewing challenges separately from myself allows me to prioritize effectively without feeling overwhelmed. Last weekend, I made a list of potential colleges, which organized my thoughts and boosted my confidence.",
+        "therapist": "Boosting confidence through organization is a meaningful step in your journey. Acknowledging these moments where you've overcome overwhelming feelings by separating challenges can be empowering. Reflect on how this newfound clarity and confidence might influence your next steps with these colleges.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Last night's breakthrough felt like clarity emerging from fog. Not just the list of colleges but envisioning myself thriving at one boosted my confidence, and I appreciate any advice on moving forward.",
+        "therapist": "Your vision of thriving within a college is a powerful image that aligns with your values of adaptability and support. This moment of clarity reinforces your commitment to finding the right fit. Embrace this confidence, exploring options through both imagination and practical steps to manifest your aspirations.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Thank you for understanding. This clarity seems to open new doors in my mind. I remember visualizing myself engaging in clubs and activities, and felt excitement over opportunities to grow.",
+        "therapist": "Visualizing yourself actively participating and growing highlights a narrative of possibility and transformation. This aligns with your valued commitments to adaptability and exploration. Embrace this excitement as part of crafting your future path—how does it feel envisioning these potential achievements becoming reality?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Imagining these achievements fuels my motivation and excitement. I picture myself in leadership roles or organizing events, feeling that same sense of support and adaptability I crave.",
+        "therapist": "Visualizing your active involvement in leadership roles forms a strong narrative of growth. These images of support and adaptability are foundational for constructing the life you envision. How might embracing this story influence your approach to new opportunities in these environments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Embracing this story encourages me to seize new opportunities with confidence. Recently, I joined a community group, fostering connections and learning more about myself through collaborative projects.",
+        "therapist": "Joining the community group reflects your narrative of action and growth, reinforcing your preferred story. Through collaboration, you're developing a new sense of self. Consider how these connections can deepen your understanding and expand possibilities in other areas you aspire to explore.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Last week, I organized a workshop within the group, focusing on community storytelling. It felt empowering to foster discussions and share experiences—enhancing my narrative perspective through others’ stories.",
+        "therapist": "Empowering others through storytelling enhances your narrative skills and reveals meaningful dimensions of your identity landscape. Connecting deeply with shared experiences, what values or intentions emerge that can support the identity you wish to cultivate moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I realized that empathy and community engagement are crucial values for me. Through storytelling, I felt a deep connection with others' perspectives, which reinforced my intention to lead inclusively.",
+        "therapist": "Embracing empathy and community engagement positions you powerfully for inclusive leadership. By linking these values with your actions, your preferred identity becomes clearer. Consider how these insights may influence the new directions you're considering and what steps might align with this evolving story.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Lately, I’ve considered hosting regular meetups focused on social justice issues, giving voice to diverse narratives. The thought of inspiring change fuels my passion and commitment for inclusive leadership.",
+        "therapist": "Organizing meetups centered on social justice reflects your commitment to fostering change and inclusivity. Embracing these initiatives, consider how each gathering might reinforce and expand your passion for leadership—guiding others through diverse perspectives to enrich collective narratives.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Thinking about hosting these meetups fills me with excitement. I've brainstormed sessions on environmental justice and how local communities can drive impactful change—energized by the potential dialogues.",
+        "therapist": "Excitement about these meetups signifies pivotal moments of action in your leadership journey. The potential for impactful dialogues can deepen your dedication to environmental justice. How do you see these experiences reinforcing or reshaping your commitment to leading change within the community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 30,
+        "client": "These experiences renew my commitment by highlighting our shared responsibility. Listening to local voices, I’ve understood our collective power in driving change, sparking both urgency and hope within me.",
+        "therapist": "Renewing your commitment through listening and understanding empowers your leadership journey. Your sense of urgency combined with hope underlines a clear vision for impactful action. How might these values guide the choices you make as you continue nurturing community change?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I envision organizing workshops on local environmental initiatives, gathering community insights. Hosting discussions to channel this urgency into tangible actions excites me and strengthens my hopeful outlook.",
+        "therapist": "In envisioning these workshops, you",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "see the power of collaboration coming to life. I felt invigorated at last week's community clean-up event—everyone's enthusiasm was contagious, underscoring our collective impact and potential for change.",
+        "therapist": "Embracing the contagious enthusiasm during the clean-up reflects your dedication to collaborative change. Your vision for community workshops can harness this energy, shaping a hopeful and proactive narrative. How might you channel this collective spirit into future initiatives, building on these shared achievements?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Last week's enthusiasm was inspiring. I'm planning to organize monthly strategy sessions where we brainstorm actionable steps and set clear goals, motivating everyone to see immediate impacts.",
+        "therapist": "Encouraged by the enthusiasm you've witnessed, these strategy sessions can be a vital step toward actualizing your vision. Integrating community input aligns with your values of collaboration and positive impact. How might these monthly goals reflect and amplify the identity you wish to cultivate as a leader?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "These monthly goals reflect my dedication to fostering an inclusive environment. I felt empowered witnessing everyone’s commitment and envision shaping a leader who inspires and motivates action through shared vision.",
+        "therapist": "Your dedication to fostering inclusivity reflects the identity you envision as an inspiring leader. These collective efforts can enhance your commitment and intentions. How does the realization of shared goals amplify your sense of empowerment and define your role within this community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "My empowerment grows as I see our goals materialize, like when we collectively planned and executed the community garden project. Witnessing these efforts makes me proud and fuels my passion for leadership.",
+        "therapist": "Witnessing the fruition of your efforts, like the community garden, deepens your identity as an empowering leader. This commitment to leadership seems closely tied to your core values. How does this evolving identity continue to shape the stories you tell yourself about what’s possible?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Seeing projects come to life transforms my self-narrative. I reflect on starting a recycling drive; it felt daunting, but now it's thriving. This progress fuels belief in achieving more.",
+        "therapist": "As your projects flourish, consider the role of those who inspired and supported you in this journey. How have their contributions shaped your drive and confidence, influencing how you see yourself as a leader today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Their encouragement has been crucial, like when Lisa guided me through organizing my first event. That guidance shaped my leadership style, highlighting collaboration and perseverance as key traits.",
+        "therapist": "It's empowering to see how Lisa's guidance reflects your core values and shapes your leadership style. As you consider the traits of collaboration and perseverance, how might Lisa view your growth and achievements in your journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Lisa would likely feel proud, seeing how her support allowed me to embrace challenges. Her belief in my potential motivated me to lead the fundraiser with confidence and impact.",
+        "therapist": "Recognizing Lisa's pride underscores your meaningful contribution to others' lives and fortifies your leadership identity. Reflecting on how you've inspired confidence in others, like Lisa did for you, what contributions do you see yourself offering now within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I see myself encouraging others to voice their ideas, much like during our youth workshop. It was fulfilling to watch them realize their contributions truly mattered. My role is evolving into one of support and empowerment.",
+        "therapist": "Your supportive role in the youth workshop nurtures not only others' voices but also strengthens your empowering identity. As you see those around you grow, what stories are emerging about your impact on their journeys and how has this influenced your sense of self?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Stories from the workshop highlighted my encouragement's impact. Seeing young people express new ideas with growing confidence shifted my perspective, deepening my fulfillment and belief in mutual growth.",
+        "therapist": "You’ve cultivated a space where young voices are empowered, transforming your role into one of impactful mentorship. How do these experiences shape the way others see themselves, and in turn, enhance your journey in leadership and growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "In our discussions, I've noticed how others gain self-assurance from my support, watching them thrive motivates me. It's like seeing seeds bloom, inspiring me to nurture growth continuously.",
+        "therapist": "Your nurturing influence allows others to thrive and become more confident, reinforcing a cycle of growth for everyone. This mutual transformation amplifies your relational identity as a cultivator of potential. How might these blossoming seeds inspire new directions for your leadership journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "Reflecting on the growth I've witnessed, I'm driven to initiate a mentorship program. I envision guiding budding leaders by offering them a platform and resources for personal development.",
+        "therapist": "Your vision for a mentorship program captures the spirit of mutual growth and empowerment beautifully. How do you imagine your leadership influence evolving as you offer support and resources, contributing to their transformational stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Imagining my role grow from initiating dialogues to witnessing breakthroughs, my influence would embody empathy and insight. Guiding others' stories would renew my motivation, sparking personal evolution.",
+        "therapist": "Your evolving role radiates empathy and insight, significantly influencing how others perceive themselves. As you nurture their narratives and share breakthroughs, what new perspectives on your identity might emerge through their stories of growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I realize my identity is evolving into that of a guide and mentor. Witnessing others’ courage to act on their ideas deepens my sense of purpose, knowing I contribute to their confidence.",
+        "therapist": "As you embrace your identity as a guide and mentor, your influence enhances the courage others find within themselves. This evolving journey not only impacts their paths but continuously shapes yours. How does this dynamic interplay enrich your understanding of mutual growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Witnessing others embrace their potential enhances my understanding of growth as a shared journey. I remember a mentee stepping confidently into a leadership role, which reinforced my belief in the power of collaborative nurturing.",
+        "therapist": "Your reflections on collaborative nurturing highlight how your guidance has empowered others to step confidently into leadership roles. How might continuing these connections deepen your identity as a mentor and expand your understanding of shared growth?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Reflecting on my mentee thriving reinforced that true leadership blossoms from shared experiences. This process deepens my commitment to fostering environments where growth thrives collectively, enhancing fulfillment and purpose.",
+        "therapist": "Your reflections capture the essence of true leadership emerging from shared experiences. As you nurture environments that foster collective growth, what might you discover about your own evolving role in guiding others toward their potential?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I might discover that my role involves listening deeply and encouraging creative risk-taking. Seeing a mentee propose innovative solutions reminded me how vital supportive environments are for confidence.",
+        "therapist": "The trust you instill creates a fertile ground for creativity and confidence. How do you feel witnessing your mentees transform through your supportive approach, potentially altering their narratives and your own in the process?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "It's fulfilling to witness their transformation. I remember one mentee who overcame self-doubt and launched a community project. Their growth reaffirms my belief in collaborative support.",
+        "therapist": "You're seeing profound evidence of your influence in nurturing courage and resilience. Witnessing their growth speaks to your own ability to create transformative environments. What strengths have you recognized within yourself through this mutual journey of empowerment?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "I’ve recognized empathy as a strength. It helps me understand and motivate others. Once, a mentee facing challenges felt understood; it strengthened their resolve to push forward creatively.",
+        "therapist": "Your empathy truly strengthens your ability to foster creative resolve in others, underscoring your impactful contribution. How might continuing these nurturing interactions help reshape the way you view yourself as both a mentor and a learner?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "I’ve started seeing myself as an adaptable guide, learning through each interaction. For example, mentoring a hesitant newcomer taught me to balance encouragement and patience, growing alongside them.",
+        "therapist": "Recognizing your adaptability reveals a mutual impact between you and those you mentor. As you grow alongside them, consider how these interactions have also helped shape their identity, contributing to their confidence. What insights do they reflect back that affirm your journey as a guide?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

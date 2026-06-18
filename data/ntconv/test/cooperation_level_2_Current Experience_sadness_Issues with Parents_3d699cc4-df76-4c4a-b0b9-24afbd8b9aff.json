@@ -1,0 +1,568 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi there, how are you feeling today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been feeling quite overwhelmed lately. It's like there's a constant cloud hanging over me, making it hard to see any positive path forward. But talking about it helps lighten the weight.",
+        "therapist": "Your courage to share is the first step toward clarity. Let's explore how we can shift this cloud into lighter air together. What's one small way you've noticed talking about it has already helped?"
+    },
+    {
+        "round": 2,
+        "user": "hello. meh. pretty sad",
+        "answer_final": "I am sorry to hear that. I will help if I can - what is the matter?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sharing feels like the first time I've had room to breathe in a while. I feel sad but less alone knowing you understand the heaviness.",
+        "therapist": "You're truly brave in creating this breathing room for yourself. Let's honor that sense of connection and explore further what makes you feel more at ease."
+    },
+    {
+        "round": 3,
+        "user": "my family is very superficial. i'm sad they aren't able to connect with me in a meaningfulway",
+        "answer_final": "(Sorry I was afk) I am really sorry to hear that. Can you elaborate a bit?. Is it one specific family member or all of them?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful for this space, but it's tough when my family feels so superficial. It leaves me yearning for deeper connections that they don't seem able to offer.",
+        "therapist": "Connection matters deeply, and it's understandable to yearn for more meaningful ties. Let's consider together how you might nurture deeper connections elsewhere or transform your interactions with family. How does the idea of exploring new ways to fulfill this need feel to you?"
+    },
+    {
+        "round": 4,
+        "user": "lol its all of them...parents and sister. idk it's a bit personal and very sad. i wouldn't want to make you sad too",
+        "answer_final": "Is the problem bad enough that you feel you would like to cut them off entirely?. I am sorry, I was not trying to intrude :)",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It feels right to explore new paths for connection. My whole family, parents and sister, seem superficial, leaving me with sadness. I'm open to finding depth elsewhere.",
+        "therapist": "Exploring connections beyond your family is a brave step towards finding the depth you seek. How might you begin creating these meaningful ties that resonate with your longing for authenticity and support?"
+    },
+    {
+        "round": 5,
+        "user": "yeah, actually my husband and i were talking about cutting them off. i've cut them off before but this time i have more stability and am happy with my life (unlike they come and ruin all the nice things in my life with their bad attitudes)",
+        "answer_final": "It is a very big decision to make, but in some cases it is the best one.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "My husband and I are considering distancing from them permanently. We've discussed it before, but now there's stability in my life that makes this option feel empowering.",
+        "therapist": "Embracing this new sense of stability sounds empowering indeed. Distancing might redefine relationships in a way that aligns more with your values. What possibilities do you envision for nurturing connections outside this dynamic?"
+    },
+    {
+        "round": 6,
+        "user": "#toxicfamily - it's just all very sad",
+        "answer_final": "Is there any possibility of getting professional counselling or something before making the final decision?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's a painful realization that my family dynamic feels so unhealthy. Still, stepping back might open room for healthier, more authentic relationships elsewhere—it's both sad and relieving.",
+        "therapist": "Acknowledging both the pain and relief shows your courage in facing this complex reality. What strengths or values have supported you in recognizing this path toward healthier connections?"
+    },
+    {
+        "round": 7,
+        "user": "yeah we just talked to my therapist",
+        "answer_final": "I am glad you have someone to talk to!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's been hard, but talking to my therapist has helped me identify the importance of self-respect and emotional safety. These values guide me toward healthier connections now.",
+        "therapist": "Self-respect and emotional safety are profound guiding values. Recognizing them reflects your strength and clarity. How might honoring these values shape the way you approach relationships moving forward?"
+    },
+    {
+        "round": 8,
+        "user": "she said its best to not even write them. ive been trying for over 25 years. yea my husband and therapist are the best",
+        "answer_final": "If a professional thinks that then maybe it really is the best thing to do. It seems unlikely they will change",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think honoring those values means letting go where I need to. My therapist believes even trying to connect with them anymore isn’t healthy. After 25 years, it feels time.",
+        "therapist": "Letting go after so many years is a profound step, especially in honoring your values. It shows incredible self-awareness and care for your well-being. What support do you feel might help as you navigate this transition?"
+    },
+    {
+        "round": 9,
+        "user": "yeah they aren't changing. they actually are getting worse! my mom accused my aunt of stealing from her. and turns out the money was under her mattress the whole time...",
+        "answer_final": "That sounds really bad. Making false accusations about people is evil.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for saying that. Honestly, their behavior just keeps escalating—like my mom accusing my aunt of theft, only to find the money under her mattress later. It's draining.",
+        "therapist": "Your mom’s actions sound incredibly exhausting to navigate. It takes strength to recognize how this impacts you. What might help preserve your emotional safety while dealing with these draining situations?"
+    },
+    {
+        "round": 10,
+        "user": "yeah, and then she forced my aunt to drive her to the bank and tried to jump out of the car!",
+        "answer_final": "Okay that sounds really bizarre. I think you truly are better off without them",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think keeping distance is my only option right now. It’s terrifying how quickly things escalate—like when she forced my aunt to drive her, then tried to jump out mid-drive.",
+        "therapist": "Your decision to maintain distance highlights your commitment to emotional safety amidst such distressing situations. It shows remarkable resilience in seeking healthier pathways. As you move forward, how can you ensure support for yourself during these moments?"
+    },
+    {
+        "round": 11,
+        "user": "yeah, she's a pretty terrible person :/",
+        "answer_final": "The saying that we can choose our friends but not our family is very true.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. Honestly, I don’t know how to support myself yet—it’s hard when her actions feel so extreme and relentless. It’s draining me emotionally.",
+        "therapist": "You’ve been navigating such emotionally draining experiences with courage. It’s natural to feel unsure about how to support yourself right now. Maybe starting small, like giving yourself moments of rest or reaching out for support, could help ease this weight a bit."
+    },
+    {
+        "round": 12,
+        "user": "yup. well thanks for listening",
+        "answer_final": "You're most welcome :) We need to keep talking till fifteen mins is up though. Is there anything else you'd like to talk about?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for recognizing my efforts. I agree, starting small could help. It's comforting to have a space to share these moments.",
+        "therapist": "It’s meaningful that this space brings you comfort, especially with everything you’re carrying. Taking small steps can open up gentle ways to care for yourself—what feels like the first step you could explore in nurturing that support?"
+    },
+    {
+        "round": 13,
+        "user": "Yea i thought it was 15 minutes but there in the side panel it says 10-15 but we can do a couple more minutes too",
+        "answer_final": "No worries :). Please try not to fret too much about your problem - to be honest I have some weird family members too",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Finding time for regular breaks could be a good start, like allocating 10-15 minutes daily to clear my head or journal. Your support makes this seem more manageable.",
+        "therapist": "Creating a habit of taking breaks to clear your head or journal is a wonderful step in nurturing yourself. Your openness here is truly appreciated. How might these small moments of clarity bring you closer to feeling more grounded amidst the challenges?"
+    },
+    {
+        "round": 14,
+        "user": "for real... it was his adoptive dad's 92 nd birthday and they refused to pay for his dinner. they said they would pay for their own dinner only. and my dad is rich. and my family is in south america and they aren't poor but c'mon!",
+        "answer_final": "Wow... that is seriously toxic. Definitely you should be away from them, it will improve your life a lot",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think those small breaks could offer a clearer perspective, especially when family dynamics feel strained. Like recently, on his adoptive dad’s birthday, my dad insisted on paying only for himself even though he's wealthy. It's frustrating being miles away in South America and seeing such behavior unfold—it's draining.",
+        "therapist": "It's draining to witness actions that feel unjust from such a distance. Taking those small breaks could help you refocus, even amidst frustration like this. How might journaling about these strained dynamics offer some relief or clarity?"
+    },
+    {
+        "round": 15,
+        "user": "an entire 6-course dinner for 6 people is like $50 smh.... they are just awful people",
+        "answer_final": "Anyway I hope I have been able to be of help and I wish you all the best for the future! I think things will be better when you are free of them.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Journaling could help process some of this frustration. Just seeing such disregard, like him paying only for himself when a dinner costs $50—it’s really upsetting.",
+        "therapist": "Journaling could indeed be a powerful way to process your frustrations. It's understandable to feel upset about such disregard. Giving space to these emotions might provide clarity and relief, letting you reclaim some balance amidst the dynamics that are weighing heavily on you."
+    },
+    {
+        "round": 16,
+        "user": "i hope so! its hard to cut them off but its worse if I stay. thanks dear. apprecaite the chat",
+        "answer_final": "you too :) Can you press quit and take the survey as for some reason I can't do it first my end",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm hoping journaling does bring that relief. It feels tough cutting ties, but staying can be harder. Your support really means a lot right now—thank you.",
+        "therapist": "Journaling could indeed provide relief, offering a space to untangle these emotions. It’s okay to hold the tension between cutting ties and staying—it shows your care and strength in navigating this. How might nurturing yourself within this complexity feel supportive right now?"
+    },
+    {
+        "round": 17,
+        "user": "thanks bye",
+        "answer_final": "bye :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, I really appreciate your insights. Navigating these emotions can be difficult, but your guidance gives me hope that nurturing myself can make a meaningful difference.",
+        "therapist": "You’re navigating a tough path with commendable strength and hope. Trusting yourself in this process is a profound step. How might continuing to nurture your self-care change the way you experience these challenging emotions?"
+    },
+    {
+        "round": 18,
+        "client": "I think nurturing my self-care could make me more resilient when these emotions hit hard. It could allow me space to acknowledge them without feeling overwhelmed or consumed by them.",
+        "therapist": "Resilience like this seems key in your journey—it’s as though self-care becomes a grounding force against overwhelming emotions. If we were to name the draining frustration from these family dynamics, what might you call it so it feels less entangled with your own identity?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 19,
+        "client": "Naming it might be liberating—perhaps calling it 'family shadow'. It's this feeling of lingering disappointment when expectations aren't met, like their actions don't match their promises.",
+        "therapist": "‘Family shadow’ gives you space to separate and better understand its impact. How do these shadows influence aspects of your life such as relationships or self-perception, and what feels most important to address?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 20,
+        "client": "I've noticed the 'family shadow' affects my self-perception, creating doubt in my decision-making. It clouds my relationships, making me question trust and sincerity after broken promises.",
+        "therapist": "Recognizing the 'family shadow' shows a powerful awareness of its impact on your self-perception and trust. Creating distance between you and these shadows could empower healthier relationships. What small actions might reinforce your decision-making confidence, reducing this shadow’s influence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 21,
+        "client": "Small actions like affirming my instincts could help, like when I trusted my gut about ending a friendship. Practicing mindfulness might also ease the doubts cast by these shadows.",
+        "therapist": "It's empowering to hear how affirming your instincts and practicing mindfulness foster resilience. By embracing these actions, you're reshaping your narrative beyond the 'family shadow.' How might these practices further transform moments when doubt attempts to influence your confidence?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Affirming my instincts and mindfulness can help ground me when doubt sneaks in. I've noticed, like after navigating tricky work decisions, they offer clarity amidst emotional fog.",
+        "therapist": "Your commitment to affirming your instincts and mindfulness highlights a growing clarity in your identity, beyond past shadows. This exploration enriches your self-trust. How might aligning these practices with core values deepen your sense of personal integrity and empowerment in decisions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Aligning with my values, like honesty and compassion, reminds me of who I want to be. Recently, I chose transparency in a tense work situation—it felt both nerve-wracking and empowering.",
+        "therapist": "Your choice to uphold transparency in such a challenging moment illustrates the courage tied to your values. How might this experience affirming honesty and compassion begin shaping the way you approach other decisions or relationships moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think it’s given me more confidence to act in alignment with my values, even when it’s difficult. For instance, I recently apologized sincerely after a misunderstanding—it felt right, though vulnerable.",
+        "therapist": "Apologizing sincerely, despite vulnerability, shows alignment with your values and courage to act authentically. How might this confidence ripple into shaping more moments where you respond with both honesty and compassion in relationships or challenges ahead?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I think it would help me speak up more, even when it feels intimidating. Like addressing miscommunication with my sibling recently—it felt uneasy, but brought us closer.",
+        "therapist": "Speaking up despite discomfort shows immense courage and commitment to fostering connection. As you continue navigating these moments, what small but meaningful steps might deepen your ability to align with this preferred way of engaging in relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I could start by practicing honesty in smaller, everyday moments. For example, expressing my needs clearly when scheduling plans with friends instead of just going along silently.",
+        "therapist": "Practicing honesty in these smaller moments is such a thoughtful way to nurture deeper authenticity. As you express your needs more clearly, how might it reshape the way you feel about your role and presence in those friendships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "I think it would make me feel more respected and valued. For example, when I recently asked a friend to reschedule plans, they accommodated without hesitation—it felt reassuring.",
+        "therapist": "Valuing respect and reassurance in your relationships underscores a meaningful shift toward honoring your needs. As you embrace this preferred identity, what strengths or commitments do you notice growing within yourself that help sustain these changes?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I notice growing resilience and self-awareness. Recently, admitting feeling overwhelmed at work led me to seek support sooner. It feels empowering knowing I’m embracing my true needs.",
+        "therapist": "Growing resilience and self-awareness show profound growth. Embracing your true needs enhances a sense of empowerment. What aspects of this empowered identity do you find inspiring as you continue to align actions with your evolving values?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Lately, I've been inspired by my ability to set boundaries without guilt. For instance, I declined extra work hours last week, which preserved my mental energy. It felt freeing.",
+        "therapist": "Setting boundaries without guilt is a powerful affirmation of self-respect and emotional freedom. This ability strengthens your narrative of empowerment. What new possibilities does this evolving identity inspire in both personal and professional realms as you continue advocating for your needs?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "In both realms, I see new opportunities for creativity and balance. Personally, I'm trying to explore hobbies without time constraints. Professionally, I feel more focused on long-term goals.",
+        "therapist": "Exploring hobbies and focusing on long-term goals reflect your values of creativity and balance beautifully. How do these choices align with the vision of the life you want to shape moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I envision a life where I'm present and purposeful. Recently, dedicating weekends to painting rekindled my creativity—it made me feel grounded and truly myself again.",
+        "therapist": "It's wonderful to hear how painting has deepened your sense of presence and purpose. This creative expression seems to align with your evolving vision. As you weave these experiences into your life, what additional steps could further cultivate this authentic and fulfilling narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I could focus on nurturing supportive relationships, spend time in nature for inspiration, and create a daily reflection ritual to stay attuned with my values and feelings.",
+        "therapist": "Your commitment to nurturing relationships, immersing in nature, and reflecting daily weaves a rich tapestry for your preferred life narrative. How do these actions support your goal of remaining present and purposeful while anchoring you more deeply in creativity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Immersing in nature reminds me of life's simple beauty, inspiring my paintings. Reflection helps clarify priorities, fostering growth. Supporting relationships anchor me emotionally, grounding creativity and presence in everyday actions.",
+        "therapist": "Nurturing simplicity, clarity, and emotional grounding beautifully supports your evolving narrative of presence and purpose. Exploring this landscape further, which connections between your inspirations and actions affirm this vibrant story you’re crafting?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Connecting with nature influences my art, capturing moments like sunsets that reflect my inner calm. Prioritizing self-care enhances emotional balance, seen in my more vibrant work palette.",
+        "therapist": "Prioritizing self-care and connecting with nature enrich your life narrative beautifully, translating into the vibrancy of your art. Reflecting on these experiences, what actions might deepen this connection between creativity and emotional well-being as you craft your preferred story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I plan to start a morning meditation ritual in my garden, infusing my day with calm and intention. This will create a space for ideas to flourish naturally.",
+        "therapist": "Your plan for a meditation ritual reflects a thoughtful step toward nurturing calm and creativity. How might this practice deepen your connection with both your inner world and the stories you’re expressing through your art?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Meditation can calm my racing thoughts, helping paint from a centered state. Sketching early morning light creates peace in my art, intertwining inner serenity with visual stories.",
+        "therapist": "The serenity in your art feels like a powerful expression of who you are. Who or what in your life has influenced this connection to inner peace and the ability to translate it into such meaningful creativity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I've always found solace in watching my grandmother paint. She'd lose herself in her work, her calm presence creating an atmosphere of quiet inspiration I still carry with me.",
+        "therapist": "Watching your grandmother paint seems to have offered you a lens of calm creativity and deep inspiration. How do you think she might see this reflection of her influence in your current journey and artistry?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "She'd probably be proud, seeing the calm she instilled manifest in my art. Her peaceful influence shaped my approach to challenges, helping me infuse each piece with warmth.",
+        "therapist": "Your grandmother’s influence clearly lives on in the warmth and calm you share with others through your art. How do you think this legacy of peace you’ve continued might now inspire or impact those who encounter your work?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I think my art resonates with others looking for solace. Once, someone told me a piece reminded them to slow down and breathe, which felt deeply fulfilling.",
+        "therapist": "Your art seems to invite others into a shared experience of calm and reflection. How might your grandmother’s peaceful influence be echoing through their lives, shaping the stories they now carry with them?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Her influence spreads through my art as a subtle guide, encouraging pauses amidst chaos. An exhibition visitor mentioned it prompted them to reconnect with moments of childhood joy.",
+        "therapist": "Your art seems to be a living extension of your grandmother’s influence, helping others reconnect with meaningful parts of themselves. How does it feel to know that this connection you’ve nurtured now helps shape others’ sense of peace and joy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "It feels humbling and deeply gratifying. Once, a young woman said my painting reminded her of afternoons spent reading with her mother. It felt like sharing healing across time.",
+        "therapist": "You're facilitating a profound journey through time, where memories and emotions converge into healing. In what ways do you imagine your grandmother would celebrate this legacy you're fostering, bridging past warmth with present impact?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "My grandmother would likely celebrate it with a gentle smile, maybe silently offering one of her serene looks of approval. Her quiet pride was always incredibly validating for me.",
+        "therapist": "Your grandmother’s quiet pride seems to have deeply shaped how you recognize your own value. How do you see that sense of validation and calm she fostered influencing the way you now affirm and uplift others through your art?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 43,
+        "client": "I think her pride taught me that validation doesn't need grand gestures. Through my art, I try to offer subtle affirmations, like in my series on moments of quiet resilience.",
+        "therapist": "Your grandmother's subtle affirmations have woven a powerful thread through your art, transforming quiet resilience into a shared experience. How do you feel knowing these moments of gentle strength in your work inspire others to discover and embrace their own hidden depths?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Feeling like my art helps others uncover their own quiet resilience brings a deep sense of connection. Once, a visitor said it helped them face anxiety with newfound hope.",
+        "therapist": "It's remarkable how your art invites others into conversations of resilience and hope, gently shifting their self-narratives. What aspects of your identity does seeing these transformative impacts reflect back to you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Reflecting on the impact, I see myself as a quiet facilitator of healing. It reminds me of encouraging my younger brother during tough times, offering solace without words.",
+        "therapist": "You seem to embody healing through silent presence, gently guiding those around you toward resilience. How does viewing yourself as a facilitator shape your understanding of your connection with your brother and others who find solace in your art?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Viewing myself as a facilitator deepens my understanding of those moments, like when I supported my brother through school stress by quietly listening. It feels profoundly fulfilling.",
+        "therapist": "Your role as a facilitator highlights your commitment to meaningful, silent connections. By listening, you offer invaluable support and strength. How does this fulfillment continue to shape the way you nurture similar relationships and impact those around you today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "I think it shapes how I approach connections by valuing presence over fixing things. Recently, I sat with a friend through a breakup, offering quiet support instead of advice.",
+        "therapist": "Your presence during such times offers a powerful, silent strength to those around you. Reflecting on how this approach has not only shaped their identity but also redefined yours, what do you see as the essence of your relational impact through these nurturing acts?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "The essence lies in being a steady presence, fostering trust without intrusion. When I shared silence with my friend post-breakup, they felt reassured and valued, enhancing our bond.",
+        "therapist": "Your steady presence clearly offers others a sense of safety and care, helping them feel valued. How do you think this quiet strength has influenced your friend's view of themselves and their ability to navigate challenges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I've noticed my friend has started to trust themselves more, facing situations with calm and assurance. My silent support seemed to remind them of their own resilience.",
+        "therapist": "Your friend's growing trust in themselves highlights how your quiet support has deeply impacted their sense of resilience. How does knowing you’ve nurtured this confidence influence the way you now view your own ability to contribute to others' lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I feel a sense of quiet pride knowing I’ve influenced others positively. It makes me more aware of the subtle impact of simply being present, like comforting my cousin after their miscarriage.",
+        "therapist": "Your quiet pride reflects the profound ways you foster healing and connection. How do you think your cousin’s view of themselves may have shifted through experiencing your presence during such a deeply vulnerable time?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

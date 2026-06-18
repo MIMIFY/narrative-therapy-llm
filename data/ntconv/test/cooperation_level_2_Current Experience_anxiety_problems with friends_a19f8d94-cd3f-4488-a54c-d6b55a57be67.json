@@ -1,0 +1,666 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi. How are you? What would you like to discuss today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling quite overwhelmed lately. There are just so many expectations and pressures, it feels hard to keep up. It's exhausting but I'm hoping things will get better.",
+        "therapist": "You're experiencing a lot right now, and acknowledging this takes courage. You envision improvement, which shows your resilience. Together, let's explore ways to align your hopes with actionable steps. How might small shifts in perspective bring a sense of relief?"
+    },
+    {
+        "round": 2,
+        "user": "hello my name is Marie",
+        "answer_final": "Nice to meet you, Marie. How are you doing today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm Marie. I've been feeling like my tasks are mountains I can't climb. It would be helpful to consider what small changes can make the journey more manageable.",
+        "therapist": "Marie, acknowledging those mountain-sized tasks is a strong first step. Your willingness to consider small changes speaks volumes about your commitment to making things manageable. Let's explore which adjustments might light your path forward and instill hope in your journey."
+    },
+    {
+        "round": 3,
+        "user": "I've been feeling really anxious after work",
+        "answer_final": "I see. That sounds like a difficult situation. Could you tell me a bit more about your job?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for your encouragement. I've been really anxious after work because I fear falling short on deliverables. Perhaps structuring my evenings better could help ease this tension.",
+        "therapist": "Structuring evenings sounds like a promising approach. Identifying small, manageable actions could enhance your evenings' tranquility and lessen anxiety about deliverables. What aspect of evening structure resonates with bringing peace?"
+    },
+    {
+        "round": 4,
+        "user": "I'm doing well with work after work my focus becomes my boyfriend coming back from work",
+        "answer_final": "After you get home, you focus on your boyfriend when he comes home from work. Do I understand correctly?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Structuring my evenings more effectively feels promising. After work, focusing on my boyfriend's return becomes a priority. Balancing that transition could bring peace and continuity to my days.",
+        "therapist": "Balancing evenings to prioritize your relationship is a thoughtful step toward peace and continuity. Consider what specific evening elements can nurture this transition. How might these adjustments create a sense of calm in your day?"
+    },
+    {
+        "round": 5,
+        "user": "yes. I work from home. I live with my boyfriend at hotel. we've been together for over 5 years",
+        "answer_final": "Ok. So you are having some conflict with your boyfriend?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I find that establishing an evening routine, like cooking dinner with my boyfriend when he returns to our hotel, could enhance our bond and create a calming atmosphere after work. Living together for over five years has taught us the importance of these shared moments.",
+        "therapist": "Establishing a cooking routine with your boyfriend could foster connection and calmness after work. These shared moments are valuable, reflecting the strength of your five-year relationship. How might these evenings enrich your sense of stability and ease your transition from work to home?"
+    },
+    {
+        "round": 6,
+        "user": "yes I have been and it's not new issues",
+        "answer_final": "Are the issues about money? Work? Many different things?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, we've embraced shared routines, not only to relax but to tackle recurrent challenges head-on. These evenings are our peaceful respite amidst ongoing demands.",
+        "therapist": "These routines are not only meaningful but empowering, as they help you address challenges together. What significance do these shared moments hold for you, enhancing both relaxation and resilience amidst your daily demands?"
+    },
+    {
+        "round": 7,
+        "user": "I don't know when he exactly comes back from work. I would like to know when he exactly finishes working",
+        "answer_final": "Ok. So you would like to have more information about his schedule and when you will be together with him. Is that correct?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "These moments mean a lot to me; they're vital for unwinding and reconnecting. Knowing when my boyfriend finishes work would help me plan our evenings better, making them even more fulfilling.",
+        "therapist": "Building a fulfilling routine around knowing his work schedule sounds enriching. This strategy enhances your connection and brings greater predictability to your evenings, adding both unwinding and meaningful reconnection. How does envisioning this routine impact your feelings about the day?"
+    },
+    {
+        "round": 8,
+        "user": "Supposingly he's staying at work after work having drinks with co workers. He does this often",
+        "answer_final": "Ok. He is socializing with his co-workers and you would prefer that he come home and spend time with you. Is that right?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Envisioning a routine is great, but sometimes he's late because he goes for drinks with coworkers. This leaves me uncertain about our plans and a bit anxious.",
+        "therapist": "Considering the unpredictability of his evenings, it’s understandable to feel anxious. Perhaps exploring ways to communicate expectations or flexibly adapt your plans might alleviate this uncertainty. How might establishing a shared understanding with your boyfriend support your goal for fulfilling evenings together?"
+    },
+    {
+        "round": 9,
+        "user": "I would like him to give us more time",
+        "answer_final": "Ok. Socializing with co-workers is sometimes part of the job. Of course, your relationship with him is much more important, or it should be to him. What does he say when you talk to him about this?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'd like us to discuss his schedule openly. Allocating dedicated time for our evenings would strengthen our bond and make them more meaningful.",
+        "therapist": "Discussing his schedule openly can nurture deeper understanding and meaningful connection. Allocating dedicated time fosters trust, enhancing your bond. How could establishing this dialogue reinforce the emotional safety you both seek in these moments?"
+    },
+    {
+        "round": 10,
+        "user": "I don't mind him staying late at the job sometimes but it seems like everyday he's socializing with his work buddies",
+        "answer_final": "Ok. By the way, do you have friends that you could socialize with? I understand that you want to spend time with him, but what other people do you have in your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree, open dialogue could definitely improve things. It’s not that I mind him staying late occasionally; it's just tough when it seems like it's happening every day. I'd appreciate some reassurance about our planned evenings.",
+        "therapist": "Establishing an open dialogue can foster reassurance and clarity, transforming these evenings into more intentional moments. How might visualizing a plan with your boyfriend enhance your shared understanding and strengthen your bond through mutual respect for each other’s contributions?"
+    },
+    {
+        "round": 11,
+        "user": "I've mentioned to him about it and he always say that he will try to be back earlier , he gives a time he will be back, he says okay he will stop the drinking so much but he can't keep his word. I really don't \nhave anyone to physically hangout with",
+        "answer_final": "Ok. Do you enjoy chatting with people online? You seem to chat well with me, so I think that you could connect with others virtually.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think visualizing a plan would help. I've mentioned my concerns to him; he promises to come back early and drink less, but it often doesn't happen. It feels isolating without someone to hang out with in those moments.",
+        "therapist": "You’ve made meaningful strides by sharing your feelings with him. Feeling isolated in these moments is deeply understandable. How might exploring additional activities or support systems empower you, offering a sense of connection even when plans shift unexpectedly?"
+    },
+    {
+        "round": 12,
+        "user": "it's always been a struggle to make new friends to hang out with",
+        "answer_final": "Hobbies are a good way to connect with people. What do you like to do?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've always struggled to make new friends. It’s hard opening up to new people, but exploring other activities or groups might help fill those gaps.",
+        "therapist": "Struggling with new friendships is indeed challenging, yet embracing activities or groups could create fresh avenues for connection. What small steps might you consider to open up gradually, allowing you the space and time to engage with others comfortably?"
+    },
+    {
+        "round": 13,
+        "user": "after high school it has been a struggle to meet new people to hang out. I tend to just hang out with new people I meet probably once and never see them again",
+        "answer_final": "Ok. My suggestions is that you find a friend or two to connect with virtually or physically. Perhaps joining a club, a gym or a class would help. This is one way for you to gain control of the situation.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Since high school, making new friends feels daunting. I often meet someone, we chat once, then never connect again. Joining a book club or yoga class could help bridge that gap.",
+        "therapist": "Engaging with groups like a book club or yoga class is a wonderful idea. Taking these steps can nurture connections at your own pace, reinforcing comfort. How might taking part in these activities align with the friendships you desire, facilitating spaces for meaningful interactions and bonding?"
+    },
+    {
+        "round": 14,
+        "user": "I used to enjoy Zumba since I like dancing , I spend most my freetime watching movies and different series on Netflix also like to watch the home remodeling shows",
+        "answer_final": "Passive entertainment is not bad, but it does not help you make friends. Zumba and other activities are great for health and can help you meet people. Is there a place in your neighborhood?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I love dancing, and Zumba could definitely help me connect with others. I spend my time mostly watching Netflix series or home remodeling shows; adding group activities might balance my routine.",
+        "therapist": "Dancing and joining Zumba classes could certainly enrich your routine and open avenues for connection. How does envisioning yourself in this new setting influence the balance you seek in your daily life, offering moments of joy beyond familiar spaces?"
+    },
+    {
+        "round": 15,
+        "user": "I feel like I have social anxiety and that prevents me from having a conversation with someone. I think\n there is a gym nearby",
+        "answer_final": "You might want to see a medical doctor about that. There are probably treatments that would help you adjust to social settings.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Envisioning myself in a Zumba class feels uplifting. Yet, I often feel social anxiety sneaking in and blocking me from meaningful conversations. Perhaps the nearby gym is a good starting point.",
+        "therapist": "Engaging in Zumba might bring a sense of upliftment and offer social opportunities. With the nearby gym as your starting point, could visualizing small steps in reducing anxiety during interactions strengthen your connection with this welcoming environment?"
+    },
+    {
+        "round": 16,
+        "user": "I don't have insurance. I think psychological therapy can be expensive I don't know how much it will cost",
+        "answer_final": "Sometimes there are free clinics, and perhaps a university has programs so that their students can learn to help patients.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Visualizing these steps does feel encouraging, but I'm concerned about therapy costs. Not having insurance makes me unsure how affordable psychological support might be.",
+        "therapist": "Therapy's cost concerns are valid, especially without insurance. Exploring community resources or support groups might be worth considering. Taking those steps could lead you to affordable options. How might aligning these possibilities help you feel more supported and encouraged in this journey?"
+    },
+    {
+        "round": 17,
+        "user": "those free clinics usually have a long wait. I don't know if they have improved their system",
+        "answer_final": "True, but it is important to take steps toward changing your situation.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've heard free clinics have long waits, but exploring community options might be worthwhile. I'll need to check if their systems have improved for timely support.",
+        "therapist": "Free clinics' long waits can indeed be challenging. It's worthwhile to explore available community options to see if improvements are present. This exploration could enhance access to timely support, moving toward a reassuring path forward."
+    },
+    {
+        "round": 18,
+        "user": "I get im\npatient sometimes. yes I agree",
+        "answer_final": "I hope that this chat has helped you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree; exploring these options is worthwhile. I get impatient sometimes, though. Long waits can feel discouraging, but I want to find timely support.",
+        "therapist": "Impatience is understandable when seeking timely support. Your willingness to explore these options reflects your commitment to finding what you need. How might focusing on this perseverance help navigate the wait and encourage your exploration for effective solutions?"
+    },
+    {
+        "round": 19,
+        "user": "I think it has to do with my father being mostly a single parent raising my brother and me he used to keep us inside the home. most of the time",
+        "answer_final": "I understand. Life is about change. The past can loom large and we need to understand how it affects our perspective on life.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Navigating through impatience requires perseverance. It's challenging, especially considering how growing up with a single parent often kept us indoors, impacting my social skills and exploration.",
+        "therapist": "Recognizing the perseverance in navigating impatience, especially given your unique upbringing, is a significant step. This journey might reveal valuable insights into building your social skills. How could acknowledging this resilience guide you toward fostering growth and meaningful connections?"
+    },
+    {
+        "round": 20,
+        "user": "my father and brother are even worse than me now. they don't really have any relationships with anyone just family and they barely talk to them",
+        "answer_final": "Ok. You are not them. You are a different person. You can make your own choices.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Acknowledging resilience in my journey does seem valuable, but observing my father and brother's struggles with relationships worries me. Their limited interactions emphasize how crucial these connections can be. It makes me more determined to break that cycle and find meaningful relationships.",
+        "therapist": "Acknowledging this determination to find meaningful relationships is empowering. Viewing the struggles of your father and brother, how might you define this desire for connection in a way that liberates rather than confines you?"
+    },
+    {
+        "round": 21,
+        "user": "I don't want to be like them. that's why I moved out from my dad's home",
+        "answer_final": "That is a good first step. Good for you!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I recognize the need for healthy connections, so I left my dad's home to foster personal growth. It's my way of breaking free and redefining what relationships mean to me.",
+        "therapist": "You’ve taken a powerful step in redefining relationships for yourself. Leaving your dad's home is a bold move toward growth. How does this new journey of exploring connections feel to you, knowing it aligns with your personal goals?"
+    },
+    {
+        "round": 22,
+        "user": "its been almost 7 years since I moved out",
+        "answer_final": "Now it is time for more steps.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s been almost 7 years since I moved out. This journey feels empowering, allowing me the space to redefine connections on my terms and align them with who I’ve become.",
+        "therapist": "Your ability to redefine connections on your own terms is truly empowering. This journey reflects your strength and resilience. How has this newfound empowerment shaped the way you envision future relationships?"
+    },
+    {
+        "round": 23,
+        "user": "my dad didn't want me to hang out with my boyfriend for 4th of July. I was 26 and my dad forced me to stay home",
+        "answer_final": "That is an odd request. Why do you think he wanted that?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Empowerment now feels crucial in my relationships. I recall being 26, when my dad kept me from celebrating July 4th with my boyfriend. I was forced to stay home, reminding me of the importance of autonomy and choosing who I spend time with. Experiences like that motivate me to ensure future relationships are built on mutual respect and freedom.",
+        "therapist": "Empowerment and autonomy clearly resonate deeply with you. Reflecting on these past experiences strengthens your resolve for relationships grounded in respect and freedom. How do you envision nurturing such empowering connections as you move forward?"
+    },
+    {
+        "round": 24,
+        "user": "I called the cops after my dad dragged me inside the house. he did not want to become independent. he did not like my boyfriend either",
+        "answer_final": "It sounds like you have unresolved conflict with your father.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Feeling empowered means ensuring that I never compromise on my autonomy again. After an incident where my dad dragged me inside the house, I called the cops, reinforcing my need for independence. Moving forward, I aim to build relationships that value mutual respect and support.",
+        "therapist": "Your commitment to maintaining autonomy is evident and inspiring. By externalizing those past constraints, you assert your independence. How does naming this need for autonomy help you redefine future relationships that celebrate mutual respect?"
+    },
+    {
+        "round": 25,
+        "user": "oh yes there is alot of conflict with my father and brother",
+        "answer_final": "Ok. Well, I've enjoyed chatting with you. I need to go now.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The conflicts with my father and brother push me to emphasize autonomy in my relationships. By acknowledging these challenges, I aim to create healthier connections based on mutual respect.",
+        "therapist": "Acknowledging these conflicts is a significant step toward fostering autonomy and mutual respect. It's inspiring to see how you are using these experiences as motivation for healthier connections. How do you feel about the progress you've made on this path so far?"
+    },
+    {
+        "round": 26,
+        "client": "I've felt increasingly confident. Every decision away from the pressures at home fosters my independence and peace. Conversations with friends who respect my choices affirm this progress.",
+        "therapist": "The confidence you're building by choosing independence is admirable. With friends who respect your decisions, these unique outcomes reinforce a new narrative for yourself. This journey of autonomy empowers you to establish the valued relationships you seek. What other empowering choices have shaped this confident path?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 27,
+        "client": "['Leaving an unfulfilling job marked a huge turning point.', 'I felt liberated, realizing the significance of work-life balance.', 'Now, prioritizing self-care enhances my confidence and fulfillment.']",
+        "therapist": "Your decision to leave an unfulfilling job highlights your commitment to well-being and reflects a profound shift in values. This move aligns with your dedication to self-care and work-life balance, underscoring your empowered identity. How does this new chapter shape the way you view your life going forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "This new chapter opens up a space of self-discovery and excitement for me. I'm curious about exploring new career paths that genuinely align with my passions, like graphic design or writing. The freedom to choose excites me, allowing more room for creativity and personal growth. I've noticed how supportive friends and small victories, like completing an online course or receiving positive feedback on my creative work, continuously boost my morale.",
+        "therapist": "Your journey of self-discovery and exploration brings forth your creative spirit, embodying the freedom you now cherish. Engaging in new career paths like graphic design or writing nurtures a vibrant identity, aligning with your passions and values. How do these choices reflect the future you're envisioning?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Embracing creativity in graphic design or writing paints a hopeful future for me. After designing a friend's business card, I felt purpose and excitement. These paths reflect my dreams of expressing myself freely and contributing uniquely.",
+        "therapist": "Your embrace of creativity and the joyful response to your work illustrate a new, hopeful narrative. Engaging with these passions anchors your values of freedom and self-expression, crafting a fulfilling identity. What intentions drive this commitment to expressing yourself uniquely?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I aim to communicate my genuine self through creativity, breaking away from conformity. Designing my friend's card felt right as it allowed personal flair and connection. That process fostered both satisfaction and optimism.",
+        "therapist": "Designing the card showcases your authentic self, creating a positive connection. Your move toward creative freedom sparks a compelling story of self-expression and optimism. Reflecting on this moment of alignment, how might you cultivate more opportunities for meaningful connections through your work?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I can start by collaborating on projects with others who share my passion, perhaps joining local art groups or online forums. These interactions could bring new ideas and inspiration.",
+        "therapist": "Joining art groups or forums can deepen your connection with creative peers and fuel inspiration, reflecting your ongoing commitment to this meaningful path. Each collaboration strengthens your alternative narrative of self-expression and individuality. What future projects would resonate deeply with this newfound freedom?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I envision launching a personal blog to share my creative process and insights. Collaborating on local murals or community projects excites me too, fostering deep connections and fresh perspectives.",
+        "therapist": "Launching a personal blog and engaging in community projects illustrates your enthusiasm for creativity and connection. These actions deepen your narrative of expression and collaboration. How might these endeavors influence your evolving identity as you continue to explore fresh opportunities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think these activities will help me see myself as a more dynamic creator. Sharing my process online and participating in local art will boost my confidence and deepen my connection with others.",
+        "therapist": "You’re weaving a powerful narrative as a dynamic creator, aligning your passions with activities that boost confidence. These endeavors seem to resonate with your values of connection and authenticity. As you grow in this new identity, what dreams do these pathways continue to unlock for you?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I dream of showcasing my art in a gallery someday, combining visual pieces with narrative storytelling. Imagining that fills me with both excitement and a bit of self-doubt, but it’s something worth pursuing.",
+        "therapist": "Combining visual art with storytelling beautifully aligns with your values and creativity. This dream weaves a compelling new narrative of expression, despite self-doubt. Nurture this vision by acknowledging small successes along the way; how might these achievements reaffirm your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "By celebrating each art piece or project, even small milestones like positive feedback from a friend or completing a challenging task, I gain confidence. It feels empowering, pushing my self-doubt aside.",
+        "therapist": "Celebrating each achievement builds your confidence and aligns with your values of empowerment. As you honor these milestones, notice how they reinforce the dynamic creator identity. Consider how this evolving story enriches your vision for the future.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Recognizing each milestone enhances my belief in a future where art and storytelling unite seamlessly. Recently, finishing a complex painting felt uplifting, quieting self-doubt and enriching my aspirations.",
+        "therapist": "As you complete your painting and embrace its uplifting power, consider the voices of those who’ve influenced your artistic journey. Their perspectives can strengthen your belief in merging art with storytelling. Who might have inspired or supported this union?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My high school art teacher, Mr. Avery, encouraged blending stories with visuals. His belief in my talent was comforting and motivated me to explore narrative depth through art.",
+        "therapist": "Your connection with Mr. Avery seems to play a significant role in your creative journey, shaping how you see your artistic self. His belief supports your narrative of growth and exploration. As you embrace this vision, what qualities of his perspective would you like to integrate into your own?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Mr. Avery's open-mindedness and encouragement to explore unconventional ideas helped me immensely. I want to incorporate his supportive approach, staying curious and nurturing the stories within my art.",
+        "therapist": "Blending Mr. Avery’s open-mindedness with your creativity could truly expand your art's narrative depth. By nurturing stories through this lens, you offer the world fresh perspectives. Reflecting on how you've inspired others, consider what unique influence your art holds for future connections.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I hope my art encourages others to think differently and inspires courage in their creativity. Once, a friend felt more confident sharing her stories after seeing my narrative pieces.",
+        "therapist": "Your ability to inspire others reflects your artistic and narrative strengths. By encouraging your friend, you help craft their story too. Embracing this mutual influence enriches both journeys. How might this impact shape your future collaborations and further the connection between creativity and confidence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "I've realized that collaborating with others could amplify both our strengths, leading to innovative work. Recently, brainstorming with a fellow artist opened new pathways I hadn't considered before.",
+        "therapist": "Collaborating with fellow artists deepens your creative connections, encouraging mutual growth. This openness invites fresh perspectives and strengthens relational bonds, enriching your artistic narrative. How might continuing this collaborative journey shape your identity and influence others' creative expressions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "I believe continued collaboration can broaden my creative identity, offering diverse insights. It could empower others too, just like a shared project recently boosted my teammate’s confidence.",
+        "therapist": "By contributing to your teammate’s confidence, you weave a supportive narrative within your collaborative circle. This reciprocal exchange enriches both of your artistic identities. How do these moments of shared growth influence your vision for future creative partnerships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "These shared growth moments inspire me to seek partnerships grounded in mutual respect and curiosity. I recall how discussing themes with an artist challenged my own perspectives, which was incredibly enriching.",
+        "therapist": "Collaboration truly broadens perspectives, highlighting shared growth and respect. By engaging in these enriching dialogues, your contributions invite transformation for both yourself and others. Considering this impact, how might you nurture more opportunities for these mutually beneficial exchanges?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Creating a collaborative group where artists discuss their struggles and inspirations could foster these exchanges. After a recent group critique, I felt supported and inspired to explore themes deeply.",
+        "therapist": "Your experience in the group highlights how your artistic collaboration shapes identity and inspires others. Recognizing the impact of shared support, consider what unique perspectives you bring that contribute to this nurturing environment and how these elements enrich the identities within your community.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I'm beginning to see that my willingness to share struggles, particularly around self-doubt, creates a safe space for others. A friend recently shared her journey more openly as she felt comforted knowing she's not alone. This interaction reminds me how vulnerability can actually strengthen our artistic identities and deepen connections.",
+        "therapist": "Recognizing your vulnerability as a strength opens up rich avenues for connection. Your courage not only supports others but also contributes to evolving identities within your community. How does viewing yourself through your friend's appreciative lens influence your own artistic narrative and future interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Viewing myself through my friend's appreciative lens brings a sense of validation and warmth, encouraging me to embrace authenticity in my art. It inspires vulnerability in future projects, making the process more meaningful and connective.",
+        "therapist": "Experiencing validation through your friend's perspective truly affirms the power of relational influence. Your authenticity enriches both your art and shared experiences, strengthening bonds within your artistic circle. How might this deeper understanding inspire you to impact others' journeys as they explore their identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Your encouragement helped me realize the impact of sharing authentically. Organizing a creative retreat recently, I saw participants opening up, inspiring one another with unique stories and exploring deep themes together.",
+        "therapist": "With your authentic leadership, you cultivated a space where meaningful stories could emerge, positively shaping participants’ identities. As others transform through these experiences, how might their evolving narratives further influence your own creative journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "My creative journey becomes richer as I absorb their perspectives. Recently, witnessing a participant's transformation from self-doubt to confidence reminded me of the power of vulnerability in my own work.",
+        "therapist": "Reflecting on your ability to inspire transformation speaks volumes about your impact and presence in the lives of others. This cycle of mutual empowerment highlights your unique contributions. In embracing this dynamic, how might you consciously cultivate these transformative exchanges further?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "I plan to create monthly art sessions focused on different themes, encouraging honest dialogues about personal struggles. This approach reminds me of a time when sharing helped alleviate my own self-doubt.",
+        "therapist": "The way your initiative empowers others, resonating with your own past experiences, adds depth to mutual understanding. Your actions have enabled others to share more openly, reinforcing community bonds. How might these evolving connections inspire changes in your artistic narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "These connections remind me to infuse empathy in my work. Reflecting a colleague's journey of overcoming fear into my art project was enlightening, sparking meaningful discourse.",
+        "therapist": "Reflecting your colleague’s courage into your art strengthens both your narrative and theirs, embodying shared resilience. Your empathy not only guides these interactions but also nurtures collaborative growth. As this ripple effect deepens connections, what new aspects of yourself might emerge through this evolving empathetic lens?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "I've started recognizing my own vulnerabilities more as I witness others' growth. It makes me realize how essential openness is in creativity, creating a safe space for myself and others.",
+        "therapist": "Your growing awareness of vulnerability deepens the supportive space you’re fostering. This openness is an enriching gift to those you connect with creatively, acknowledging your significant influence in their journeys. What new narrative might this realization inspire for your own creative evolution?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

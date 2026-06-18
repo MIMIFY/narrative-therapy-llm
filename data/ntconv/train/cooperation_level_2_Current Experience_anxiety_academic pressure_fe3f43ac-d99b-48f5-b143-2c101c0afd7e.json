@@ -1,0 +1,488 @@
+[
+    {
+        "round": 1,
+        "user": "Hi",
+        "answer_final": "Hello, how can I help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling quite overwhelmed today. There's just so much on my mind and I'm not sure where to start.",
+        "therapist": "You're navigating through quite a bit right now, and starting from somewhere can indeed feel challenging. What's one thing on your mind that you'd like to explore today?"
+    },
+    {
+        "round": 2,
+        "user": "I'm really stressed with school exams. and I'm struggling with anxiety",
+        "answer_final": "Ah that sounds tough, why exactly are you stressed?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "School exams are the main stressor right now. I'm anxious about keeping up and worried I won't meet expectations. It's like a constant pressure that just won't let up.",
+        "therapist": "You've identified school exams as a source of pressure, which can certainly feel daunting. Consider what support or strategies could help ease this feeling. Your experiences and expectations are important, and exploring them together might uncover new insights or paths forward."
+    },
+    {
+        "round": 3,
+        "user": "I have 3 big exams coming up at the same time, and they're all really important for my final grade.. I know I'm going to badly because I haven't been learning well during the pandemic",
+        "answer_final": "Okay, I understand, I see how that can also make your anxiety worse.. Currently, on a scale of 1-10 how well are you understanding your course material?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm anxious because I have three important exams soon that impact my final grades. Learning during the pandemic was challenging, and now it feels overwhelming trying to catch up.",
+        "therapist": "You're facing a lot of stress with these upcoming exams. It sounds like balancing the pandemic's challenges and academic expectations has been tough. Let’s think about what small, achievable steps you might take now to reduce the overwhelm while preparing."
+    },
+    {
+        "round": 4,
+        "user": "Probably 4. My roommates are just so loud and inconsiderate, I can't make any progress studying.",
+        "answer_final": "That's completely normal you haven't made any progress. That would make things so hard and I applaud you for coming so far with that going on!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. Finding peace to study seems impossible with my roommates being loud all the time, making it hard to focus. It's frustrating because I really want to do well in my exams.",
+        "therapist": "You're handling a lot with your exams and the noise around you, and it's natural to feel frustrated. How might creating a study plan or finding quieter spaces help you focus on doing well in your exams?"
+    },
+    {
+        "round": 5,
+        "user": "I guess so. But if I fail or do badly on my exams it's really not going to be good. I'm on a scholarship and have to keep above a 3.0 gpa",
+        "answer_final": "Would you say your problems start with your roommates?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Creating a study plan might help me stay organized, but the real challenge is finding quiet spaces. If my exams don’t go well, I risk losing my scholarship because I need to maintain a 3.0 GPA.",
+        "therapist": "Considering how the lack of quiet impacts your studying, it's clear this noise adds extra weight to your concerns. Exploring options for quieter study spots could ease some pressure. What steps might you take to prioritize and protect this crucial study time?"
+    },
+    {
+        "round": 6,
+        "user": "They're the biggest problem right now. But I think having to learn from home is the main problem. It's so hard in a tiny room with just a laptop. No library, no office hours, no study groups.",
+        "answer_final": "I completely understand, the same goes for me. It can be hard to keep up with grade expectations especially when money is on the line",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's frustrating because learning at home in a small room with just a laptop has been limiting. Finding alternative study spots without libraries or study groups is definitely challenging.",
+        "therapist": "Learning in such conditions can indeed feel restrictive, and your adaptability amidst these challenges speaks volumes. Perhaps envisioning a flexible study schedule or temporary solutions like noise-canceling headphones could offer some relief as you navigate this difficult situation."
+    },
+    {
+        "round": 7,
+        "user": "Are you a student too?",
+        "answer_final": "Yes, and I completely get it! Its so hard to self-manage without the right resources",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your suggestion. It's helpful to consider tools like headphones. Just curious, have you experienced similar academic pressures or studied in tough environments too?",
+        "therapist": "While each of our journeys is unique, many have faced the weight of academic pressures. It's clear you're handling this with resilience. How can you build on this adaptability to further support your study needs?"
+    },
+    {
+        "round": 8,
+        "user": "Yeah, I wish the professors and university would be more flexible. When the pandemic first started, we didn't have grades, and that was really helpful",
+        "answer_final": "Ah and then they started rolling in, correct?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you for acknowledging my resilience. Honestly, I think a bit more flexibility from the professors would help. Initially, no grades during the pandemic relieved pressure immensely, and a similar approach could be beneficial now.",
+        "therapist": "Your idea about more flexibility resonates deeply. Recognizing your resilience, perhaps exploring ways to communicate this need to professors might open dialogue for mutual understanding. What small steps could you consider in approaching them about your current study needs?"
+    },
+    {
+        "round": 9,
+        "user": "Yeah, even though nothing has really changed. I feel like until way more people get the vaccine, we're still in the pandemic",
+        "answer_final": "Me too, unfortunately for us, universities don't seem t have the same sentiments.. For starters, I think it would benefit you to eliminate the more closer problems: your roommates. Have you tried talking to them?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've considered drafting an email to explain my challenges. Since conditions haven't improved much without more widespread vaccination, I believe more flexibility from professors could alleviate some stress.",
+        "therapist": "Your approach shows insightful consideration for negotiating those pressures with empathy. Crafting that email could help articulate how this situation impacts you. How might expressing this perspective foster mutual understanding with your professors to create beneficial academic conditions?"
+    },
+    {
+        "round": 10,
+        "user": "Thanks for that suggestion. I have tried, but they are immature and just want to party. I've started staying in my room which helps, but is very isolating. I wish I could afford my own place",
+        "answer_final": "Makes sense, isolation makes it hard to form that connection. I can see your dilemma. Are you currently working?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for encouraging me to communicate openly with my professors. I have tried connecting with classmates too, but it's disheartening when they prioritize partying over studying. Being in my room feels isolating; sometimes it overwhelms me and makes me dream of having my own space, even though financially, it's out of reach.",
+        "therapist": "Feeling isolated can be deeply challenging, especially when you wish for your own space. It shows strength in seeking connections with classmates and considering professors' flexibility. What small steps might empower you to explore these desires while embracing current limitations?"
+    },
+    {
+        "round": 11,
+        "client": "I might start with setting small, achievable goals like rearranging my room for better flow. It’s not my own place, but it could make studying more comfortable.",
+        "therapist": "Setting small goals like rearranging your room is a thoughtful step toward creating comfort. Identifying this challenge might highlight how 'isolation' affects your space and peace of mind. As you visualize these changes, consider what else could externalize this isolation's impact.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 12,
+        "client": "I see how isolation impacts me. Journaling about these feelings and rearranging for positive energy could externalize some of that heaviness. Thoughts on how to connect more would help.",
+        "therapist": "Journaling to understand isolation's effects is a meaningful step. Recognizing how this narrative influences your peace guides change. Seeking authentic connection could redefine this story. What steps might deepen your connections, even in small, fulfilling ways?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 13,
+        "client": "I've been thinking of joining a virtual study group. I feel it'll offer companionship while we tackle material together. I hope this shared focus will ease my loneliness.",
+        "therapist": "Joining a virtual study group could nurture a sense of community and challenge loneliness. These connections align with your values of companionship and shared focus, nurturing more supportive narratives. How might this step reflect your commitment to meaningful relationships amid challenging conditions?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Joining this group reflects my drive to foster genuine connections, despite feeling overwhelmed. I imagine feeling more understood as we tackle similar academic hurdles together.",
+        "therapist": "Embracing this connection through a study group reflects your commitment to fostering meaningful relationships, even amid challenges. This aligns with your hope for understanding and shared experiences. How might engaging in this new environment enhance the narrative you wish to build about companionship?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "['Joining the study group would let me connect through shared struggles, breaking down my narrative of isolation. When we share milestones or anxieties, the companionship genuinely lifts my spirits.']",
+        "therapist": "Companionship through shared milestones can redefine isolation, grounding your narrative in connection and support. Celebrating these connections reveals your dedication to meaningful bonds. How might this new story of companionship guide future aspirations in other areas of life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Sharing challenges has sparked a desire to approach personal goals with the same camaraderie. It might influence me to seek collaboration in creative projects, easing some self-doubt.",
+        "therapist": "Seeking collaboration in creative projects aligns with your value of connectedness and teamwork. This could transform self-doubt into shared success. How does collaborating reflect your commitment to authenticity and mutual support?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Collaborating lets me express ideas while learning from others, fostering mutual growth. In past projects, blending perspectives ignited creativity and reduced my isolation, showing me the value of shared experiences.",
+        "therapist": "Blending perspectives nurtures creativity and alleviates isolation, reflecting your commitment to meaningful connection. Naming these shared experiences as 'Collaboration' externalizes the narrative of isolation. How does prioritizing such teamwork align with your hopes for community and mutual growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Prioritizing teamwork aligns with my hopes for community because it creates space for shared achievements. In college, collaborating on a film project unified our diverse talents, filling me with purpose.",
+        "therapist": "Collaborating reveals your commitment to unity and purpose, distinguishing isolation as an external problem. These shared achievements support values of community and growth. How might continuing this path further reinforce the qualities you cherish in collective endeavors?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Continuing on this path reminds me of our theater project. We turned an empty space into a powerful play, each voice echoing unity. It felt invigorating and deeply rewarding.",
+        "therapist": "Your theater experience exemplifies how collaboration can transform spaces into fulfilling, united endeavors. This aligns with your values of connection and purpose. How does recognizing these impacts enhance the understanding of shared endeavors as catalysts for community building?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Recognizing these impacts reinforces my belief that shared creativity can bridge gaps and cultivate community spirit. During a poetry slam, seeing diverse voices unite under common themes moved me deeply.",
+        "therapist": "Shared creativity as a bridge resonates with your dedication to unity and community spirit, externalizing isolation. Valuing diverse voices reflects your hope for inclusivity. How do these shared themes influence the way you envision new collaborative projects or future engagements?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Shared themes encourage me to prioritize diversity and collective voice in future projects. At a community mural event, I experienced the power of collaboration. It strengthened my resolve for unity.",
+        "therapist": "Recognizing the impact of collaboration bolsters your dedication to unity and diversity in future projects. These exceptions reflect your active resistance against isolation. How does this strengthened resolve guide you toward new narratives where shared creativity amplifies voices in your community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Shared creativity invites new narratives by weaving distinct voices, fostering a sense of belonging. Leading a local art workshop revealed how diverse perspectives beautifully intertwine, igniting community pride and personal fulfillment.",
+        "therapist": "Community pride and fulfillment are reflections of your commitment to embracing diverse narratives. Such vibrant integration affirms a preferred identity of belonging. How might these creative interactions continue shaping the unity you seek within both personal and communal endeavors?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "When I see distinct voices coming together, it reinforces my belief in the strength of unity. Hosting an art event revealed how collaboration creates deep connections, driving mutual growth and understanding.",
+        "therapist": "Collaboration naturally leads to mutual growth, enhancing unity within your preferred story of community engagement. This art event nurtures connections aligned with these values. How might fostering these deep interactions further embody the collective journey you envision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Fostering these interactions feels empowering and inspiring. Leading a community quilt project recently, I witnessed diverse stories stitched together, strengthening our shared narrative and filling me with hope and purpose.",
+        "therapist": "Fostering these interactions showcases your commitment to unity and transformation. Your quilt project embodies connection, highlighting an inspiring story of collaboration. How does this empowerment connect with deeper values and intentions guiding your journey toward hope and purpose?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Feeling empowered through these interactions aligns with my belief in fostering inclusive spaces. During the quilt project, sharing individual stories deepened our connection and ignited my desire for collective growth.",
+        "therapist": "Collective growth seems to be rooted in your deep commitment to inclusivity. This connection has unfolded stories and potential paths aligning with your values. Embrace how your belief in empowering spaces supports not only community, but also nurtures your personal aspirations.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I'm deeply moved by witnessing diverse stories merge into a unified quilt. It clarifies my purpose to create spaces where collaboration enriches collective growth, supporting both the community and my ambitions.",
+        "therapist": "Embracing a unified quilt of stories brings clarity and aligns with your purpose for collaborative spaces. These interactions paint a landscape rich with collective growth. How might you weave this vision into new projects, supporting both personal and community ambitions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Reflecting on our quilt project, I'm now planning a mural that embodies community stories. The thought of colors and narratives shaping the town energizes me, fueling both artistic vision and collective connection.",
+        "therapist": "Energized by this mural, your creativity continues to weave community bonds. What stories might unfold as colors and narratives reflect the spirit of your town? Such vibrant expressions are paving the path for a deeply intertwined future.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I envision stories of resilience and unity, like Jane's mural representing her family's history with vibrant colors. These reflections showcase our struggles and triumphs, deepening community bonds.",
+        "therapist": "Resilience and unity seem to be vibrant themes in your mural vision, reflecting powerful exceptions where struggles became strengths. By deepening community bonds through art, you're nurturing an inspiring narrative. How will embracing these stories shape your and the community's ongoing journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 29,
+        "client": "Embracing these stories ignites a vision where art becomes a pillar of our identity. I've seen how it fosters empathy, sparking hope during community meetings, and revealing the shared strength we hold.",
+        "therapist": "Art as a pillar of identity is beautifully aligned with fostering empathy and revealing shared strength. By integrating these values, how do you envision art transforming the community meetings or enriching your own journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I see art turning meetings into spaces of open dialogue and vulnerability. Personally, it's a way to process feelings and experiences. Creating empowers me to connect deeper with others.",
+        "therapist": "Art as a bridge for dialogue and connection aligns with your values, highlighting your commitment to deeper relationships. Through this creative process, you shape an empowering narrative of vulnerability and growth. How do these values guide your future projects or interactions within the community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "These values guide my projects by inspiring initiatives like organizing art workshops where participants share personal stories through their work, fostering mutual understanding and uniting diverse voices.",
+        "therapist": "Your initiative to use art workshops is a powerful way to unite voices and foster understanding. By embracing these values, you're shaping a narrative that resonates with your core identity. What personal transformations do you foresee emerging from this creative journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Through this journey, I see myself growing more empathetic and confident. Collaborating has shown me the power of vulnerability, allowing deeper connections and embracing imperfections in my own story.",
+        "therapist": "As you embrace empathy and confidence, vulnerability becomes a powerful part of your journey. This acceptance fosters deeper connections and enriches your story. How might these evolving qualities shape future collaborations and deepen your narrative within the community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Engaging with others through art has already started deepening my narrative. Participating in workshops opens genuine dialogues; I felt the shared stories resonate within me and boost my confidence.",
+        "therapist": "Your engagement and confidence through art are enriching your story in meaningful ways. These shared experiences build a strong foundation for mutual understanding and growth. How do you envision integrating these newfound qualities into future workshops or community interactions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Workshops could evolve into collaborative spaces, inspired by stories shared during art sessions. I envision creating themes like 'Resilience' where participants reflect and express their journey artistically.",
+        "therapist": "By creating themes like 'Resilience,' you're fostering a space for participants to delve into their journeys and express them artistically. This vision could significantly shape your community narrative. How do you see this exploration influencing both individual growth and collective empowerment within these workshops?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I see art facilitating individual growth by encouraging personal reflection, similar to how sharing my piece on resilience connected with others at a recent workshop. It sparked meaningful discussions and collective empowerment.",
+        "therapist": "You're cultivating a narrative of resilience that sparks shared growth and empowerment. As you explore this path, how do these discussions inspire new possibilities or actions within your workshops?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Discussing resilience inspired me to introduce art stations focusing on themes like 'Overcoming Adversity.' Last week, a participant shared how these stations sparked healing reflections.",
+        "therapist": "You're creating a space where healing reflections naturally flourish through art. Consider how the resilience and adversity themes might influence not just your participants, but your own journey as you witness their growth. How do these experiences reflect or reshape your values?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Witnessing these journeys, I realize resilience is an ongoing process. Last month, a participant shared how art helped them during grief. It reinforces my belief in healing through creativity.",
+        "therapist": "Your recognition of resilience highlights your creative contributions to others' healing journeys. Consider how these mutual impacts not only affirm their growth but also enhance your narrative. How might these experiences continue shaping the way you perceive and embody your own resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 38,
+        "client": "These experiences deepen my understanding of resilience as a shared journey. Supporting others in their grief and healing reflects my own path. It’s both humbling and empowering.",
+        "therapist": "Sharing these transformative moments in art workshops allows others to view you through a lens of healing and support. Consider how these contributions might inspire or impact their identities, reinforcing your shared journey of resilience and empowerment.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 39,
+        "client": "I appreciate the art's role in transforming narratives. Recently, a workshop attendee discovered personal strength through adversity-themed art. It influenced how I perceive resilience and community healing.",
+        "therapist": "Recognizing the strength and transformation in others truly highlights your own role as a catalyst for healing and resilience within the community. How does this shared experience reinforce or shift how you value your contributions to these creative spaces?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Seeing others' transformations reinforces my belief in the importance of creating inclusive, expressive spaces. Last week, I felt uplifted witnessing a shy participant actively share their story.",
+        "therapist": "Recognizing the power of story-sharing, how do these transformations and inclusivity shape your identity as a facilitator and community member? Your actions not only nurture personal growth but inspire mutual empowerment. Consider what values or perspectives these experiences reflect back on you.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Facilitating these spaces has illuminated my value of empathy. When a participant shared overcoming anxiety through art, I realized the profound community impact we achieve collectively.",
+        "therapist": "Facilitating with empathy enriches the community's healing potential and clearly showcases your meaningful contributions. How does this shared impact reaffirm or reshape how you view your role and identity within the spaces you create?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "I'm starting to see myself as more than just a facilitator—I'm becoming a vital thread in this tapestry of healing. Witnessing someone's journey from anxiety to expression through art validates my role and shows me the deep value of empathy in community spaces.",
+        "therapist": "Exploring your evolving identity as a vital thread is enriching. Your empathetic influence encourages others’ growth and expression, reinforcing your relational impact. Consider how these mutual contributions shape the narratives within your community.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Participating in a recent session, I realized how every story contributes uniquely to our collective journey. Hearing diverse perspectives deepened my empathy and enhanced our community’s narrative tapestry.",
+        "therapist": "Embracing diverse stories enriches your collective tapestry, where each contribution holds transformative power. In what ways have these narratives influenced others’ self-discoveries and perceptions, creating a ripple effect that reinforces and enhances their identities within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "During a recent workshop, a participant reflected on how their storytelling brought forth hidden strengths and sparked self-acceptance. Witnessing their journey emphasized for me the power of our shared narratives.",
+        "therapist": "Embracing the participant's transformation highlights the interconnectedness of your group. Your role nurtures others' self-discoveries, while their stories reinforce your empathic identity. How has this mutual influence redefined your perception of community and strengthened those threads between you and others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Feeling the mutual influence within our group has redefined community for me as a dynamic web of shared growth. A moment that stands out is when we held a collaborative art session; seeing everyone’s vulnerabilities and strengths brought together was inspiring, showing me that our narratives can create stronger bonds and encourage deeper self-exploration.",
+        "therapist": "Exploring how your contributions in the group have fostered such openness and growth is profoundly enriching. It not only highlights the depth of these connections but also signifies your role in reinforcing others’ strengths. Consider how seeing yourself through their eyes might influence your continued journey in this community.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "As I see myself through their eyes, it brings clarity about my potential to inspire and guide others. It's like witnessing a mirror reflection of my own growth, which is deeply reassuring. I felt overwhelmed initially but now feel invigorated by mutual support.",
+        "therapist": "Your journey towards clarity and self-acceptance beautifully reflects your strength in inspiring others. This mutual support signifies profound growth, reminding you of the significant role you play. How might these insights guide your future interactions within this vibrant community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 47,
+        "client": "Recognizing my role, I plan to facilitate open discussions where each story adds a unique thread. During a recent reflection circle, feeling deeply heard affirmed our collective strength and purpose.",
+        "therapist": "Facilitating these discussions highlights your meaningful impact in shaping others' narratives. Seeing how deeply being heard has strengthened the group's purpose, how do you envision enhancing these connections and nurturing even deeper mutual contributions in future circles?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "In future circles, I envision inviting members to share pivotal moments and lessons from their stories, helping us dive deeper. It brings a mix of excitement and slight nervousness about our shared growth.",
+        "therapist": "Sharing pivotal moments can weave a stronger community, creating deeper connections and mutual recognition. This shared journey could illuminate the positive influence of your support on others' identities. How might this newfound insight into your role enhance your future interactions in these circles?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "This insight encourages me to be more intentional and present. A recent meeting where someone shared their fear about change inspired me to foster an environment of safety and openness.",
+        "therapist": "Encouraging an environment of safety shows how profoundly you've impacted others by being present and intentional. Your actions shape a space where vulnerability leads to growth. As you continue, consider how these contributions enrich both the collective journey and your personal narrative.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "My contributions add layers of trust and hope within our community, even recalling when a member shared personal struggles during a tough time. I'm hopeful about making more connections.",
+        "therapist": "Your efforts foster a trusting and hopeful space, profoundly affecting others. As they grow from your contributions, how does seeing this transformation within them reflect back on your own narrative, perhaps reshaping who you are becoming in this nurturing community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

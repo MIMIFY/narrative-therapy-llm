@@ -1,0 +1,460 @@
+[
+    {
+        "round": 1,
+        "user": "Hi, not a good time right now. Really concerned",
+        "answer_final": "I'm sorry to hear that . How can I help?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling overwhelmed and worried. Everything seems to be piling up, and it's hard to find a way through it all.",
+        "therapist": "Feeling buried under life's demands can be exhausting. Let's explore the steps you might take to regain a sense of control and ease. What small changes could help lighten this load for you?"
+    },
+    {
+        "round": 2,
+        "user": "I just need someone to listen. I want to know everything will be ok. I really hope things get better sooner than later",
+        "answer_final": "I understand. Tell me what's going on.. I'm here to listen.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's comforting to talk about this. I really hope things improve soon, and knowing you're here helps. Small steps, like setting achievable goals or taking breaks, could ease my worries.",
+        "therapist": "It's great to hear that you're finding comfort here. Your plan to focus on small steps sounds promising. What kind of support or actions feel right for you now as we continue this journey together?"
+    },
+    {
+        "round": 3,
+        "user": "Since CORONA I have had to quit working my second job and become a full time stay at home parent. This is causing our family a loss of considerable income and with everything going on right now in the world it makes it even more worse.",
+        "answer_final": "I understand. It is a scary time right now. Things will not always be this way though. We will get through it.. The important part right now is to stay safe and healthy for yourself and for your family.. What kind of work did you do before the pandemic?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your support. Navigating these changes has been tough. Balancing parenting and finances is stressful. Exploring financial planning and self-care might be good steps forward for me.",
+        "therapist": "I hear the challenge in balancing these aspects of your life. Focusing on financial planning and self-care is a promising approach. What steps do you feel drawn to as you seek relief and balance?"
+    },
+    {
+        "round": 4,
+        "user": "I'd like to think this will be over sooner than later, but it's hard to really think about it. I was a merchandiser for retail stores.. I had been a stay at home parent before so our family was used to one income for a long time. It was nice to not always have to stress about money since I was working again. It seems the stress is a lot more now though because of everything going on in the country.",
+        "answer_final": "Yes our country is in a lot of uncertainty right now. And having a second income always helps. Have you considered possibly finding a work from home job? Perhaps look at what skills you've developed, and update your resume to reflect the skills you have that will transfer over to a work from home job.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think starting with a realistic budget and small self-care activities could help. Working as a merchandiser brought relief, but now juggling the financial stress is daunting.",
+        "therapist": "Balancing your roles as a merchandiser and managing finances understandably feels daunting. Let's continue focusing on creating a realistic budget and self-care routine. What small adjustments can bring immediate relief in both areas?"
+    },
+    {
+        "round": 5,
+        "user": "I'm always concerned about scams. There are so many untrustworthy places that I hate putting myself and my information out for others to get who aren't honest.",
+        "answer_final": "I understand. There are always companies or jobs out there that are scams. What I found worked best was looking at reputable sites like LinkedIn, GlassDoor, etc. Right now is a good time to find a work from home job from reputable companies. I've found that a lot of companies have transitioned over and developed jobs that can be done from home. I actually work from home myself.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm worried about financial scams while managing my budget. The fear of trusting the wrong sources adds stress. Any tips for identifying trustworthy options would be reassuring.",
+        "therapist": "Building trust in financial resources is vital. Researching verified sources and seeking guidance from a trusted advisor can help alleviate these concerns. Your willingness to address this is a significant first step. What strategies have you found useful when navigating similar challenges before?"
+    },
+    {
+        "round": 6,
+        "user": "Oh thats really encouraging. I will definitely look into that.",
+        "answer_final": "Another suggestion I can make is contacting your local workforce department  (department of unemployment) as they can make suggestions too.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That makes sense. I'll research more about verified sources and trustworthy advisors. I remember checking reviews and forums before, which helped me feel more confident.",
+        "therapist": "It's reassuring that checking reviews and forums boosts your confidence. Trusting your instincts in researching is a solid path forward. How do you envision integrating these strategies into your current budgeting process?"
+    },
+    {
+        "round": 7,
+        "user": "I never thought about the unemployment office. I know so many people are worse off than me that I almost feel guilty to reach out. I really appreciateyour trips. tips",
+        "answer_final": "You already have a lot of skills you didn't think about. As a stay at home parent, you are like the CEO of your own company. You manage day to day operations. You also do scheduling, finance management, etc.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Integrating those strategies, I might explore the unemployment office more thoroughly for support options. I feel conflicted because many are worse off than me. Your tips are really reassuring.",
+        "therapist": "Considering options like the unemployment office reflects your resourcefulness and empathy for others' situations. Acknowledging your commitment to change speaks to your strong values. How does this exploration support your vision for yourself moving forward?"
+    },
+    {
+        "round": 8,
+        "user": "That's very true!",
+        "answer_final": "I understand feeling guilty for asking for help.  But don't worry that is what they are there for!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I believe exploring support from the unemployment office aligns with my values and gives me hope. It allows me to stabilize financially while nurturing my desire to help others too.",
+        "therapist": "Exploring support from the unemployment office not only aligns with your values but also brings hope. Your choice to stabilize yourself while keeping others in mind is commendable. How does this decision deepen your sense of purpose and possibility?"
+    },
+    {
+        "round": 9,
+        "client": "I feel that this decision helps me create a solid foundation. It motivates me to be resilient and inspires hope, as I'm aligning my goals with personal growth and community support.",
+        "therapist": "Your dedication to creating a solid foundation by aligning your goals with community support is inspiring. How might we characterize the financial stress as a separate challenge, something you are confronting and reshaping rather than it defining you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 10,
+        "client": "Viewing financial stress as separate feels liberating. I've confronted similar challenges, like my fear of job loss, by creating plans and seeing them through. It boosts my confidence.",
+        "therapist": "Financial stress, when viewed as an external challenge, provides an opportunity for thoughtful strategy. Your ability to plan strengthens your resilience across life's domains. This clarity could empower you to further understand and manage its impact in areas like home, work, and relationships.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 11,
+        "client": "Acknowledging it as external motivates me to organize better. After a layoff, I tracked expenses meticulously, creating a budget that safeguarded essentials while allowing small joys.",
+        "therapist": "By viewing financial stress as an external entity, you've taken empowering steps in managing its impact. Crafting a budget that maintains essentials and small joys reinforces this strength. How might these strategies reshape your interaction with financial challenges moving forward?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 12,
+        "client": "With this budgeting, I foresee myself prioritizing essentials with confidence. These strategies will guide my spending choices and alleviate anxiety tied to financial decision-making.",
+        "therapist": "Financial decisions become less daunting as you commit to prioritizing essentials with confidence. Aligning strategies with your values not only alleviates anxiety but also deepens resilience. How does embracing this approach affirm your journey towards financial stability and personal growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "Embracing this approach grounds my journey in purpose. Like when I adjusted spending post-layoff, it fuels personal growth and reassures me that I'm moving toward stability with intentional steps.",
+        "therapist": "Grounding your journey in purpose reflects strength and insight. This path showcases values like resilience and intentionality as you navigate financial challenges. How might these values further influence the direction of your decisions toward sustaining stability and fostering growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "Resilience taught me patience during career shifts, maintaining stability despite uncertainties. My intention to pursue new skills in sustainable industries enhances personal growth and broadens future opportunities.",
+        "therapist": "Your resilience and patience are remarkable assets that empower your career shifts and enhance stability. By pursuing skills in sustainable industries, you're creating alignment with your values of growth and opportunity. How do these choices further reinforce the foundation you've built for future possibilities?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "My choices reinforce stability by ensuring I'm proactive. For example, I enrolled in a renewable energy course, knowing it could pave the way to both professional growth and personal fulfillment.",
+        "therapist": "Exploring renewable energy aligns beautifully with your proactive approach, creating pathways to fulfillment and growth. These actions reflect a commitment to shaping a meaningful future. What hopes or values guide your choices, especially in embracing new opportunities?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "My choices are guided by the hope of contributing to a more sustainable world and values like adaptability and learning. Embracing new opportunities makes me feel optimistic, especially after feeling stuck post-layoff.",
+        "therapist": "Contributing to sustainability and valuing adaptability illuminates your journey through uncertainty. This renewed optimism is a testament to your resilience and desire for progress. How might these values serve as pillars, encouraging you toward further opportunities in personal and professional realms?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Embracing sustainability and adaptability, I've joined a community project to enhance local green spaces. Feeling connected inspires deeper learning and professional potential amid past career struggles.",
+        "therapist": "Joining the community project seems to reflect your values of connection and contribution. It sounds like adaptability and sustainability guide you not just professionally, but personally. How does feeling inspired by this work help redefine the role career challenges play in shaping your sense of fulfillment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Feeling inspired by the community project allows me to see career challenges as growth rather than setbacks. Contributing to something meaningful reassures me that these efforts enrich my life.",
+        "therapist": "Your perspective that challenges serve as growth rather than setbacks is powerful and transformative. This outlook aligns beautifully with your values of meaningful contribution. How might these values guide you further in shaping a path filled with purpose and fulfillment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "These values guide me by urging active pursuit of enriching experiences, like volunteering at a local shelter. Helping others gives my journey depth, transforming setbacks into meaningful growth.",
+        "therapist": "Volunteering at the shelter appears to foster a sense of depth and purpose in your journey, transforming struggles into valuable growth. Exploring these experiences strengthens your commitment to values of connection and service. How does viewing setbacks as external challenges influence your motivation for continuous learning?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Viewing setbacks externally reminds me that growth stems from my effort, not misfortunes. At the shelter, witnessing resilience motivates me to learn continuously and cultivate strength and empathy.",
+        "therapist": "Viewing setbacks as separate challenges illustrates your commitment to growth, resilience, and empathy. These qualities connect deeply with your values of strength and learning. Reflecting on these, how does this perspective enhance your ability to address future challenges with confidence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Viewing setbacks externally enhances my confidence by reminding me that effort is key. When I taught teens about environmental issues, their eagerness fueled my determination to overcome challenges.",
+        "therapist": "Witnessing teens' eagerness as you taught them shows your capacity to inspire and adapt. This alternative narrative highlights your ability to fuel resilience through connection. Consider how recognizing these unique outcomes can strengthen the story of empowerment you're crafting for yourself.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Recognizing these moments strengthens my sense of purpose. Teaching teens felt empowering, especially when one shared how they started recycling at home because of what they learned.",
+        "therapist": "Teaching teens seems to deepen your sense of purpose, highlighting your values and commitment to environmental awareness. As you reflect on these experiences, consider how recycling becomes a metaphor for transformation—both personal and within your community.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Reflecting on teaching the teens, I see recycling not only as environmental change but also as self-improvement. Each choice reflects my commitment to positive action and growth.",
+        "therapist": "Your reflection on recycling as both environmental and personal change beautifully links to your identity of growth and positive action. This alignment underscores your commitment to continuous improvement. How might these insights into self-improvement influence other areas of your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Recognizing my growth through teaching inspires me to apply the same principles to personal relationships, aiming for clear communication and patience. It's about fostering understanding and empathy.",
+        "therapist": "Your dedication to applying growth principles from teaching into personal relationships shows your commitment to clear communication and empathy. This evolving narrative highlights a deepening identity rooted in understanding. How might these relational skills further support your journey towards creating meaningful connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Building connections through communication and empathy has opened up deeper bonds with my family. When I empathize with their struggles, I'm reminded of our shared resilience, nurturing trust.",
+        "therapist": "Building trust and shared resilience with your family reflects the depth of your values in empathy and connection. How might nurturing these bonds influence the broader story you’re crafting about who you are and the relationships you cherish?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Sharing resilience with my family reinforces the importance of understanding and connection. It reminds me of holidays spent together, where listening and empathy led to mutual support, enhancing relationships.",
+        "therapist": "Experiencing mutual support and empathy during holidays with your family strengthens your story of connection. Considering how these meaningful interactions shape the landscape of your life, what actions can continue fostering this supportive environment in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Supporting the environment at home mirrors family growth. Creating spaces for open conversations and weekly check-ins ensures continued empathy, maintaining trust through shared family activities.",
+        "therapist": "Family growth and environmental support reflect a strong foundation you're building. These open conversations and weekly check-ins are invaluable. As you continue cultivating these actions, how might they further enhance the narrative of connection and empathy in your life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I think these actions can bring a sense of stability and openness to my family. Like last week, during our check-in, we resolved a misunderstanding through honest conversation—it felt healing.",
+        "therapist": "Healing through honest conversations reveals your commitment to fostering a nurturing family environment. Stability and openness reflect core values you cherish. In maintaining these practices, how do they align with the vision of growth and connection you have for your family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "These practices align perfectly with my vision for family growth. I remember the weekend breakfast when we discussed plans openly, which strengthened our connection and brought a sense of unity.",
+        "therapist": "You’ve illustrated a strong alternative narrative of family unity and growth through open dialogues. Embracing these unique moments creates a foundation for resilience and connection. How might recognizing these elements influence future approaches to nurturing your preferred family dynamic?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 30,
+        "client": "Recognizing these elements encourages me to prioritize creating intentional time for family activities. Last week, I suggested a game night, and it was wonderful seeing everyone engaged and relaxed.",
+        "therapist": "Recognizing how intentional moments like game nights resonate with your values speaks to your commitment to connection. As you prioritize these activities, what personal strengths or intentions do you think drive this effort in building a unified family narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "['My intentions are grounded in cultivating warmth and shared experiences. The weekend picnic where everyone laughed and shared stories felt so rewarding, sparking joy and togetherness.']",
+        "therapist": "Cultivating warmth and shared experiences truly highlights your commitment to a harmonious family dynamic. The joy from these moments strengthens your preferred story of togetherness. Consider how continuing these practices might further illuminate and expand your family's narrative of unity and connection.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I feel that by sustaining these practices, we're building a tapestry of trust and unity. Last night, we reminisced about past vacations, creating laughter and reaffirming our bonds.",
+        "therapist": "Your reflection on creating a tapestry of trust and unity speaks to the heart of your family's shared identity. These moments reveal profound values of joy and connection. As you weave these stories, how might they further guide and enrich the narrative of your family life?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I think these stories give us a sense of belonging, especially when things feel uncertain. Like last month, we sorted old photos together, and it reminded us of shared strength.",
+        "therapist": "Sorting old photos together demonstrates your family’s resilience and shared strength, providing a tangible reminder of belonging. These experiences actively nurture unity during uncertain times. What other activities might further illuminate your preferred narrative of connection and shared history?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Celebrating family traditions, like cooking together during holidays, amplifies our bond. Recently, creating a new dish with my sister was so fulfilling and reminded us of Grandma’s warmth.",
+        "therapist": "Grandma’s warmth has become a meaningful legacy, enriched through new culinary adventures with your sister. This connection illustrates continuity and innovation within family traditions. Consider how these experiences further shape your preferred story of familial closeness and shared heritage.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Reflecting on those moments, I see how they preserve Grandma's influence. Cooking with my sister felt like rediscovering pieces of her love and passing them forward together.",
+        "therapist": "Rediscovering Grandma's love through cooking reflects a deep value of honoring connection and legacy. These moments seem to nurture a sense of continuity and purpose in your family’s story. How might embracing this intention further shape your vision of carrying her influence forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Embracing Grandma’s love motivates me to pass down our traditions. I envision sharing these cooking moments with future generations, fostering resilience and warmth in our family tapestry.",
+        "therapist": "Embracing Grandma's love shapes a vital thread in your family's narrative. Her influence continues through you, encouraging resilience and warmth across generations. As you carry her legacy forward, how does her presence empower the values and strengths within you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Grandma’s presence strengthens my perseverance and empathy. Remembering her hospitality, I feel inspired to lead by example, whether in teaching my kids or helping a neighbor.",
+        "therapist": "Grandma’s legacy of perseverance and empathy enriches your life and others around you. Recognizing the value of teaching and community support, your actions nurture kindness in those you touch. In what ways can you further celebrate and integrate her positive influence into everyday interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 38,
+        "client": "One way is through community volunteering, something Grandma often did. It allows me to offer support and connect deeply with others. I feel her guiding spirit in these interactions.",
+        "therapist": "Grandma’s guiding spirit clearly resonates through your community involvement, enriching others’ lives as she once did. Your contributions affirm her legacy and highlight your own strength and kindness. How does this sense of continuity enhance the way you perceive your role in these interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I'm starting to view myself as a bridge between past and present. At a recent food drive, sharing recipes sparked conversations that deepened community ties. It's rewarding to feel Grandma's spirit in these moments.",
+        "therapist": "The way you've embraced Grandma's spirit enriches your role as a bridge between past and present, deeply impacting others in meaningful ways. By connecting through shared recipes, you foster community ties. How does embodying her spirit further empower your actions and strengthen those connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Embodying her spirit makes me feel more confident and compassionate. At the food drive, I found myself naturally initiating meaningful conversations. These moments affirm the strength of community.",
+        "therapist": "Your confidence and compassion, inspired by Grandma, resonate through meaningful community interactions. It’s clear your presence positively shapes others' experiences. How might these qualities inspire those around you to also embrace connection and contribute to the community fabric?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "During a community cleanup, my actions encouraged a few neighbors to join. Seeing others pitch in because of my initiative felt rewarding and brought a sense of shared responsibility.",
+        "therapist": "Your initiative has sparked a ripple effect, inspiring neighbors to embrace shared responsibility. This highlights the strength and influence you bring to your community. By leading with confidence and compassion, how might these experiences further cultivate a sense of togetherness among those around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "These experiences reinforce our bonds and create a strong foundation of trust. During these cleanups, I noticed neighbors interacting more openly, which sparked new friendships and understanding among us.",
+        "therapist": "Re-membering these experiences with Grandma's influence, you've nurtured trust and sparked friendships. These new connections reflect your empathetic contributions to community growth. By continuing this legacy, what further possibilities could emerge for nurturing understanding and togetherness?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Sharing Grandma's values might inspire communal activities like gardening or group walks. Those moments promote empathy, building bridges of trust. Her spirit echoes in these meaningful connections.",
+        "therapist": "Sharing Grandma's values indeed fosters empathy and trust. Your contributions to communal activities can empower others, enriching their identities. How do you perceive these activities might continue building connections and nurturing a community that embodies her legacy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Sharing values like volunteering in after-school programs could strengthen ties. Watching kids smile and learn reinforces a hopeful community spirit. It feels like we're honoring Grandma's legacy together.",
+        "therapist": "You are weaving Grandma’s legacy into your community, empowering the next generation through shared values. As you witness children learn and smile, you reinforce a hopeful spirit and relational identity. How do these moments of connection further inspire your vision for community growth and mutual trust?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "These moments inspire me to envision a vibrant, interconnected community where everyone's efforts are valued. Seeing kids excited to learn kindles hope and reassures me of our collective strength.",
+        "therapist": "Your vision for a vibrant, interconnected community beautifully reflects Grandma’s values. By recognizing your own impact, how might these connections and collective efforts further cultivate a sense of shared identity and purpose among everyone involved?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 46,
+        "client": "These shared efforts, like collaborating on a local garden project, create a tapestry of our lives woven together. Each person’s story and Grandma’s spirit contribute to our unified purpose.",
+        "therapist": "Your connection to Grandma’s spirit and community efforts intertwines beautifully with others’ stories. These contributions are vital in shaping collective identities and purposes. Reflecting on this, how might you see yourself influencing these evolving narratives of interconnectedness and shared legacy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I see myself influencing by initiating workshops in Grandma’s honor, sharing gardening skills and stories, like when she taught me to nurture seedlings with care and patience. It's fulfilling.",
+        "therapist": "Grandma’s teachings not only nurture seedlings but also growth in your community. Your workshops can influence others, fostering patience and care just as she did with you. This deepens relational identities and legacies. In what ways do you feel these contributions impact the broader community identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "When community members share their skills and stories, it builds a deeper understanding and appreciation. Teaching a child to grow plants can evoke pride, nurturing identity beyond personal gains.",
+        "therapist": "Teaching a child to grow plants reflects the shared care you’ve embraced from Grandma’s legacy. It shapes their pride and identity, much like hers shaped yours. How do you imagine these lessons might continue to ripple through their lives and relationships with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I imagine those lessons cultivating confidence and curiosity. Watching them explore life through a garden’s growth sparks joy. It's enriching to witness them bond over shared experiences and newfound skills.",
+        "therapist": "Confidence and curiosity you've helped cultivate can weave deeply into their identities. As they explore through the garden, your influence echoes in their experiences. In what ways do these shared moments further connect you to Grandma’s legacy, enriching your collective community spirit?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Grandma always emphasized nurturing—be it in gardening or relationships. These shared moments embody her legacy and amplify our community's spirit of growth and unity. Watching the kids plant seeds, share stories, and connect reminds me of weekend visits at Grandma’s house where patience and warmth were the essence of life.",
+        "therapist": "Nurturing, as Grandma did, indeed cultivates a legacy of patience and warmth. These experiences help shape the children's sense of connection and care. How might your continued influence weave further into these young lives, nurturing their identities like a tender garden?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

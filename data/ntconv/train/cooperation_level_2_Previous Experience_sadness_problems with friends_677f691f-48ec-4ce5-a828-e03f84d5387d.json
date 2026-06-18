@@ -1,0 +1,475 @@
+[
+    {
+        "round": 1,
+        "user": "Hello. I am looking for some support, would you be able to help me?",
+        "answer_final": "Hi\nHow may I help you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hello. I'm feeling overwhelmed and seeking support to help navigate some challenges in my life. Could we explore this together?",
+        "therapist": "I'm here to support you and listen without judgment as we explore what you're going through. As we navigate your challenges, how do you envision feeling more at ease in your life?"
+    },
+    {
+        "round": 2,
+        "user": "Hi there. It would be nice if I could discuss something with you.",
+        "answer_final": "sure! you can discuss. that's why I am here for.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I'm hopeful this conversation can help clarify my thoughts and reduce my stress. I've been struggling with balancing work and personal life.",
+        "therapist": "Your hope is valid, and together we can ease the stress of juggling work and personal life. Tell me more about moments when you felt balanced. This could guide us in understanding what helps you thrive."
+    },
+    {
+        "round": 3,
+        "user": "Thank you! This is about a past situation. I once had a large tight knit group of friends.. But there was a lot of fighting from some of them. I didn't like it.",
+        "answer_final": "You had so many friends in past, now you had fight with them. Hope I get it right",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you! I felt balanced when I had a large, tight-knit group of friends. However, constant fighting within the group became overwhelming for me and made things stressful.",
+        "therapist": "Your experience with the group sounds challenging. Let's explore what a positive community looks like for you now. Consider what connections you value most and how these relationships support your sense of balance."
+    },
+    {
+        "round": 4,
+        "user": "Yea kind of. They sort of drifted away.. I was breaking up the fights really.. I guess they weren't that good of friends to begin with...",
+        "answer_final": "Sorry for poor internet connection",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm realizing a positive community would mean genuine support without conflict. I often felt like a mediator, which was tiring. I want connections that naturally bring balance and joy.",
+        "therapist": "Feeling like a mediator can be exhausting. It's wonderful you're considering connections that nurture joy and balance. Let's explore ways you might invite these positive relationships into your life. What would it mean for you to step back from mediating?"
+    },
+    {
+        "round": 5,
+        "user": "THat is ok. What do you have to say?",
+        "answer_final": "It must be tough time for you. Things keeps on changing. there may be some sort of misunderstanding.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's enlightening to think about stepping back from mediating. Maybe I can start by allowing myself to express my needs more openly. It feels like a crucial first step.",
+        "therapist": "You're taking a powerful step by expressing your needs openly, which can shift the dynamics to foster healthier connections. Trust in this new direction and its ability to attract support that genuinely uplifts you. How do you imagine feeling more at ease through these honest expressions?"
+    },
+    {
+        "round": 6,
+        "user": "It has been tough.",
+        "answer_final": "I can feel how bad or lonely  you might be. It must be a stressful.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It has been tough to express my needs, but I imagine feeling lighter and less burdened as I try. Embracing openness might ease tensions and improve connections overall.",
+        "therapist": "Embracing openness truly reflects your desire for lighter, more balanced interactions. This approach can enhance connections and lessen tensions. You deserve the freedom to express yourself without feeling burdened. How might this shift toward expressing your needs look in your daily life?"
+    },
+    {
+        "round": 7,
+        "user": "There's always ways to get over it but it is hard not to care.",
+        "answer_final": "When I have fight with friends, I try to clarify the things I where I went wrong or they made mistakes.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It seems tough not to care about what others think, but I could start by voicing my needs more honestly with close friends. It might open pathways to genuine understanding.",
+        "therapist": "Voicing your needs honestly can lead to deeper, understanding connections with friends. How might sharing openly with those who matter influence your relationships and personal well-being?"
+    },
+    {
+        "round": 8,
+        "user": "It would be nice to get something going where people could apologize.",
+        "answer_final": "From past I have learnt that, friendship should be very transparent. There should be any space for thank you and sorry. It should be straight forward. If my friends doesn't like anything which I did, she should say that straight to me. I should respect her saying. Then it stays there for ever.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Sharing openly could foster genuine understanding and deeper bonds, where apologies naturally occur. Creating an atmosphere that encourages apologies might reduce friction in relationships.",
+        "therapist": "Sharing openly indeed nurtures genuine understanding and bonds. Embracing this atmosphere of openness encourages mutual respect and eases relationship tension. How might inviting such openness transform the way you connect with those around you?"
+    },
+    {
+        "round": 9,
+        "user": "That's a nice personal anecdote. I should try to initiate contact at some point. I feel like most people are shunning each other.",
+        "answer_final": "Yes, I would say that is human nature. Only thing is to do self realization.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I agree, fostering openness could be transformative. Initiating contact and sharing experiences may alleviate my feeling that people are often distant or disconnected from each other.",
+        "therapist": "Sharing experiences can indeed bridge feelings of disconnection. Your openness creates opportunities for deeper, more meaningful interactions. How might you initiate these connections in a way that feels authentic to you?"
+    },
+    {
+        "round": 10,
+        "user": "Thank you.",
+        "answer_final": "You are most welcome! it you are feeling much better now. Is there anything else that I can help you with?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Initiating authentic connections feels a bit daunting but necessary. I might start by organizing small gatherings or reaching out individually to friends, inviting meaningful conversations and shared experiences.",
+        "therapist": "Embracing the challenge of initiating connections demonstrates courage and openness to meaningful relationships. Organizing gatherings or reaching out individually could indeed nurture deeper ties. What small steps might feel manageable as you embark on this path to foster authentic connections?"
+    },
+    {
+        "round": 11,
+        "client": "I'll start with inviting a friend for coffee to have an open chat about life and support each other's goals. It feels like a good manageable step to reintroduce connection.",
+        "therapist": "Inviting a friend for coffee to share openly separates the disconnection from who you are and fosters support in reaching goals. This shift empowers you in defining your relationships differently. How do you think this step might reshape the way disconnection shows up in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "Inviting a friend for coffee might reveal how vulnerability can create closeness. Sharing my personal goals and struggles helps bridge that emotional gap, transforming disconnection into meaningful engagement.",
+        "therapist": "Exploring vulnerability reveals how disconnection affects relationships. As you invite this openness, you separate the problem from who you are, inviting closeness. What changes might unfold in your home, work, or relationships by engaging authentically?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "By engaging authentically, I might notice more genuine interactions. At work, expressing my thoughts openly could improve collaboration, while at home, sharing feelings might deepen family connections.",
+        "therapist": "Your approach of authenticity diminishes the gap that disconnection creates. As genuine interactions grow, what shifts do you observe in how collaboration thrives at work and connections deepen at home? Celebrating these changes emphasizes how vulnerability enriches your life.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "I’ve noticed that when I openly share ideas at work, people respond with more enthusiasm and collaboration feels smoother. At home, sharing feelings helps reduce tension and creates warmth.",
+        "therapist": "It's heartening that open sharing is enhancing both your work and family dynamics. This highlights the value you place on connection and collaboration. What shifts or commitments do these values encourage in the face of disconnection?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I feel a deeper commitment to initiate more honest conversations. Like during recent family dinners, sharing highs and lows sparks mutual understanding, bridging the gap where disconnection once loomed.",
+        "therapist": "Your commitment to honest conversations stands against disconnection's influence, reflecting the value you place on mutual understanding. These dinner interactions are a testament to how shared highs and lows honor your connections. How do these interactions reinforce the personal values that drive this deeper commitment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I find that these honest conversations reaffirm my values of openness and empathy. After discussing a challenging work project at dinner, I felt supported and understood by my family.",
+        "therapist": "Sharing your project experiences at dinner helped you notice how disconnection wanes in the face of empathy. Those conversations highlight personal values that drive openness, shaping a stronger connection with family. What aspects of this externalization help align these interactions with what matters most to you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I realize my openness fosters empathy, showing me that vulnerability leads to trust and support. During a tough project, my family offered advice, validating my feelings. This alignment strengthens my connection with them.",
+        "therapist": "Your understanding of openness and its role in fostering empathy is central to what you value most. As you recognize how vulnerability influences trust, consider how your values shape your narrative. What hopes are encouraged by this growing alignment with family during challenging times?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I hope for a stronger family bond where trust flourishes. During my recent work project struggles, their active listening and encouragement reminded me of resilience and unconditional support.",
+        "therapist": "Your narrative of family support strengthens your hopes for trust and resilience. Acknowledging their active listening externalizes disconnection's potential hold. Aligning this support with your values, how does nurturing these bonds influence overcoming future challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I think nurturing these bonds bolsters my confidence. After a long work day, knowing they are there helps me tackle stress and embrace challenges with optimism, less alone.",
+        "therapist": "Confidence strengthened by these bonds shines brightly against stress, championing optimism and companionship. As resilience grows, how might you define or transform stress’s role in the story you are telling of these supportive connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Stress feels more like a companion, pushing me to lean on my family. They’ve become an anchor; their unwavering presence soothes and guides me through life’s stormy seas.",
+        "therapist": "Stress as a companion reveals your openness to leaning into connection rather than isolation. Your family's anchoring presence aligns with the values of trust and resilience. How might defining stress as a guide, rather than a burden, further empower these bonds and your sense of stability?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Stress as a guide changes my perspective from resistance to acceptance. My family's reassurance redefines stressful moments into growth opportunities, fostering stability and mutual encouragement.",
+        "therapist": "Accepting stress as a guide highlights your resilience. Your family’s support transforms pressure into empowerment, creating new growth pathways. How does this shift shape your evolving identity and enhance the mutual encouragement within these connections?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "In viewing stress as an ally, I've found a sense of empowerment in challenges. This perspective allows me to reframe obstacles with resilience. Recently, during a presentation prep, my family's encouragement helped calm my nerves and made me feel secure. I'm realizing the power in shared vulnerabilities and how they strengthen our bonds.",
+        "therapist": "Recognizing stress as an ally beautifully aligns with your values of resilience and connection. Your family's role in this new narrative demonstrates trust and strength in vulnerability. As you navigate these changes, how might you nurture these empowering experiences further in everyday situations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I can nurture these experiences by setting small goals, like initiating meaningful conversations. For example, I plan to have a heartfelt discussion about my aspirations with my sibling.",
+        "therapist": "Setting small goals, like your upcoming conversation with your sibling, beautifully strengthens the narrative of shared vulnerability. This exploration may deepen mutual understanding. How might you further embrace and amplify these connections in both challenging and everyday moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I plan to spend more intentional time with my family, perhaps through shared activities like cooking. During these moments, we can openly discuss challenges and dreams, enhancing our bond.",
+        "therapist": "Nurturing these moments with your family through shared activities like cooking fosters an environment where dreams and challenges can be openly explored. This approach reinforces your alternative story of connection. How might these experiences further evolve your family bonds and identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I imagine these experiences deepening our trust and encouraging authentic dialogue. Cooking together reminds me of my childhood; it's comforting and brings out a sense of belonging and unity.",
+        "therapist": "Exploring these comforting and unifying experiences provides a pathway to deepen trust and authentic dialogue, nurturing your identity. How might revisiting childhood memories through cooking influence the way you perceive your family's evolving narrative today?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Revisiting those memories through cooking makes me feel like we’re creating new chapters from the old ones. It’s like weaving continuity and evolution into our family story.",
+        "therapist": "Revisiting these memories indeed weaves a beautiful continuity into your evolving family story. This deepens your sense of belonging and unity. As you create new chapters, which values are emerging as central to your identity and relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Values like trust, empathy, and open communication have become central. During a recent family dinner, sharing past challenges fostered a renewed appreciation and strengthened our bonds.",
+        "therapist": "Celebrating your values of trust, empathy, and communication reflects the empowering family bonds you've nurtured. These foundations enrich your evolving narrative. As you appreciate these shared moments, what possibilities do you envision arising from this strengthened sense of connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "With this strengthened connection, I imagine us being more resilient when faced with challenges. During a recent talk, sharing future hopes gave me optimism about our collective growth.",
+        "therapist": "Together, you've shaped a story of resilience and optimism, showcasing your commitment to growth and unity. This shared hope fortifies your family narrative. How might embracing these outcomes further deepen individual and collective values?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Embracing these outcomes, I think we’ll become more empathetic. Last weekend, my sister shared her career worries and I listened without judgment, which strengthened our mutual respect and understanding.",
+        "therapist": "Embracing empathy through listening without judgment enriches your family’s narrative. Your approach to sharing strengthens respect and understanding, crucial to mutual growth. As you continue these practices, what steps might further reinforce this evolving empathy in your shared experiences?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "We could start weekly check-ins where we openly discuss personal or shared goals. Doing so last month revealed different perspectives and deepened empathy, showing us how much we care.",
+        "therapist": "Your commitment to weekly check-ins nurtures empathy and care, essential elements in your family’s evolving story. This practice offers fresh perspectives and reinforces bonds. As you continue, these interactions will further shape your collective growth and resilience.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "These check-ins have been revealing. When we discussed our childhood memories, I felt a sense of closure around old grievances. It lightened my mood and improved our connection.",
+        "therapist": "Your exploration of childhood memories has led to meaningful closure and a lightened mood, deepening your connections. This shows a strong alignment with your values of empathy and trust. How might these insights inspire your future interactions within the family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "In future interactions, I plan to incorporate our learned empathy by encouraging everyone to share more openly. A recent game night showed me how humor can ease tension and invite deeper conversations.",
+        "therapist": "Your approach to using humor as a bridge to deeper conversations demonstrates the power of shared laughter. By nurturing open sharing, you're building a more empathetic narrative together. How might these lighter moments transform your understanding and support within the family?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "During a game night, when my brother joked about our kitchen disasters, we all laughed. It was a moment of shared vulnerability and it broke down old barriers, making us more supportive.",
+        "therapist": "Sharing that laughter reflects a strong sense of connection and mutual care. It seems moments like these echo your values of support and openness. How might this spirit of shared vulnerability shape the way you see your family’s evolving identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Moments of shared vulnerability remind me that our family's evolving identity is rooted in unity and resilience. It feels uplifting, seeing us grow closer through humor and understanding.",
+        "therapist": "Family unity and resilience seem deeply aligned with your values, enriching your shared narrative. By nurturing humor and understanding, you're shaping a supportive environment. How might this evolving identity inspire you to embrace further growth in these bonds?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Embracing this evolving identity encourages me to initiate regular family activities like outings or cook-offs. I feel hopeful seeing how collective joy strengthens our emotional bonds.",
+        "therapist": "Family activities like outings and cook-offs create wonderful spaces for joy and connection, affirming your commitment to nurturing emotional bonds. With this renewed sense of unity, what small actions might further deepen your shared narrative of resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Trying new traditions could deepen our resilience, like celebrating each achievement or having gratitude nights. During Thanksgiving, expressing gratitude really strengthened our bond and optimism.",
+        "therapist": "Gratitude nights and celebrating achievements invite powerful connections that honor each person's influence within your family. Recognizing these contributions seems to strengthen your shared identity and optimism. How might continuing these traditions allow you to reflect on the invaluable impacts each member brings to your life?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "As we continue these traditions, I often reflect on how my sister's positivity lifts everyone's spirits. During a rough patch last year, her laughter reminded us of our strength together.",
+        "therapist": "Your sister's positivity is indeed a profound contribution to your family's resilience. It's inspiring how her laughter has nurtured collective strength. Considering this impact, how might you celebrate and honor her role in shaping your family’s narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 38,
+        "client": "Celebrating my sister could include organizing a special day for her, filled with her favorite activities. Her smile during simple shared moments, like baking together, reinforces our bond.",
+        "therapist": "Recognizing how her joy strengthens your bond highlights the mutual care in your relationship. As you plan this special day, what about your connection with her do you hope she feels reflected back through these moments?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 39,
+        "client": "I hope she feels the warmth and appreciation we hold for her contagious spirit. When we laugh together during these moments, it's a genuine reflection of love and gratitude.",
+        "therapist": "Sharing laughter and warmth as a reflection of love deeply honors your sister’s uplifting presence. How do you think her positivity has shaped your family's collective sense of resilience and joy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Her positivity has been a beacon during difficult times, like when my parents faced financial struggles. Her ability to find light kept us hopeful, reminding us we could endure together.",
+        "therapist": "Your sister's ability to illuminate tough times shows a shared source of hope and resilience. Her influence reflects the strength that exists within your family unit. In recognizing this light, how do you perceive your own role in sustaining this collective endurance?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "I've tried to bring a sense of calm during chaotic moments, like finding budget-friendly ways to create family dinners. Balancing my anxiety with small acts helps preserve our togetherness.",
+        "therapist": "Your calm approach and thoughtful solutions significantly nurture your family's sense of stability and togetherness. It seems that these acts of care, even in small ways, contribute greatly to your family’s enduring spirit. How does recognizing your impact affect your view of yourself within the family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "Sometimes I see myself as a quiet anchor, holding steady amid chaos. I feel pride knowing my efforts bring calm during tough times and strengthen our family's resilience.",
+        "therapist": "Recognizing yourself as a quiet anchor illustrates your meaningful role in your family's dynamic. Through the eyes of those you cherish, you likely bring calm and strength. In what ways do you see their appreciation enhancing your identity within the family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 43,
+        "client": "Seeing my family acknowledge my efforts warms my heart. Like when my mom praised me for organizing dinners, it solidifies my importance and boosts my confidence within our family.",
+        "therapist": "Your family’s recognition of your efforts as a calming presence truly underscores your importance. Seeing their appreciation, how does it inspire you to further embody this role and explore new ways to contribute within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 44,
+        "client": "I feel inspired to create a weekly family game night, bringing laughter and connection, reinforcing our bonds in times of stress. My heart lifts imagining these shared moments.",
+        "therapist": "Reimagining family game night is a beautiful way to reinforce connection and shared identity. Your efforts can inspire warmth and shape how your family sees its unity. How might these joyful gatherings help transform the collective story of resilience you all share?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I believe game nights could transform our story by weaving joy and lightness into our resilience narrative. It's an opportunity for us to laugh off stress and share genuine connections.",
+        "therapist": "Your vision for game nights not only brings joy but strengthens everyone's identity within the family. By crafting these moments, you're nurturing an environment where everyone’s individual contributions shine through connection and mutual support. How do you think these shared experiences might inspire others in their roles?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Sharing laughter during game nights could motivate my sister to explore her own ways of bringing joy, maybe baking desserts for us. It encourages everyone to find their unique contribution.",
+        "therapist": "Re-imagining your game nights shows your creative way of influencing positive change. Your sister's contribution would further bind your family. Witnessing each other’s unique impacts likely strengthens collective identity and mutual appreciation. How do you see this growing pattern of collaboration influencing future interactions within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "This collaboration is transforming how we interact. It's helping us rely on each other, fostering a sense of unity. When my brother shared his interests recently, it sparked enriching conversations.",
+        "therapist": "Your family's growing reliance on each other's contributions is reshaping interactions in inspiring ways. By sparking enriching conversations, your brother has deepened connections. This shared exploration of interests can strengthen relational identities and further unite you all. How do you feel about this evolving dynamic?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I'm relieved and optimistic about these evolving dynamics. My brother's interests have inspired some in-depth discussions, like debating sports teams together, which bridges understanding and solidifies our bonds.",
+        "therapist": "Relieving and optimistic moments like these illuminate your role in fostering unity. Your brother’s contributions deepen familial understanding, strengthening everyone’s connection. Reflecting on this mutual growth, how might you continue nurturing these enriching exchanges within your family?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I’ll continue encouraging openness by suggesting activities where we each share personal highlights weekly. This could inspire deeper conversations and reaffirm our collective support and love.",
+        "therapist": "Sharing personal highlights can weave a tapestry of mutual understanding, enhancing the family’s collective support. Your idea celebrates everyone’s role in fostering unity. How does recognizing each other’s contributions deepen your sense of belonging within the family narrative?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "Recognizing our contributions reminds me we're part of something greater. When my sister made a birthday cake for me, it was a moment that reinforced love and belonging.",
+        "therapist": "Your sister's thoughtful gesture was a testament to your connection and belonging. Such acts remind everyone of shared values, and how love weaves into the fabric of identity. How does witnessing these contributions impact your perspective on family roles?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

@@ -1,0 +1,532 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi! How are you feeling?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been feeling overwhelmed and stuck lately. The heaviness of it all sometimes makes simple tasks feel daunting, but talking about it is helping a bit.",
+        "therapist": "You're showing resilience by talking about these overwhelming feelings. Let's explore what makes certain tasks feel daunting. How might we make small changes that ease your experience?"
+    },
+    {
+        "round": 2,
+        "user": "am still feeling bad when i remember i cant seem to do well in school",
+        "answer_final": "Can you explain a little more what you mean by that?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate you saying that. School tasks really pile up, and the pressure to perform well just adds to the stress. How can I tackle them more effectively?",
+        "therapist": "School can indeed be overwhelming with its demands. What strategies have you tried in the past, and how might shifting your perspective on what's truly important change your approach to managing these tasks? Let’s uncover paths that reflect your own strengths."
+    },
+    {
+        "round": 3,
+        "user": "i cant seems to focus in school, presure from home due to fight going on between my parent, all i could think of his them coupled with bully's in my school",
+        "answer_final": "It sounds like the trouble at home is making it hard for you to keep your mind on school. Is that right?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I find it hard to focus in school due to the ongoing fights between my parents, and bullies make it worse. I've tried organizing tasks but feel distracted constantly.",
+        "therapist": "You’re navigating a tough environment with courage. Let’s explore how your strengths can create an emotional space away from these stressors. What supportive actions can fortify your resilience and help you focus better in school despite the challenges?"
+    },
+    {
+        "round": 4,
+        "user": "yes!",
+        "answer_final": "I can understand why you would feel that way.. You also sais there is a bully. Have you talked to anyone about this?. Bringing this up to a teacher can help. Have you tried that?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Yes, I'm trying to focus on things I enjoy, like drawing and writing. They distract me from the stress at home and help ease my mind before tackling school tasks.",
+        "therapist": "Focusing on drawing and writing is a wonderful way to express yourself and create comfort amid stress. These activities tap into your creative strengths, offering relief. How can you further use these passions to strengthen your ability to manage school pressures?"
+    },
+    {
+        "round": 5,
+        "user": "none. no one seems to listen. cant get help from home am just depressed",
+        "answer_final": "I can tell just from this short chat how upset you are.. I know when I was dealing with issues in school talking to my friends helped.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            },
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Drawing and writing do bring relief, yet at home, things feel chaotic. I find it hard to focus because no one seems to listen or provide support, leaving me feeling isolated and depressed.",
+        "therapist": "You’re navigating difficult circumstances with commendable strength. Drawing and writing are valuable outlets—how might you use them to create a personal refuge and ease your sense of isolation at home? Let's focus on fostering connections that matter to you."
+    },
+    {
+        "round": 6,
+        "user": "i have no friends, all they do is mock and make fun of you",
+        "answer_final": "It sounds like those people are not your friends then.. Do you have any hobbies?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I try to use drawing as my personal escape, creating worlds where I feel understood. But it feels tough when those around me mock and make fun of what I enjoy.",
+        "therapist": "Drawing can be a strong ally against mockery and misunderstanding. By seeing ridicule as an external obstacle—let’s name it “Barrier”—you can redefine its influence over your enjoyment. What new role could your creative worlds play in overcoming this Barrier?"
+    },
+    {
+        "round": 7,
+        "user": "love to sing",
+        "answer_final": "It might be a good idea to join a choir. That way you can meet people who love to sing just like you!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Drawing serves as a way to construct a shield against ridicule, but singing offers an escape too. Singing lets me express emotions freely and shifts my focus from negativity.",
+        "therapist": "Drawing and singing both offer powerful emotional sanctuaries. Through them, you’re able to articulate your experiences and shift your focus. How can these creative expressions continue to support you as you navigate challenging situations?"
+    },
+    {
+        "round": 8,
+        "user": "i think that will do, but am still not okay think my parent is going to devoice",
+        "answer_final": "Sometimes it helps to bring up your feelings to your parents. Have you tried that?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "These creative outlets help, but I'm still feeling overwhelmed. My parents are likely divorcing, and it deeply worries me. I hope art and music can help ground me during this uncertainty.",
+        "therapist": "It's understandably overwhelming, facing such uncertainty. Your art and music are beautiful tools for grounding and self-expression. They can provide a sense of stability during challenging times. How might these creative outlets further nurture and support you through this period of change?"
+    },
+    {
+        "round": 9,
+        "user": "all they think of is their issue and themselves they don't care i existed",
+        "answer_final": "I can understand why you feel like that. I think it's worth bringing up.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I hope so, but it feels like no one notices my struggle. My parents are so wrapped up in their own issues that I feel invisible and unimportant.",
+        "therapist": "Feeling overlooked can be incredibly painful. Your experiences matter, and it's important to acknowledge your own journey. How might you find small ways to feel more visible and valued within your creative expressions?"
+    },
+    {
+        "round": 10,
+        "user": "its just exhausting",
+        "answer_final": "It's understandable. Anyone would feel like that in your position. But I think you can do it and it will help!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's exhausting feeling invisible. I try to remind myself that my art and music are where I matter most, but it's tough staying motivated when feeling this overlooked.",
+        "therapist": "You deserve to feel seen and valued. Your art and music truly honor who you are. How might you create small moments in your day that affirm your importance to yourself?"
+    },
+    {
+        "round": 11,
+        "user": "maybe i'll try but am still scared to approach them.",
+        "answer_final": "Maybe before you talk to them, take some time to write down what you are feeling. You could even give them a letter to read if that makes you more comfortable.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate the suggestion. Maybe I'll try, but there's a fear of still feeling invisible to them. It's a difficult barrier to overcome.",
+        "therapist": "Navigating these feelings can be challenging, especially when you yearn to be seen by those close to you. Your creative expressions remain a powerful avenue where your presence is affirmed and celebrated. What small steps could you take to nurture this visibility in your daily life?"
+    },
+    {
+        "round": 12,
+        "user": "waoh that will be good, i think that will do",
+        "answer_final": "That sounds like you have a plan!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That idea sounds really encouraging. Maybe setting aside dedicated time for my art each day could be a step towards making myself feel seen and appreciated.",
+        "therapist": "It's wonderful that you're considering dedicating time to your art. This can be a meaningful way to affirm your value and presence. What supportive elements in your art do you find empower you during times of feeling overlooked?"
+    },
+    {
+        "round": 13,
+        "user": "absolutely thank you for the advice am grateful",
+        "answer_final": "You're welcome.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Absolutely, thank you for the advice. I'm grateful. My art's vibrancy and ability to convey emotions really empower me when I feel overlooked.",
+        "therapist": "Your art’s vibrancy and emotional depth truly reflect your unique voice and strength. How might exploring these qualities further deepen the sense of empowerment and connection you experience through your creative process?"
+    },
+    {
+        "round": 14,
+        "user": "thank you for your time",
+        "answer_final": "No problem.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful for your guidance. Exploring these qualities in my art could be an enlightening journey, offering empowerment and potentially helping me break through feelings of invisibility.",
+        "therapist": "It's empowering to see you embrace this journey. Your art's potential to break through invisibility holds significant strength. What might inspire you to nurture these creative aspects daily?"
+    },
+    {
+        "round": 15,
+        "client": "Thank you. Connecting with nature often inspires me, as it fuels my creativity and provides peace. Experiencing morning sunlight on my canvas might enhance this daily journey.",
+        "therapist": "Exploring the influence of nature and sunlight can illuminate aspects of feeling unseen. Separating invisibility from your creativity might help in understanding its impact. How might naming this 'shadow of invisibility' encourage new perspectives on your journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 16,
+        "client": "Naming it 'shadow of invisibility' feels powerful. Acknowledging it gives me room to detach from it. When painting with morning light, the warmth invites openness and vulnerability.",
+        "therapist": "Embracing your ‘shadow of invisibility’ as a separate entity highlights your courage and ability to invite positive energies like warmth and openness. How might its presence impact relationships or environments where you seek visibility?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 17,
+        "client": "I think the shadow sometimes makes me hesitant to speak up, like in group settings at work. I fear rejection or dismissal, but painting reminds me I deserve space.",
+        "therapist": "Painting affirms your rightful space and voice. Recognizing this empowers you to challenge the shadow's influence in settings like work. What would claiming your space with courage look like in those situations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 18,
+        "client": "Claiming space might involve sharing ideas, even if I'm scared. I remember contributing in a meeting felt daunting, but being heard sparked confidence and lessened the shadow's grip.",
+        "therapist": "Sharing your ideas in meetings aligns with your core values of self-expression and growth. Each time you step forward, you diminish the shadow's influence, reinforcing your commitment to visibility and authenticity. How does recognizing this shape future interactions at work?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Recognizing this inspires me to approach future interactions with more assurance. When I shared a project idea and it gained support, I felt valued. I aim to continue building that momentum.",
+        "therapist": "Sharing that idea and feeling valued highlights how deeply your contributions align with your commitment to being seen and heard. As you build momentum, what personal values or hopes motivate this growing assurance in yourself?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Integrity and authenticity motivate me. Like when I volunteered to lead a new project, that effort mirrored my desire to contribute meaningfully. This courage helps diminish the shadow's presence.",
+        "therapist": "Leading the project embodies your values of integrity and authenticity, significantly challenging the shadow's influence. Your meaningful contributions reflect your commitment to these values. How do you envision this growing courage shaping other areas where you strive for presence and authenticity?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I see my growing courage guiding me in personal relationships, like confronting issues openly with friends. Speaking about past grievances has improved communication and deepened our connection, diminishing loneliness.",
+        "therapist": "Confronting issues openly with friends and seeing positive changes underscores your ability to craft narratives of courage and connectedness. Each choice diminishes loneliness, expanding the narrative where relationships foster mutual understanding. What other contexts might this new narrative guide your actions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "My new narrative guides me at work, encouraging proactive feedback rather than staying silent. Recently, I suggested an improvement plan to my boss, increasing our team's efficiency and feeling empowered.",
+        "therapist": "Your proactive feedback at work not only enhances team efficiency but also strengthens your narrative of empowerment and authenticity. This shift reflects your commitment to impactful change. What aspects of this growing confidence in expressing your voice do you want to nurture further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I want to nurture the courage to address conflicts directly, like resolving misunderstandings with my sibling. The satisfaction after clearing the air leaves me feeling closer and more connected.",
+        "therapist": "Addressing conflicts directly enhances your narrative of courage and connection, which reflects a commitment to nurturing deep relationships. As you explore this identity, consider how embracing openness strengthens your preferred story of trust and authenticity in other areas of your life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Embracing openness means a lot to me, like when I confided in my mentor about career fears. Her support reassured me, strengthening trust and pushing me to embrace new opportunities.",
+        "therapist": "Embracing openness and seeking your mentor's support has indeed led to growth and renewed trust in yourself. This shows how impactful vulnerability can be in shaping future paths. How might you further nurture this openness as you explore new opportunities and relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I plan to nurture this openness by being more transparent with colleagues during projects. Recently, sharing my concerns led to a constructive dialogue, which enhanced collaboration and reduced my anxiety.",
+        "therapist": "Transparency in your workplace relationships strengthens the narrative of openness and collaboration, helping reduce anxiety. As you continue nurturing this approach, consider the impact of ongoing constructive dialogues on your professional identity and their potential to enhance future projects.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "During a recent project, openly sharing ideas fostered trust among colleagues. Feeling supported eased my worries, boosting creativity and efficiency. I'm hopeful this approach will continue benefiting my growth.",
+        "therapist": "Exploring how sharing and trust enrich creativity highlights your commitment to collaboration as a core value. This openness supports a preferred identity of mutual growth. How might cultivating these intentions shape other aspects of your journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Cultivating these intentions helps me become more empathetic. Recently, listening to a friend's struggles without judgment deepened our friendship, fostering a nurturing and supportive environment.",
+        "therapist": "Your growing empathy and non-judgmental listening enhance your friendships, aligning with a nurturing narrative. This reflective action deepens connections and reinforces your identity as a supportive companion. Consider how further embracing these qualities could influence other meaningful areas in your life.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Embracing empathy in other areas, like offering support to team members overwhelmed by deadlines, positively impacts work dynamics. It deepens trust and encourages everyone to thrive collectively.",
+        "therapist": "Your actions reflect a strong commitment to fostering collaboration and care, which aligns deeply with your values. How does this growing identity of empathy and support shape the vision you have for both personal and professional relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "This growing identity of empathy reshapes my vision significantly. Personally, it means being present for friends facing tough times. Professionally, I envision a supportive culture inspiring innovation.",
+        "therapist": "Your vision of empathy guiding both personal and professional spheres reflects significant growth, inspiring connections and innovation. As you explore these empowering stories, consider how embracing empathy might continue creating meaningful change in your life narrative.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 30,
+        "client": "I really appreciate the idea of embracing empathy. At work, it allows me to connect deeply with colleagues facing stress, offering comfort and guidance without overstepping. It brings about innovative solutions together. In my personal life, being present for friends during tough times enhances mutual support and trust, creating an emotional refuge. This transformation leaves me feeling hopeful and determined to continue nurturing these connections.",
+        "therapist": "Your commitment to empathy is clearly shaping a life guided by connection and mutual support. How does embodying this value deepen your sense of who you are becoming, both personally and professionally?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "In embracing empathy, I'm evolving into someone who prioritizes authentic connections. For instance, during a team project meltdown, stepping in with support fostered unity and creative solutions, affirming my role as a trusted colleague.",
+        "therapist": "Your evolving narrative showcases authentic connections and unity through empathetic actions, strengthening your identity as a trusted colleague. Consider how these empowering experiences further develop the community and culture around you, shaping shared progress in both personal and professional spheres.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I feel like a catalyst for change, creating a space where ideas flourish. At work, my empathy motivated us to set up regular mental health check-ins, boosting team morale. Personally, being there for my sister through her divorce has strengthened our bond immensely. These experiences empower me and inspire hope for positive cultural shifts.",
+        "therapist": "Embracing your role as a catalyst for change beautifully highlights your commitment to nurturing growth and unity. Reflect on how these actions shape new possibilities, guiding you further in inspiring positive shifts both in professional settings and personal relationships.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I feel proud knowing my actions spark change, like launching a 'Wellness Wednesdays' initiative at work. It gives us space to recharge. Personally, supporting my sister brings us closer, deepening our bond and trust.",
+        "therapist": "Your initiative at work and support for your sister truly embody your values of care and connection. As you continue nurturing these positive shifts, consider how aligning with these intentions reinforces your evolving identity and desired impact.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I've noticed this alignment impacting not just my relationships but my self-view. At work, colleagues are more open and appreciative. With my sister, we've had deeper heart-to-heart conversations, building trust profoundly.",
+        "therapist": "As you embrace this alignment, consider how your actions are reinforcing a deeper sense of purpose and connection. Reflect on what core values are being expressed through these enriched relationships and how they might shape your evolving self-view.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I'm realizing that empathy and authenticity are core values driving me. Recently, hosting a feedback session at work opened doors for honest dialogue. It fuels my growth and self-assurance.",
+        "therapist": "Your awareness of empathy and authenticity shaping your actions shows a strong connection to your values. How do these guiding principles enhance the sense of identity you’re cultivating through such meaningful contributions in work and personal spaces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I've noticed these values foster genuine interactions and mutual respect. At work, our discussions became more transparent, leading to a stronger team. Personally, it's enhanced my patience and understanding in friendships.",
+        "therapist": "Your growth in fostering genuine connections and mutual respect is inspiring. Who might have modeled or encouraged these values of empathy and understanding for you, helping shape this meaningful part of your identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I think my mom's approach to kindness and her patience with people really influenced me. Watching her navigate life's challenges, always open to understanding others' perspectives, inspired me deeply.",
+        "therapist": "Your mom’s values clearly play a significant role in shaping your identity. How do you think she might view the way you’ve integrated empathy and understanding into your own life now, reflecting her influence?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think she would be proud, seeing me embody her teachings through genuine listening and patience. Recently, mediating a team conflict felt like channeling her wisdom, fostering resolution and unity.",
+        "therapist": "Your mom's legacy of kindness and patience is beautifully evident in your actions. This influence not only supports those around you but affirms your sense of value. How might this recognition encourage further steps in fostering such positive interactions?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Recently, I’ve started a peer mentoring initiative at work to promote collaboration and empathy. It feels rewarding, reinforcing my sense of purpose and aligning with my mom's values.",
+        "therapist": "Your mentoring initiative reflects a significant tribute to your mom’s values and strengthens relational ties at work. How might others, influenced by your collaboration, further enhance their own identities through the empathy you've fostered?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Others seem to grow more self-aware and cooperative. One colleague mentioned their increased comfort in expressing needs and concerns, helping them resolve conflicts with compassion.",
+        "therapist": "Your efforts are inspiring as they help others uncover their capacity for compassion and understanding. How might these experiences, shaped by your influence, remind you of the reciprocal growth in your own relationships, like the wisdom shared with your mom?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Reflecting on this reminds me of mom teaching me to look beyond my perspective. Recently, in a heated work discussion, her wisdom guided me towards understanding instead of judgment.",
+        "therapist": "Your mom's teachings inspire your approach to conflicts. As you embody these values, you contribute to a culture of understanding. How does recognizing this impact the way you view your role in nurturing growth and empathy around you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "Recognizing my influence boosts my confidence in nurturing growth and empathy. Recently, supporting a colleague through a tough project reaffirmed how understanding creates resilience and camaraderie.",
+        "therapist": "Embracing your role as a source of resilience and camaraderie has profound effects on your identity and others'. This reinforces how interconnected you are, reflecting the values you admired in your mom. How might this insight continue to shape your future interactions at work?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "It encourages me to be more intentional in my actions, like organizing team-building activities. Sharing genuine appreciation after meetings fosters deeper connections, transforming our work dynamic positively.",
+        "therapist": "Organizing activities and fostering connection reveal how much you value your role in shaping a collaborative environment. How do you think your colleagues see themselves differently because of the appreciation and intentional efforts you bring into their experiences?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "My colleagues seem to feel more valued and open to sharing ideas. In a recent meeting, someone proposed an innovative solution confidently, knowing it was a safe space for creative thinking.",
+        "therapist": "Your ability to cultivate a safe space significantly impacts how your colleagues see themselves and their potential. This mutual growth reflects your collaborative ethos. How might acknowledging these moments inspire further reciprocal transformations in both your personal and professional relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Acknowledging these moments motivates me to apply empathy consistently. Recently, during a friend's personal struggle, I offered support that deepened our trust. This approach is reshaping my connections.",
+        "therapist": "Applying empathy consistently has become a strong facet of who you are, positively influencing both friends and colleagues. This deepened trust reflects mutual growth and strengthens your connections. How does knowing your contributions shape others' experiences, influence your view on the value of empathy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Empathy feels essential in shaping others' perceptions, like when a team member said my encouragement helped them express doubts freely. It deepens my belief that listening matters profoundly.",
+        "therapist": "The empathy you offer indeed shapes an inclusive environment for others. Your ability to listen inspires vulnerability and openness. Considering this influence, how does your encouragement enrich the community's relational fabric and nurture personal connections beyond work?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Encouraging others strengthens our shared trust, creating a ripple effect. Beyond work, it helped me reconnect with an old friend. Listening to their story revitalized our bond deeply.",
+        "therapist": "Your actions clearly make a profound difference, nurturing connections both professionally and personally. Recognizing your influence in revitalizing bonds enhances your appreciation for these relationships. How do you imagine this renewed connection might continue to support the values you cherish within yourself and others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 48,
+        "client": "[\"It's inspiring to see my actions create such meaningful bonds. One instance was organizing a community book club where everyone's perspectives brought us closer, deepening my commitment to fostering understanding.\"]",
+        "therapist": "Your efforts to foster understanding are clearly weaving stronger connections. By inspiring others in the book club, you’re shaping a community enriched by diverse perspectives. How do you perceive the influence of your leadership on the evolving identity of your participants?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I see how my leadership encourages openness and exploration. In one meeting, a participant shared deeply about cultural influences on their perspective, sparking meaningful dialogue and connection.",
+        "therapist": "You are significantly shaping the group's openness, helping others to see themselves in new ways through shared stories and cultural insights. How does witnessing this transformation impact your understanding of your role in influencing such positive changes within these meaningful conversations?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Witnessing these transformations is humbling. It shows me how a simple initiative can ripple into deep self-reflection and growth. I felt pride when a member thanked me for creating this safe space.",
+        "therapist": "Your pride and humility reflect the deep care you bring to creating connection. Seeing others grow in a space you nurtured highlights your lasting impact on their lives. How do you think this experience of fostering safety and growth strengthens your vision for future relationships or initiatives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]

@@ -1,0 +1,537 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hi there, how is life treating you today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm feeling overwhelmed but hopeful. I'm struggling with managing everything, but knowing you're here to guide me helps ease my anxiety a bit.",
+        "therapist": "I can see how much you're carrying right now, and it’s inspiring that you’re holding on to hope. Let’s take things step by step together—what feels like the smallest step forward you’d like support with today?"
+    },
+    {
+        "round": 2,
+        "user": "Hey. I'm doing fine. I guess really stressed.",
+        "answer_final": "I am so sorry to hear that. What are you feeling stressed about specifically?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thanks for understanding. I'm juggling too many tasks, which is stressing me out. Starting with organizing my schedule might be a good step forward.",
+        "therapist": "Organizing your schedule sounds like a promising start. Together, we can explore ways to lighten your load and find balance. What might it feel like to have more control over your time?"
+    },
+    {
+        "round": 3,
+        "user": "My parents are kinda putting a lot of pressure on me to continue my education. I already got my bachelors, and I'm ok with getting my masters. But I really don't know if I want to get my Doctorate.. I'm in a major that I kind of like. I'm not ambitious about.",
+        "answer_final": "If your heart is not in it then it does not seem worth taking the extra three (at least) years. Do you have a profession you want to go into?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Gaining control over my time would definitely help. I'm also feeling a lot of pressure from my parents about continuing my education beyond my Master's degree, which adds to the stress. While I enjoy aspects of my major, it's hard to see myself passionately pursuing a Doctorate.",
+        "therapist": "Feeling that pressure must be exhausting. It’s important your voice isn’t lost in this process—what feels true to you right now about how you want to move forward?"
+    },
+    {
+        "round": 4,
+        "user": "I honestly don't know what I want to do in life. I don't really know anymore what I actually like. My parents really pressured me to choose what they thought is best ever since I was young.. It's really hard to make delicious on my own now when someone has been telling you something all thought your years.",
+        "answer_final": "I hear you :( I've been through that too. It can be hard to break away and stand against such a thing.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I honestly don’t know what feels true to me right now. My likes and interests feel blurry because my parents have always influenced my choices. It’s hard figuring out what’s really mine.",
+        "therapist": "You’re sharing something really significant—recognizing how your choices have been shaped by others. Let’s take our time to explore what might matter most to you, no rush. What would it feel like to start uncovering even one small interest that feels entirely yours?"
+    },
+    {
+        "round": 5,
+        "user": "I'm sorry you felt the same way. It sucks :/ I feel a lot of pressure to please them, and I'm scared to voice my opinion.. because whenever I try to talk to them, they always shun me down saying I don't know any better.",
+        "answer_final": "It sounds to me like it might be better for you to get away from them and form your own career and life.. Yes it is very difficult to standing up for yourself if you're being emotionally bullied.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think uncovering something that’s truly mine would feel freeing, but it’s hard to imagine. Pleasing my parents feels so ingrained—I’m afraid of speaking up because they often dismiss me, saying I don't know what I'm talking about.",
+        "therapist": "Naming the pressure to please your parents as separate from you could be freeing—how might this \"need to please\" lose power if you began giving more attention to what feels truly yours?"
+    },
+    {
+        "round": 6,
+        "user": "I am actually very far away from them! ( a different county to be exact). But I skype with them regularly. Because you know parents miss you.",
+        "answer_final": "Ah .. that makes it both more complicated and more simple.. At the very least you are living independently. Do you have financial independence as well?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I try to keep some distance by living in a different country, but we Skype often. They miss me, and honestly, I feel a mix of guilt and obligation.",
+        "therapist": "Living with that mix of guilt and obligation can be really heavy. What if we explored what’s most important to you in those moments—your needs, their wishes, and where they could coexist?"
+    },
+    {
+        "round": 7,
+        "user": "But I still feel like I have to please them and make decisions based on what I say. I guess it's like abuse but it a different context. I always worry that what I do may not please them.",
+        "answer_final": "Have you tried talking to them about how you feel or do you feel that they would not listen to you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think what’s most important to me is peace—both with them and within myself. But their expectations feel so overwhelming that I lose sight of my own voice. It feels suffocating, like I’m constantly trapped between wanting their approval and fearing their disappointment.",
+        "therapist": "Exploring the weight of their expectations is a brave step. How might naming this feeling as 'the expectation trap' influence its impact on your life and help in finding moments of peace for yourself?"
+    },
+    {
+        "round": 8,
+        "user": "I do. It's kinda complicated because when COVID hit I lost my job and they were supportive saying they would help me out until I got back on my feet. They don't hold that against me, thankfully.. I have. Let me explain more",
+        "answer_final": "Okay I am happy to listen :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think calling it 'the expectation trap' does fit—it feels like a constant push-pull. And honestly, it got more complicated after COVID when I lost my job. My parents were really supportive then, helping me financially without judgment, and I appreciated that. But at the same time, it reinforced this sense of obligation, like I owe them not just for that but for everything they’ve always done. It’s hard to find my own balance in all of this.",
+        "therapist": "Finding balance when gratitude and obligation are intertwined can be so challenging. What if we explore how you might begin honoring both your appreciation for their support and the need to reclaim space for your own voice?"
+    },
+    {
+        "round": 9,
+        "user": "Thank you : ) I went to therapy for 4 years when I was away from them. 2 months ago I got the courage to talk to them about how I felt. It was to a point where I couldn't function anymore. They listened and said they are sorry. And it was all good for a while until it seems like they went back to the same thing again.",
+        "answer_final": "It is great that you at least did get up the courage to approach them - that is a brilliant first step.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm grateful for their support, yet navigating my feelings is tough. I even spent years in therapy away from them to build courage and speak up about my emotions. It helped initially, and when I told them how overwhelmed I'd been feeling two months ago, they genuinely listened and apologized, which made things seem better for a while. But now it's as if we've returned to the same old patterns, leaving me unsure of how to hold onto my voice amid all this.",
+        "therapist": "Let's hold onto the progress you made in voicing your emotions. When old patterns reappear, perhaps it's about gently reinforcing your boundaries. How might reconnecting with that courage guide you in expressing and maintaining your own voice now?"
+    },
+    {
+        "round": 10,
+        "user": "I come from a family who don't have a lot of ambitious in life. Talking about my cousins and aunts. So my parents really focused on my to be the perfect individual.",
+        "answer_final": "Ah that might help explain things. So they are pinning the hopes of the whole family on you because you are academically successful?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "My family's expectations feel intense because they're invested in me being different from my relatives. Reconnecting with my courage might help resist the pressure to fit into their ideal.",
+        "therapist": "Reconnecting with courage can empower you to challenge these intense expectations. Consider how naming them as 'Family Ideals' might help externalize the pressure and allow space for your authentic voice to emerge, shaping a path that honors both self and family dynamics."
+    },
+    {
+        "round": 11,
+        "user": "My dad also regrets not being able to continue his studies because of my grandparents wrong doings. He had to leave school.. Academically and musically. IDK other talents I guess.",
+        "answer_final": "I wonder if you could suggest to your dad that he goes back to school himself rather than living through you?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's hard because my dad's regrets about leaving school influence how he sees my future. He had to give up his studies due to past mistakes by my grandparents. It's tough separating their ideals from mine while feeling obligated to fulfill them, especially when I want to explore talents beyond what they might envision for me.",
+        "therapist": "Exploring your talents alongside honoring your dad's past experiences may create pathways for both fulfillment and individuality. How could acknowledging these shared familial influences reshape your vision for the future, allowing space for diverse possibilities?"
+    },
+    {
+        "round": 12,
+        "user": "Like as a whole human being I should be perfect.",
+        "answer_final": "I hope I have been able to be of help to you but I am afraid I need to see someone else now. Thank you for talking though and I wish you all the very best in future",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Acknowledging these influences could help me see how striving for perfection isn't necessary. I want to integrate my talents and their values, not be burdened by unrealistic expectations.",
+        "therapist": "Acknowledging and embracing your individuality within familial ideals is empowering. Integrating your talents while valuing their experiences can redefine the expectations you choose to fulfill. How might you nurture this balance, fostering both creativity and authenticity?"
+    },
+    {
+        "round": 13,
+        "user": "Ok. Thank you for your time. Have a good one.",
+        "answer_final": "you too!. Can you press quit first as it has to be done from your end :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you. I think nurturing that balance means taking small steps to honor their hopes while creating space for my own dreams, even when it feels challenging.",
+        "therapist": "Nurturing that balance is a beautiful journey of honoring and creating. Your awareness and small steps reflect strength and resilience. Trusting yourself to explore your dreams while valuing theirs can cultivate mutual understanding. How might you celebrate each step in this path?"
+    },
+    {
+        "round": 14,
+        "user": "Oh sorry. I thought I just did.",
+        "answer_final": "it can be temperamental :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your perspective. Celebrating each step could mean acknowledging small victories, like sharing my interests with them or achieving personal milestones. Maybe embracing moments of connection can nurture understanding.",
+        "therapist": "Celebrating these small victories truly affirms your journey. Sharing interests and embracing connections create meaningful bridges with your family. How might recognizing these milestones strengthen your sense of self and foster deeper understanding within family dynamics?"
+    },
+    {
+        "round": 15,
+        "client": "I think recognizing milestones helps me see progress, even if it's small. Like when I shared a recent painting with my mom—it felt freeing and opened up a heartfelt conversation.",
+        "therapist": "Sharing your painting was a courageous act that led to meaningful connection. This reflects how valuing expression aligns with personal freedom and progress. How might these moments of openness support the unfolding story of bridging personal dreams and family expectations?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "These moments feel like bridges to understanding and mutual growth. I felt proud sharing my painting with my mom; her admiration gave me courage to explore my passions more deeply.",
+        "therapist": "Your courage to share your painting embodies the separation of passion from expectations. Admiration nurtures your values and hopes for creative expression. How might embracing these moments reshape your journey by cultivating strengths beyond imposed ideals?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "Embracing these moments makes me realize my strengths aren't bound by expectations. For instance, experimenting with new techniques in art gave me confidence to create without fear of judgment.",
+        "therapist": "Confidence in creating is a powerful step in externalizing expectations, revealing your independent strengths. Exploring new techniques shows bravery and dedication to personal growth. Consider how embracing creative freedom reflects values important to you. How might you continue challenging this idea of expectation-based boundaries?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Exploring new techniques is thrilling. I challenged myself with abstract art, something my family didn't understand. This exploration fuels my independence and affirms I'm on a meaningful path.",
+        "therapist": "Exploring abstract art highlights your courage to redefine independence beyond familial understanding. This exploration aligns with your passion and values. How do these artistic pursuits enhance your sense of identity and drive your path towards meaningful fulfillment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Exploring abstract art feels like reclaiming a part of myself I didn’t know was hidden. Each piece reflects emotions I struggle to articulate, making my identity feel clearer.",
+        "therapist": "Your abstract art seems to externalize those unspoken emotions, creating a space where your identity takes shape outside of limitations. How do these moments of clarity connect with the values or hopes that guide your personal growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I think these moments remind me that authenticity matters most to me. Recently, I painted without planning, just raw emotion—it felt liberating and aligned with my inner truth.",
+        "therapist": "Painting from raw emotion seems to embody the freedom and authenticity you value so deeply. As this liberating process unfolds, how might identifying and distancing from pressures or judgment further strengthen your commitment to honoring your inner truth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I think stepping away from others' expectations helps. For instance, when I ignored doubts about using bold colors in my work, the finished piece felt genuinely mine.",
+        "therapist": "Trusting boldness in your choices reflects how you’re reshaping your story around self-expression and autonomy. What’s emerging for you about the person you’re becoming when you honor these creative instincts over external doubts?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I think I’m becoming more self-assured. Like when I painted chaotic layers to reflect confusion—it felt risky, but seeing the final piece made me trust my instincts more.",
+        "therapist": "Exploring chaotic layers as an expression of confusion speaks to your resilience and commitment to authenticity. Trusting these instincts suggests growing self-assurance. How do these experiences further illuminate the intentions or values shaping your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "I think they highlight my value for embracing vulnerability. Like when I shared a raw, unsettling piece at a small gallery—it was nerve-wracking but felt deeply authentic.",
+        "therapist": "Sharing your work publicly represents a brave embrace of vulnerability, embodying your values and deep authenticity. This moment seems pivotal in affirming who you're becoming. As you continue, how might these reflections guide your journey toward a self that truly aligns with your commitments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Sharing my art was like shedding a protective layer. In doing so, I connected with an audience who embraced the honesty in my vulnerability. Reflecting on their reactions helps affirm that staying true to myself and expressing raw emotions is vital for my growth.",
+        "therapist": "Embracing vulnerability has allowed you to form genuine connections with your audience, reinforcing your values of authenticity and growth. Your commitment to expressing raw emotions is clear. How might this experience of shedding protective layers inspire new directions in your personal or artistic journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "This experience opens the door to experiment more fearlessly. I'm considering a series centered on the theme of emotional transparency, using diverse mediums to convey inner struggles.",
+        "therapist": "Exploring emotional transparency through diverse mediums feels like a powerful act of self-expression and courage. As you experiment fearlessly, which past experiences or inner struggles might you draw upon to deepen the authenticity of this series?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I've been thinking about my struggle with anxiety and isolation during intense periods of change. Conveying the raw, sometimes overwhelming nature of these feelings could resonate deeply with others facing similar challenges.",
+        "therapist": "Experiencing anxiety and isolation has deepened your understanding of emotional complexity. Expressing these struggles creatively could foster meaningful connections with others facing similar paths. How might portraying these feelings help redefine both personal resilience and connection in your evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Experiencing anxiety and isolation, I've grown more empathetic and self-aware. Portraying these in art can help me better articulate my resilience and create a supportive community.",
+        "therapist": "Creating art from your experiences of empathy and self-awareness reflects a powerful journey against the grip of anxiety. Sharing this growth fosters resilience and community support. How might these portrayals further influence your preferred narrative, or challenge the isolating aspects of your past story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 28,
+        "client": "Creating these portrayals helps me reframe my anxiety as a part of my story rather than the whole. When I paint about past isolation, it feels like reclaiming power from those memories.",
+        "therapist": "Your art redefines anxiety by placing it within a broader, more empowered narrative. Through this process, you're weaving strength into your identity. Consider how these expressions align with your intentions and values as you continue to explore new layers of yourself.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Painting has helped me align with my values of openness and honesty. There's a sense of liberation when I share these artworks, breaking the chains of isolation and fear.",
+        "therapist": "Painting seems to affirm your commitment to openness and honesty while creating space for liberation. How might the values you honor in your art guide your choices or actions beyond painting, shaping other areas of your preferred identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "My values of openness and honesty influence my interactions, making me more empathetic. I find myself seeking deeper conversations, moving beyond superficial connections, fostering meaningful relationships.",
+        "therapist": "Embracing deeper conversations and empathy aligns beautifully with your values, nurturing meaningful relationships. How does this evolving identity strengthen your sense of belonging or community, supporting the powerful narrative you're crafting?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Feeling more connected, I find comfort sharing stories with people who understand. Like discussing my fears over coffee with a friend, it solidifies our bond and builds trust.",
+        "therapist": "Sharing your fears in those trusting moments reveals the strength you’ve cultivated to move against isolation. As these connections deepen, how might they inspire further actions that align with your preferred sense of self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 32,
+        "client": "I've started volunteering at a local art group, teaching others to express emotions through painting. It feels like a tangible way to connect, give back, and strengthen my identity.",
+        "therapist": "Teaching others to channel emotions through art mirrors the connection and openness you value deeply. How does this act of giving back reinforce the narrative of resilience and empathy you’ve been cultivating?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "Teaching has reminded me of my own journey—how art helped me process pain and find strength. Seeing others discover that same release fills me with hope and purpose.",
+        "therapist": "Teaching seems to embody the purpose and hope that anchor your story. How does this sense of shared growth and creativity shape the identity you’re reclaiming through openness, connection, and resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "Teaching feels like piecing together fragments of who I am. Watching others create sparks memories of my own struggles and triumphs, reminding me how far I’ve come emotionally.",
+        "therapist": "Teaching seems to honor your journey, offering a tapestry of growth from your struggles to triumphs. In this shared creativity, how might these experiences redefine the resilience and purpose you bring into each new moment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Teaching has shown me resilience isn’t just surviving but sharing and creating. I remember guiding a woman painting her grief; it reminded me of finding healing through connection.",
+        "therapist": "Sharing and creating seem to embody the healing you’ve nurtured through connection. As you guide others in expressing their grief, what new possibilities might unfold for your own growth and resilience?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think it’s helping me trust myself more. Guiding others reminds me that my struggles hold value—not as wounds, but as tools to support healing and growth.",
+        "therapist": "Through teaching, you seem to recognize the profound influence others have on your journey, transforming struggles into growth and support. How does recalling those significant figures who contributed to your healing reinforce your trust in yourself today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Recalling those who helped me, like the therapist who taught me grounding or the friend who encouraged my art, reminds me I'm capable of offering that same strength to others.",
+        "therapist": "Guiding others indeed shows the strength you possess, echoing those significant connections that shaped your journey. In nurturing this exchange, what potential shifts in self-perception are unfolding for you now?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 38,
+        "client": "I think I'm starting to see myself as capable of more than surviving—like when I helped a student express her emotions through art, it felt like we both grew stronger.",
+        "therapist": "Guiding that student seemed to affirm your own strength and the ways you foster growth in others. How does recognizing this mutual impact deepen your understanding of the value you bring to their lives—and to your own?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Recognizing that impact makes me feel proud and validated. Helping students express emotions, like supporting Hannah in processing her anxiety through art, reflects the value and empathy I offer.",
+        "therapist": "Pride and validation seem to reflect the empathy you embody. As you continue to support others like Hannah, how do you envision these contributions enhancing your shared stories of resilience and connection?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Sharing those moments with others, like seeing Hannah embrace her vulnerability through art, helps me feel deeply connected—it’s as if we’re weaving resilience together, not alone.",
+        "therapist": "Sharing those connections with others, you seem to affirm mutual growth and understanding. How might embracing these shared experiences shape your vision for the supportive relationships you nurture?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Sharing experiences like this shifts my vision towards creating nurturing environments, valuing genuine emotions. My empathy deepens when I see others flourish, driving mutual support in our connections.",
+        "therapist": "Acknowledging your contributions in nurturing these environments reflects the empathy and support woven into your connections. How do you see these relational identities you foster impacting those around you, inviting growth and nurturing?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "By fostering these identities, I notice people feeling safe and open. Like when Jacob shared his struggles with confidence in class, our trust cultivated an uplifting environment.",
+        "therapist": "Trust and safety within your relationships enhance both personal growth and the flourishing of others, like Jacob. Consider how this nurturing environment enriches their stories and shapes the roles they take on in these connections.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "Trust and safety truly seem to transform environments. Jacob's self-doubt slowly faded as he took on more active roles in discussions, thanks to the support we cultivated together.",
+        "therapist": "Cultivating a supportive environment has empowered Jacob to find his voice. This illustrates the profound impact your presence has on others' growth and confidence. Reflecting on these relationships, how do you see your identity evolving as a nurturing force in their journeys?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I see my identity evolving into someone who listens deeply and encourages self-expression. For instance, when Maria shared her struggles, my presence helped her feel heard and supported.",
+        "therapist": "Your ability to listen and encourage self-expression clearly fosters mutual growth. Thinking about Maria, how might her experience of being heard reshape her own story and identity within the spaces you’ve shared?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Maria told me later she felt less alone after our talk. It’s like being truly heard gave her strength to own her struggles, not just endure them.",
+        "therapist": "Your presence offered Maria the space to transform her struggles into something she could claim as her own. How do you think your ability to truly hear and support others shapes their confidence in rewriting their narratives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I think it shows them they’re not defined by their struggles. Like when Emma shared her fears of failure, my encouragement helped her see those fears didn’t limit her potential.",
+        "therapist": "Your encouragement created space for Emma to redefine herself beyond fear, shaping her confidence. How do you think seeing Emma embrace this strength might also reflect something meaningful about the values and commitments you bring to these connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "I think it reflects how much I value being a source of steadiness for others. Seeing Emma grow reminded me how committed I am to fostering courage and hope in people.",
+        "therapist": "Your steadfast presence indeed inspires courage and hope in those around you. How does experiencing Emma's growth affirm your own identity and the mutual influence woven into these supportive relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "Experiencing Emma's growth reinforces my role as a guide in nurturing confidence. Seeing her courage motivates me to continue offering empathy and encouraging resilience in others.",
+        "therapist": "Experiencing Emma's courage highlights how your empathy ripples outward, shaping others in meaningful ways. How do you imagine Emma now sees you and the role you've played in her journey of resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think Emma sees me as someone who truly believes in her potential. When she shared her fears, I focused on validating her feelings but also reminding her of her strengths.",
+        "therapist": "Your belief in Emma reflects your understanding of her strengths and potential. How does knowing she views you as a believer and supporter affirm the connections that are significant to your sense of identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 50,
+        "client": "Knowing Emma sees me as a believer strengthens my commitment to supporting others. It echoes moments like when my brother thanked me for helping him overcome doubts during a rough patch.",
+        "therapist": "You're weaving a powerful narrative of influence and belief that supports your own identity. How might acknowledging these shared transformations with Emma and your brother enhance your understanding of the roles you cherish in their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

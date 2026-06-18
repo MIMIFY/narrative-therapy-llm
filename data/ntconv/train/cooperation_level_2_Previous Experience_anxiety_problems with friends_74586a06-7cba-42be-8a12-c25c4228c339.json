@@ -1,0 +1,471 @@
+[
+    {
+        "round": 1,
+        "user": "Hi there, are you free to talk? I am feeling rather sad.",
+        "answer_final": "Hi there. Yes, What is making you sad?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi there, I was wondering if we could chat. I'm feeling quite down lately and could use some support.",
+        "therapist": "Let's create a space where you can feel supported. What is weighing on you right now? We can explore your feelings together and see if we can uncover any threads of hope or resilience."
+    },
+    {
+        "round": 2,
+        "user": "I feel that my friends do not like me very much any more. Apparently they have been engaging in group activities without me.",
+        "answer_final": "I understand how frustrating that can be to not be part of the group activities.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate that. It's just hard seeing my friends hang out without me. It feels like they're drifting away and I'm unsure how to address it.",
+        "therapist": "It's tough to feel distant from friends. This sense of drifting might be challenging, but it also offers a chance to redefine how you wish to connect. What could nurturing these friendships in a new way look like for you?"
+    },
+    {
+        "round": 3,
+        "user": "Do you think that I am over-reacting? I do not want to sound over sensitive but this has been happening for a while.",
+        "answer_final": "Have you talked with your friends on how you feel? When was the last time you all connected?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm unsure how to redefine those connections. I worry it might seem like I'm overreacting or being overly sensitive, but it's an ongoing concern for me.",
+        "therapist": "Your feelings are valid, and recognizing them is an important step. Reflect on times when your friends supported you—how did those moments shape your connection? Exploring these memories might illuminate a way forward in nurturing your relationships."
+    },
+    {
+        "round": 4,
+        "user": "We went out for coffee the other day and I thought about saying something cos I know they went to a club without me last weekend but I couldn't bring myself to in the end.",
+        "answer_final": "I understand it is tough to bring up what is bothering you, especially after getting to hang out with all your friend over coffee. I'm sure this was not intentional with not inviting you to the club.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thinking about their support made me remember a time when they really cheered me up. But last week, knowing they went clubbing without me hurt. I wanted to bring it up over coffee, yet I just couldn't.",
+        "therapist": "Your feelings about wanting to connect and the hurt you feel are completely understandable. This might be an opportunity to think about expressing your emotions in a way that feels safe and authentic for you. How would it feel to share how much their support has meant to you?"
+    },
+    {
+        "round": 5,
+        "user": "Sometimes in the past I have turned down invitations to go out clubbing, admittedly. Could it be that they just did not think that I wanted to go?",
+        "answer_final": "From what I have experienced personally, I am not a fan of clubs and didnt want to go with my friends. After turning them down a few times, they stopped inviting as well. I think they thought that was not my thing.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate their support, and I want to express that. Looking back, I've often declined clubbing invites myself. Perhaps they assumed I'm not interested anymore?",
+        "therapist": "Sharing your appreciation with them might help rebuild that connection. It's possible they misinterpreted your past declines as disinterest. Consider sharing how you feel about spending time with them now—this openness can enhance your relationships."
+    },
+    {
+        "round": 6,
+        "user": "The thing is though that this is not the only thing - they have been to rock concerts without me too. I just feel I am no longer a part of the group.",
+        "answer_final": "I feel how this is hurting you. The best thing would be to talk to them about feeling disinvited to group activities. Let them know you are still free and really want to spend some time together. Do you think you can open up to them on whats bothering you?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's worrying because these events keep happening. Aside from the clubbing, they've attended concerts without me too, and it feels like I'm losing my place in our group.",
+        "therapist": "It's unsettling to feel excluded, especially when these experiences are meaningful to you. Recognizing this pattern can be a step towards change. How might expressing your feelings to them foster understanding and openness in the group dynamic?"
+    },
+    {
+        "round": 7,
+        "user": "I don't know. I don't want to come across as just being paranoid or whiny. Sometimes I think it would be better to just forget them and not have any friends.",
+        "answer_final": "It sounds like this situation is really bothering you. Its hard and overwhelming to feel isolated. The bonds of friendship are worth the confrontation. If they don't know what is bothering you, it will be harder to mend the relationship.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "You're right, I should probably talk to them about it. I just fear they'll think I'm being overly sensitive, but I do miss feeling connected with the group.",
+        "therapist": "You seem ready to reconnect and express your feelings. Your longing for connection is important, and sharing your experience might strengthen the bond with your friends. How could showing your vulnerability potentially enhance trust in those relationships?"
+    },
+    {
+        "round": 8,
+        "user": "It is making me really depressed and is badly damaging my sense of self worth. I feel as though I am not worth anyone's time.",
+        "answer_final": "You are worth every precious second of time and should not let this diminish your self worth. Find common ground, an activity you all enjoy and invite them to hang with you.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I hope sharing my vulnerability brings us closer, but I can't help feeling depressed. It's affecting my self-worth, as if I'm not worth anyone's time or attention.",
+        "therapist": "You deserve to feel valued and connected. Sharing your vulnerability can indeed strengthen bonds, and it's okay to express these feelings of self-worth openly. What small step can you take towards nurturing your sense of worth within this group?"
+    },
+    {
+        "round": 9,
+        "user": "Thank you that is helpful. What if I reach out and they all snub me though?",
+        "answer_final": "We all have busy hectic lives at time. True friends make time to be with one another. This world is full of beautiful people to bond with. Keeping a closed circle of friends is a blessing.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, that is reassuring. If I reach out and they all snub me, it might confirm my fears of not being wanted. How can I approach this positively?",
+        "therapist": "Embracing vulnerability can indeed be daunting, yet it's a vital step towards authentic connection. Remember, this moment doesn't define your worth. How might focusing on small acts of self-compassion help build the positivity you seek?"
+    },
+    {
+        "round": 10,
+        "user": "It's not really so much that my life is hectic. On the contrary, sometimes it feels as though it is rather empty and not having the support of friends does not help with that.. Anyway I do appreciate your help - you have given me things to think about.",
+        "answer_final": "I hear how this is making you sad not feeling supported in the way that you need to be. Know that you are worthy and will find a way to connect with them. I hope this has helped.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It makes sense to focus on small acts of self-compassion. Sometimes, life feels empty without the support of friends, which heightens my loneliness. Your insights have given me valuable perspectives to reflect on.",
+        "therapist": "Embracing self-compassion is a powerful step. It's normal to feel lonely without support, yet these reflections show your inner strength. How might creating small moments of connection, even with yourself, help alleviate this emptiness?"
+    },
+    {
+        "round": 11,
+        "client": "I could try journaling or taking quiet walks, reflecting on positive moments I've shared with my friends. These might help me remember I'm valued and connected in ways I overlook.",
+        "therapist": "Journaling and walking reflect a profound step toward recognizing your worth, distinct from loneliness. It's like naming the feeling without letting it define you. How might exploring moments where you've felt valued help transform this sense of disconnection into deeper self-awareness?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 12,
+        "client": "I remember when my friends surprised me on my birthday. It made me feel deeply appreciated. Reflecting on such moments could remind me of the value and connection present in my life.",
+        "therapist": "You seem to be embracing the strength in those treasured moments, showing how appreciation is part of your story, distinct from loneliness. How might you visualize this disconnect as a separate entity affecting your feelings without defining them?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 13,
+        "client": "I can see the disconnect as a cloud that temporarily blocks my view of all the meaningful connections. It's tough, but recalling my birthday surprise can pierce through it with gratitude.",
+        "therapist": "You're insightfully observing how that \"cloud\" affects your view of connections, yet gratitude can be your guiding light. Imagine tracing gratitude in your life more frequently—how might that alter the power this disconnect holds over you?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 14,
+        "client": "I've begun listing three things I'm grateful for each night. Remembering moments, like how my friends rallied around me in difficult times, softens the disconnect and reminds me of our bond.",
+        "therapist": "Recognizing the moments when your friends supported you highlights a cherished value of connection in your life. These memories act as anchors, reminding you of your importance. How might you weave these affirming experiences into everyday self-reflections to continue nurturing this bond?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I could start each morning recalling the laughter shared during game nights, acknowledging how their support gives me strength. This could help me face challenges with renewed hope and resilience.",
+        "therapist": "Embracing the laughter and support highlights their impact on your life, deeply tied to your values of connection and resilience. As you begin each day with these reflections, how might they transform daily challenges into opportunities for personal growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Starting my day recalling those joyful moments helps me approach challenges with a lighter heart. It's like recharging, reminding myself that I'm not alone in facing difficulties.",
+        "therapist": "Recognizing your joyful moments as a source of strength highlights your commitment to staying connected and supported. How do these experiences align with the values or hopes you cherish for facing life's challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I value the sense of community and shared strength. Last year, during tough financial times, my friends arranged a surprise donation drive. Their empathy and care fuel my hope for overcoming obstacles.",
+        "therapist": "Community and shared strength deeply resonate with your values. Recognizing empathy's influence, imagine this quality as a supportive ally, distinct from challenges. How does embracing this empathy continue to nurture your commitment to facing obstacles and realizing hopes?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Embracing empathy as an ally reminds me of my friends organizing a book club when I felt isolated. Their compassion rekindled my passion for reading and creativity, fueling hope for new beginnings.",
+        "therapist": "Embracing your friends' empathy during isolation clearly highlights the value of connection in your life. By externalizing disconnection, could you view it as an obstacle to creativity and engagement? This reflection might emphasize the importance of compassionate relationships that nurture new beginnings.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "Reflecting on disconnection as an obstacle really helps me see how my creativity thrives through connections. I remember painting with a friend, sharing stories while expressing ourselves through art, which left me feeling inspired and open.",
+        "therapist": "Nurturing your creativity through meaningful connections beautifully mirrors your values. Naming disconnection as an obstacle illustrates your proactive stance. How does this insight guide your continued commitment to fostering inspiring, open exchanges that empower your creative expression?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Reflecting on these insights, I'm committed to engaging actively with my friends through monthly creativity nights. Sharing our art and stories helps me maintain inspiration and emotional openness.",
+        "therapist": "Engaging in creativity nights with friends honors your values of connection and inspiration. As you externalize disconnection, consider how cultivating these moments supports your deeper commitment to openness. What hopes do these creative connections awaken for your journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "These creative connections awaken hopes for new friendships, deeper understanding of myself, and courage to tackle personal challenges. Sharing vulnerabilities through art fosters healing and authenticity.",
+        "therapist": "Sharing art as a pathway to healing and authenticity illuminates your journey toward vulnerability. Embracing unique outcomes strengthens your narrative against isolation, nurturing identity growth. How might these creative experiences continue to support and sustain new friendships and self-understanding?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Creative experiences support new friendships by offering shared memories and bonding moments. They deepen self-understanding as I discover passions, confront fears, and express authentic emotions in each artistic endeavor.",
+        "therapist": "Recognizing how creative experiences deepen connections and self-awareness nurtures your evolving narrative. Celebrating these shared memories supports you in embracing fear and expressing authenticity. As you explore future actions, what stories or emotions might flourish in upcoming artistic endeavors?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Recently, I imagined a piece representing resilience. Through bold strokes and contrasting colors, it tells the story of rising above challenges. This evokes courage and perseverance in my artistic journey.",
+        "therapist": "Resilience vividly illustrated through your art highlights your strength in transforming challenges. As you engage in these bold creations, how might this narrative of courage and perseverance further enrich the stories you tell through future artistic expressions?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I envision stories capturing life's highs and lows, exploring themes of loss, hope, and recovery. Reflecting on these emotions helps me connect deeply with my creative process and others.",
+        "therapist": "Reflecting on the interplay between loss, hope, and recovery through your creative expression strengthens your identity. These stories offer profound connection with yourself and others. As these narratives evolve, what intention or value resonates most in guiding this journey of discovery and healing?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "Authenticity guides my journey. Creating genuine art allows me to explore emotions honestly. I remember painting during grief; it brought unexpected solace, revealing new layers of strength.",
+        "therapist": "Authenticity shines through your art, revealing strength in times of grief. Your commitment to honesty enriches both your journey and connections with others. How might this newfound strength guide you as you continue to build narratives of hope and transformation in your creative process?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Through this strength, I aim to create art that reflects stories of healing and resilience. During moments painting alone, emotions unfold naturally, guiding me towards themes of restoration.",
+        "therapist": "Your art embodies a commitment to healing and resilience, weaving together emotions that speak to restoration. This journey reveals your preferred identity emerging through creativity. How might continuing to embrace these themes further shape the narrative of your authentic self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Embracing healing in my art makes me aware of my growth. I recall painting after a tough breakup—layers of colors reflecting turmoil and eventual peace. It enriched my understanding.",
+        "therapist": "Embracing healing and reflecting growth in your art emphasizes resilience. This process of navigating emotions enriches your understanding of self. As you create, consider how these layers inform your ongoing narrative of empowerment and peace.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "As I paint, the layers reveal emotions and guide me toward self-discovery. After my grandfather passed, I expressed grief through muted tones, finding calmness as colors brightened with acceptance.",
+        "therapist": "As colors shift from muted tones to brighter ones, your journey through grief evolves into acceptance and calmness. This exploration deepens your self-discovery. How might this narrative of transformation guide you as you create future stories within your artistic process?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "In crafting future stories, I draw from memories—like feeling isolated post-breakup, and finding solace in painting stormy seas that slowly transformed into calm waters. The shift resonates with healing.",
+        "therapist": "Painting your journey from stormy seas to calm waters captures a transformative process of healing. This evolving narrative highlights your resilience and adaptation. Consider how this newfound peace can empower future stories, nurturing an identity rooted in strength and growth.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 30,
+        "client": "I envision my art as a beacon for others who feel lost. The process is not just personal healing but an invitation for collective resilience, especially after shared experiences of loss.",
+        "therapist": "Your vision of art as a beacon not only reflects healing but a profound intention to connect and uplift others. This commitment enriches your identity, aligning your creative work with shared resilience. How does this sense of purpose continue to shape your personal narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "This purpose fuels my narrative with hope, encouraging me to explore collective themes in my art. Painting stories like a friend's recovery inspires both shared connection and personal fulfillment.",
+        "therapist": "Your art journey becomes an inspiring tapestry of hope and shared experience, reflecting values of connection and personal growth. By embracing these themes, how do you see them nurturing not only your own story but also creating a collective narrative for others seeking healing?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "My art represents a shared tapestry; when painting, like creating a sunrise after loss, I aim for collective healing, inspiring those who've experienced adversity to envision brighter futures.",
+        "therapist": "Your art’s narrative of creating sunrises from loss truly illustrates the power of transformation. This commitment to collective healing not only elevates others but strengthens your own identity as a catalyst for hope. How might this intention influence your journey moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "This intention drives me to organize art workshops, creating safe spaces for sharing stories and mutual healing. Each stroke becomes a shared dialogue, fueling my sense of purpose.",
+        "therapist": "Creating these workshops highlights your commitment to fostering healing through connection. This powerful narrative of shared dialogue and purpose reflects your core values. As you engage with this collective journey, how does it affirm the identity you wish to cultivate and share?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I feel an unwavering sense of purpose when others find comfort and expression in art. Workshops reaffirm my identity as a guide, sparking healing, hope, and resilience.",
+        "therapist": "Embracing your identity as a guide through art affirms your deep commitment to fostering resilience. This journey is a testament to your values and the influence you wish to embody. How do these connections deepen the understanding of your role in others' healing narratives?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "I see each interaction as a chance to build bridges for healing. Witnessing someone finding their voice or peace in workshops affirms my role, igniting fulfillment and deeper purpose.",
+        "therapist": "Exploring how these interactions contribute to healing highlights the bridges you're creating for others. This profound fulfillment you experience enriches your purpose and solidifies your role as a compassionate guide. How does this recognition further influence the actions you'll take in your workshops?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 36,
+        "client": "Building these bridges encourages me to introduce storytelling and reflective exercises. I recall a participant expressing relief in sharing, which confirms this approach is vital for emotional release.",
+        "therapist": "Your commitment to storytelling and reflection highlights the significance of mutual expression in your work. How might the perspectives and influences of those who've shaped you enhance your ability to foster emotional release in these spaces, honoring their contributions and deepening your impact?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "Perspectives from mentors who've overcome adversity shape my approach. A colleague's resilience, despite personal struggles, fuels my resolve. Their stories enrich my workshops, amplifying healing impact.",
+        "therapist": "Reflecting on how mentors and colleagues have contributed to your approach reveals profound gratitude and connection. Their resilience not only informs your methods but also solidifies the purpose you embrace. How does acknowledging their impact reshape your understanding of your own story?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 38,
+        "client": "Acknowledging their impact reminds me that my own challenges can fuel growth and empathy. Seeing a participant reflect resilience after a workshop reminded me of the power within shared narratives.",
+        "therapist": "The impact of shared narratives and resilience is profound, reflecting your strength and compassion. Embracing your challenges as pathways to growth enables you to connect more deeply with others. How does recognizing this influence shape the way you view your role in these healing journeys?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Recognizing this influence deepens my understanding of my role as a facilitator in others' healing. I recall a poignant moment when a participant's eyes lit up realizing their strength. That inspired me to focus more on creating spaces where people feel safe to explore their narratives.",
+        "therapist": "Your focus on creating spaces for safe narrative exploration reflects a deep commitment to nurturing healing. How does seeing participants recognize their strength influence the way you embrace your role and continue building meaningful connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Seeing their strength reminds me of my own past struggles and victories. I feel fulfilled knowing I've facilitated a moment of self-realization, reinforcing the power of shared journeys.",
+        "therapist": "Recognizing the value you've brought to others' healing journeys strengthens your own sense of accomplishment and purpose. This shared exploration illuminates your contributions, reinforcing that interconnectedness. How might these realizations encourage you to continue nurturing both your growth and those of the people you support?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 41,
+        "client": "Realizing my impact motivates me to foster growth by creating new workshops focusing on self-awareness and empathy. I remember last month’s session where a quiet participant finally opened up, reinforcing the importance of these spaces.",
+        "therapist": "Your focus on fostering self-awareness and empathy is profound. Embracing moments of openness, like that participant's transformation, further illustrates the impact you have. How might seeing yourself through their eyes affirm your sense of purpose and continue shaping these empowering spaces?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 42,
+        "client": "Seeing myself through their eyes feels both humbling and empowering. It reminds me of the pivotal moment in my own journey when I felt seen for the first time. Their breakthroughs inspire me to keep pushing boundaries in these workshops, to create spaces where people are truly heard and supported.",
+        "therapist": "Embracing both humbling and empowering perspectives enriches your role as a facilitator. Recognizing yourself through participants’ eyes enhances the depth of connection you provide. What might this ongoing awareness invite into your future workshops, promoting growth for both you and others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 43,
+        "client": "The ongoing awareness invites a deeper focus on fostering authentic connections. I plan to incorporate mindfulness techniques, inspired by the moment I experienced clarity during my first meditation session. This can enrich both personal growth and empathetic interaction in workshops.",
+        "therapist": "Your focus on authenticity and mindfulness reflects a deep connection with your journey and its pivotal moments. This process of reconnecting with those significant insights can enrich your approach in workshops. How do you imagine these qualities impacting the lives of those you'll guide?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 44,
+        "client": "I envision mindfulness enabling participants to cultivate presence and resilience. Witnessing a member manage stress through breathwork showed me its potential to foster calm and connectedness.",
+        "therapist": "Witnessing that transformation highlights the powerful contribution you bring to others' lives through mindfulness. This ability to foster calm and connection in others truly enriches their experiences. How might recognizing these impacts enhance your approach or even broaden your facilitation techniques?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 45,
+        "client": "Recognizing these impacts inspires me to deepen my practice. I remember an intense session where participants supported each other through silence and presence, realizing the power of non-verbal communication.",
+        "therapist": "Your intention to deepen your practice through non-verbal communication illustrates profound relational impact. Consider how these experiences of mutual support shape both individual and collective growth in participants. Reflecting on this, what possibilities do you see for further enriching their identities and your own?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Recognizing how non-verbal cues foster mutual support, I see potential in incorporating sensory exercises into workshops. This could deepen emotional connections and encourage transformative healing.",
+        "therapist": "Sensory exercises hold great potential for fostering healing and deeper emotional connections. It’s heartening to see how these contributions enhance participants' growth and your evolving journey. How might embracing sensory awareness further illuminate mutual impacts in these supportive spaces?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "Engaging in sensory awareness brings a vivid energy to the room. I recall participants grounding through touch, forming bonds without words, enhancing empathy and understanding. It's transformative.",
+        "therapist": "Your experience emphasizes the transformative power of silent, empathetic bonds. Recollecting these shared moments has helped shape each participant's identity. Embracing this understanding, what potential impacts do you foresee on your collective journey toward fostering deeper empathy and resilience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I believe these empathetic bonds lead to more inclusive spaces where participants feel safe and valued. During one session, I watched a normally quiet attendee open up, forming authentic connections.",
+        "therapist": "Acknowledging the power of your empathetic connections emphasizes your significant role in creating safe spaces. Witnessing others open up and form genuine bonds reaffirms your impactful presence. How might these experiences inform the way you perceive your evolving relational identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Seeing others form authentic bonds has made me more aware of my own influence. There was a moment when I noticed a newcomer smiling as they shared, feeling truly understood.",
+        "therapist": "You noticed how your supportive presence encourages openness and connection in others, like the newcomer who felt truly seen. How does recognizing your impact inspire you to continue shaping these authentic bonds within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Recognizing this impact gives me confidence. I remember facilitating a quiet reflection exercise that allowed everyone to share without fear of judgment, deepening trust and community bonds.",
+        "therapist": "Facilitating such a space shows your meaningful contribution to fostering community trust and connection. As you reflect on these interactions, how might these experiences shape your own sense of agency and value within this evolving community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    }
+]

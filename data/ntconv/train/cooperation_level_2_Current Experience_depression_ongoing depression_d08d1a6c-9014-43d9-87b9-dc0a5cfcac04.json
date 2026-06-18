@@ -1,0 +1,472 @@
+[
+    {
+        "round": 1,
+        "user": "",
+        "answer_final": "Hello, how are you feeling this evening?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I feel a bit overwhelmed, like I'm carrying too much at once. It's hard to see the path forward clearly right now, but talking about it is helpful.",
+        "therapist": "Feeling weighed down can be really tough. It's great you're open to exploring these feelings here. Let’s take a closer look at what’s most important for you right now, and we can find ways to create more clarity together."
+    },
+    {
+        "round": 2,
+        "user": "i've been feeling really depressed and lethargic lately. the holidays feel like all work and no joy this year...it is hard being away from family",
+        "answer_final": "Can you explain to me more in depth what events are making you feel this way?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It’s challenging feeling disconnected from loved ones, especially during the holidays. Everything feels joyless and tiring. I just wish I could find some light amid all this heaviness.",
+        "therapist": "This disconnection during the holidays can weigh heavy. Let’s explore ways together to uncover the moments that might hold light for you, gently examining where those small pockets of joy may reside amidst current feelings."
+    },
+    {
+        "round": 3,
+        "user": "the fact that there is a pandemic and travel is restricted, normally i would spend the holidays with my family but i will be alone this year. there is still a lot of work to do but it feels like there is nothing to look forward to",
+        "answer_final": "I understand exactly how you feel since I am also unable to go fly out to see my family this Christmas.. It sounds like you are very overwhelmed with the amount of work you have and having no break, correct?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I miss the warmth of family gatherings, especially now with travel restrictions. With work piling up and no holiday visits, it feels like I'm stuck in a joyless routine.",
+        "therapist": "Missing those meaningful gatherings and feeling caught in routine sounds exhausting. What might offer even a small sense of connection or ease right now as you navigate this?"
+    },
+    {
+        "round": 4,
+        "user": "it has been such a long year, i am just ready for things to improve. it is hard not having the usual coping mechanisms of socializing with friends or going out. yes, that is part of it. the work wouldn't seem so bad if there was somethign to look forward to but every day feels the same",
+        "answer_final": "When I start to feel alone and missing my family or friends, I usually like the plan a skype or group facetime session right after I get off of work.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It's been such a long year, and not having those usual coping mechanisms makes it tough. Work would feel lighter if there was something joyful to anticipate.",
+        "therapist": "It’s understandable you’re feeling this way. Let’s think together about what could bring moments of joy or lightness, even small ones, into your daily routine to make work feel less heavy."
+    },
+    {
+        "round": 5,
+        "user": "i have tried to use zoom and facetime but video chat gives me anxiety",
+        "answer_final": "There are online resources to have some fun with friends too--many blogs suggest hosting a group game night or a shared movie night.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I’ve thought about reconnecting virtually, but even things like Zoom or FaceTime feel overwhelming and bring up anxiety for me. Maybe I need a different approach.",
+        "therapist": "Reconnecting in a way that feels safe is important. What kind of approach feels more manageable for you right now? Perhaps something smaller or less immediate could help ease the anxiety while still fostering connection."
+    },
+    {
+        "round": 6,
+        "user": "that does sound a little better. the winter makes it worse too, all the days are so dark \nand cold",
+        "answer_final": "I am sure with a bit of trial and error, hosting a movie or game night would be a breeze for you too!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think starting small could help. Even writing a letter or sending a thoughtful message feels less overwhelming. The winter definitely adds to the struggle with how cold and gloomy everything is.",
+        "therapist": "Writing a letter or sending a message feels like a compassionate step toward connection, especially in this cold, heavy season. How might creating these small moments of warmth shift the weight you’re carrying?"
+    },
+    {
+        "round": 7,
+        "user": "i wish that i could spend more time outside, over the summer and fall it helped to get more fresh air and exercise",
+        "answer_final": "Having this winter sadness, especially around holiday times, may be a sign of seasonal depression.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Writing letters could bring warmth, but I also long for time outside. Over summer and fall, fresh air and exercise gave me relief. It feels harder now in winter’s gloom.",
+        "therapist": "Winter’s gloom seems to have made outdoor relief more challenging. If we were to see this as the season clouding access to your source of energy, what possibilities might still help you reclaim some fresh air and connection with nature in a way that feels manageable?"
+    },
+    {
+        "round": 8,
+        "user": "i do usually experience depression in the winter and around the holidays. but the pandemic has made it harder to cope",
+        "answer_final": "I have had seasonal depression in the past, and going on nature hikes and bike rides has helped me a lot.. Maybe spending less time inside your home and grabbing some fresh air can relieve some of that anxiety and stress.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "The pandemic and winter definitely make it harder to manage. I usually feel more depressed around the holidays, but maybe simple ways to connect with nature could help ease that heaviness.",
+        "therapist": "Finding simple ways to connect with nature, even briefly, could offer a sense of renewal during this difficult season. What small outdoor moments might feel nurturing or comforting to explore right now?"
+    },
+    {
+        "round": 9,
+        "user": "it hasn't been too cold to go out...now that the days will start getting longer maybe there will be more time to get outside",
+        "answer_final": "Research shows that physical activity greatly reduces stress!. It sounds like going out more would be very beneficial to you!",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            },
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "It hasn’t been too cold lately, so I’ve managed short walks. With the days getting longer soon, I feel hopeful about finding more moments outside to reconnect with nature.",
+        "therapist": "Short walks and the promise of longer days seem to offer a gentle path toward renewal. What feels most meaningful about those moments of reconnection with nature for you?"
+    },
+    {
+        "round": 10,
+        "client": "Feeling the wind and hearing leaves bring calm and clarity. I remember a recent walk where, just pausing to watch birds move, my mind quieted for a moment.",
+        "therapist": "Watching nature’s rhythm brings a sense of calm, creating pockets of clarity amid the chaos. How does this problem of disconnection and gloom affect your day-to-day experiences, both indoors and in your relationships?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 11,
+        "client": "Life feels paused indoors, often weighed down by heavy thoughts. Relationships suffer as I retreat, but I miss meaningful connections and find hope in small efforts to re-engage.",
+        "therapist": "The heaviness of life indoors seems to be a barrier to those connections you value. Naming this pause might help, letting it exist outside you rather than within. When you consider re-engaging and finding hope in those small efforts, what changes in your experience do you notice?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 12,
+        "client": "I notice a slight lift in my mood when I engage—like texting an old friend or stepping out for air. It reminds me I’m capable of small, meaningful steps forward.",
+        "therapist": "That gentle lift you feel speaks to your value in meaningful connection, revealing a glimmer of what truly matters. In light of your capacity for these small steps, how might this desire shape the way you view overcoming obstacles brought by winter's gloom?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 13,
+        "client": "I think it shifts how I see winter—not as this insurmountable weight but as a season to adapt, finding warmth in small acts like calling a friend or lighting a candle.",
+        "therapist": "Embracing these small acts reveals your ability to navigate the season on your terms. The warmth you cultivate seems linked deeply to what you value. How do these small steps reflect the commitment or hope you hold for nurturing connections despite external pressures?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 14,
+        "client": "I see these acts as my promise to myself, they symbolize hope. Calling a friend after weeks of silence showed me that even small bridges can restore vital connections.",
+        "therapist": "Embracing these connections brings the promise of hope into your life. As you build these small bridges, what possibilities do you see emerging for nurturing your values of connection and warmth amid challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 15,
+        "client": "I see myself reaching out more, like arranging small gatherings or setting up calls. It's realizing I don’t have to be isolated, that warmth can thrive in shared moments despite life's storms.",
+        "therapist": "Reaching out reflects your commitment to overcoming isolation and cultivating connection. If this storm were a separate entity, how might it react to you creating these shared moments of warmth and belonging despite its presence?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "I imagine the storm might falter, surprised by my resilience. When I invite friends over, the shared laughter brings warmth to my home, softening its harsh presence.",
+        "therapist": "Warmth's ability to soften the storm reveals your resilience and commitment to fostering connection. In navigating life's challenges, shared laughter becomes a valuable ally. As you continue inviting warmth into your home, how might it transform your experience beyond just weathering the storm?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I imagine feeling grounded, like hosting a dinner with friends sharing stories. Those moments replace the storm's weight with warmth, showcasing my capacity to create joy amid challenges.",
+        "therapist": "Hosting those gatherings celebrates your deep-seated values of connection and joy. Seeing the storm as separate, how do these grounding moments with friends bolster your commitment to remaining open-hearted amid life's challenges?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Hosting those gatherings reminds me that connection is always possible, even in darkness. One dinner recently felt transformative—laughing with friends made me feel human again, not weighed down.",
+        "therapist": "Laughing with friends shows the storm hasn’t defined you—it’s a reminder of what you value most. What makes these moments of connection so vital to the person you’re striving to be, even in challenging times?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "The moments remind me I’m not alone. Once, after a hard day, friends came over unplanned, bringing laughter. It made me realize connection gives life meaning beyond struggle.",
+        "therapist": "Connection clearly holds profound meaning for you, a reminder of your hope and resilience. If this struggle were a separate force, how might it react to seeing these unplanned moments reclaiming space for joy in your life?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "The struggle might shrink back, surprised or unsure how to cling on. After a tough week, friends came over unexpectedly, and their presence felt like light pushing the dark away.",
+        "therapist": "That light your friends bring seems to reflect your value for connection and renewal. In reclaiming space from the struggle, what deeper hopes or commitments are you honoring in choosing shared moments over isolation?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "Choosing connection feels like a promise to myself—to not lose sight of life’s beauty. After isolating for weeks, hosting a game night brought laughter I hadn’t felt in ages.",
+        "therapist": "Hosting that game night seems like a powerful way you reclaimed joy and beauty in your life. As connection strengthens this promise to yourself, what possibilities do you imagine for carrying this commitment forward into new moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "I imagine finding small ways to gather with people more often, even casually—a coffee chat or walk. Those moments could ground me and remind me that life isn’t just hardship.",
+        "therapist": "Seeking these moments is a powerful step towards nurturing resilience and presence. Envision how such gatherings, grounded in shared experiences, might shape the ways you perceive and respond to life's challenges moving forward.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Envisioning these gatherings helps me see past loneliness. Recently, meeting an old friend for coffee left me feeling hopeful and more equipped to face upcoming challenges.",
+        "therapist": "Gathering with friends and feeling hope reaffirms your values of connection and resilience. As these moments ease the loneliness, how might they reflect a narrative of strength and purpose, guiding you through challenges in your personal journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Connection lets me reframe challenges as shared experiences rather than solitary battles. Last week, a spontaneous hike with friends helped me find peace in nature and renewed strength.",
+        "therapist": "Finding peace and strength through shared experiences suggests resilience in your identity, deeply connected to embracing life's challenges alongside others. How does this narrative of shared strength inform the way you envision your personal growth and commitments in the future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I'm realizing growth through shared strength could mean embracing vulnerability more and opening up about struggles. Thinking back to the hike, nature's peace soothed my mind—helped me feel truly grounded.",
+        "therapist": "Embracing vulnerability and grounding through nature reflect your commitment to shared strength. As you open up about struggles, how might this evolving narrative of connection and peace enrich your sense of identity and purpose in future moments?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "Reflecting on those peaceful moments during the hike, I've felt more equipped to open up. Sharing a recent personal hurdle with friends over coffee provided relief and hope—fuelling my sense of identity.",
+        "therapist": "Opening up seems to resonate strongly with your values of authenticity and connection. As you navigate future interactions, how might the relief and hope you've experienced further empower your sense of self and commitment to this evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Recently, I confided in my sister about work stress. Her understanding made me feel validated and less alone. These interactions remind me that shared struggles build my resilience.",
+        "therapist": "Confiding in your sister and feeling validated aligns with the value you place on connection and understanding. This shared resilience nurtures a deeper sense of identity. Consider how embracing these values further enhances your narrative of strength moving forward.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "Embracing connection strengthens my identity by fostering vulnerability. Sharing struggles with my sister helped lighten the weight of stress, revealing comfort and confidence in opening up more.",
+        "therapist": "Embracing vulnerability indeed seems to be a pivotal theme in strengthening your identity. As you grow more comfortable opening up, how might this evolving sense of resilience and support continue shaping your narrative towards peace and confidence in future challenges?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 29,
+        "client": "I think it’ll help me tackle challenges differently. For instance, recently, I faced a tense team conflict at work. Talking to my sister gave me the courage to address it calmly.",
+        "therapist": "Facing that conflict calmly reflects how connection fuels your ability to challenge stress constructively. As you continue redefining resilience through shared support, what possibilities do you see emerging for deeper self-trust and growth in similar situations?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 30,
+        "client": "I think those moments help me realize I can lean on my relationships to confront challenges. It builds trust in myself, like when I defused tension by calmly mediating that conflict.",
+        "therapist": "Confronting challenges through calm mediation highlights your growing trust in yourself and the strength rooted in your relationships. As you build this preferred narrative, how might these trusted connections guide you in shaping future moments of confidence and resolution?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "I think these connections remind me that I'm not alone, even when challenges seem overwhelming. Knowing I have a support network encourages me to approach issues thoughtfully and with confidence.",
+        "therapist": "Building confidence through thoughtful approaches and leaning on support reflects a powerful shift. As you continue to address challenges with this mindset, what new possibilities or steps do you imagine opening up in strengthening these connections and your sense of agency?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "I think being more open in my friendships could strengthen trust and provide mutual support. Recently, a friend confided in me, and offering advice felt empowering and deepened our bond.",
+        "therapist": "Becoming more open in your friendships reveals your commitment to trust and shared growth. Offering advice clearly deepens this bond and aligns with your value of mutual support. How might these interactions further shape the way you see yourself within your relationships?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I see myself as someone others can rely on, which feels reassuring. When my friend thanked me for listening recently, it made me feel valued and connected in a deeper way.",
+        "therapist": "Feeling valued and connected highlights your dedication to fostering meaningful bonds. How might this sense of being relied upon shape the way you want to engage with others in strengthening these relationships further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I think it pushes me to be more intentional, like checking in with friends when they seem distant. It reminds me how small gestures can nurture deeper connections.",
+        "therapist": "Intentional efforts to connect truly align with your commitment to nurturing trust and support. Reflecting on how these gestures define your identity, consider ways they empower your sense of being a valued presence in others’ lives.",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Recently, I visited a friend who seemed withdrawn, and they later thanked me for just being there. It reinforced how my presence alone can be supportive and meaningful.",
+        "therapist": "Your experience of being there for your friend reflects a deep commitment to connection and care. How does this recognition of your supportive presence align with the values you want to embody in your relationships moving forward?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "I think it aligns deeply with valuing authenticity and being present. When my friend needed help moving recently, showing up felt grounding, reminding me relationships thrive through actions, not just words.",
+        "therapist": "Your actions highlight the authenticity and presence that nurture your connections. How do you envision these qualities enhancing your understanding of being valued in such mutual, impactful relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "I envision these qualities enhancing my sense of value by affirming my role as a genuine supporter. During group dinners, organizing conversations makes me feel appreciated and trusted.",
+        "therapist": "Your recognition as a genuine supporter through organizing dinners affirms your identity of value and trust. Reflect on how these moments deepen the understanding of mutual impacts and the appreciation your friends have for you.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think these moments remind me how much people value my effort, like when my friend said my thoughtfulness made her feel cared for after I planned a surprise gathering.",
+        "therapist": "Your efforts in planning thoughtful gestures like the surprise gathering highlight the deep care you offer. By seeing yourself through your friend’s gratitude, how do you feel these interactions shape both your identity and the narrative of connection you share with others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "Interactions like the surprise gathering reinforce my role as a reliable friend. Hearing my friend's gratitude made me feel valued, enhancing my narrative of connection and commitment to genuine support.",
+        "therapist": "Your contributions as a reliable friend deeply shape the supportive environments your friends experience. Consider how this influence encourages their trust and the ways they view themselves as connected and appreciated. How do these dynamics continue to enrich your shared narratives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "These dynamics make me feel valued. When my friend said our friendship is comforting, I saw trust and appreciation deepen the bond. It shows support sustains lasting connections.",
+        "therapist": "Seeing your friend comforted by your presence exemplifies the positive impact you have on others, nurturing mutual trust. How does this dynamic enhance your sense of self as someone who cultivates lasting and meaningful connections through genuine support?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "[\"The comfort I provide and my friends' trust validate my purpose. Their gratitude boosts my confidence and inspires me to nurture deeper connections, enriching my self-view as compassionate.\"]",
+        "therapist": "Your contributions truly enrich the identities of those around you, fostering a sense of security and comfort. How do you perceive this influence shaping their lives and deepening your role as someone who continually brings compassion into your relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "[\"It's empowering to know I impact their lives positively. Like when I helped a friend through a tough time, seeing her regain confidence strengthened my resolve to offer compassionate support.\", 'These moments confirm that offering support contributes significantly to their sense of stability. It motivates me to be even more attentive and kind-hearted.']",
+        "therapist": "Your compassionate support has clearly played a role in strengthening others' confidence and stability. How do you imagine their renewed sense of self might continue to reflect and expand the positive influence of your care in their lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I've seen how my care helps others take risks and believe in themselves again, like when a friend rejoined a book club after we talked. It motivates me further.",
+        "therapist": "You see the impact of your care in encouraging friends to embrace challenges and rediscover passions. As you nurture deeper connections, consider how these contributions deepen your relational identity as a source of courage and encouragement in their lives.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I see how my actions inspire others to take steps they might not have considered. Helping a friend tackle their fear of public speaking recently highlighted my role in fostering courage.",
+        "therapist": "Helping your friend face such a fear reflects how deeply your courage resonates in their growth. How do you think your encouragement might now shape their view of themselves and what they’re capable of achieving?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "I think my encouragement showed them they’re more resilient than they realized. Seeing them lead a team presentation recently, confidently, made me feel genuinely proud of their growth.",
+        "therapist": "Your pride in their growth reflects how meaningful your support has been in shaping their confidence. How might witnessing their resilience inspire new ways for you to embrace your own strengths and connections?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "I think witnessing their courage reminds me that I can face my own challenges too. Like when I applied for a leadership role recently—I felt nervous but hopeful.",
+        "therapist": "Recognizing your influence on others seems to mirror the strengths you’re beginning to embrace in yourself. As you move forward, how do you imagine embodying that same courage in this leadership role you’ve pursued?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "I imagine embodying courage by leading with empathy and authenticity. During the interview, I shared my struggles openly, hoping to show vulnerability can coexist with strength.",
+        "therapist": "Sharing your struggles so openly likely inspired others to see strength in vulnerability. How do you think those who witnessed this courage might now carry forward the values of empathy and authenticity in their own lives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I've seen friends open up more in meetings, sharing personal stories, and fostering deeper connections. It reassures me that vulnerability leads to genuine bonds and mutual understanding.",
+        "therapist": "Exploring how your vulnerability fosters genuine bonds reaffirms your impact on creating deeper connections. How might you continue strengthening these relationships by inviting others to share their stories, allowing mutual growth and understanding?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "I think continuing to lead by example could help. Recently, I shared my experience with burnout during a discussion, and it encouraged others to open up about their challenges too.",
+        "therapist": "Sharing your experience of burnout created a safe space for others, demonstrating the power of leading by example. How might seeing yourself through their eyes, as someone fostering openness and understanding, deepen your sense of contribution and identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 50,
+        "client": "Seeing myself that way makes me feel like I’m making a difference, like my struggles aren’t wasted. It’s empowering, but also scary to hold that kind of responsibility.",
+        "therapist": "The sense of making a difference reflects both your courage and your capacity to inspire. As you navigate the empowering and daunting aspects of this responsibility, consider how your significant others view this growth. Their insights might affirm the impactful path you're forging.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    }
+]

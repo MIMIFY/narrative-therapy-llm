@@ -1,0 +1,491 @@
+[
+    {
+        "round": 1,
+        "user": "Hello. Are you there?",
+        "answer_final": "goodness  i am so sorry! my browser did not make a noise.. how are you doing? sorry i kept you waiting!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            },
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi, I'm feeling quite overwhelmed today and could use some guidance. Are you available to talk about it?",
+        "therapist": "I'm here for you, and you're not alone. Let's explore what feels most pressing right now together, and I'll support you in finding ways through this. How can I best be of help at this moment?"
+    },
+    {
+        "round": 2,
+        "user": "That is okay! I'm glad you're here",
+        "answer_final": "Awww, thanks. How are things going in your world today?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Thank you, I'm relieved to have your support. It's been a tough day with work stress and family worries weighing heavily on me. Where should we begin?",
+        "therapist": "I appreciate you sharing this with me. It's understandable that you'd feel overwhelmed. Your feelings are valid, and I'm here to listen. Let's explore which aspect feels most pressing for you today—work stress or family worries?"
+    },
+    {
+        "round": 3,
+        "user": "I'm doing alright I suppose, just trying to do a few mturk tasks to feel like I'm accomplishing something. Waiting to hear back from unemployment and not hearing back from any job applications makes it hard to ever really relax",
+        "answer_final": "Ah, i hear you. The lack of response makes it really easy for me to make up stories in my head and fear the worst.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your understanding. Right now, it's definitely the work stress. I've been doing some mturk tasks just to feel productive, but it's hard not hearing back from applications or unemployment.",
+        "therapist": "Your determination is commendable. The waiting period can be draining, yet every task you engage in adds value. Let's explore how you find strength during challenging times, and together we can discover steps towards easing the stress you're experiencing."
+    },
+    {
+        "round": 4,
+        "user": "I've never done any computer based jobs before, I did live audio and carpentry before this, so I just feel like I don't qualify for anything, but I'm immune compromised so until this is over i don't know what other work I can safely do besides for something from my computer..... I just feel so terribly stuck",
+        "answer_final": "I'm sorry. I know the feeling of not knowing where I fit in. Its a whole world shift, too.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Reflection of feelings"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I appreciate your words. I've never done computer-based work; it's daunting and makes me feel like I don't qualify for anything. I miss live audio and carpentry, but my immune system limits my options right now. Feeling stuck is hard.",
+        "therapist": "Your feelings of being stuck are understandable, especially when facing new challenges. You're resilient, adapting to the circumstances, and finding ways forward. What elements of live audio and carpentry can we weave into your present context to nurture that connection?"
+    },
+    {
+        "round": 5,
+        "user": "I haven't received any financial assistance from the government yet, I've been living off of loans from friends and what little of my art I've been able to sell. It's stressful. I just want my life back.. I felt like I was on a really good career path at the first of the year, and now I just don't even know what o do",
+        "answer_final": "That scattered feeling....trying to put the pieces back together....I've walked the same road this year. Would you be willing to mourn for what you had before? To let it go?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm trying to bring those skills into my life through small projects, like building a small set in the corner of my room or recording bits of music for fun. The lack of financial support makes it hard to fully engage, and borrowing money from friends is becoming stressful. I feel like I’ve lost my career momentum this year and it's disheartening.",
+        "therapist": "Your resourcefulness in adapting your skills is commendable. Embracing these small projects can help nurture your passion even amidst financial stress. How might we expand on these efforts to rekindle that momentum you're missing?"
+    },
+    {
+        "round": 6,
+        "user": "I don't want to. If there is a vaccine in the first quarter of 2021 then the company I worked for before this will be able to go back to business, and I've been assured my old job back.. I'm just in limbo right now, figuring out how to survive until then and keep from going crazy",
+        "answer_final": "you have determination! There is fire within! Tell me, what brings you joy?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I've been thinking about if a vaccine comes soon, I might return to my previous job. It feels like I'm in limbo, balancing survival and trying to maintain my sanity until then.",
+        "therapist": "Navigating this waiting period is understandably challenging, especially when longing to return to work. You're displaying resilience by focusing on your survival and sanity. How might we further support your well-being during this time of uncertainty?"
+    },
+    {
+        "round": 7,
+        "user": "Music (that's why I was in the music industry before this haha) and art. I paint and do woodburning. I also love my cats, they spark a lot of joy.. Thank you for chatting with me, and helping me earn the maximum bonus for this task! I hope you have a wonderful rest of your day! Good luck in your own endeavors.",
+        "answer_final": "but of course! it was a pleasure to connect. keep chasing joy daily!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Art, music, and my cats bring me immense joy and balance. I used to be in the music industry and love painting and woodburning. Thank you for chatting with me; your support is genuinely helpful.",
+        "therapist": "You seem to find deep joy in the arts, music, and your pets. They're vital sources of balance for you. How might you further embrace these passions to sustain your well-being while navigating uncertainties?"
+    },
+    {
+        "round": 8,
+        "user": "oh, I think you need a couple more inputs on your end to finish",
+        "answer_final": "oh good, well i got inputs to put!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I might create a detailed project plan or start an online community for sharing art. This could bolster my sense of connection and bring new joy into my routine.",
+        "therapist": "Your idea of a project plan or online art community sounds like a meaningful way to stay connected and find joy. It's inspiring how you're weaving creativity into your routine. What elements of these plans excite you the most about this endeavor?"
+    },
+    {
+        "round": 9,
+        "user": "Perhaps you could tell me what brings you joy?",
+        "answer_final": "YES! for one, this mturk task is AMAZING  to me. Connection has been a huge boon for me this year. I thrive on helping others realize their strengths.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm excited about the idea of connecting with others who share my passion. It could bring inspiration and new ideas while allowing me to share my joy in art and music.",
+        "therapist": "Connecting with fellow creatives can truly enrich your experience and foster new ideas. It's wonderful that you're finding ways to share your joy in art and music. What possibilities does this sense of inspiration open up for you?"
+    },
+    {
+        "round": 10,
+        "user": "I'm glad you're enjoying it, I like this task too.",
+        "answer_final": "between that and creation, i love to express myself. art, mov\nement, building something.....its all just me expressing myself, getting my head into the world",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Self-disclosure"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I think it opens up the possibility of building real connections and finding new ways to collaborate creatively. It’s exciting to think how shared inspiration can fuel personal growth.",
+        "therapist": "Your excitement about building real connections and collaborating creatively is wonderful. By embracing shared inspiration, you're setting a path for enriching your personal growth. What possibilities do you envision as you explore these connections further?"
+    },
+    {
+        "round": 11,
+        "user": "That is beautiful! Keep it up!",
+        "answer_final": "whenever i can :)",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I envision engaging in collaborative art projects or even virtual music sessions. It feels beautiful to think about sharing creativity and finding mutual inspiration through these connections.",
+        "therapist": "Sharing creativity and mutual inspiration with others indeed holds a beauty that can nurture your journey. As you embark on these collaborative endeavors, how do you feel about the potential for deeper connection and growth?"
+    },
+    {
+        "round": 12,
+        "client": "Exploring deeper connections and growth feels liberating. Meeting other artists, like during a virtual gallery tour, inspired new perspectives on my projects. It makes the journey fulfilling.",
+        "therapist": "Growth and connection seem to be central in your journey, yet fulfilling experiences like the gallery tour highlight their importance. As you explore these paths, what role do you think the challenge of self-doubt or hesitation might play in shaping your engagement with others creatively?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition"
+    },
+    {
+        "round": 13,
+        "client": "Self-doubt sometimes makes me question my ideas before sharing them, fearing they might not be good enough. However, remembering positive feedback from past collaborations helps ease those hesitations.",
+        "therapist": "Self-doubt seems to act as a barrier, yet it’s significant that positive feedback helps soften its influence. How has self-doubt shaped the way you approach sharing your creativity in different areas of life, like your relationships or collaborative projects?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 14,
+        "client": "Self-doubt often makes me hesitate, especially in relationships. I tend to hold back my creative ideas, fearing criticism. However, recalling past encouragements slowly builds my confidence.",
+        "therapist": "Self-doubt appears to hold a significant presence, impacting your relationships and creative expression. Yet it’s reassuring that past encouragement helps counterbalance this influence. In what ways might externalizing self-doubt lead to freeing your ideas and fostering more authentic connections?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 15,
+        "client": "['Externalizing self-doubt might allow me to see it more objectively, reducing its grip. One time, sharing my song draft online revealed unexpected support, shifting my perspective positively.']",
+        "therapist": "Embracing that shift in perspective and the support you've experienced reveals your courage in sharing creativity. Separating self-doubt from who you are aligns with your hopes for authenticity and connection. How does nurturing this more objective view of self-doubt align with your aspirations for collaboration?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 16,
+        "client": "Separating self-doubt enables me to feel more liberated when collaborating, focusing on what’s valuable instead of my fears. I remember brainstorming with fellow artists which inspired unanticipated innovations.",
+        "therapist": "Separating self-doubt aligns with your values of creativity and connection, allowing collaboration to thrive. Seeing those unanticipated innovations emerge is powerful—what personal hopes or commitments drive you to nurture that sense of liberation further?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I hope to stay open-minded and embrace feedback, even when it's tough. Sharing my sketches with a mentor once brought constructive criticism that challenged me, yet also deeply motivated growth.",
+        "therapist": "Recognizing growth through challenging feedback aligns deeply with your commitment to open-mindedness and progress. Externalizing self-doubt creates a space for embracing valuable input without overshadowing your creative journey. How might cultivating this perspective shape the way you engage with future projects?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "Engaging with projects in a mindset of growth rather than fear motivates me to try new techniques. At one exhibit, the feedback encouraged exploration, transforming my artistic approach significantly.",
+        "therapist": "Engaging with growth-centered projects demonstrates your courage and resilience in externalizing self-doubt. It appears you value innovation and exploration deeply, grounding your creative journey. How might continuing this mindset contribute to the personal goals you've set for future artistic endeavors?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I envision using this mindset to explore mixed media art, an area I'm eager to dive into. Encouragement from a recent workshop pushed me toward experimenting fearlessly with textures and layers.",
+        "therapist": "Exploring mixed media art offers such a vibrant path for expressing creativity and aligning with your values. It’s inspiring how encouragement fuels your fearless experimentation. This direction celebrates your commitment to growth, inviting diverse techniques. How do you see these explorations contributing to your artistic identity?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "Diving into mixed media excites me because it lets me redefine my style, blending textures evokes emotion deeply. I fondly remember creating a piece with vibrant layers reflecting joy.",
+        "therapist": "Redefining your style through mixed media speaks to your deep value of emotional expression and connection. Joy surfaces as a meaningful theme for you—how might continuing to externalize self-doubt further amplify this creative freedom?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I can see externalizing self-doubt allowing me to be more daring and spontaneous, particularly in the piece where I merged earthy tones and bold patterns—it felt raw yet invigorating.",
+        "therapist": "Taking that daring, spontaneous step clearly brought a sense of vitality to your process. How does this raw energy influence the way you envision continuing to challenge self-doubt in future pieces?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "This raw energy pushes me to embrace unpredictability in my art. I recall blending bright abstract strokes with calming blues, defying doubt by trusting instinctive impulses.",
+        "therapist": "Embracing unpredictability brings such a vibrant connection to your internal values, anchoring your commitment to artistic instinct. Trusting these impulses seems aligned with your preferred identity of courageous expression. What personal insights does this integration bring to light about your evolving self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "Lately, integrating unpredictability has highlighted a newfound resilience. At times, when blending contrasting elements, I feel an adrenaline rush—the thrill of unknown outcomes enriches my process.",
+        "therapist": "The excitement in embracing the unknown seems to mirror your emerging resilience. This vitality signifies a significant shift in how you perceive challenges and express yourself. What new opportunities might this daring approach open up for you in expressing your evolving identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "I think this daring approach could lead me to collaborations with other artists, fostering a creative synergy. I felt alive envisioning my work showcased in diverse cultural spaces.",
+        "therapist": "Collaborating with other artists can amplify your creative resilience, expanding the synergy within your artistic expression. This thriving connection opens doors to diverse cultural spaces—what next steps will support these exciting opportunities?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "I'm considering attending art workshops to connect with diverse creatives, share ideas, and collaborate on projects. I imagine these experiences deepening my perspective and enriching my process.",
+        "therapist": "Collaborating through art workshops could unfold enriching connections and insights, enhancing your creative synergy. This path can align with your preferred story of resilience and boldness—how do you envision these workshops nurturing the exploration of new landscapes within your evolving narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 26,
+        "client": "I envision art workshops as a catalyst for fresh perspectives. Meeting diverse artists might spark new inspirations and challenge my creative boundaries, enhancing both my skills and self-understanding.",
+        "therapist": "Attending workshops seems to align with your commitment to growth and discovery, reinforcing this creative identity you value. What personal qualities do you think will emerge or strengthen as you challenge these boundaries and collaborate with others?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 27,
+        "client": "Collaborating could deepen my adaptability and openness. I recently felt invigorated during an impromptu mural project with a new artist, realizing that shared creativity boosts my confidence.",
+        "therapist": "Your invigorating experience on the mural project highlights a significant alignment with your values of adaptability and openness. This shared creativity enhancing confidence seems pivotal in reshaping your narrative. What ongoing intentions do you see developing as these qualities become more prominent?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 28,
+        "client": "I aim to embrace spontaneity more, allowing projects to evolve naturally. Recently, trusting my instincts while creating brought unexpected joy and growth, deepening my understanding of resilience.",
+        "therapist": "Resilience shines through in your trust and spontaneity, enhancing your creative journey. This evolving understanding seems to affirm who you are becoming. How might nurturing these instincts further enrich your preferred identity and strengthen this commitment?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Trusting my instincts during a solo exhibit prep, I chose unexpected themes that felt risky. Yet, the audience's positive response affirmed my creative courage and validated my authenticity.",
+        "therapist": "Experiencing validation from your audience highlights your creative courage, deepening the authentic story you’re shaping. As you embrace spontaneity and explore unconventional paths, what other possibilities can unfold in pursuing this authentic self?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 30,
+        "client": "I'm open to exploring interactive installations next, blending my visual work with digital elements. Recently, I felt energized imagining how technology can deepen audience engagement and broaden my narrative.",
+        "therapist": "Exploring interactive installations combines your talents and forward-thinking, amplifying engagement. As you expand your narrative through technology, the possibilities for authentic expression seem boundless. What initial steps are you excited to take in actualizing this vision?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Exploring software tools for interactive elements excites me. Recently, I tested a new app and visualizing possibilities felt like unlocking creativity; it’s thrilling to push my narrative boundaries.",
+        "therapist": "Your excitement with new software feels like it's unlocking creative potential, showing you're open to new ways of expression. Integrating technology could lead to exciting projects and redefine your narrative. What aspects of this process are you most eager to develop further?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Exploring more immersive storytelling tools excites me. The thought of creating spaces where viewers experience rather than simply observe—like virtual reality—ignites my passion and creativity.",
+        "therapist": "Embracing virtual reality as a storytelling medium seems to expand your narrative's immersive potential, enriching both your creativity and audience engagement. This evolution in your work invites a new dimension to explore. What exciting possibilities do you see in crafting these interactive experiences?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "I imagine creating a virtual gallery where viewers can interact with art pieces, learning their stories directly. It feels inspiring to think about enhancing connection through this technology.",
+        "therapist": "Imagining a virtual gallery captures your values of creativity and connection beautifully. It reflects a commitment to interactive, meaningful engagement. As you embrace this vision, how does it resonate with your evolving identity as an artist committed to innovative storytelling?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 34,
+        "client": "My evolving identity feels more aligned with innovation and narrative depth. Recently, while conceptualizing digital art, the potential for audience connection through storytelling felt electrifying, reaffirming my purpose.",
+        "therapist": "Your commitment to innovation and storytelling shows how deeply you value meaningful connections. This electrifying alignment with your purpose feels like a profound affirmation of who you're becoming. How does this identity inspire the choices you're envisioning for future creative projects?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "It motivates me to prioritize storytelling in virtual spaces. Imagining viewers actively participating in art narratives excites me, as it bridges my creativity with interactive experiences.",
+        "therapist": "Your dedication to creating interactive art narratives truly embodies your innovative spirit. This vision seems to strongly resonate with your values, inviting viewers into a shared space of creativity. How does this deeper commitment align with your long-term goals and artistic identity?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "My long-term goals focus on enhancing audience engagement and innovating storytelling methods. I aim to host virtual exhibitions where my work can stimulate dialogue and reflection, creating deeper emotional connections.",
+        "therapist": "Hosting virtual exhibitions seems to blend your passion and goals, strengthening connections. Reflecting on how significant influences have shaped your journey, who do you feel has played a pivotal role in cultivating this drive for deeper audience interaction and creative expression?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My college art professor had a huge impact. Her encouragement to challenge traditional storytelling methods inspired me to explore digital mediums, profoundly shaping my current approach.",
+        "therapist": "Your professor's belief in your potential and encouragement to explore digital mediums seems to have deeply affirmed your innovative spirit. Recognizing her view of you as capable and creative, how does that shape how you see yourself now in your artistic journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "Her trust makes me view myself as a boundary-pusher. That confidence led to creating a virtual piece last year, engaging audiences beyond my expectations, which reinforced my self-belief.",
+        "therapist": "Your experience of seeing yourself as a boundary-pusher highlights how you empower not just yourself, but others who engage with your art. This sense of agency seems vital in shaping and sharing narratives that impact lives. What emotions arise as you think about this contribution to others?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "I've felt pride and fulfillment realizing my art opens dialogue for viewers, leading them to reflection. An exhibition where attendees shared personal stories highlighted this emotional connection.",
+        "therapist": "Your art facilitating dialogue and reflection showcases the powerful connections you're cultivating. This influence in others' stories echoes your professor's encouragement, highlighting a cycle of inspiration. How might this ability to foster emotional connections shape both their stories and your evolving identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 40,
+        "client": "Engaging deeply with my art and hearing personal stories reminds me that storytelling is reciprocal. I feel inspired to explore even more daring narratives that invite collaborative creation.",
+        "therapist": "Engaging in these reciprocal narratives fosters mutual transformation. Your contribution, through daring collaboration, reinforces others’ stories and your evolving identity. How might embracing more of these collaborations enrich your relational identity and deepen connections with your audience?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Feeling drawn to embrace collaborations, I realize these shared projects amplify collective voices. A recent exhibition sparked enriching dialogues, strengthening the relational identity and broadening my emotional canvas.",
+        "therapist": "Embracing collaborations and fostering shared projects truly enhances the collective experience, deepening your connection to others. As you see the impact of your art in amplifying voices, what future possibilities excite you in contributing to others' narratives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "I'm excited to host workshops, where we blend art and storytelling. Creating spaces for expression can unearth unseen voices, sparking growth. Recently collaborating on a mural project felt transformative.",
+        "therapist": "Hosting workshops and collaborative mural projects reflect a deep connection to others, enhancing the power of shared voices. Your impact fosters mutual growth, building relational identities together. How might you continue embracing this transformative role in shaping collective stories?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I'm eager to create inclusive platforms for sharing. Recently, an interactive art installation invited community stories; witnessing raw vulnerability was powerful, deepening my appreciation for authentic connections and narratives.",
+        "therapist": "Sharing inclusive platforms affirms the power of mutual storytelling. Your art not only fosters vulnerability but also nurtures connection and growth for others. This process transforms identities, including yours. How does seeing your impact on others influence your vision for future narratives?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "Seeing my impact inspires a deeper commitment to amplify diverse voices. Planning an installation around untold migration stories, I aim to blend personal memories and collective history into powerful narratives.",
+        "therapist": "Your commitment to amplifying diverse voices and your planned installation underscores the meaningful connections you’ve created. Reflecting on these contributions, how have the stories of others enriched your understanding of interconnected identities?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Listening to migration stories made me realize how interconnected our paths are. Their resilience touched me deeply, and sharing these narratives feels like bridging gaps in human understanding.",
+        "therapist": "Sharing migration stories not only bridges understanding but enhances your appreciation for resilience. Your contribution provides others with a voice, affirming their journeys. As you embrace these narratives, consider how this process has enriched both your identity and the identities of those you engage with.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Reflecting on these stories, I realize how they broaden my empathy and understanding. Witnessing their journeys shifts my perspective, motivating me to be more proactive in supporting shared storytelling initiatives.",
+        "therapist": "Witnessing these stories and their impact on you reveals the mutual transformation in shared narratives. As your empathy deepens, how might those who share their journeys with you have been shaped by your open presence and dedication to understanding?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 47,
+        "client": "[\"Engaging deeply with others' journeys, I sense they feel validated and heard, finding strength in shared moments.\", \"One person shared their renewed hope after our conversations. It's fulfilling to witness these bonds forming.\"]",
+        "therapist": "Recognizing how your engagement influences others highlights the profound role you play in their stories. These connections validate both their experiences and your transformative contribution. What do you imagine is different for those you've engaged with, as they carry forward this sense of validation and renewed hope?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "I imagine their sense of validation leads to greater confidence in sharing, and renewed hope fosters stronger ties with others. Recently, someone expressed feeling more connected with their cultural roots.",
+        "therapist": "Your role in fostering connection and helping others reconnect with their cultural roots is truly impactful. As you reflect on these mutual influences, how has witnessing this renewed sense of belonging shaped your own understanding of connection and identity?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 49,
+        "client": "Seeing others reclaim their cultural roots reminds me of my own disconnection. It’s bittersweet—I feel inspired by their journeys yet wonder if I’ve neglected my own heritage.",
+        "therapist": "Realizing this disconnection offers a valuable moment to explore your heritage's role in your story. Consider how those who valued your journey might see your cultural identity, inspiring both their connection to you and how they perceive your growth.",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 50,
+        "client": "I remember attending cultural festivals as a child, but I rarely explored their significance. Seeing others reconnect reminds me to engage more with these traditions and revisit memories tied to my heritage.",
+        "therapist": "Engaging with these traditions could bring clarity and depth to your story. Who in your past, perhaps a relative or mentor, might have helped shape the meaning of these festivals for you, even indirectly?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    }
+]

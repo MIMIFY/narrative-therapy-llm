@@ -1,0 +1,510 @@
+[
+    {
+        "round": 1,
+        "user": "Hi!. Hello, are you there?",
+        "answer_final": "Hello how are you",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hi! I'm here and ready to talk. Feeling a bit overwhelmed lately, would love to explore what's been bothering me.",
+        "therapist": "Let's explore those feelings of being overwhelmed together. Your willingness to share is a great step. How might your personal story shape what you're experiencing right now?"
+    },
+    {
+        "round": 2,
+        "user": "I'm doing okay. How are you?",
+        "answer_final": "Great how is everything going for you",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm eager to dive into it. I think my current overwhelm might be linked to juggling work stress and personal issues. It's challenging managing everything without feeling drained.",
+        "therapist": "Balancing work stress and personal issues can feel exhausting. It shows strength that you're noticing this connection. What would it mean to you if we began shaping a story where overwhelm is less dominant in your daily life?"
+    },
+    {
+        "round": 3,
+        "user": "Not fantastic. I'm struggling in my job and I feel isolated every day.",
+        "answer_final": "Why do you feel isolated?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Feeling stuck and overwhelmed at work impacts me greatly; I often feel isolated too. Shaping a more positive narrative sounds uplifting—maybe uncovering connections between the job strain and my sense of isolation could help?",
+        "therapist": "Recognizing the ties between job strain and isolation is insightful. Together, we can explore these connections further to transform how they impact your narrative. What might emerge from viewing this story through a lens of understanding and empowerment?"
+    },
+    {
+        "round": 4,
+        "user": "Because even though I work in a large school, I feel like if there are any issues in my classroom with students, no one will help me out.",
+        "answer_final": "I completely  understand. I don't worked at a school and the teachers did not receive much support. Is that what is making you stuggle at work?",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Restatement or Paraphrasing"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I'm eager to explore this further. In a large school, it's daunting to manage classroom issues alone; it amplifies my isolation and stress. Finding understanding in these connections could empower me greatly.",
+        "therapist": "Exploring your experiences within the school environment is important, and I admire your openness. Let’s work to transform these feelings of isolation and stress into an empowering narrative where support can become part of your journey. What would empowerment look like in this context for you?"
+    },
+    {
+        "round": 5,
+        "user": "I don't understand your question.",
+        "answer_final": "Is it the lack of support at the school that is causing you to struggle?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "2"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Empowerment would mean having resources to manage my classroom challenges and feeling connected with colleagues who understand my stress, reducing that sense of being isolated.",
+        "therapist": "Empowerment can indeed bring profound change. Let's name the stress and isolation as separate challenges. This creates space to tackle them and open pathways for building connections with colleagues. How might these resources alter your experience in the classroom?"
+    },
+    {
+        "round": 6,
+        "user": "Yes. That's what I said.",
+        "answer_final": "Sorry I asked about the isolation and you mentioned the reason was the work. So im just trying to confirm your lack of support at school is the reason for your struggle. Does the feeling of isolation stem from that?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Question"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "By having targeted support for stress and ways to connect with my peers, I'd feel more equipped to handle classroom challenges. This change might boost both my confidence and motivation.",
+        "therapist": "Reflecting on the potential boost in confidence and motivation, how do you envision these changes influencing your teaching experience? Naming stress and isolation as outside challenges may help reclaim control, fostering a supportive environment where your needs are met."
+    },
+    {
+        "round": 7,
+        "user": "Yes. I am feeling isolated because management at my work is not supporting me.",
+        "answer_final": "Understandable.Do they have any kind of help groups at your school?",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {
+                "feedback": "1"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Reflecting on gaining more confidence and motivation, I believe they could transform my classroom management style. The isolation seems tied to a lack of support from management. If their support improved, it would likely make me feel more connected and reduce the feeling of handling everything alone.",
+        "therapist": "Your insights show a clear connection between the challenges you face and the need for support. Strengthening connections with colleagues can foster a supportive environment that might transform your experience. How might improved management support influence your sense of community?"
+    },
+    {
+        "round": 8,
+        "user": "Not really. They try to say that we should all make sure we are looking after our mental health, but they do nothing that would actually help us or give us a way to do it.",
+        "answer_final": "Is there something you have in mind that might help your situation and theyre not listening?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Information"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I often feel disheartened because management talks about mental health but doesn't offer practical support or resources. If they engaged more meaningfully, I think I'd feel less isolated.",
+        "therapist": "Understanding how external stress impacts your well-being helps us view it separately from you. We can explore steps to advocate for meaningful support from management and peers, potentially easing isolation. How might identifying these pathways influence your teaching experience?"
+    },
+    {
+        "round": 9,
+        "user": "If a student is not focusing and causing disruption in a classroom, then I think they should definitely do something to help manage the beahviour of the student. Yes.",
+        "answer_final": "Agreed with 20 some students after repeatedly trying with a student you cannot keep stopping the lecture to discipline. Of course there should be some help in place.",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "3"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Identifying pathways might help prioritize those students who struggle to focus, possibly leading management to address the behavior issue more effectively and supportively. Feeling less isolated could also enhance my ability to manage classroom challenges.",
+        "therapist": "Your reflections reveal a desire for change, focusing on improving support from management and prioritizing student needs. As these pathways open, how might this shape the sense of community in your teaching environment and ease classroom challenges?"
+    },
+    {
+        "round": 10,
+        "user": "Okay. Do you have any support or advice?",
+        "answer_final": "Ive seen this first hand and teachers really have their hands full. I know most parents are busy, but have you tried to connect with the parents maybe they can step in and talk to their children.",
+        "stage": "Trust Building",
+        "reflection_level": "Problem Event Exploration",
+        "user_annotations": [
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That's a great question. I often find myself struggling with how to encourage community support and collaboration effectively. Do you have any advice on fostering this change?",
+        "therapist": "Community building often begins with small, meaningful actions. Sharing your vision with peers can spark collaboration and support. Consider what values you wish to foster in this community. How might small steps today create a ripple effect in connecting with your colleagues?"
+    },
+    {
+        "round": 11,
+        "user": "That's good advice and I have, but the parents are part of the problem. They care less than their own child.",
+        "answer_final": "There are also several community groups with different kids of occupations. Ive seen multiple ones for teachers helping each other by sharing their own methods. That might help with some ideas.",
+        "stage": "Problem Externalization",
+        "reflection_level": "Negotiation of Experience-Near Problem Definition",
+        "user_annotations": [
+            {
+                "feedback": "4"
+            }
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Providing Suggestions"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "That's a great point. I've tried involving parents more, but it's challenging when some seem detached from their child's needs. Maybe focusing on small actions within my classroom first could help create change.",
+        "therapist": "Small classroom actions can be powerful catalysts for change. Emphasizing support within your immediate environment might create a nurturing ripple effect. As you envision these steps, what strengths can you draw upon to foster a more connected and collaborative atmosphere?"
+    },
+    {
+        "round": 12,
+        "user": "That's also a nice idea. Thank you.. Okay, thank you for your help today. Hace a nice day. Bye!",
+        "answer_final": "No problem. I hope you find some better ideas. You are not alone and remember you have one of the hardest jobs out there!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {},
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Affirmation and Reassurance"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "I like the idea of starting small. Maybe I can use my strengths in communication to encourage more openness among students, creating a sense of community here first. Thanks for your support today; it's been really helpful. Have a nice day!",
+        "therapist": "Your plan to use your communication strengths to foster openness among students shows insight and initiative. By starting small, you empower change at a manageable pace. How does this approach inspire your next steps in building community?"
+    },
+    {
+        "round": 13,
+        "user": "Thank you. That helps to hear someone else say that.. Have a good day. Bye.",
+        "answer_final": "Same to you!",
+        "stage": "Trust Building",
+        "reflection_level": "Empathic Support and Comfort",
+        "user_annotations": [
+            {
+                "feedback": "5"
+            },
+            {}
+        ],
+        "supporter_annotations": [
+            {
+                "strategy": "Others"
+            }
+        ],
+        "user_cooperation": "cooperative",
+        "client": "Hearing your support really validates my approach and encourages me. I'm inspired to foster more student interaction by incorporating group activities. Thank you for guiding this process today.",
+        "therapist": "Your willingness to use your strengths is truly inspiring. These group activities may bring new energy and unity to your classroom. What might be the first step in launching this initiative to cultivate connection among students?"
+    },
+    {
+        "round": 14,
+        "client": "The first step might be introducing 'circle time' where students share their thoughts on topics. I've seen how honest conversations can open hearts and foster empathy.",
+        "therapist": "Honest conversations like those in circle time seem to be a wonderful way to diminish isolation and enhance empathy. How might this supportive approach influence your interactions with parents and contribute to addressing their detachment?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Mapping of the Problem's Effect"
+    },
+    {
+        "round": 15,
+        "client": "I've noticed how kids mirror behaviors at home; maybe a similar approach with open discussions could help bridge gaps. I feel hopeful yet aware of challenges in achieving parent engagement.",
+        "therapist": "Recognizing how behavior mirrors between home and school can be quite empowering. Engaging parents through open discussions might alleviate detachment and create stronger ties. How do you envision these discussions could help parents evaluate their influence on their children's community spirit?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Evaluation of the Problem's Effects"
+    },
+    {
+        "round": 16,
+        "client": "I imagine starting by sharing students' positive classroom moments during discussions with parents. It could highlight the impact of their support and inspire them to nurture these traits at home.",
+        "therapist": "Sharing positive classroom moments shines a light on supportive connections and mutual growth. Such reflections can enhance parents' understanding of their vital role. What values do you hope these discussions will highlight for both parents and children in this communal journey?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 17,
+        "client": "I hope to highlight empathy, respect, and open-mindedness. Recently, when a student shared a story, their vulnerability inspired compassion in others, reinforcing our classroom's supportive atmosphere.",
+        "therapist": "You’re cultivating a powerful environment where vulnerability leads to empathy and respect. By externalizing issues like detachment, we see its impact and value this nurturing classroom. How might fostering these values at home further reinforce community growth?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 18,
+        "client": "I think fostering empathy and respect at home encourages a cycle of kindness. When parents model these behaviors, children mirror them, enhancing classroom interaction and enriching community ties.",
+        "therapist": "Recognizing the power of empathy and respect within families indeed forms a cycle of kindness, impacting school and community positively. How do these values shape your own commitment to nurturing a supportive environment that strengthens this cycle for everyone involved?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 19,
+        "client": "I’m committed because I see how transformative these values are. Like when Anna helped James with a project—everyone felt a boost in spirit, including me. It strengthens connections.",
+        "therapist": "Transformative acts, like Anna helping James, illuminate how deeply these values resonate. This commitment to fostering connection justifies your dedication. How might reinforcing such supportive behaviors elevate the shared experience for everyone involved?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 20,
+        "client": "I think reinforcing supportive behaviors can build a community where everyone feels valued. Like when students express gratitude after receiving help, it creates a ripple of positive reinforcement.",
+        "therapist": "Recognizing the ripple effect of gratitude in your community emphasizes its significance to you. By externalizing these supportive behaviors, how might you use them to guide everyone towards shared values and growth in such environments?",
+        "stage": "Problem Externalization",
+        "reflection_level": "Justification of Evaluations"
+    },
+    {
+        "round": 21,
+        "client": "I use classroom discussions to highlight acts of kindness, making it visible. Once, Sarah praised a classmate's presentation. Everyone felt uplifted and motivated to emulate her encouragement.",
+        "therapist": "By celebrating acts of kindness like Sarah's, you're cultivating an environment where these moments become the new narrative. How does this shift in focus to positive reinforcement transform your perspective on fostering growth and connectivity in the classroom?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 22,
+        "client": "Focusing on positive reinforcement has transformed my perspective significantly. I notice more subtle kindnesses now, like offering a kind word to someone anxious before a presentation. It's invigorating.",
+        "therapist": "Noticing those subtle kindnesses aligns with your commitment to fostering a positive environment. These actions contribute to a narrative of compassion and encouragement that reflects who you strive to be. How do these small acts relate to the values you hold most dear?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 23,
+        "client": "These small acts align with my core values of empathy and kindness. Witnessing someone reassure a nervous peer reminded me of my own school days when a friend's support meant the world.",
+        "therapist": "Appreciating the value of empathy and kindness reflects who you strive to be. Such moments connect deeply to your past, reinforcing your identity as supportive and compassionate. How does nurturing these values shape your actions in fostering a positive atmosphere now?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 24,
+        "client": "Nurturing empathy drives me to actively create an inclusive environment, celebrating every win—no matter how small. Recently, organizing peer recognition weeks fostered warmth and boosted morale.",
+        "therapist": "Your efforts in organizing peer recognition weeks truly reflect the inclusive and supportive environment you value. By creating spaces that celebrate even small achievements, you're crafting a narrative of positivity and connection. How do these actions enhance your understanding of building community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 25,
+        "client": "These actions deepen my understanding of community as collective growth. Seeing shy students open up or those often overlooked feel seen is incredibly rewarding, and boosts everyone's confidence.",
+        "therapist": "You’re truly cultivating an empowering atmosphere. By recognizing and valuing each student's progress, how do these experiences influence your vision of your role within this community, and how might they contribute to shaping the community's future narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 26,
+        "client": "As I foster a supportive community, I envision my role as nurturing confidence. Watching hesitant students blossom and grow fills me with hope, driving the future narrative toward inclusivity and mutual growth.",
+        "therapist": "Nurturing confidence in your students beautifully aligns with your vision for inclusivity and growth. This journey towards empowerment reflects your dedication to creating meaningful changes. How might you further expand these supportive actions to sustain this transformative community narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 27,
+        "client": "It's crucial for me to find innovative ways to highlight achievements, even small ones. A recent event where students showcased their creative projects and shared their stories fueled an inspiring narrative. Witnessing mutual encouragement lit a spark in me; there's hope for lasting community transformation.",
+        "therapist": "You're cultivating a vibrant narrative by focusing on achievements and collective encouragement, which is truly transformative. By recognizing these unique outcomes, you are shaping a community where creativity thrives. What other actions can sustain this momentum of mutual support and transformation?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Elaboration of Unique Outcomes"
+    },
+    {
+        "round": 28,
+        "client": "One idea is starting mentorship programs, pairing newer members with seasoned ones for guidance and support. I feel this will solidify relationships and reinforce community ties even further.",
+        "therapist": "Mentorship can truly nurture growth and solidify those meaningful connections you've begun to establish. This initiative aligns with your values of inclusivity and mutual support. How do you imagine these mentorship relationships might influence the broader narrative you're developing within your community?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 29,
+        "client": "Mentorship will empower new students and foster shared growth experiences. I envision seasoned mentors sharing past struggles, fostering resilience and sparking hope, making our community feel connected and inspired.",
+        "therapist": "Mentorship offers a powerful path for nurturing resilience and hope, aligning with your vision of connection and inspiration. Embracing this role reinforces your commitment to fostering shared growth. How do you see these relationships deepening the core values that guide your community's evolving story?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 30,
+        "client": "Mentorship will weave together personal stories of triumph and learning, strengthening bonds. When students confide in their mentors about challenges, it nurtures empathy and encourages collective resilience.",
+        "therapist": "Mentorship becomes a tapestry of shared narratives and growth, enhancing empathy and resilience. This reflects your commitment to creating an inclusive community. As you embrace these stories of triumph and learning, how do they connect with the core values that inspire your journey?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 31,
+        "client": "Mentorship aligns with my value of empowerment. Seeing students gain confidence through shared stories strengthens my belief in unity. I remember a shy student, now passionately leading discussions—proof of transformation.",
+        "therapist": "Empowerment through mentorship beautifully reflects your commitment to unity. This transformation you witness reinforces your identity as a change-maker. What does this sense of empowerment and unity tell you about the journey and values guiding your community's future?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 32,
+        "client": "Empowerment and unity highlight our growth path—small steps but impactful. Seeing students collaborate reminds me of when I first initiated a peer support group. It's encouraging.",
+        "therapist": "Empowerment and unity shine brightly in the journey you've described, weaving transformative stories. Reflecting on your role, initiating a peer support group was pivotal—deepening this growth path. How might these collaborative steps further shape the community's future narrative?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 33,
+        "client": "It's promising to see how these steps shape a more inclusive future. I think about the warmth in students’ faces when they're heard, encouraging unity and connection beyond academic achievements.",
+        "therapist": "Engaging deeply with the warmth in students' faces reflects the emotional landscape you're helping to cultivate. Each step towards this inclusive future reinforces the powerful impact of your efforts. What future possibilities do you see emerging from this strong foundation of unity and connection?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Action Landscape"
+    },
+    {
+        "round": 34,
+        "client": "I see future possibilities where students, feeling truly supported, become more confident in leadership roles. Recently, watching a timid student courageously organize a workshop filled me with hope and admiration.",
+        "therapist": "Your experience witnessing students step confidently into leadership is a testament to the supportive environment you've cultivated. This reflects your deep commitment to empowering others. How does this affirmation of growth resonate with your own values and vision for ongoing personal development?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 35,
+        "client": "Seeing students thrive reminds me of my own journey to confidence. It's a cycle; helping others grow reinforces my belief in continuous learning and adaptability.",
+        "therapist": "Embracing the cycle of growth highlights your deep-rooted values of learning and adaptability. This commitment to fostering confidence in others mirrors your journey and aspirations. How do these experiences reinforce and expand upon your evolving identity as a mentor and leader?",
+        "stage": "Re-authoring Conversation",
+        "reflection_level": "Exploration of Identity Landscape"
+    },
+    {
+        "round": 36,
+        "client": "['Embracing growth and adaptability reinforces my identity as a mentor.', 'Reflecting on guiding a student to confidently present their project filled me with pride and conviction in this role.', \"This nurtures an enriching environment where each achievement strengthens the community's bonds.\"]",
+        "therapist": "Recognizing the pride you feel in mentoring resonates deeply with your own journey, illustrating how interconnected your growth is with that of your students. This nurturing environment you cultivate reflects the influence of significant people in your life. Who do you feel contributed to shaping these values and beliefs?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Acknowledgment of Significant Others' Contributions"
+    },
+    {
+        "round": 37,
+        "client": "My father greatly influenced my values; his passion for helping others guided me. When he ran community workshops, I felt inspired by his ability to unite and empower people.",
+        "therapist": "Your father's impact seems to have significantly shaped your identity and values. Seeing yourself through his eyes, as someone who empowers others, reinforces your role in nurturing others. How do you think he would view the accomplishments and community you're fostering today?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Perception of the Self through the Eyes of Significant Others"
+    },
+    {
+        "round": 38,
+        "client": "I think he would be proud of how I've woven his ethos into my work. Recently, after hosting a community forum, I imagined him smiling, seeing the same unity he cherished.",
+        "therapist": "Your father's spirit seems deeply woven into your work, reflecting his passion for unity and empowerment. The way you nurture connections not only honors his legacy but also contributes profoundly to others’ lives. What values or traits of his continue to inspire your approach?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 39,
+        "client": "His unwavering kindness and dedication to uplifting others inspire me. Hosting a forum where participants felt heard and motivated made me feel connected to him and his spirit.",
+        "therapist": "Your father’s values seem to live vibrantly in your efforts, enriching the lives of those around you. This connection reflects not just his legacy but also your own unique contributions. In what ways have you witnessed these qualities inspire and uplift others within your community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 40,
+        "client": "Recently, I organized a career workshop. Seeing attendees share insights and gain confidence was heartening. It mirrored my father's impact, reminding me of the powerful ripple effect kindness can create.",
+        "therapist": "You’re nurturing the same profound kindness your father championed, and it's inspiring transformation in others. How do you see these moments of impact shaping not just individuals' journeys but also the community culture you've created?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 41,
+        "client": "Feeling the community grow with shared learning and mutual support is powerful. Witnessing participants uplift each other fuels a cultural shift towards collaboration and collective progress. It’s deeply rewarding.",
+        "therapist": "Your ability to foster mutual support is creating ripples that redefine community interactions. It's profound to see how your contributions nurture a shared identity centered around kindness and collaboration. How does it feel knowing your father's values continue to influence this collective journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 42,
+        "client": "It feels reassuring and heartwarming, like having his support still guiding me. At our recent networking event, witnessing newcomers bond over shared dreams felt like honoring his spirit.",
+        "therapist": "Seeing your father's spirit continue to shape connections is a beautiful testament to his enduring influence on you and others. This fostering of community embodies the values he cherished. How might these experiences further inspire your journey in nurturing these meaningful bonds?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 43,
+        "client": "I’m driven to expand these community initiatives, crafting more workshops and spaces for dialogue. Facilitating moments where dreams intertwine truly nurtures our collective growth and keeps my father’s spirit alive.",
+        "therapist": "Your dedication to nurturing these spaces truly amplifies the interconnected dreams and growth in your community. It’s as if each initiative becomes a living testament to your father’s guiding influence. How do you envision these efforts shaping future community identities and relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 44,
+        "client": "I imagine these efforts weaving tighter bonds and fostering trust within the community. Watching strangers evolve into a support network fills me with hope and reminds me of my father's legacy.",
+        "therapist": "Your father’s legacy shines brightly as you cultivate these relationships, shaping a compassionate community identity. It’s wonderful to see how your efforts not only honor him but also elevate everyone involved. What emotions or reflections arise when you observe these evolving connections and collective trust?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 45,
+        "client": "Seeing strangers become allies fills me with warmth and pride. Each connection built reminds me of shared humanity and my father’s enduring influence through kindness.",
+        "therapist": "You’ve crafted a profound legacy through fostering these connections, reflecting the kindness your father cherished. This shared humanity you’re nurturing deeply enriches community identities. What impact do you think this has on the individuals now forming these supportive networks?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 46,
+        "client": "Feeling a sense of belonging and safety, individuals discover their own capacity for empathy. Recently, a participant expressed gratitude for newfound friends who genuinely listened and understood her struggles.",
+        "therapist": "That gratitude expressed is a direct reflection of your ability to foster these empathetic spaces, truly affirming your influence. These moments not only honor your father's values but reinforce the profound impact you're making. How does recognizing this contribution shape your sense of purpose within the community?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Recognition of One's Contribution to Others' Lives"
+    },
+    {
+        "round": 47,
+        "client": "Recognizing my contribution amplifies my purpose, inspiring deeper commitment to community bonds. Recently, hearing a young member express personal growth reinforced the rewarding nature of our collective journey.",
+        "therapist": "Feeling your influence extend through such personal growth is indeed fulfilling. This acknowledgment speaks volumes about your capacity to inspire change and nurture supportive identities within your community. How does understanding this deepened sense of purpose resonate with the values you share with your father's legacy?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 48,
+        "client": "It's deeply fulfilling. My father always valued community and togetherness, seeing these values flourish affirms his legacy. A recent event where we came together to help someone move really highlighted this.",
+        "therapist": "Your actions beautifully manifest your father's values, contributing to others' identities as they learn the power of community. This reflection enhances not only their sense of belonging but also your connection to his legacy. What other events have strengthened these communal bonds recently?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 49,
+        "client": "Recently, we organized a neighborhood cleanup. Everyone came together, kids and elders alike. Watching them share stories and laughter reinforced our bonds and uplifted my spirit deeply.",
+        "therapist": "Your story showcases the profound impact your contributions have on others' identities, fostering a collective spirit that’s beautifully shared. Seeing these interactions must truly reflect how you’re nurturing compassion and community togetherness. How do you feel your role helps others see their value in this shared journey?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    },
+    {
+        "round": 50,
+        "client": "Sharing in activities like these allows others to see their contributions reflected in tangible outcomes. Witnessing kids develop a sense of responsibility and elders share wisdom has been incredibly rewarding.",
+        "therapist": "Observing the ripple effects of your efforts is truly heartwarming. These intergenerational exchanges you're nurturing are profound. As you foster this community growth, you help shape the future perspectives and values of both the young and elderly. How do these experiences enrich your own understanding of community relationships?",
+        "stage": "Re-membering Conversation",
+        "reflection_level": "Implications of Contributions for Others' Identities"
+    }
+]
