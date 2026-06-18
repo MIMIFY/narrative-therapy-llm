@@ -20,6 +20,10 @@ This repository contains three public parts:
 
 https://github.com/user-attachments/assets/3240ae8f-9e38-4ff1-8300-7c6ddd63f5c6
 
+## Paper Summary
+
+This paper studies how large language models can support narrative therapy, a psychotherapy approach that helps people reframe problem-saturated life stories into more empowering alternative narratives. It introduces two connected components. INT is a planning-based Interactive Narrative Therapist that tracks therapeutic stages and reflection levels, retrieves expert narrative therapy exemplars, and generates context-aware responses. IMA is an Innovative Moment Assessment framework that evaluates therapeutic progress by identifying narrative shifts in client utterances over the course of a dialogue. Experiments with simulated clients and human participants show that INT improves therapeutic quality and depth compared with standard LLM role-play baselines, while IMA provides a process-oriented way to measure narrative change.
+
 ## Repository Structure
 
 ```text
